@@ -5,4 +5,4 @@ plugins:
   - jemoji
 url: "https://hall-naiya.github.io/"
 markdown: kramdown
-image: images/travel.jpg
+image: /images/travel.jpg
