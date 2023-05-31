@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: pages-themes/merlot@v0.2.0
 title: Tokugawa Travel
 description: This a gathering of research about travel and tourism in Tokugawa Japan
 plugins:
