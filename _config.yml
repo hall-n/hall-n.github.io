@@ -5,5 +5,4 @@ plugins:
   - jemoji
 url: "https://hall-naiya.github.io/"
 markdown: kramdown
-background-image: url("https://www.jstor.org/stable/community.23870769");
-background-size: 100% auto;
+image: assets/images/travel.jpg
