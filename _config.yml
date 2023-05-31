@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Tokugawa Travel
+description: This a gathering of research about travel and tourism in Tokugawa Japan
+plugins:
+  - jemoji
+url: "https://hall-naiya.github.io/"
+markdown: kramdown
