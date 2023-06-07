@@ -23,4 +23,4 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). *The Fifty-Three S
 
 ----
 
-<div align="center"> 春　奈衣耶  |   北海道大学  |   現代日本学プログラム４年 
+<div align="center"> 春　奈衣耶  |   北海道大学  |   現代日本学プログラム４年生
