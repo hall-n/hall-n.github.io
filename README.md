@@ -11,5 +11,6 @@ A visual representation of Edo travel.
 
 ![travel](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/travel.jpg "travel" ) <img width="300">
 
-*Reference*
+*Image Reference*:
+
 The Fifty-three Stations of Tokaido (東海道五十三次) [Jstor.com]: https://www.jstor.org/stable/community.23870769
