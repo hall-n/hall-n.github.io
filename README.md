@@ -7,7 +7,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 - [Cultured Travelers and Consumer Tourists in Edo-Period Sagami](https://www.jstor.org/stable/25066305)
 - [The "Spatial Vernacular" in Tokugawa Maps](https://www.jstor.org/stable/2658946)
 
-
+ 
 -----
 
 A visual representation of travel during the Tokugawa period as portrayed in the "The Fifty-three Stations of Tokaido (東海道五十三次)".
