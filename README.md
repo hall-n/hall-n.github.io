@@ -15,4 +15,4 @@ A visual representation of travel during the Tokugawa period as portrayed in the
 ![travel](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/travel.jpg "travel" ) 
 
 _Image Reference_:
-Andō Hiroshige (Japanese painter and printmaker, 1797-1858). The Fifty-Three Stations of Tokaido (東海道五十三次). 1833-1834, possibly early 20th century reprint. each approximately 10 x 15 inches. https://jstor.org/stable/community.23870769
+Andō Hiroshige (Japanese painter and printmaker, 1797-1858). *The Fifty-Three Stations of Tokaido* (東海道五十三次). 1833-1834, possibly early 20th century reprint. each approximately 10 x 15 inches. https://jstor.org/stable/community.23870769
