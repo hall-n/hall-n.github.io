@@ -10,7 +10,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
  
 -----
 
-In the "The Fifty-three Stations of Tokaido (東海道五十三次)" is a visual representation of travel during the Tokugawa period as portrayed.
+In the "*The Fifty-three Stations of Tokaido* (東海道五十三次)" is a visual representation of travel during the Tokugawa period as portrayed.
 
 ![travel](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/travel.jpg "travel" ) 
 <sub>__*Reference*__ :
