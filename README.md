@@ -13,9 +13,8 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 A visual representation of travel during the Tokugawa period as portrayed in the "The Fifty-three Stations of Tokaido (東海道五十三次)".
 
 ![travel](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/travel.jpg "travel" ) 
-
-__*Image Reference*__ :
-<sub>2Andō Hiroshige (Japanese painter and printmaker, 1797-1858). *The Fifty-Three Stations of Tokaido* (東海道五十三次). 1833-1834, possibly early 20th century reprint. each approximately 10 x 15 inches. [ https://jstor.org/stable/community.23870769 ](https://jstor.org/stable/community.23870769)</sub>
+<sub>__*Image Reference*__ :
+Andō Hiroshige (Japanese painter and printmaker, 1797-1858). *The Fifty-Three Stations of Tokaido* (東海道五十三次). 1833-1834, possibly early 20th century reprint. each approximately 10 x 15 inches. [ https://jstor.org/stable/community.23870769 ](https://jstor.org/stable/community.23870769)</sub>
 
 &nbsp;
 &nbsp;
