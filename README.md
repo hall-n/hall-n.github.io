@@ -10,7 +10,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
  
 -----
 
-A visual representation of travel during the Tokugawa period as portrayed in the "The Fifty-three Stations of Tokaido (東海道五十三次)".
+A visual representation of travel during the Tokugawa period as portrayed in the "The Fifty-three Stations of Tokaido (東海道五十三次)". The diversity of travel can be noticed by the many classes that appear to be stopping at this roadside establishment for refreshment. We see a katana holding man who likely is of the samurai class, a women, and two other men who appear to be of the farmer class. These type of portrayals, along with numerous travel diaries, reveal that travel was not limited to class and power, but something that was undertaken by individuals from all levels of society.
 
 ![travel](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/travel.jpg "travel" ) 
 <sub>__*Image Reference*__ :
