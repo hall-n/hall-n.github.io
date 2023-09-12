@@ -11,11 +11,14 @@
             "id": "2cb8bda62fb65a1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Complexity of Shogunate.md",
-                "mode": "source",
-                "source": false
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -298.3160688858401,
+                  "y": -48.10988737573237,
+                  "zoom": -0.5444843988610327
+                }
               }
             }
           },
@@ -25,13 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu Economically Motivated.md",
+                "file": "Complexity of Shogunate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +174,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "25c16abd73756bfd",
   "lastOpenFiles": [
+    "Bakufu Economically Motivated.md",
     "_Mind Map.canvas",
     "Complexity of Shogunate.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
@@ -182,7 +187,6 @@
     "_README.md",
     "_travel.jpg",
     "Checkpoint reality.md",
-    "Bakufu Economically Motivated.md",
     "Mind Map 1.canvas",
     "Rite of Passage.md",
     "Sacral image of wanderer.md",
