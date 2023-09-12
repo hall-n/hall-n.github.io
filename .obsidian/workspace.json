@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "63fc78e34dc2297b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6e9136f68fc9aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb8bda62fb65a1a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mind Map.canvas",
+                "viewState": {
+                  "x": 85.88787923365948,
+                  "y": -504.1749999999999,
+                  "zoom": -1.3486707740028705
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b09889ba4b63b858",
+    "type": "split",
+    "children": [
+      {
+        "id": "044d94c1014d0f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8765fc840e6242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fdc79414a27c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c5ebb4c8c95ee2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2784cf4dfd78104e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f21ee452b7870aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40ea90d2690d42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sacral image of wanderer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f9139ebd2816ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sacral image of wanderer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b985a820ad0f161",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c56992afcd7796a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sacral image of wanderer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2cb8bda62fb65a1a",
+  "lastOpenFiles": [
+    "_config.yml",
+    "images/travel.jpg",
+    "images",
+    "travel.jpg",
+    "README.md",
+    "Sacral image of wanderer.md",
+    "Mind Map.canvas",
+    "Tokugawa Travel.md",
+    "Travel.md",
+    "excalibrain.md",
+    "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
+    "Merchants.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2023-09-11 12.59.42.excalidraw.md",
+    "Excalidraw"
+  ]
+}
