@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"2529dc040ab6fe15","x":1457,"y":-538,"width":250,"height":60,"type":"file","file":"Complexity of Shogunate.md"},
+		{"id":"fe58275cfeabc7cd","x":-1257,"y":-83,"width":260,"height":50,"type":"file","file":"Road Conditions.md"},
+		{"id":"2529dc040ab6fe15","type":"file","file":"Complexity of Shogunate.md","x":1457,"y":-538,"width":250,"height":60},
 		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-146,"y":-148,"width":250,"height":93},
 		{"id":"5d5eb9d9d8c7820d","type":"file","file":"Bakufu Economically Motivated.md","subpath":"#^f69243","x":749,"y":-891,"width":271,"height":86},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
@@ -26,7 +27,6 @@
 		{"id":"851777097db6788a","type":"text","text":"### Increase literacy rate        \n- access to travel diaries and maps (b8)","x":-1352,"y":-513,"width":369,"height":84},
 		{"id":"2e0f43b92d413d31","type":"text","text":"### Improved economic conditions\n- commoners now have financial leeway for travel (b8)","x":-1417,"y":-656,"width":431,"height":130},
 		{"id":"b13292d990040816","type":"file","file":"Sacral image of wanderer.md","x":-1337,"y":-799,"width":340,"height":79},
-		{"id":"0855cce21d657f1d","type":"text","text":"### Road conditions  (b8)","x":-1257,"y":-83,"width":260,"height":50},
 		{"id":"dad24cb41dc46860","type":"text","text":"Travel arduous but no longer dangerous due to peace","x":-1967,"y":-216,"width":414,"height":62},
 		{"id":"3652b60a2f2f4afe","type":"text","text":"Increase road town services that targeted commoner travelers\n","x":-1925,"y":-74,"width":396,"height":87},
 		{"id":"5f50087fe55ce034","type":"text","text":"abolishment of tolls and private barriers","x":-1900,"y":-146,"width":347,"height":50},
@@ -48,12 +48,12 @@
 		{"id":"a4bb52d22260d0fe","type":"text","text":"### Why was the shogunate so lax regarding the flagrant disregard for the permit system by commoners?","x":-480,"y":100,"width":380,"height":120,"color":"1"}
 	],
 	"edges":[
-		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"0855cce21d657f1d","toSide":"right","color":"3"},
+		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
 		{"id":"f50ba2bb7bee855d","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"2e0f43b92d413d31","toSide":"right","color":"3"},
 		{"id":"1690dda42375913f","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"623e111fca2cf416","toSide":"right","color":"3"},
 		{"id":"536bfcf5696ffa10","fromNode":"623e111fca2cf416","fromSide":"left","toNode":"a39c8f5253f470fd","toSide":"right"},
-		{"id":"66d21344f08d7196","fromNode":"0855cce21d657f1d","fromSide":"left","toNode":"57b72075b312a136","toSide":"right"},
-		{"id":"fa0b75d3d143725d","fromNode":"0855cce21d657f1d","fromSide":"left","toNode":"3652b60a2f2f4afe","toSide":"right"},
+		{"id":"66d21344f08d7196","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"57b72075b312a136","toSide":"right"},
+		{"id":"fa0b75d3d143725d","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"3652b60a2f2f4afe","toSide":"right"},
 		{"id":"8ffabf0ae716aed1","fromNode":"3488f42a3ca4f04e","fromSide":"right","toNode":"7e7755ab5dc26526","toSide":"left","color":"5"},
 		{"id":"76ca238b4cb65552","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"b13292d990040816","toSide":"right","color":"3"},
 		{"id":"0126de0410b47656","fromNode":"3488f42a3ca4f04e","fromSide":"right","toNode":"1ae0040faebadc09","toSide":"left","color":"5"},
@@ -78,8 +78,8 @@
 		{"id":"416e354cace20b94","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"1b1f401e81527d5a","toSide":"left","color":"5"},
 		{"id":"a8b103bd848d8198","fromNode":"4dd12bd0dfd78a97","fromSide":"top","toNode":"96a1b4935b79b771","toSide":"bottom"},
 		{"id":"eb5772b2ee773663","fromNode":"96a1b4935b79b771","fromSide":"top","toNode":"b6f81324b93f9c08","toSide":"bottom","color":"3"},
-		{"id":"a0e1f900df0ed6af","fromNode":"0855cce21d657f1d","fromSide":"left","toNode":"5f50087fe55ce034","toSide":"right"},
-		{"id":"628ddebd178a31ff","fromNode":"0855cce21d657f1d","fromSide":"left","toNode":"dad24cb41dc46860","toSide":"right"},
+		{"id":"a0e1f900df0ed6af","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"5f50087fe55ce034","toSide":"right"},
+		{"id":"628ddebd178a31ff","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"dad24cb41dc46860","toSide":"right"},
 		{"id":"f8d4cc75b7b18ec9","fromNode":"4dd12bd0dfd78a97","fromSide":"right","toNode":"444128ec5dd435b9","toSide":"left","color":"#5e5e5e"},
 		{"id":"29033ada6cb337b6","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"7e375742a2f17873","toSide":"left"},
 		{"id":"1fee49af6e9426ee","fromNode":"623e111fca2cf416","fromSide":"left","toNode":"6955fc729b07f2ee","toSide":"right"},
