@@ -6,4 +6,7 @@ Cultural road that formed identities
 	From the ancient to the Heian period (794–1185), the principal highway was the San’yōdō—the route that connected Kyoto, the imperial capital, and Dazaifu, an important military base in north Kyushu, that was founded in 664 after the defeat of the Japanese in Korea. (12)
 	Despite Edo’s importance however, until the Edo period traveling to Edo was named kudari (go-down) and traveling to Kyoto was named nobori (go-up), indicating the Emperor’s superiority to the shōgun, at least at a symbolic level (12)
 
+Maps
+	There are several cases of maps that have become so long and decorated that they are obviously addressed to armchair travelers, and of guidebooks that become totally fictional, losing any practical function. (27)
+
 

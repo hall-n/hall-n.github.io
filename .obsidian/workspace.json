@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Road Conditions.md",
+                "file": "Cultural Perspective of Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Road Conditions.md",
+                "file": "Cultural Perspective of Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Road Conditions.md"
+                "file": "Cultural Perspective of Travel.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "600e8c4a97588afb",
+  "active": "6c2c7b816946b548",
   "lastOpenFiles": [
-    "_Mind Map.canvas",
     "Road Conditions.md",
+    "_Mind Map.canvas",
     "Cultural Perspective of Travel.md",
     "Complexity of Shogunate.md",
     "Checkpoint reality.md",
