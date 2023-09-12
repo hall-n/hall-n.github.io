@@ -23,16 +23,6 @@
             }
           },
           {
-            "id": "447a477481af9a4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf"
-              }
-            }
-          },
-          {
             "id": "25c16abd73756bfd",
             "type": "leaf",
             "state": {
@@ -44,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -184,7 +173,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "447a477481af9a4b",
+  "active": "3e8765fc840e6242",
   "lastOpenFiles": [
     "_Mind Map.canvas",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
