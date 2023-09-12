@@ -11,14 +11,11 @@
             "id": "2cb8bda62fb65a1a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -41.26743977324931,
-                  "y": -124.90756385378558,
-                  "zoom": -0.9080153929690525
-                }
+                "file": "Complexity of Shogunate.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Complexity of Shogunate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Complexity of Shogunate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Complexity of Shogunate.md"
               }
             }
           },
@@ -169,13 +167,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3e8765fc840e6242",
   "lastOpenFiles": [
     "_Mind Map.canvas",
+    "Complexity of Shogunate.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Excalidraw/Drawing 2023-09-12 14.28.47.excalidraw.md",
     "Literature",
