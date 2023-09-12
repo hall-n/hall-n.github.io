@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c2c7b816946b548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultural Perspective of Travel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complexity of Shogunate.md",
+                "file": "Cultural Perspective of Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complexity of Shogunate.md",
+                "file": "Cultural Perspective of Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complexity of Shogunate.md"
+                "file": "Cultural Perspective of Travel.md"
               }
             }
           },
@@ -174,11 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25c16abd73756bfd",
+  "active": "6c2c7b816946b548",
   "lastOpenFiles": [
+    "Complexity of Shogunate.md",
+    "Cultural Perspective of Travel.md",
+    "Checkpoint reality.md",
     "Bakufu Economically Motivated.md",
     "_Mind Map.canvas",
-    "Complexity of Shogunate.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Excalidraw/Drawing 2023-09-12 14.28.47.excalidraw.md",
     "Literature",
@@ -186,7 +200,6 @@
     "Permit System.md",
     "_README.md",
     "_travel.jpg",
-    "Checkpoint reality.md",
     "Mind Map 1.canvas",
     "Rite of Passage.md",
     "Sacral image of wanderer.md",
