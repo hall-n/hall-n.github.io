@@ -180,13 +180,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
   "active": "447a477481af9a4b",
   "lastOpenFiles": [
     "_Mind Map.canvas",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
+    "Excalidraw/Drawing 2023-09-12 14.28.47.excalidraw.md",
     "Literature",
     "New folder",
     "Permit System.md",
