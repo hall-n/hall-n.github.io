@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","x":-146,"y":-148,"width":250,"height":93,"subpath":"#^6bbd61"},
-		{"id":"5d5eb9d9d8c7820d","type":"file","file":"Bakufu Economically Motivated.md","subpath":"#economically motivated","x":749,"y":-891,"width":271,"height":86},
+		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-146,"y":-148,"width":250,"height":93},
+		{"id":"5d5eb9d9d8c7820d","type":"file","file":"Bakufu Economically Motivated.md","subpath":"#^f69243","x":749,"y":-891,"width":271,"height":86},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Effects of travel","x":-396,"y":-928,"width":240,"height":57,"color":"3"},
 		{"id":"57f5774e6d78ed5c","type":"text","text":"Confusian idea that leisure wasn't good","x":749,"y":-781,"width":244,"height":50},
@@ -36,13 +36,15 @@
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why could it flourish","x":-770,"y":-571,"width":230,"height":105,"color":"3"},
 		{"id":"b6f81324b93f9c08","type":"text","text":"Meibutsu flourished","x":-401,"y":-1043,"width":250,"height":50},
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-826,"y":-150,"width":331,"height":95},
-		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more\n\nrealistic","x":-785,"y":-20,"width":250,"height":50},
-		{"id":"41439e3c688d2bd2","type":"text","text":"in order to encourage commoners to apply, insead of nukemairi. **in other words, to follow the system**","x":-785,"y":61,"width":250,"height":124},
+		{"id":"41439e3c688d2bd2","type":"text","text":"","x":-785,"y":61,"width":250,"height":124},
 		{"id":"2d8b7e52506d719b","type":"text","text":"Huge inflow of travelers\n","x":-416,"y":-150,"width":250,"height":60},
 		{"id":"4a3b23a2fbd3ba9c","type":"text","text":"Reality at checkpoints","x":-396,"y":-340,"width":250,"height":60,"color":"3"},
 		{"id":"1b232bf348c15d78","type":"text","text":"movement out of Edo, particularly\n\nof women, more strict than to Edo.","x":-146,"y":-20,"width":250,"height":60},
 		{"id":"a270ff5e84451444","type":"file","file":"Rite of Passage.md","x":743,"y":-424,"width":250,"height":50},
-		{"id":"81f3e2dbcc5411a6","type":"text","text":"Wouldn't money coming in be attractive?","x":1059,"y":-891,"width":349,"height":50,"color":"1"}
+		{"id":"81f3e2dbcc5411a6","type":"text","text":"Wouldn't money coming in be attractive?","x":1059,"y":-891,"width":349,"height":50,"color":"1"},
+		{"id":"4d2db80ad80e8db9","type":"text","text":"Why not update permit system?","x":1104,"y":-539,"width":250,"height":60},
+		{"id":"86a8b8a971f19592","type":"file","file":"Permit System.md","subpath":"#^a93008","x":-413,"y":-57,"width":245,"height":108},
+		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more realistic","x":-785,"y":-30,"width":250,"height":81}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"0855cce21d657f1d","toSide":"right","color":"3"},
@@ -65,15 +67,12 @@
 		{"id":"3ab63a3e2e5a0536","fromNode":"4dd12bd0dfd78a97","fromSide":"left","toNode":"258b41ccfbb12184","toSide":"right","color":"#696969"},
 		{"id":"99649ce977456afd","fromNode":"57f5774e6d78ed5c","fromSide":"right","toNode":"ec7eaad87d113eca","toSide":"left"},
 		{"id":"3166c3adee17db68","fromNode":"dd5ed8e75916f5fe","fromSide":"right","toNode":"7771cf44273c5e1a","toSide":"left"},
-		{"id":"dd835ed0082ce1e5","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"a270ff5e84451444","toSide":"left","color":"5"},
 		{"id":"b91be74c0cdbe867","fromNode":"4dd12bd0dfd78a97","fromSide":"bottom","toNode":"4a3b23a2fbd3ba9c","toSide":"top","color":"#696969"},
 		{"id":"a67b283196479e50","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"ec7537a4e9cfc70a","toSide":"top","color":"3"},
 		{"id":"0207da435468603f","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"2d8b7e52506d719b","toSide":"top","color":"3"},
 		{"id":"faca69a7c4788d7c","fromNode":"4dd12bd0dfd78a97","fromSide":"right","toNode":"77f9369237696fbd","toSide":"left","color":"#696969"},
 		{"id":"2c077e5943644cac","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"88847cdac3d30569","toSide":"left","color":"5"},
 		{"id":"9142cb5aab26c368","fromNode":"88847cdac3d30569","fromSide":"right","toNode":"f9294dc2bcf76679","toSide":"left"},
-		{"id":"d75b68261d48488f","fromNode":"bc8b68f0af95ad07","fromSide":"bottom","toNode":"1b232bf348c15d78","toSide":"top"},
-		{"id":"ec1f370bb440f3fa","fromNode":"a270ff5e84451444","fromSide":"right","toNode":"f9294dc2bcf76679","toSide":"top"},
 		{"id":"35fbb39a1054c0cf","fromNode":"1b1f401e81527d5a","fromSide":"left","toNode":"b13292d990040816","toSide":"right"},
 		{"id":"416e354cace20b94","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"1b1f401e81527d5a","toSide":"left","color":"5"},
 		{"id":"a8b103bd848d8198","fromNode":"4dd12bd0dfd78a97","fromSide":"top","toNode":"96a1b4935b79b771","toSide":"bottom"},
@@ -86,8 +85,14 @@
 		{"id":"d17bfa04dcc48500","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"851777097db6788a","toSide":"right","color":"3"},
 		{"id":"485ed595989d9e46","fromNode":"ec7537a4e9cfc70a","fromSide":"bottom","toNode":"92787d4c04e8ce56","toSide":"top"},
 		{"id":"43dfa746c1c7dff2","fromNode":"92787d4c04e8ce56","fromSide":"bottom","toNode":"41439e3c688d2bd2","toSide":"top"},
-		{"id":"9be4fd469c6982fc","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"bc8b68f0af95ad07","toSide":"top","color":"3"},
+		{"id":"dd835ed0082ce1e5","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"a270ff5e84451444","toSide":"left","color":"5"},
+		{"id":"ec1f370bb440f3fa","fromNode":"a270ff5e84451444","fromSide":"right","toNode":"f9294dc2bcf76679","toSide":"top"},
 		{"id":"f5ab43a5cf462089","fromNode":"9170a288913c564a","fromSide":"right","toNode":"5d5eb9d9d8c7820d","toSide":"left","color":"5"},
-		{"id":"ffb6092aac844d8a","fromNode":"5d5eb9d9d8c7820d","fromSide":"right","toNode":"81f3e2dbcc5411a6","toSide":"left"}
+		{"id":"ffb6092aac844d8a","fromNode":"5d5eb9d9d8c7820d","fromSide":"right","toNode":"81f3e2dbcc5411a6","toSide":"left"},
+		{"id":"d75b68261d48488f","fromNode":"bc8b68f0af95ad07","fromSide":"bottom","toNode":"1b232bf348c15d78","toSide":"top"},
+		{"id":"9be4fd469c6982fc","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"bc8b68f0af95ad07","toSide":"top","color":"3"},
+		{"id":"efc866d9614058df","fromNode":"fd99a163085ebf6a","fromSide":"right","toNode":"4d2db80ad80e8db9","toSide":"left"},
+		{"id":"798bb61ba883d211","fromNode":"2d8b7e52506d719b","fromSide":"bottom","toNode":"86a8b8a971f19592","toSide":"top"},
+		{"id":"a8cd813950ffb5ec","fromNode":"86a8b8a971f19592","fromSide":"left","toNode":"92787d4c04e8ce56","toSide":"right"}
 	]
 }
