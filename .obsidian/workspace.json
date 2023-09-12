@@ -26,16 +26,61 @@
             "id": "2cb2a63cdcf9a87d",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mind Map.canvas",
+                "viewState": {
+                  "x": -50.75664794998715,
+                  "y": 91.08984062472706,
+                  "zoom": -0.9652109787491043
+                }
+              }
+            }
+          },
+          {
+            "id": "e6fe7fc66a92e8b1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mind Map.canvas",
+                "viewState": {
+                  "x": 881.4675740364131,
+                  "y": -993.9889481124907,
+                  "zoom": -0.670222335855373
+                }
+              }
+            }
+          },
+          {
+            "id": "c705e97e5c5e82c9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mind Map.canvas",
+                "viewState": {
+                  "x": 978.4100533396571,
+                  "y": -696,
+                  "zoom": -0.2577373703320821
+                }
+              }
+            }
+          },
+          {
+            "id": "3f544438db0afdd1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Bakufu Economically Motivated.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mind Map.canvas"
               }
             }
           },
@@ -173,11 +218,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cb2a63cdcf9a87d",
+  "active": "e6fe7fc66a92e8b1",
   "lastOpenFiles": [
-    "Sacral image of wanderer.md",
+    "Checkpoint reality.md",
     "Mind Map.canvas",
+    "Bakufu Economically Motivated.md",
+    "Rite of Passage.md",
     "README.md",
+    "Sacral image of wanderer.md",
     "Merchants.md",
     "excalibrain.md",
     "travel.jpg",

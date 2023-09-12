@@ -24,4 +24,4 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三
 
 ----
 
-<div align="center"> 春奈衣耶 |   北海道大学  |   現代日本学プログラム４年生 
+<div align="center"> 春　奈衣耶　|　北海道大学 　| 　現代日本学プログラム４年生 
