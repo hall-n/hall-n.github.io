@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "2cb2a63cdcf9a87d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sacral image of wanderer.md",
+                "file": "Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sacral image of wanderer.md",
+                "file": "Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sacral image of wanderer.md"
+                "file": "Mind Map.canvas"
+              }
+            }
+          },
+          {
+            "id": "633a5185bff66bd5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -151,13 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cb8bda62fb65a1a",
+  "active": "2cb2a63cdcf9a87d",
   "lastOpenFiles": [
+    "README.md",
     "_config.yml",
     "images/travel.jpg",
     "images",
     "travel.jpg",
-    "README.md",
     "Sacral image of wanderer.md",
     "Mind Map.canvas",
     "Tokugawa Travel.md",
