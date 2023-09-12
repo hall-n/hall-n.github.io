@@ -1,2 +1,3 @@
 - economic changes not enough to warrant travel boom (b8)
 - Investigate motives.
+- Opinions

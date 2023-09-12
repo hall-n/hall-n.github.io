@@ -26,9 +26,11 @@
             "id": "2cb2a63cdcf9a87d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.11"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind Map.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mind Map.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind Map.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -173,21 +175,21 @@
   },
   "active": "2cb2a63cdcf9a87d",
   "lastOpenFiles": [
-    "README.md",
-    "_config.yml",
-    "images/travel.jpg",
-    "images",
-    "travel.jpg",
     "Sacral image of wanderer.md",
     "Mind Map.canvas",
-    "Tokugawa Travel.md",
-    "Travel.md",
-    "excalibrain.md",
-    "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
+    "README.md",
     "Merchants.md",
+    "excalibrain.md",
+    "travel.jpg",
+    "Tokugawa Travel.md",
+    "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
+    "Travel.md",
+    "Excalidraw/Drawing 2023-09-11 12.59.42.excalidraw.md",
+    "images/travel.jpg",
+    "_config.yml",
+    "images",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2023-09-11 12.59.42.excalidraw.md",
     "Excalidraw"
   ]
 }
