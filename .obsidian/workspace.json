@@ -26,14 +26,9 @@
             "id": "447a477481af9a4b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": 103.59018294492773,
-                  "y": -436.82224879210867,
-                  "zoom": -1.2766752544169622
-                }
+                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf"
               }
             }
           },
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf"
               }
             }
           },
@@ -190,8 +185,11 @@
   },
   "active": "447a477481af9a4b",
   "lastOpenFiles": [
-    "Permit System.md",
     "_Mind Map.canvas",
+    "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
+    "Literature",
+    "New folder",
+    "Permit System.md",
     "_README.md",
     "_travel.jpg",
     "Checkpoint reality.md",
