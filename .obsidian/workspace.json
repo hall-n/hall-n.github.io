@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 870.2456641236853,
-                  "y": -18.849897321609625,
-                  "zoom": -1.2351421284675597
+                  "x": -1343.629517971635,
+                  "y": -257.7070423513048,
+                  "zoom": -0.7227350906531042
                 }
               }
             }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine, Economic Incentives.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine, Economic Incentives.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine, Economic Incentives.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -210,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84e5362db4b6ca01",
+  "active": "2cb8bda62fb65a1a",
   "lastOpenFiles": [
-    "_Mind Map.canvas",
     "Shrine, Economic Incentives.md",
+    "_Mind Map.canvas",
     "Cultural Perspective of Travel.md",
     "Merchants.md",
     "_README.md",
