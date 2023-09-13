@@ -54,7 +54,8 @@
 		{"id":"c8b91747074a680e","type":"file","file":"Travel by foot, not restricted to high class carriage.md","subpath":"#^930058","x":-1783,"y":-960,"width":261,"height":81},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1882,"y":-1043,"width":349,"height":50},
 		{"id":"669620e09795e351","x":-1125,"y":-125,"width":250,"height":60,"type":"file","file":"Shorter travels.md","subpath":"#^733040"},
-		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-676,"y":-739,"width":230,"height":100,"color":"3"}
+		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-676,"y":-739,"width":230,"height":100,"color":"3"},
+		{"id":"67c54a3319f1de58","x":806,"y":-52,"width":250,"height":60,"type":"text","text":"Religious power wanted by daimyo, thus they supported the temples"}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
@@ -114,6 +115,7 @@
 		{"id":"c962e123d439863a","fromNode":"444128ec5dd435b9","fromSide":"bottom","toNode":"b763ad3dbd93718a","toSide":"top"},
 		{"id":"44c41f2e7f99e60f","fromNode":"b763ad3dbd93718a","fromSide":"bottom","toNode":"77f9369237696fbd","toSide":"top"},
 		{"id":"cdaea61c8b32c8e5","fromNode":"623e111fca2cf416","fromSide":"left","toNode":"6955fc729b07f2ee","toSide":"right"},
-		{"id":"2d6130bcb582e493","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"669620e09795e351","toSide":"right"}
+		{"id":"2d6130bcb582e493","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"669620e09795e351","toSide":"right"},
+		{"id":"013f602b4dcf6d5f","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"67c54a3319f1de58","toSide":"left"}
 	]
 }

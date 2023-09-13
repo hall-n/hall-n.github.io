@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 601.2152765932375,
-                  "y": 5.694285138132052,
-                  "zoom": 0.5215770541186172
+                  "x": 432.6256987474565,
+                  "y": -58.082840723423395,
+                  "zoom": -0.4359189515464933
                 }
               }
             }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine, Economic Incentives.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine, Economic Incentives.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine, Economic Incentives.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -174,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33877899a8525da1",
+  "active": "424045242dd5cb73",
   "lastOpenFiles": [
+    "Shrine, Economic Incentives.md",
     "_Mind Map.canvas",
     "_Outline.md",
     "Road Conditions.md",
@@ -192,7 +192,6 @@
     "Overall Travel Situation.md",
     "Spread of travel information.md",
     "Rite of Passage.md",
-    "Shrine, Economic Incentives.md",
     "Travel agents.md",
     "Travel by foot, not restricted to high class carriage.md",
     "Other reasons for scale of movement.md",
