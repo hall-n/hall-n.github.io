@@ -24,3 +24,16 @@ Well developed
 
 No wheeled traffic
 	"The absence of wheeled traffic, which was responsible for the great disrepair of contemporary European roads, is important in explaining why it was possible to maintain conditions in a better state in Tokugawa Japan." reason is "the problem of keeping traffic flow free of interruptions and roads in optimum condition for official travelers and communications." 27 Vaporis 1995, The Early Modern Origins of Japanese Tourism
+
+
+*Vaporis 2012 Linking the Realm: The Gokaidô Highway Network in Early Modern Japan*
+(In "Highways, Byways, and Road Systems")
+	the government did not always build roads where the people found them the most useful; the state’s purposes in building them and the people’s needs did not necessarily coincide…. conflict between official post stations and private operators over transport rights erupted rather often. 99
+	...
+	The Gokaidô was established for official rather than private use. However, once society was relatively peaceful and economic conditions improved, commoners were able to take advantage of the infrastructure, giving what had been essentially a military-political system an overwhelmingly plebeian character. The transport system was unexpectedly transformed in character through its use by the common people, particularly for travel as recreation. Travel-related facilities specifically geared for use by commoners – such as full-service as well as no-frills inns and teahouses – proliferated on the Gokaidô network during the seventeenth century, and a system developed by merchants for relaying correspondence was so efficient that even political authorities turned to it for routine business. This was one further indicator that the character of communications had changed. 99
+	...
+	with their improving financial lot, commoners could enjoy the same privileges as their social betters: they could engage porters, sedan chairs, and horses. 100
+	...
+	absence of the wheeled traffic…Restrictions on their usage seem to have been the result of the shogunate’s desire to prevent any interference with the flow of traffic (heavy carts are prone to spills) and the opposition of pack-horse operators, who felt their livelihoods were threatened. 101
+	...
+	The widespread use of side roads and the increasing reluctance of officials to discourage the practice, as well as the evidence for their greater leniency at checking stations. 102

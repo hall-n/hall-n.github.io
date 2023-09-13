@@ -42,3 +42,19 @@ Similar to modern tourism
 	"Post stations and urban centers all had specialty products (meibutsu)-natural and cultural products as well as religious talismans-that provided nourishment to travelers or served as souvenirs and gifts." 35
 	
 also transport and baggage services
+
+
+*Vaporis 2012 Linking the Realm: The Gokaidô Highway Network in Early Modern Japan*
+(In "Highways, Byways, and Road Systems")
+	Tokugawa authority was also reflected by, and asserted through, the creation of a centralized road network, the Gokaidô (Figure 4.1), which was built at local expense and ran through the heart of the country, infringing on the sovereignty of those lords through whose territories it coursed. Central authority was further exercised through corvée labor requirements on the residents of those domains through which the roads passed; they were required to transport Tokugawa officials and cargo, thereby infringing on the daimyo’s right or ability to tax the people in their own domains (Vaporis 1986). 90-91
+	they could no longer be masters of their own movements 91
+	...
+	Even outside of the system of alternate attendance, samurai could not move
+	...
+	freely without the permission of their overlords, and usually their movements were in performance of duties to their daimyo overlord. Occasionally, they were given permission to travel for personal study and training in the martial arts. Some domains, however, banned outright recreational travel for them, and only in very rare cases were they given permission to travel to therapeutic hot springs. 93
+	...
+	All of this movement was only made possible by the elimination of many of the impediments to physical mobility that existed prior to the Tokugawa period, such as political fragmentation, warfare, social instability, mountain bandits, and the proliferation of economic tolls 93
+	...
+	A central aim of its policy was to keep traffic flowing, and the shogunate tried to achieve this by nationalizing the central road system, the Gokaidô, by abolishing private barriers or tolls, and by promulgating regulations that prohibited and discouraged the disruption of transport services.95
+	...
+	Tokugawa and their fellow daimyo idealized a society where most of the population remained tied to the land 98

@@ -2,7 +2,8 @@
 
 economic changes not enough to warrant travel boom (Blacker 1984)
 	I suggest that it is to this ancient figure, and to the archetypal 'image' that he projects on Japanese minds, that we must first look for an answer to our question. (594)
-	The wanderer is therefore a sacral figure, a vehicle for a divinity…. Theyugyosha is on the contrary a holy figure, the vehicle or messenger of a god, kami no shisha, even himself a disguised god and dispenser of blessings. (597)
+The wanderer is therefore a sacral figure, a vehicle for a divinity
+	Theyugyosha is on the contrary a holy figure, the vehicle or messenger of a god, kami no shisha, even himself a disguised god and dispenser of blessings. (597)
 	This archetypal traveller, familiar though he may have been for so many centuries, is a figure essentially outside society. He is not only outside the social order; he carries, too, the implication of being not fully human. (602)
 	First, the pilgrim assumes, during the short period of his journey, the same ambivalence that we have seen in the taboo figure of the wanderer. He, too, is either a disguised god or a polluted outcast. He, too, is outside the social order. (603)
 	Earlier we saw that travel was made easier during the Edo period by the improved roads and hostelries and the disappearance of pirates and toll gates. It was, however, hindered by other obstacles: the increasingly harassing restrictions imposed by the han authorities on a custom which appeared in their eyes frivolous, useless, extravant and immoral…. By absenting themselves for several weeks to walk to Ise, the farmers neglected their proper duty and caused a fall in production. Some han seemed to have raised no objection if farmers chose the nokanki or idle period of year, after the annual tax had been paid, for their journey. (604)
