@@ -27,3 +27,14 @@ Perhaps because of Christian's linking
 	institutionalized religions saw religious wandering as heresy, but popular among masses. e.g, Ippen was iewed as heretic by aristocracy and religious establishments, but popular among commoners
 Because anyone can pilgrimage?
 	"kaichO is the opening of a temple sanctuary for a limited time to allow the general public to view important Buddhist images to which they are ordinarily denied acess. This practice originated in the initiation of believers into a certain temple, but later it was undertaken for the purpose of raising money for temple repairs and maintenance. During the Edo period, the Tokugawa Shogunate decreased the amount of financial assistance to temples in an effort to tighten control over religious policies. The need to compensate for this lost assistance drove many temples to apply for permission to host events to collect donations from the general public." (Ishimori 1995, 14)
+
+
+
+### Previous travel
+
+- Heian ~1600, kizoku-sankei or aristocratic pilgimage
+- Nara period, ascetic wandere
+
+	"The wanderer is therefore a sacral figure, a vehicle for a divinity.
+	Theyugyosha is on the contrary a holy figure, the vehicle or messenger
+	of a god, kami no shisha, even himself a disguised god and dispenser of blessings" (Blacker 2008, 587)

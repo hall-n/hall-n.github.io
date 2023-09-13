@@ -8,42 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "578589b7ff80a19f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -1581.623473911535,
-                  "y": -416.24859633622555,
-                  "zoom": -1.1313263146827617
-                }
-              }
-            }
-          },
-          {
-            "id": "2d700e6bf4889f78",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": 657.683263234478,
-                  "y": -54.33951316972244,
-                  "zoom": -0.9408393090469322
-                }
-              }
-            }
-          },
-          {
             "id": "900d152490900386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Road Conditions.md",
+                "file": "Cultural Perspective of Travel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "424045242dd5cb73",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -1017.505648798593,
+                  "y": -508.74330103857756,
+                  "zoom": -0.8057324389167521
+                }
+              }
+            }
+          },
+          {
+            "id": "d261bf821b12ea10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sacral image of wanderer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b07ca235d733e189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2773719ec3611b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2744e369864cdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_単語.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4113d9d8d663ab39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meibutsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "side roads and ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Road Conditions.md",
+                "file": "_単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Road Conditions.md",
+                "file": "_単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Road Conditions.md"
+                "file": "_単語.md"
               }
             }
           },
@@ -320,17 +365,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "900d152490900386",
+  "active": "c2744e369864cdc4",
   "lastOpenFiles": [
-    "Overall Travel Situation.md",
-    "Freedom of Travel.md",
+    "_Outline.md",
+    "_単語.md",
+    "_Questions.md",
     "Sacral image of wanderer.md",
+    "Shorter travels.md",
     "_Mind Map.canvas",
+    "Meibutsu.md",
+    "Academic Discussions.md",
+    "Cultural Perspective of Travel.md",
+    "Hardships of travel.md",
+    "Freedom of Travel.md",
+    "Road Conditions.md",
+    "Overall Travel Situation.md",
     "Spread of travel information.md",
     "Rite of Passage.md",
     "Shrine, Economic Incentives.md",
-    "Hardships of travel.md",
-    "Road Conditions.md",
     "Travel agents.md",
     "Travel by foot, not restricted to high class carriage.md",
     "Other reasons for scale of movement.md",
@@ -340,20 +392,14 @@
     "Permit System.md",
     "Bakufu & Domains Economically Motivated.md",
     "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
-    "Cultural Perspective of Travel.md",
     "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
     "_README.md",
     "images/travel.jpg",
     "_travel.jpg",
-    "Complexity of Shogunate.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
-    "Excalidraw/Drawing 2023-09-12 14.28.47.excalidraw.md",
     "Literature",
     "New folder",
     "Mind Map 1.canvas",
-    "excalibrain.md",
-    "Tokugawa Travel.md",
-    "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
     "_config.yml",
     "images",
     "Untitled.canvas",

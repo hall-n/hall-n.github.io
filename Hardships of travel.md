@@ -4,6 +4,10 @@ Dangers more from being ignorant tourist
 	The traveler did have to be on the lookout for porters who might try to extort money or merchants who charged "ignorant tourists" exorbitant prices.15 Even one carrying two swords {samurai) had to be careful not to be cheated in a place where he was not known. Far from his native Shonai, Kiyokawa Hachiro ordered a drink of sugared water on a summer's afternoon, forgetting to ask the price beforehand. When it came time to pay the bill he was charged twenty mon per person. He attributed the high price to the fact that they "looked like they were from another province, just travelers passing through, so the proprietor could do as he pleased with them." In resignation, Kiyokawa shrugged his shoulders, saying that it was "unavoidable since it was after the fact" (i.e., that it was his fault for not asking the price before ordering).16 (Vaporis 1994, 220)
 
 
+Difficulty of travel
+	The new sekisho erected by the Tokugawa were not, as a rule, in spots which hindered pilgrimage to any of the popular shrines and in any case were not intended to exact money in tolls. (593)
+	But a mere improvement in roads and hotels is not enough to account for the extraordinary increase, among classes of society which had hitherto scarcely stirred out of their villages or towns, in the desire to 'go on pilgrimages'. Why should farmers and merchants, not to speak of craftsmen and samurai, wish to embark on what was still an arduous, uncomfortable, expensive and often hazardous journey to a distant holy place? (Blacker 594)
+
 ##### Constraints
 
 *Vaporis 1995, The Early Modern Origins of Japanese Tourism*
