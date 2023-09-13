@@ -15,8 +15,8 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 506.3385927311321,
-                  "y": -121.71504234800163,
+                  "x": 488.4768716872671,
+                  "y": -377.73304397673394,
                   "zoom": -1.3566059741843515
                 }
               }
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cultural Perspective of Travel.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -242,14 +241,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c2c7b816946b548",
+  "active": "2cb8bda62fb65a1a",
   "lastOpenFiles": [
+    "Cultural Perspective of Travel.md",
     "_Mind Map.canvas",
     "Sacral image of wanderer.md",
     "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
     "Shrine, Economic Incentives.md",
-    "Cultural Perspective of Travel.md",
     "Merchants.md",
     "_README.md",
     "Rite of Passage.md",

@@ -45,7 +45,7 @@
 		{"id":"fe58275cfeabc7cd","type":"file","file":"Road Conditions.md","x":-1180,"y":-282,"width":260,"height":50},
 		{"id":"b13292d990040816","type":"file","file":"Sacral image of wanderer.md","x":-1238,"y":-760,"width":295,"height":80,"color":"4","subpath":"#^1196a3"},
 		{"id":"fca342ae9ad044ab","type":"file","file":"Shrine, Economic Incentives.md","subpath":"#^9a79a9","x":353,"y":59,"width":347,"height":62},
-		{"id":"583d122d6bd05df5","type":"text","text":"Increase attractions to draw pilgrims and visitors","x":828,"y":90,"width":250,"height":60},
+		{"id":"583d122d6bd05df5","type":"text","text":"Increase attractions to draw pilgrims and visitors","x":828,"y":90,"width":250,"height":60,"color":"1"},
 		{"id":"f9294dc2bcf76679","type":"text","text":"Hold viewing events for donorship","x":828,"y":23,"width":270,"height":50},
 		{"id":"a4bb52d22260d0fe","type":"text","text":"### Why was the shogunate so lax regarding the flagrant disregard for the permit system by commoners?","x":-500,"y":160,"width":380,"height":120,"color":"1"}
 	],
