@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merchants.md",
+                "file": "Religious Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merchants.md",
+                "file": "Religious Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merchants.md",
+                "file": "Religious Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merchants.md"
+                "file": "Religious Groups.md"
               }
             }
           },
@@ -209,11 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84e5362db4b6ca01",
+  "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "_Mind Map.canvas",
+    "Religious Groups.md",
     "Cultural Perspective of Travel.md",
     "Merchants.md",
-    "_Mind Map.canvas",
     "_README.md",
     "Rite of Passage.md",
     "Bakufu Economically Motivated.md",
