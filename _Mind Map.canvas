@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"7ce146087cb08512","x":-1360,"y":-760,"width":481,"height":568,"color":"4","type":"group","label":" Vaporis'sReasons(2012)"},
 		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-146,"y":-148,"width":250,"height":118},
 		{"id":"5d5eb9d9d8c7820d","type":"file","file":"Bakufu Economically Motivated.md","subpath":"#^f69243","x":749,"y":-891,"width":271,"height":86},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
@@ -18,9 +19,6 @@
 		{"id":"1b1f401e81527d5a","type":"text","text":"Wanderer a sacred image, vehicle\n\nfor divinity (from Heian period)","x":753,"y":-340,"width":175,"height":79},
 		{"id":"7e375742a2f17873","type":"text","text":"Escape, wanderer puts you outside normal society","x":756,"y":-231,"width":185,"height":110},
 		{"id":"77f9369237696fbd","type":"text","text":"## Temples and Shrines","x":371,"y":-62,"width":305,"height":73,"color":"5"},
-		{"id":"851777097db6788a","type":"text","text":"### Increase literacy rate        \n- access to travel diaries and maps (b8)","x":-1352,"y":-513,"width":369,"height":84},
-		{"id":"2e0f43b92d413d31","type":"text","text":"### Improved economic conditions\n- commoners now have financial leeway for travel (b8)","x":-1417,"y":-656,"width":431,"height":130},
-		{"id":"b13292d990040816","type":"file","file":"Sacral image of wanderer.md","x":-1337,"y":-799,"width":340,"height":79},
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why could it flourish","x":-770,"y":-571,"width":230,"height":100,"color":"3"},
 		{"id":"b6f81324b93f9c08","type":"text","text":"Meibutsu flourished","x":-401,"y":-1043,"width":250,"height":50},
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-826,"y":-150,"width":331,"height":95},
@@ -42,11 +40,14 @@
 		{"id":"57b72075b312a136","type":"text","text":"Centralized network","x":-1733,"y":43,"width":371,"height":50},
 		{"id":"a39c8f5253f470fd","type":"text","text":"Shogunate forbade travel by\ncarriage, thus travel on foot could\nbe done by anyone","x":-1719,"y":-325,"width":357,"height":85},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1686,"y":-385,"width":349,"height":50},
-		{"id":"623e111fca2cf416","type":"text","text":"### No class barriers","x":-1236,"y":-325,"width":250,"height":50},
-		{"id":"fe58275cfeabc7cd","type":"file","file":"Road Conditions.md","x":-1236,"y":-175,"width":260,"height":50},
 		{"id":"fca342ae9ad044ab","type":"file","file":"Shrine, Economic Incentives.md","subpath":"#^9a79a9","x":765,"y":-51,"width":347,"height":62},
-		{"id":"583d122d6bd05df5","x":1270,"y":-16,"width":250,"height":60,"type":"text","text":"Increase attractions to draw pilgrims and visitors"},
-		{"id":"f9294dc2bcf76679","type":"text","text":"Hold viewing events for donorship","x":1270,"y":-88,"width":270,"height":50}
+		{"id":"583d122d6bd05df5","type":"text","text":"Increase attractions to draw pilgrims and visitors","x":1270,"y":-16,"width":250,"height":60},
+		{"id":"f9294dc2bcf76679","type":"text","text":"Hold viewing events for donorship","x":1270,"y":-88,"width":270,"height":50},
+		{"id":"2e0f43b92d413d31","type":"text","text":"### Improved economic conditions\n- commoners now have financial leeway for travel (Vaporis 2012)","x":-1340,"y":-617,"width":431,"height":130},
+		{"id":"851777097db6788a","type":"text","text":"### Increase literacy rate        \n- access to travel diaries and maps (Vaporis 2012)","x":-1275,"y":-474,"width":369,"height":84},
+		{"id":"623e111fca2cf416","type":"text","text":"### No class barriers","x":-1215,"y":-360,"width":250,"height":50},
+		{"id":"fe58275cfeabc7cd","type":"file","file":"Road Conditions.md","x":-1180,"y":-282,"width":260,"height":50},
+		{"id":"b13292d990040816","type":"file","file":"Sacral image of wanderer.md","x":-1238,"y":-760,"width":295,"height":80,"color":"4","subpath":"#^1196a3"}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},

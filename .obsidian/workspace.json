@@ -15,10 +15,42 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -1343.629517971635,
-                  "y": -257.7070423513048,
-                  "zoom": -0.7227350906531042
+                  "x": -1151.4657274201165,
+                  "y": -424.58560474073215,
+                  "zoom": -1.2928683407573676
                 }
+              }
+            }
+          },
+          {
+            "id": "578589b7ff80a19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sacral image of wanderer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b2a5a580d940e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d157d34a677dd68d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md"
               }
             }
           },
@@ -137,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Sacral image of wanderer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Sacral image of wanderer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Sacral image of wanderer.md"
               }
             }
           },
@@ -211,8 +243,11 @@
   },
   "active": "2cb8bda62fb65a1a",
   "lastOpenFiles": [
-    "Shrine, Economic Incentives.md",
+    "Sacral image of wanderer.md",
     "_Mind Map.canvas",
+    "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
+    "Shrine, Economic Incentives.md",
     "Cultural Perspective of Travel.md",
     "Merchants.md",
     "_README.md",
@@ -229,7 +264,6 @@
     "New folder",
     "Permit System.md",
     "Mind Map 1.canvas",
-    "Sacral image of wanderer.md",
     "excalibrain.md",
     "Tokugawa Travel.md",
     "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",

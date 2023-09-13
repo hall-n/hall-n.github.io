@@ -1,3 +1,3 @@
-- economic changes not enough to warrant travel boom (b8)
-- Investigate motives.
-- Opinions
+Vaporis argues image of wander crucial to travel boom ^1196a3
+
+economic changes not enough to warrant travel boom (Vaporis 2012)
