@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "900d152490900386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cultural Perspective of Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "424045242dd5cb73",
             "type": "leaf",
             "state": {
@@ -27,183 +15,15 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -1017.505648798593,
-                  "y": -508.74330103857756,
-                  "zoom": -0.8057324389167521
+                  "x": 601.2152765932375,
+                  "y": 5.694285138132052,
+                  "zoom": 0.5215770541186172
                 }
               }
             }
           },
           {
-            "id": "d261bf821b12ea10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sacral image of wanderer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07ca235d733e189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc2773719ec3611b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2744e369864cdc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_単語.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4113d9d8d663ab39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meibutsu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb3249b672162e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overall Travel Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc5706ad66ea2cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Checkpoint reality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acf09846908c01c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu & Domains Economically Motivated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1eadf977fccaf81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spread of travel information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab295ff1147a8aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardships of travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40bbbdefb73bde0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freedom of Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cb8bda62fb65a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sacral image of wanderer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600e8c4a97588afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Road Conditions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25c16abd73756bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merchants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84e5362db4b6ca01",
+            "id": "33877899a8525da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,21 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c2c7b816946b548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cultural Perspective of Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -293,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_単語.md",
+                "file": "Shrine, Economic Incentives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_単語.md",
+                "file": "Shrine, Economic Incentives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_単語.md"
+                "file": "Shrine, Economic Incentives.md"
               }
             }
           },
@@ -365,20 +174,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2744e369864cdc4",
+  "active": "33877899a8525da1",
   "lastOpenFiles": [
+    "_Mind Map.canvas",
     "_Outline.md",
+    "Road Conditions.md",
+    "Hardships of travel.md",
+    "Bakufu & Domains Economically Motivated.md",
+    "Meibutsu.md",
     "_単語.md",
     "_Questions.md",
     "Sacral image of wanderer.md",
     "Shorter travels.md",
-    "_Mind Map.canvas",
-    "Meibutsu.md",
     "Academic Discussions.md",
     "Cultural Perspective of Travel.md",
-    "Hardships of travel.md",
     "Freedom of Travel.md",
-    "Road Conditions.md",
     "Overall Travel Situation.md",
     "Spread of travel information.md",
     "Rite of Passage.md",
@@ -390,10 +200,8 @@
     "Merchants.md",
     "Confucian element.md",
     "Permit System.md",
-    "Bakufu & Domains Economically Motivated.md",
     "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
-    "_README.md",
     "images/travel.jpg",
     "_travel.jpg",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",

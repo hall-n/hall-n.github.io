@@ -36,7 +36,6 @@
 		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more realistic: \nin order to encourage commoners to apply, insead of nukemairi. **in other words, to follow the system**","x":-751,"y":98,"width":250,"height":190},
 		{"id":"a4bb52d22260d0fe","type":"text","text":"### Why was the shogunate so lax regarding the flagrant disregard for the permit system by commoners?","x":-446,"y":228,"width":380,"height":120,"color":"1"},
 		{"id":"a270ff5e84451444","type":"file","file":"Rite of Passage.md","x":743,"y":-424,"width":250,"height":50},
-		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-770,"y":-571,"width":230,"height":100,"color":"3"},
 		{"id":"d89f1e3aad2235f7","type":"file","file":"Other reasons for scale of movement.md","x":-904,"y":-1043,"width":250,"height":59},
 		{"id":"444128ec5dd435b9","type":"text","text":"## Commoner","x":371,"y":-331,"width":239,"height":100,"color":"5"},
 		{"id":"b763ad3dbd93718a","type":"file","file":"Travel agents.md","x":376,"y":-172,"width":250,"height":60},
@@ -54,7 +53,8 @@
 		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-401,"y":-1043,"width":250,"height":50},
 		{"id":"c8b91747074a680e","type":"file","file":"Travel by foot, not restricted to high class carriage.md","subpath":"#^930058","x":-1783,"y":-960,"width":261,"height":81},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1882,"y":-1043,"width":349,"height":50},
-		{"id":"669620e09795e351","x":-1125,"y":-125,"width":250,"height":60,"type":"file","file":"Shorter travels.md","subpath":"#^733040"}
+		{"id":"669620e09795e351","x":-1125,"y":-125,"width":250,"height":60,"type":"file","file":"Shorter travels.md","subpath":"#^733040"},
+		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-676,"y":-739,"width":230,"height":100,"color":"3"}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
