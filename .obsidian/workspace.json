@@ -38,11 +38,14 @@
             "id": "25c16abd73756bfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Complexity of Shogunate.md",
-                "mode": "source",
-                "source": false
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -1269.400146484375,
+                  "y": -52.749725341796875,
+                  "zoom": -1
+                }
               }
             }
           },
@@ -59,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cultural Perspective of Travel.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -198,23 +200,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c2c7b816946b548",
+  "active": "25c16abd73756bfd",
   "lastOpenFiles": [
-    "Road Conditions.md",
+    "_README.md",
+    "Rite of Passage.md",
     "_Mind Map.canvas",
-    "Cultural Perspective of Travel.md",
-    "Complexity of Shogunate.md",
-    "Checkpoint reality.md",
     "Bakufu Economically Motivated.md",
+    "images/travel.jpg",
+    "_travel.jpg",
+    "Complexity of Shogunate.md",
+    "Cultural Perspective of Travel.md",
+    "Road Conditions.md",
+    "Checkpoint reality.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Excalidraw/Drawing 2023-09-12 14.28.47.excalidraw.md",
     "Literature",
     "New folder",
     "Permit System.md",
-    "_README.md",
-    "_travel.jpg",
     "Mind Map 1.canvas",
-    "Rite of Passage.md",
     "Sacral image of wanderer.md",
     "Merchants.md",
     "excalibrain.md",
@@ -222,7 +225,6 @@
     "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
     "Travel.md",
     "Excalidraw/Drawing 2023-09-11 12.59.42.excalidraw.md",
-    "images/travel.jpg",
     "_config.yml",
     "images",
     "Untitled.canvas",
