@@ -8,3 +8,7 @@ Realization of revenue from worshippers throughout the region
 
 Developed attractions to draw people to both the shrines and the town.
 	(74)
+	
+
+Modeled the worship after the popular Kannon
+	(75)
