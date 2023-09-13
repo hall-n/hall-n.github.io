@@ -50,9 +50,11 @@
             "id": "84e5362db4b6ca01",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Merchants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
