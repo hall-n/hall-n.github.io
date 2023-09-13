@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 20.983672574419302,
-                  "y": -396.4085676174608,
-                  "zoom": -0.8511297722033514
+                  "x": 870.2456641236853,
+                  "y": -18.849897321609625,
+                  "zoom": -1.2351421284675597
                 }
               }
             }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religious Groups.md",
+                "file": "Shrine, Economic Incentives.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religious Groups.md",
+                "file": "Shrine, Economic Incentives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religious Groups.md",
+                "file": "Shrine, Economic Incentives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religious Groups.md"
+                "file": "Shrine, Economic Incentives.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "84e5362db4b6ca01",
   "lastOpenFiles": [
     "_Mind Map.canvas",
-    "Religious Groups.md",
+    "Shrine, Economic Incentives.md",
     "Cultural Perspective of Travel.md",
     "Merchants.md",
     "_README.md",

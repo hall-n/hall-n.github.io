@@ -22,7 +22,7 @@
 		{"id":"851777097db6788a","type":"text","text":"### Increase literacy rate        \n- access to travel diaries and maps (b8)","x":-1352,"y":-513,"width":369,"height":84},
 		{"id":"2e0f43b92d413d31","type":"text","text":"### Improved economic conditions\n- commoners now have financial leeway for travel (b8)","x":-1417,"y":-656,"width":431,"height":130},
 		{"id":"b13292d990040816","type":"file","file":"Sacral image of wanderer.md","x":-1337,"y":-799,"width":340,"height":79},
-		{"id":"258b41ccfbb12184","type":"text","text":"## Why could it flourish","x":-770,"y":-571,"width":230,"height":105,"color":"3"},
+		{"id":"258b41ccfbb12184","type":"text","text":"## Why could it flourish","x":-770,"y":-571,"width":230,"height":100,"color":"3"},
 		{"id":"b6f81324b93f9c08","type":"text","text":"Meibutsu flourished","x":-401,"y":-1043,"width":250,"height":50},
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-826,"y":-150,"width":331,"height":95},
 		{"id":"2d8b7e52506d719b","type":"text","text":"Huge inflow of travelers\n","x":-416,"y":-150,"width":250,"height":60},
@@ -45,7 +45,7 @@
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1686,"y":-385,"width":349,"height":50},
 		{"id":"623e111fca2cf416","type":"text","text":"### No class barriers","x":-1236,"y":-325,"width":250,"height":50},
 		{"id":"fe58275cfeabc7cd","type":"file","file":"Road Conditions.md","x":-1236,"y":-175,"width":260,"height":50},
-		{"id":"fca342ae9ad044ab","x":765,"y":-51,"width":347,"height":50,"type":"file","file":"Religious Groups.md","subpath":"#^9a79a9"}
+		{"id":"fca342ae9ad044ab","type":"file","file":"Shrine, Economic Incentives.md","subpath":"#^9a79a9","x":765,"y":-51,"width":347,"height":62}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
@@ -72,8 +72,6 @@
 		{"id":"a67b283196479e50","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"ec7537a4e9cfc70a","toSide":"top","color":"3"},
 		{"id":"0207da435468603f","fromNode":"4a3b23a2fbd3ba9c","fromSide":"bottom","toNode":"2d8b7e52506d719b","toSide":"top","color":"3"},
 		{"id":"faca69a7c4788d7c","fromNode":"4dd12bd0dfd78a97","fromSide":"right","toNode":"77f9369237696fbd","toSide":"left","color":"#696969"},
-		{"id":"2c077e5943644cac","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"fca342ae9ad044ab","toSide":"left","color":"5"},
-		{"id":"9142cb5aab26c368","fromNode":"fca342ae9ad044ab","fromSide":"right","toNode":"f9294dc2bcf76679","toSide":"left"},
 		{"id":"35fbb39a1054c0cf","fromNode":"1b1f401e81527d5a","fromSide":"left","toNode":"b13292d990040816","toSide":"top"},
 		{"id":"416e354cace20b94","fromNode":"444128ec5dd435b9","fromSide":"right","toNode":"1b1f401e81527d5a","toSide":"left","color":"5"},
 		{"id":"a8b103bd848d8198","fromNode":"4dd12bd0dfd78a97","fromSide":"top","toNode":"96a1b4935b79b771","toSide":"bottom"},
@@ -97,6 +95,9 @@
 		{"id":"aef56149677e9665","fromNode":"4d2db80ad80e8db9","fromSide":"bottom","toNode":"92787d4c04e8ce56","toSide":"right","color":"1"},
 		{"id":"cb830c0828657829","fromNode":"7771cf44273c5e1a","fromSide":"right","toNode":"e72b88fff50a2716","toSide":"left"},
 		{"id":"f8f8df4795e6eccc","fromNode":"ec7eaad87d113eca","fromSide":"bottom","toNode":"e72b88fff50a2716","toSide":"left"},
-		{"id":"d193d04dbcccfcae","fromNode":"4d2db80ad80e8db9","fromSide":"top","toNode":"e72b88fff50a2716","toSide":"left"}
+		{"id":"d193d04dbcccfcae","fromNode":"4d2db80ad80e8db9","fromSide":"top","toNode":"e72b88fff50a2716","toSide":"left"},
+		{"id":"2c077e5943644cac","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"fca342ae9ad044ab","toSide":"left","color":"5"},
+		{"id":"9142cb5aab26c368","fromNode":"fca342ae9ad044ab","fromSide":"right","toNode":"f9294dc2bcf76679","toSide":"left"},
+		{"id":"d5e716863008bb28","fromNode":"258b41ccfbb12184","fromSide":"bottom","toNode":"fca342ae9ad044ab","toSide":"bottom","color":"1"}
 	]
 }
