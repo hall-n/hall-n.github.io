@@ -1,6 +1,5 @@
 Strict with punishments for samurai, while lax for commoners ^6bbd61
 
-
 The application of Tokugawa law was at times unpredictable and random, but it could also be flexible, for it was a traditional principle in Japanese law that reason should prevail over custom and precedent Vaporis 1994, 179
 
 Commoners evaded sekisho, it seems, without great concern about possible punishment, implying that the authorities gave tacit approval of the short-cuts or that punishment was rarely exacted Vaporis 1994, 191

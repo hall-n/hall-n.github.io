@@ -18,3 +18,9 @@ Speed of travel
 
 No barriers between settlements
 	The Tōkaidō included less mountainous parts in comparison with other roads and, at some places, there was almost no distance between its post-stations, which expanded in both directions, a condition that was facilitated by the absence of fortifications around Japanese settlements ( 17)
+
+Well developed 
+	"The communications infrastructure was, in contemporary terms, well developed-an interpretation that is at odds with Meiji historical revisionism which has traditionally condemned various aspects of Tokuga,wa life as "feudal" or backward."27 Vaporis 1995, The Early Modern Origins of Japanese Tourism
+
+No wheeled traffic
+	"The absence of wheeled traffic, which was responsible for the great disrepair of contemporary European roads, is important in explaining why it was possible to maintain conditions in a better state in Tokugawa Japan." reason is "the problem of keeping traffic flow free of interruptions and roads in optimum condition for official travelers and communications." 27 Vaporis 1995, The Early Modern Origins of Japanese Tourism

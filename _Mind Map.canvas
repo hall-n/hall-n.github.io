@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-960,"width":594,"height":341,"color":"4","label":"Culture_of_travel_reasons(Vaporis)"},
+		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-1043,"width":594,"height":424,"color":"4","label":"Culture_of_travel_reasons(Vaporis)"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1326,"y":-520,"width":440,"height":184,"color":"5","label":"Travel_boom_reasons(Blacker's)"},
 		{"id":"94804075a470c0cf","type":"text","text":"**Did the rulers follow along when they saw the profits?**","x":1128,"y":-1174,"width":385,"height":60,"color":"1"},
 		{"id":"7e7755ab5dc26526","type":"text","text":"- Shogunate founded on Neo-Confucianism\n- Pursuit of commerce led them to abandon Confucian framework.","x":691,"y":-1193,"width":385,"height":97},
@@ -51,7 +51,8 @@
 		{"id":"b3fda11ed78490f5","type":"file","file":"Freedom of Travel.md","subpath":"#^d81d9f","x":-1224,"y":-410,"width":318,"height":50},
 		{"id":"c7eaab8d6e01846d","type":"text","text":"Draw from Temples promotion","x":-1212,"y":-243,"width":320,"height":50},
 		{"id":"397cd9a99bb79ed9","type":"file","file":"Spread of travel information.md","x":-1240,"y":-833,"width":334,"height":78},
-		{"id":"091c75f400a1a328","x":749,"y":-781,"width":244,"height":50,"type":"file","file":"Confucian element.md","subpath":"#^b8f7a4"}
+		{"id":"091c75f400a1a328","type":"file","file":"Confucian element.md","subpath":"#^b8f7a4","x":749,"y":-781,"width":244,"height":50},
+		{"id":"d89f1e3aad2235f7","type":"file","file":"Other reasons for scale of movement.md","x":-904,"y":-1043,"width":250,"height":59}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
@@ -107,6 +108,7 @@
 		{"id":"3e237b2b6aa9df0a","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"b3fda11ed78490f5","toSide":"right"},
 		{"id":"d0aef9ee0c7ad8a0","fromNode":"258b41ccfbb12184","fromSide":"bottom","toNode":"583d122d6bd05df5","toSide":"bottom","color":"1"},
 		{"id":"42c0743f2e1b8b9e","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"c7eaab8d6e01846d","toSide":"right"},
-		{"id":"65ff3067bedb2d14","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"f63bc89d7307a11f","toSide":"right"}
+		{"id":"65ff3067bedb2d14","fromNode":"fe58275cfeabc7cd","fromSide":"left","toNode":"f63bc89d7307a11f","toSide":"right"},
+		{"id":"f0f9fedb184ffa58","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"d89f1e3aad2235f7","toSide":"right"}
 	]
 }
