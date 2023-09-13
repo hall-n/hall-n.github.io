@@ -38,14 +38,11 @@
             "id": "25c16abd73756bfd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -1269.400146484375,
-                  "y": -52.749725341796875,
-                  "zoom": -1
-                }
+                "file": "Merchants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Merchants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Merchants.md"
               }
             }
           },
@@ -202,9 +199,9 @@
   },
   "active": "25c16abd73756bfd",
   "lastOpenFiles": [
+    "_Mind Map.canvas",
     "_README.md",
     "Rite of Passage.md",
-    "_Mind Map.canvas",
     "Bakufu Economically Motivated.md",
     "images/travel.jpg",
     "_travel.jpg",
