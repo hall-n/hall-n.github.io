@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "84e5362db4b6ca01",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "6c2c7b816946b548",
             "type": "leaf",
             "state": {
@@ -59,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,8 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25c16abd73756bfd",
+  "active": "84e5362db4b6ca01",
   "lastOpenFiles": [
+    "Cultural Perspective of Travel.md",
+    "Merchants.md",
     "_Mind Map.canvas",
     "_README.md",
     "Rite of Passage.md",
@@ -206,7 +218,6 @@
     "images/travel.jpg",
     "_travel.jpg",
     "Complexity of Shogunate.md",
-    "Cultural Perspective of Travel.md",
     "Road Conditions.md",
     "Checkpoint reality.md",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
@@ -216,7 +227,6 @@
     "Permit System.md",
     "Mind Map 1.canvas",
     "Sacral image of wanderer.md",
-    "Merchants.md",
     "excalibrain.md",
     "Tokugawa Travel.md",
     "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
