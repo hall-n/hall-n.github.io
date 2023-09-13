@@ -15,9 +15,39 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -151.4473405299358,
-                  "y": -521,
-                  "zoom": -0.29933651216328144
+                  "x": -1581.623473911535,
+                  "y": -416.24859633622555,
+                  "zoom": -1.1313263146827617
+                }
+              }
+            }
+          },
+          {
+            "id": "2d700e6bf4889f78",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": 657.683263234478,
+                  "y": -54.33951316972244,
+                  "zoom": -0.9408393090469322
+                }
+              }
+            }
+          },
+          {
+            "id": "900d152490900386",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": 864.0671205338222,
+                  "y": -632.7812673487441,
+                  "zoom": -0.7389283047051938
                 }
               }
             }
@@ -154,7 +184,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +214,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wheel",
+                "query": "sekisho",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,26 +324,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "578589b7ff80a19f",
+  "active": "6fdc79414a27c1dc",
   "lastOpenFiles": [
+    "Spread of travel information.md",
+    "Sacral image of wanderer.md",
+    "Rite of Passage.md",
+    "Shrine, Economic Incentives.md",
     "Overall Travel Situation.md",
     "Hardships of travel.md",
     "Road Conditions.md",
-    "Other reasons for scale of movement.md",
+    "Travel agents.md",
     "_Mind Map.canvas",
+    "Travel by foot, not restricted to high class carriage.md",
+    "Other reasons for scale of movement.md",
     "Checkpoint reality.md",
-    "Rite of Passage.md",
     "Merchants.md",
     "Confucian element.md",
     "Permit System.md",
     "Bakufu & Domains Economically Motivated.md",
-    "Spread of travel information.md",
     "Freedom of Travel.md",
-    "Sacral image of wanderer.md",
     "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
     "Cultural Perspective of Travel.md",
     "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
-    "Shrine, Economic Incentives.md",
     "_README.md",
     "images/travel.jpg",
     "_travel.jpg",
@@ -324,8 +358,6 @@
     "excalibrain.md",
     "Tokugawa Travel.md",
     "Excalidraw/ExcaliBrain Snapshot - Travel.excalidraw.md",
-    "Travel.md",
-    "Excalidraw/Drawing 2023-09-11 12.59.42.excalidraw.md",
     "_config.yml",
     "images",
     "Untitled.canvas",

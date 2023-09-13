@@ -1,4 +1,5 @@
 
+danger was associated with travel in the past, but now travel is a source of enjoyment and excitement. (Tadao 1995)
 
 *Gordon 2003 Modern History*
 	"despite many restrictions on what people in each status group were allowed to do, the Tokugawa did not micromanage the lives of ordinary people. Within the confines of a circumscribed world, commoners had considerable autonomy. It is true they needed permission to travel and were not supposed to move to cities. But enforcement of such rules was often quite lax. In practice, the bakufu and domain governments kept out of the internal affairs of villages, as long as the villagers paid their taxes." 16
