@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -1151.4657274201165,
-                  "y": -424.58560474073215,
-                  "zoom": -1.2928683407573676
+                  "x": 506.3385927311321,
+                  "y": -121.71504234800163,
+                  "zoom": -1.3566059741843515
                 }
               }
             }
@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sacral image of wanderer.md",
+                "file": "Cultural Perspective of Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sacral image of wanderer.md",
+                "file": "Cultural Perspective of Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sacral image of wanderer.md"
+                "file": "Cultural Perspective of Travel.md"
               }
             }
           },
@@ -241,10 +242,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cb8bda62fb65a1a",
+  "active": "6c2c7b816946b548",
   "lastOpenFiles": [
-    "Sacral image of wanderer.md",
     "_Mind Map.canvas",
+    "Sacral image of wanderer.md",
     "Excalidraw/Drawing 2023-09-13 15.33.02.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
     "Shrine, Economic Incentives.md",
