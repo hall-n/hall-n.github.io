@@ -1,4 +1,4 @@
-Increase literacy rate & access to travel diaries and maps (Vaporis 2012)
+Increase literacy rate & access to travel diaries and maps (Vaporis 2012) ^1ce652
 
 
 *PJutschow and Fukuda 1981, Four Japanese dairies*
