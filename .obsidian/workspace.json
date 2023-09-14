@@ -27,8 +27,8 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 733.0316712016419,
-                  "y": -673.3083473996518,
+                  "x": -864.0257368108962,
+                  "y": -115.68883856282022,
                   "zoom": -0.4582010605752791
                 }
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理由A　Bakufu's support of Pilgrimage.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理由A　Bakufu's support of Pilgrimage.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理由A　Bakufu's support of Pilgrimage.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },

@@ -3,7 +3,6 @@
 		{"id":"59babaeb25768e42","type":"group","x":-1380,"y":-180,"width":508,"height":418,"color":"1","label":"My_Reasons"},
 		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-899,"width":594,"height":281,"color":"4","label":"Culture_of_travel_reasons(Vaporis)"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1326,"y":-520,"width":440,"height":184,"color":"#87aa64","label":"Travel_boom_reasons(Blacker's)"},
-		{"id":"a4bb52d22260d0fe","type":"text","text":"### Why was the shogunate so lax regarding the flagrant disregard for the permit system by commoners?","x":-499,"y":-42,"width":380,"height":120,"color":"1"},
 		{"id":"6f2cc72ddfb5e67d","type":"text","text":"Economically motivated?","x":-427,"y":140,"width":237,"height":50,"color":"6"},
 		{"id":"b13292d990040816","type":"file","file":"理由B　Sacral image of wanderer.md","subpath":"#^1196a3","x":-1260,"y":-500,"width":354,"height":50},
 		{"id":"b3fda11ed78490f5","type":"file","file":"理由B　Freedom of Travel.md","subpath":"#^d81d9f","x":-1224,"y":-410,"width":318,"height":50},
@@ -23,15 +22,12 @@
 		{"id":"c8b91747074a680e","type":"file","file":"理由VT　No Class Barriers.md","subpath":"#^930058","x":-1783,"y":-960,"width":261,"height":81},
 		{"id":"f63bc89d7307a11f","type":"file","file":"Hardships of travel.md","subpath":"#^886943","x":-1772,"y":-560,"width":250,"height":60},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1882,"y":-1043,"width":349,"height":50},
-		{"id":"7ccf9e6bb40b69d5","type":"text","text":"If economically motivated, why exclude women? CARTER","x":778,"y":-50,"width":250,"height":60,"color":"6"},
-		{"id":"583d122d6bd05df5","type":"text","text":"Increase attractions to draw pilgrims and visitors","x":454,"y":-48,"width":250,"height":60},
-		{"id":"fca342ae9ad044ab","type":"file","file":"Temple's Economic Incentives.md","subpath":"#^9a79a9","x":51,"y":-50,"width":347,"height":62},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Effects of travel","x":-396,"y":-928,"width":240,"height":57,"color":"3"},
 		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-401,"y":-1043,"width":250,"height":50},
 		{"id":"4a3b23a2fbd3ba9c","type":"text","text":"##  Reality at checkpoints","x":-579,"y":-441,"width":296,"height":65,"color":"3"},
 		{"id":"fd99a163085ebf6a","type":"text","text":"Visualized people being tied to land","x":337,"y":-560,"width":310,"height":70},
-		{"id":"091c75f400a1a328","type":"file","file":"Confucian element.md","subpath":"#^b8f7a4","x":337,"y":-741,"width":258,"height":50},
+		{"id":"091c75f400a1a328","type":"file","file":"Confucian element.md","subpath":"#^b8f7a4","x":337,"y":-741,"width":192,"height":50},
 		{"id":"7155261217b42309","type":"text","text":"tolerant of medical reasons, saw onsen as legitimate treatment\n\tOnsen authorities considered soaking in geothermal waters a legitimate medical treatment for various illnesses and ailments (Goree 2020, 7)","x":337,"y":-615,"width":310,"height":50},
 		{"id":"dd5ed8e75916f5fe","type":"text","text":"tolerant of pilgrimages to Ise","x":337,"y":-680,"width":192,"height":60},
 		{"id":"7e7755ab5dc26526","type":"text","text":"- Shogunate founded on Neo-Confucianism\n- Pursuit of commerce led them to abandon Confucian framework.","x":198,"y":-1206,"width":385,"height":97},
@@ -41,7 +37,6 @@
 		{"id":"a4d827afd9d26939","type":"text","text":"Viewed merchant’s world being\n \nbased on trust and honesty","x":201,"y":-1086,"width":250,"height":60},
 		{"id":"a270ff5e84451444","type":"file","file":"理由B　Rite of Passage.md","subpath":"#^927bd3","x":441,"y":-437,"width":250,"height":50},
 		{"id":"1b1f401e81527d5a","type":"text","text":"Wanderer a sacred image, vehicle\n\nfor divinity (from Heian period)","x":441,"y":-373,"width":303,"height":79},
-		{"id":"ec7eaad87d113eca","type":"text","text":"though some han had no objection if travel was on the off-season. \nTherefore **confusian ethics not relevant?**","x":615,"y":-741,"width":498,"height":50,"color":"1"},
 		{"id":"7771cf44273c5e1a","type":"text","text":"supports emperor and shogunate?","x":551,"y":-676,"width":190,"height":55,"color":"1"},
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-691,"y":-613,"width":230,"height":100,"color":"3"},
 		{"id":"2d8b7e52506d719b","type":"text","text":"Huge inflow of travelers\n","x":-529,"y":-302,"width":197,"height":53},
@@ -58,9 +53,14 @@
 		{"id":"b763ad3dbd93718a","type":"file","file":"Travel agents.md","x":51,"y":-334,"width":250,"height":60},
 		{"id":"67c54a3319f1de58","type":"text","text":"Religious power wanted by daimyo, thus they supported the temples","x":441,"y":-161,"width":250,"height":60},
 		{"id":"81f3e2dbcc5411a6","type":"text","text":"Wouldn't money coming in be attractive?","x":651,"y":-823,"width":349,"height":50,"color":"6"},
-		{"id":"c12b89642295bdb3","type":"file","file":"理由A　Bakufu's support of Pilgrimage.md","subpath":"#^aff899","x":883,"y":-664,"width":274,"height":50,"color":"1"},
 		{"id":"4d2db80ad80e8db9","type":"text","text":"Why not update permit system?","x":750,"y":-499,"width":250,"height":60},
-		{"id":"e72b88fff50a2716","type":"file","file":"Political Complexity of Shogunate.md","x":759,"y":-574,"width":241,"height":63}
+		{"id":"a4bb52d22260d0fe","type":"text","text":"### Why was the shogunate so lax regarding the flagrant disregard for the permit system by commoners?","x":-499,"y":-42,"width":380,"height":120,"color":"1"},
+		{"id":"7ccf9e6bb40b69d5","type":"text","text":"If economically motivated, why exclude women? CARTER","x":778,"y":-50,"width":250,"height":60,"color":"6"},
+		{"id":"583d122d6bd05df5","type":"text","text":"Increase attractions to draw pilgrims and visitors","x":454,"y":-48,"width":250,"height":60},
+		{"id":"fca342ae9ad044ab","type":"file","file":"Temple's Economic Incentives.md","subpath":"#^9a79a9","x":51,"y":-50,"width":347,"height":62},
+		{"id":"ec7eaad87d113eca","type":"text","text":"though some han had no objection if travel was on the off-season. \nTherefore **confusian ethics not relevant?**","x":551,"y":-741,"width":389,"height":50,"color":"1"},
+		{"id":"c12b89642295bdb3","type":"file","file":"理由A　Bakufu's support of Pilgrimage.md","subpath":"#^aff899","x":980,"y":-698,"width":340,"height":84,"color":"1"},
+		{"id":"e72b88fff50a2716","type":"file","file":"Political Complexity of Shogunate.md","x":755,"y":-588,"width":241,"height":63}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
@@ -105,8 +105,7 @@
 		{"id":"798bb61ba883d211","fromNode":"2d8b7e52506d719b","fromSide":"bottom","toNode":"86a8b8a971f19592","toSide":"top"},
 		{"id":"a8cd813950ffb5ec","fromNode":"86a8b8a971f19592","fromSide":"bottom","toNode":"92787d4c04e8ce56","toSide":"right"},
 		{"id":"aef56149677e9665","fromNode":"4d2db80ad80e8db9","fromSide":"bottom","toNode":"92787d4c04e8ce56","toSide":"right","color":"1"},
-		{"id":"cb830c0828657829","fromNode":"7771cf44273c5e1a","fromSide":"bottom","toNode":"e72b88fff50a2716","toSide":"left"},
-		{"id":"d193d04dbcccfcae","fromNode":"4d2db80ad80e8db9","fromSide":"top","toNode":"e72b88fff50a2716","toSide":"left"},
+		{"id":"cb830c0828657829","fromNode":"7771cf44273c5e1a","fromSide":"right","toNode":"e72b88fff50a2716","toSide":"top"},
 		{"id":"2c077e5943644cac","fromNode":"77f9369237696fbd","fromSide":"bottom","toNode":"fca342ae9ad044ab","toSide":"top","color":"5"},
 		{"id":"92fe30a2b3ae38c2","fromNode":"fca342ae9ad044ab","fromSide":"right","toNode":"583d122d6bd05df5","toSide":"left"},
 		{"id":"3e237b2b6aa9df0a","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"b3fda11ed78490f5","toSide":"right"},
@@ -124,6 +123,7 @@
 		{"id":"f610625d360eabb0","fromNode":"c7eaab8d6e01846d","fromSide":"bottom","toNode":"fca342ae9ad044ab","toSide":"bottom","color":"1"},
 		{"id":"f975b76fd81f852d","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"f5e6d568ce27b3cc","toSide":"right"},
 		{"id":"b11b68a65f0c1ecc","fromNode":"9170a288913c564a","fromSide":"right","toNode":"dd5ed8e75916f5fe","toSide":"left","color":"5"},
-		{"id":"3355e38c610b9938","fromNode":"7771cf44273c5e1a","fromSide":"right","toNode":"c12b89642295bdb3","toSide":"left"}
+		{"id":"3355e38c610b9938","fromNode":"7771cf44273c5e1a","fromSide":"right","toNode":"c12b89642295bdb3","toSide":"left"},
+		{"id":"231536f94e3d02ee","fromNode":"4d2db80ad80e8db9","fromSide":"top","toNode":"e72b88fff50a2716","toSide":"bottom"}
 	]
 }
