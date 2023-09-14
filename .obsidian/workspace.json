@@ -27,10 +27,22 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 73.79490180134582,
-                  "y": 56.553670716485534,
-                  "zoom": -0.3370058260743841
+                  "x": 344.2384369142921,
+                  "y": -701.7637407059005,
+                  "zoom": -0.4582010605752791
                 }
+              }
+            }
+          },
+          {
+            "id": "6eb7ffb436db6747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bakufu & Domains Economically Motivated.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -97,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -188,8 +201,9 @@
   "active": "33877899a8525da1",
   "lastOpenFiles": [
     "Bakufu & Domains Economically Motivated.md",
-    "理由A　Bakufu's support of Pilgrimage.md",
     "_Mind Map.canvas",
+    "_単語.md",
+    "理由A　Bakufu's support of Pilgrimage.md",
     "images/travel.jpg",
     "Hardships of travel.md",
     "_Outline.md",
@@ -202,7 +216,6 @@
     "images/Reason for travel (from academics)",
     "Temple's Economic Incentives.md",
     "Meibutsu.md",
-    "_単語.md",
     "_Questions.md",
     "Shorter travels.md",
     "Academic Discussions.md",
