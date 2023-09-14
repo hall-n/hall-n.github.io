@@ -1,4 +1,4 @@
-Rite of passage, increase experience
+Rite of passage, increase experience ^927bd3
 
 ## 通過儀礼, Rite of passage
 

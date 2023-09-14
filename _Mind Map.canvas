@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"59babaeb25768e42","x":-1380,"y":-180,"width":508,"height":418,"type":"group","label":"My_Reasons"},
+		{"id":"59babaeb25768e42","type":"group","x":-1380,"y":-180,"width":508,"height":418,"color":"1","label":"My_Reasons"},
 		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-899,"width":594,"height":281,"color":"4","label":"Culture_of_travel_reasons(Vaporis)"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1326,"y":-520,"width":440,"height":184,"color":"#87aa64","label":"Travel_boom_reasons(Blacker's)"},
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-691,"y":-613,"width":230,"height":100,"color":"3"},
@@ -24,7 +24,7 @@
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-1882,"y":-1043,"width":349,"height":50},
 		{"id":"ec7eaad87d113eca","type":"text","text":"though some han had no objection if travel was on the off-season. \nTherefore **confusian ethics not relevant?**","x":615,"y":-753,"width":498,"height":50,"color":"1"},
 		{"id":"81f3e2dbcc5411a6","type":"text","text":"Wouldn't money coming in be attractive?","x":651,"y":-819,"width":349,"height":50,"color":"6"},
-		{"id":"a270ff5e84451444","type":"file","file":"理由B　Rite of Passage.md","x":441,"y":-437,"width":250,"height":50},
+		{"id":"a270ff5e84451444","type":"file","file":"理由B　Rite of Passage.md","x":441,"y":-437,"width":250,"height":50,"subpath":"#^927bd3"},
 		{"id":"1b1f401e81527d5a","type":"text","text":"Wanderer a sacred image, vehicle\n\nfor divinity (from Heian period)","x":441,"y":-373,"width":303,"height":79},
 		{"id":"7e375742a2f17873","type":"text","text":"Escape, wanderer puts you outside normal society","x":441,"y":-274,"width":300,"height":50},
 		{"id":"67c54a3319f1de58","type":"text","text":"Religious power wanted by daimyo, thus they supported the temples","x":441,"y":-161,"width":250,"height":60},
@@ -34,10 +34,10 @@
 		{"id":"b763ad3dbd93718a","type":"file","file":"Travel agents.md","x":51,"y":-334,"width":250,"height":60},
 		{"id":"4d2db80ad80e8db9","type":"text","text":"Why not update permit system?","x":676,"y":-555,"width":250,"height":60},
 		{"id":"e72b88fff50a2716","type":"file","file":"Political Complexity of Shogunate.md","x":918,"y":-675,"width":320,"height":110},
-		{"id":"94804075a470c0cf","type":"text","text":"**Did the rulers follow along when they saw the profits?**","x":635,"y":-1127,"width":385,"height":60,"color":"1"},
-		{"id":"7e7755ab5dc26526","type":"text","text":"- Shogunate founded on Neo-Confucianism\n- Pursuit of commerce led them to abandon Confucian framework.","x":198,"y":-1146,"width":385,"height":97},
-		{"id":"1ae0040faebadc09","type":"text","text":"The scholars of the Kaitokudo educated people regardless of status or wealth or age","x":198,"y":-949,"width":397,"height":80},
-		{"id":"a4d827afd9d26939","type":"text","text":"Viewed merchant’s world being\n \nbased on trust and honesty","x":201,"y":-1026,"width":250,"height":60},
+		{"id":"94804075a470c0cf","type":"text","text":"**Did the rulers follow along when they saw the profits?**","x":635,"y":-1187,"width":385,"height":60,"color":"6"},
+		{"id":"7e7755ab5dc26526","type":"text","text":"- Shogunate founded on Neo-Confucianism\n- Pursuit of commerce led them to abandon Confucian framework.","x":198,"y":-1206,"width":385,"height":97},
+		{"id":"1ae0040faebadc09","type":"text","text":"The scholars of the Kaitokudo educated people regardless of status or wealth or age","x":198,"y":-1009,"width":397,"height":80},
+		{"id":"a4d827afd9d26939","type":"text","text":"Viewed merchant’s world being\n \nbased on trust and honesty","x":201,"y":-1086,"width":250,"height":60},
 		{"id":"7155261217b42309","type":"text","text":"tolerant of medical reasons, saw onsen as legitimate treatment\n\tOnsen authorities considered soaking in geothermal waters a legitimate medical treatment for various illnesses and ailments (Goree 2020, 7)","x":337,"y":-626,"width":310,"height":50},
 		{"id":"fd99a163085ebf6a","type":"text","text":"Visualized people being tied to land","x":337,"y":-560,"width":310,"height":70},
 		{"id":"3488f42a3ca4f04e","type":"text","text":"## Merchants","x":-134,"y":-815,"width":250,"height":60,"color":"5"},
@@ -50,7 +50,7 @@
 		{"id":"091c75f400a1a328","type":"file","file":"Confucian element.md","subpath":"#^b8f7a4","x":344,"y":-753,"width":244,"height":50},
 		{"id":"669620e09795e351","type":"file","file":"Shorter travels.md","subpath":"#^733040","x":-1142,"y":-303,"width":250,"height":60},
 		{"id":"c7eaab8d6e01846d","type":"text","text":"Draw from Temples promotion THAL","x":-1212,"y":-160,"width":320,"height":50},
-		{"id":"12d7f06ac3dde6e8","type":"text","text":"### Economic motivations are the key reasons for \n- ### encouraging travel (Temples)  \n- ### allowing travel (bakufu & daimyo)","x":-1204,"y":8,"width":312,"height":154,"color":"6"},
+		{"id":"12d7f06ac3dde6e8","type":"text","text":"### Economic motivations are the key reasons for \n- ### encouraging travel (Temples)  \n- ### allowing travel (bakufu & daimyo)","x":-1204,"y":8,"width":312,"height":154},
 		{"id":"4a3b23a2fbd3ba9c","type":"text","text":"##  Reality at checkpoints","x":-579,"y":-441,"width":296,"height":65,"color":"3"},
 		{"id":"6f2cc72ddfb5e67d","type":"text","text":"Economically motivated?","x":-427,"y":140,"width":237,"height":50,"color":"6"},
 		{"id":"2d8b7e52506d719b","type":"text","text":"Huge inflow of travelers\n","x":-529,"y":-302,"width":197,"height":53},
@@ -58,7 +58,9 @@
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-704,"y":-298,"width":164,"height":120},
 		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more realistic: \nin order to encourage commoners to apply, insead of nukemairi. **in other words, to follow the system**","x":-715,"y":-151,"width":186,"height":191},
 		{"id":"1b232bf348c15d78","type":"text","text":"movement out of Edo, particularly \nof women, more strict than to Edo.","x":-314,"y":-175,"width":168,"height":85},
-		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-314,"y":-303,"width":153,"height":118}
+		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-314,"y":-303,"width":153,"height":118},
+		{"id":"c12b89642295bdb3","type":"file","file":"理由A　Bakufu's support of Pilgrimage.md","subpath":"#^aff899","x":341,"y":-896,"width":201,"height":50,"color":"1"},
+		{"id":"f5e6d568ce27b3cc","x":-1142,"y":-90,"width":250,"height":60,"type":"text","text":"Shogunate supported pilgrimage"}
 	],
 	"edges":[
 		{"id":"2176dce4c13952e6","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"fe58275cfeabc7cd","toSide":"right","color":"3"},
@@ -117,9 +119,12 @@
 		{"id":"44c41f2e7f99e60f","fromNode":"b763ad3dbd93718a","fromSide":"bottom","toNode":"77f9369237696fbd","toSide":"top"},
 		{"id":"cdaea61c8b32c8e5","fromNode":"623e111fca2cf416","fromSide":"left","toNode":"6955fc729b07f2ee","toSide":"right"},
 		{"id":"2d6130bcb582e493","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"669620e09795e351","toSide":"right"},
-		{"id":"013f602b4dcf6d5f","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"67c54a3319f1de58","toSide":"left"},
+		{"id":"013f602b4dcf6d5f","fromNode":"77f9369237696fbd","fromSide":"right","toNode":"67c54a3319f1de58","toSide":"left","color":"5"},
 		{"id":"acc39ab0f3ed0d8c","fromNode":"583d122d6bd05df5","fromSide":"right","toNode":"7ccf9e6bb40b69d5","toSide":"left"},
 		{"id":"992bdf8bbfa68d6a","fromNode":"a4bb52d22260d0fe","fromSide":"bottom","toNode":"6f2cc72ddfb5e67d","toSide":"top"},
-		{"id":"f610625d360eabb0","fromNode":"c7eaab8d6e01846d","fromSide":"bottom","toNode":"fca342ae9ad044ab","toSide":"bottom","color":"1"}
+		{"id":"24afaf45667d00f9","fromNode":"f5e6d568ce27b3cc","fromSide":"right","toNode":"c12b89642295bdb3","toSide":"left","color":"1"},
+		{"id":"b99744d542c0d828","fromNode":"9170a288913c564a","fromSide":"right","toNode":"c12b89642295bdb3","toSide":"left","color":"5"},
+		{"id":"f610625d360eabb0","fromNode":"c7eaab8d6e01846d","fromSide":"bottom","toNode":"fca342ae9ad044ab","toSide":"bottom","color":"1"},
+		{"id":"f975b76fd81f852d","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"f5e6d568ce27b3cc","toSide":"right"}
 	]
 }
