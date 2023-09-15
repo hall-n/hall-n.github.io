@@ -27,9 +27,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -320,
-                  "y": -454,
-                  "zoom": -1.5978151027932197
+                  "x": 837.0853142730933,
+                  "y": -562.1796397250073,
+                  "zoom": -0.0724628134642474
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理由B　Rite of Passage.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理由B　Rite of Passage.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理由B　Rite of Passage.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -197,11 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "33877899a8525da1",
   "lastOpenFiles": [
+    "理由B　Rite of Passage.md",
     "_単語.md",
     "_Mind Map.canvas",
-    "理由B　Rite of Passage.md",
     "Bakufu & Domains Economically Motivated.md",
     "理由A　Bakufu's support of Pilgrimage.md",
     "images/travel.jpg",
