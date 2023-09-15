@@ -11,14 +11,11 @@
             "id": "d2630777c6649706",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -1256.85,
-                  "y": 96,
-                  "zoom": 0
-                }
+                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -108,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "お寺・神社　Oyama Pilgrimage Cults.md"
               }
             }
           },
@@ -196,13 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2630777c6649706",
+  "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "_Mind Map.canvas",
     "_Literature Review.canvas",
     "お寺・神社　Oyama Pilgrimage Cults.md",
     "お寺・神社　Economic Incentives.md",
     "_単語.md",
-    "_Mind Map.canvas",
     "将軍　Support of Pilgrimage.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
