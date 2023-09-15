@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "_Literature Review.canvas",
+                "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -360,
-                  "y": -180,
+                  "x": -1256.85,
+                  "y": 96,
                   "zoom": 0
                 }
               }
@@ -26,14 +26,11 @@
             "id": "2266d02b6f2ea524",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -208.74941726453372,
-                  "y": -328.62194841864994,
-                  "zoom": -1.3629827477608611
-                }
+                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -61,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,9 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2266d02b6f2ea524",
+  "active": "d2630777c6649706",
   "lastOpenFiles": [
+    "_Literature Review.canvas",
     "お寺・神社　Oyama Pilgrimage Cults.md",
+    "お寺・神社　Economic Incentives.md",
+    "_単語.md",
+    "_Mind Map.canvas",
     "将軍　Support of Pilgrimage.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
@@ -224,15 +224,10 @@
     "農民　Rite of Passage.md",
     "お寺・神社　Sacral image of wanderer.md",
     "Merchants.md",
-    "お寺・神社　Economic Incentives.md",
-    "_Mind Map.canvas",
-    "_Literature Review.canvas",
     "Religious Institutions",
-    "_単語.md",
     "images/travel.jpg",
     "_Outline.md",
     "images/Reason for travel (from academics)",
-    "Meibutsu.md",
     "_travel.jpg",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Literature",
