@@ -35,6 +35,21 @@
             }
           },
           {
+            "id": "d2630777c6649706",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -677.5767091572891,
+                  "y": -60.82010040680326,
+                  "zoom": -0.06740238910659459
+                }
+              }
+            }
+          },
+          {
             "id": "6eb7ffb436db6747",
             "type": "leaf",
             "state": {
@@ -59,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +212,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33877899a8525da1",
+  "active": "d2630777c6649706",
   "lastOpenFiles": [
+    "_Literature Review.canvas",
+    "_Mind Map.canvas",
+    "Untitled.md",
     "理由B　Rite of Passage.md",
     "_単語.md",
-    "_Mind Map.canvas",
     "Bakufu & Domains Economically Motivated.md",
     "理由A　Bakufu's support of Pilgrimage.md",
     "images/travel.jpg",
@@ -226,7 +243,6 @@
     "Merchants.md",
     "Confucian element.md",
     "Permit System.md",
-    "Excalidraw/Drawing 2023-09-13 15.32.14.excalidraw.md",
     "_travel.jpg",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Literature",
@@ -234,7 +250,6 @@
     "Mind Map 1.canvas",
     "_config.yml",
     "images",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Excalidraw"
   ]
