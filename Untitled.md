@@ -3,3 +3,5 @@ oxford  https://oxfordre.com/asianhistory/display/10.1093/acrefore/9780190277727
 economic leeway for farmers and lower class, combined with relative freedom drove their travel
 In contrast, the samurai were more restricted by the bakufu. But as long as one gained a shrine visit permit, a peasant could easily travel.
 this freedom of finances and movement, along woth motivations from temple's advertisement and popular media like poems and images pushed travel interest. 
+onshi, oshi:
+"Itinerant proselytizers representing specific temples and shrines (called onshi in the case of Ise Shrine and oshi for other sites) made the rounds of villages and cities in the winter off-season to support confraternities and recruit new pilgrims—another crucial factor in the popularity of pilgrimage in the period." (Oxford)
