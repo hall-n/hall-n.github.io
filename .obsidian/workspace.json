@@ -11,9 +11,24 @@
             "id": "d2630777c6649706",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -1316.1374999999996,
+                  "y": 36.71249999999999,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "b45d19ef7cfe96a1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_単語.md",
+                "file": "Kanzaki's argument 1995.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_単語.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_単語.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_単語.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -195,13 +210,14 @@
   },
   "active": "d2630777c6649706",
   "lastOpenFiles": [
+    "_単語.md",
+    "Kanzaki's argument 1995.md",
     "Academic Discussions.md",
     "Untitled.md",
     "お寺・神社　Oyama Pilgrimage Cults.md",
     "_Mind Map.canvas",
     "_Literature Review.canvas",
     "お寺・神社　Economic Incentives.md",
-    "_単語.md",
     "将軍　Support of Pilgrimage.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
