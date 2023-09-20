@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -839.8277604235163,
-                  "y": -414.52905618612397,
-                  "zoom": -0.29304045126581507
+                  "x": -36.779901737226645,
+                  "y": -803.023134822212,
+                  "zoom": -0.587738920847575
                 }
               }
             }
@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merchants.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merchants.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merchants.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -221,8 +220,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ca1bb0f8f169be2",
+  "active": "d2630777c6649706",
   "lastOpenFiles": [
+    "Other reasons for scale of movement.md",
+    "_Mind Map.canvas",
+    "Merchants.md",
     "Overall Travel Situation.md",
     "Permit System.md",
     "Road Conditions.md",
@@ -237,7 +239,6 @@
     "将軍　Political Complexity.md",
     "将軍　Support of Pilgrimage.md",
     "農民　Rite of Passage.md",
-    "_Mind Map.canvas",
     "Academic Discussions.md",
     "_Literature Review.canvas",
     "_単語.md",
@@ -247,9 +248,7 @@
     "Checkpoint reality.md",
     "Freedom of Travel.md",
     "Hardships of travel.md",
-    "Other reasons for scale of movement.md",
     "農民　Shorter travels.md",
-    "Merchants.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
