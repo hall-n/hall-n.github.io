@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "2cd0daa801f4e92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Train of thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ca1bb0f8f169be2",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "_Train of thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "_Train of thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md"
+                "file": "_Train of thought.md"
               }
             }
           },
@@ -245,10 +257,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a0a1c5f8df4ea2",
+  "active": "2cd0daa801f4e92d",
   "lastOpenFiles": [
-    "_Mind Map.canvas",
     "The bakufu's position to daimyo and peasants.md",
+    "_Train of thought.md",
+    "_Mind Map.canvas",
     "_単語.md",
     "Daimyo makeup.md",
     "Other reasons for scale of movement.md",
