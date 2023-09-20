@@ -1,5 +1,5 @@
 
-Economic incentive example → Oyama pilgrimage cults AMBROS ^8e74f5
+Economic incentive example → Oyama pilgrimage cults Ambros ^8e74f5
 
 
 ## What is Oyama?

@@ -1,4 +1,5 @@
- image of wander crucial to travel boom ^1196a3
+ image of wander crucial to travel boom Blacker 1984 ^1196a3
+ anyone can participate 
 
 economic changes not enough to warrant travel boom (Blacker 1984)
 	I suggest that it is to this ancient figure, and to the archetypal 'image' that he projects on Japanese minds, that we must first look for an answer to our question. (594)

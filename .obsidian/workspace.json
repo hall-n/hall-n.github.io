@@ -11,21 +11,26 @@
             "id": "d2630777c6649706",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Academic Discussions.md",
-                "mode": "source",
-                "source": false
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -839.8277604235163,
+                  "y": -414.52905618612397,
+                  "zoom": -0.29304045126581507
+                }
               }
             }
           },
           {
-            "id": "be6519d4660697b3",
+            "id": "6ca1bb0f8f169be2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Merchants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -144,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Discussions.md",
+                "file": "Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Discussions.md",
+                "file": "Merchants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Discussions.md"
+                "file": "Merchants.md"
               }
             }
           },
@@ -216,34 +221,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be6519d4660697b3",
+  "active": "6ca1bb0f8f169be2",
   "lastOpenFiles": [
-    "_Literature Review.canvas",
+    "Overall Travel Situation.md",
+    "Permit System.md",
+    "Road Conditions.md",
+    "Spread of travel information.md",
+    "Travel agents.md",
+    "Untitled.md",
+    "お寺・神社　Economic Incentives.md",
+    "お寺・神社　Oyama Pilgrimage Cults.md",
+    "お寺・神社　Sacral image of wanderer.md",
+    "将軍　Bakufu & Domains Economically Motivated.md",
+    "将軍　No Class Barriers.md",
+    "将軍　Political Complexity.md",
+    "将軍　Support of Pilgrimage.md",
+    "農民　Rite of Passage.md",
     "_Mind Map.canvas",
+    "Academic Discussions.md",
+    "_Literature Review.canvas",
     "_単語.md",
     "Kanzaki's argument 1995.md",
-    "Academic Discussions.md",
-    "Untitled.md",
-    "お寺・神社　Oyama Pilgrimage Cults.md",
-    "お寺・神社　Economic Incentives.md",
-    "将軍　Support of Pilgrimage.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
     "Checkpoint reality.md",
-    "将軍　Bakufu & Domains Economically Motivated.md",
     "Freedom of Travel.md",
     "Hardships of travel.md",
-    "Spread of travel information.md",
-    "Road Conditions.md",
-    "Permit System.md",
-    "Travel agents.md",
     "Other reasons for scale of movement.md",
-    "Overall Travel Situation.md",
     "農民　Shorter travels.md",
-    "将軍　Political Complexity.md",
-    "将軍　No Class Barriers.md",
-    "農民　Rite of Passage.md",
-    "お寺・神社　Sacral image of wanderer.md",
     "Merchants.md",
     "Religious Institutions",
     "images/travel.jpg",

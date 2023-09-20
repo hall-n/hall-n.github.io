@@ -1,4 +1,4 @@
-Bakufu used pilgrimage ^aff899
+Shogunate used pilgrimage to reinforce social structures Ambros 2008 ^aff899
 
 
 saw in the pilgrimage an opportunity to reinforce the communal ideals and social structures that the authorities espoused
