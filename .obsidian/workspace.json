@@ -15,10 +15,22 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -36.779901737226645,
-                  "y": -803.023134822212,
+                  "x": -45.51544684634656,
+                  "y": 147.40417305003575,
                   "zoom": -0.587738920847575
                 }
+              }
+            }
+          },
+          {
+            "id": "95a0a1c5f8df4ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The bakufu's position to daimyo and peasants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -82,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "The bakufu's position to daimyo and peasants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "The bakufu's position to daimyo and peasants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "The bakufu's position to daimyo and peasants.md"
               }
             }
           },
@@ -220,10 +233,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2630777c6649706",
+  "active": "95a0a1c5f8df4ea2",
   "lastOpenFiles": [
-    "Other reasons for scale of movement.md",
     "_Mind Map.canvas",
+    "The bakufu's position to daimyo and peasants.md",
+    "Other reasons for scale of movement.md",
     "Merchants.md",
     "Overall Travel Situation.md",
     "Permit System.md",
@@ -248,7 +262,6 @@
     "Checkpoint reality.md",
     "Freedom of Travel.md",
     "Hardships of travel.md",
-    "農民　Shorter travels.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
