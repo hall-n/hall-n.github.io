@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "acae3d68597898ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daimyo makeup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "95a0a1c5f8df4ea2",
             "type": "leaf",
             "state": {
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Daimyo makeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Daimyo makeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md"
+                "file": "Daimyo makeup.md"
               }
             }
           },
@@ -233,9 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a0a1c5f8df4ea2",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
     "_Mind Map.canvas",
+    "Daimyo makeup.md",
     "The bakufu's position to daimyo and peasants.md",
     "Other reasons for scale of movement.md",
     "Merchants.md",
@@ -261,7 +274,6 @@
     "Confucian element.md",
     "Checkpoint reality.md",
     "Freedom of Travel.md",
-    "Hardships of travel.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
