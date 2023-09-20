@@ -11,14 +11,21 @@
             "id": "d2630777c6649706",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -1316.1374999999996,
-                  "y": 36.71249999999999,
-                  "zoom": 0
-                }
+                "file": "Academic Discussions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6519d4660697b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           },
@@ -70,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Academic Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Academic Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Academic Discussions.md"
               }
             }
           },
@@ -208,15 +216,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2630777c6649706",
+  "active": "be6519d4660697b3",
   "lastOpenFiles": [
+    "_Literature Review.canvas",
+    "_Mind Map.canvas",
     "_単語.md",
     "Kanzaki's argument 1995.md",
     "Academic Discussions.md",
     "Untitled.md",
     "お寺・神社　Oyama Pilgrimage Cults.md",
-    "_Mind Map.canvas",
-    "_Literature Review.canvas",
     "お寺・神社　Economic Incentives.md",
     "将軍　Support of Pilgrimage.md",
     "Cultural Perspective of Travel.md",
@@ -239,7 +247,6 @@
     "Merchants.md",
     "Religious Institutions",
     "images/travel.jpg",
-    "_Outline.md",
     "images/Reason for travel (from academics)",
     "_travel.jpg",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
