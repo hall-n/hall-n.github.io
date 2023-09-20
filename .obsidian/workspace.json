@@ -15,8 +15,8 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -45.51544684634656,
-                  "y": 147.40417305003575,
+                  "x": -296.5729879040509,
+                  "y": 135.9258729836562,
                   "zoom": -0.587738920847575
                 }
               }
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "The bakufu's position to daimyo and peasants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "The bakufu's position to daimyo and peasants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daimyo makeup.md"
+                "file": "The bakufu's position to daimyo and peasants.md"
               }
             }
           },
@@ -245,11 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "95a0a1c5f8df4ea2",
   "lastOpenFiles": [
     "_Mind Map.canvas",
-    "Daimyo makeup.md",
     "The bakufu's position to daimyo and peasants.md",
+    "_単語.md",
+    "Daimyo makeup.md",
     "Other reasons for scale of movement.md",
     "Merchants.md",
     "Overall Travel Situation.md",
@@ -268,7 +269,6 @@
     "農民　Rite of Passage.md",
     "Academic Discussions.md",
     "_Literature Review.canvas",
-    "_単語.md",
     "Kanzaki's argument 1995.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
