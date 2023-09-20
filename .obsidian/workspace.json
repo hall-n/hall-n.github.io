@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "d653d1b5954c6bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oda & Ieyasu's leadership policies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2cd0daa801f4e92d",
             "type": "leaf",
             "state": {
@@ -119,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Oda & Ieyasu's leadership policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Oda & Ieyasu's leadership policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md"
+                "file": "Oda & Ieyasu's leadership policies.md"
               }
             }
           },
@@ -257,10 +269,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a0a1c5f8df4ea2",
+  "active": "d653d1b5954c6bb1",
   "lastOpenFiles": [
-    "_Train of thought.md",
     "The bakufu's position to daimyo and peasants.md",
+    "Oda & Ieyasu's leadership policies.md",
+    "Bakufu and Shogunate",
+    "_Train of thought.md",
     "_Mind Map.canvas",
     "_単語.md",
     "Daimyo makeup.md",
@@ -286,7 +300,6 @@
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
     "Checkpoint reality.md",
-    "Freedom of Travel.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
