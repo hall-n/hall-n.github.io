@@ -1,4 +1,5 @@
-❓
+What role did they play in the travel boom?
+
 values shifted 
 They slowly created a more egalitarian society
 

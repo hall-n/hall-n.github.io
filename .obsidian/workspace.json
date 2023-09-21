@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "Bakufu and Daimyo/Daimyo makeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oda & Ieyasu's leadership policies.md",
+                "file": "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The bakufu's position to daimyo and peasants.md",
+                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e146c338417931b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3089a03521ba000b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checkpoint reality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -130,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -147,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "Checkpoint reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultural Perspective of Travel.md",
+                "file": "Checkpoint reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cultural Perspective of Travel.md"
+                "file": "Checkpoint reality.md"
               }
             }
           },
@@ -219,47 +242,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "950cd87ec593b58b",
+  "active": "3089a03521ba000b",
   "lastOpenFiles": [
-    "_Train of thought.md",
-    "お寺・神社　Oyama Pilgrimage Cults.md",
-    "Kanzaki's argument 1995.md",
-    "Merchants.md",
-    "The bakufu's position to daimyo and peasants.md",
-    "Daimyo makeup.md",
-    "Meibutsu.md",
-    "Hardships of travel.md",
-    "Freedom of Travel.md",
-    "Cultural Perspective of Travel.md",
-    "Confucian element.md",
-    "Checkpoint reality.md",
-    "Academic Discussions.md",
-    "_Mind Map.canvas",
+    "_Questions.md",
+    "_Outline.md",
+    "_Literature Review.canvas",
     "_単語.md",
-    "villages changes, bushi peasant.md",
-    "Oda & Ieyasu's leadership policies.md",
-    "Bakufu and Shogunate",
+    "_travel.jpg",
+    "_Train of thought.md",
+    "Cultural Perspective of Travel.md",
+    "Meibutsu.md",
+    "Merchants.md",
     "Other reasons for scale of movement.md",
     "Overall Travel Situation.md",
-    "Permit System.md",
-    "Road Conditions.md",
-    "Spread of travel information.md",
-    "Travel agents.md",
     "Untitled.md",
-    "お寺・神社　Economic Incentives.md",
-    "お寺・神社　Sacral image of wanderer.md",
-    "将軍　Bakufu & Domains Economically Motivated.md",
-    "_Literature Review.canvas",
+    "Academic Discussions.md",
+    "Checkpoint reality.md",
+    "Religious Institutions/Kanzaki's argument of Oshi's importance.md",
+    "Religious Institutions/Sacral image of wanderer.md",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "Religious Institutions/Temple's Economic Incentives.md",
+    "Peasants/villages changes, bushi peasant.md",
+    "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
+    "Peasants/Shorter travels feasable.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
+    "Bakufu and Daimyo/Shogunate Political Complexity.md",
+    "Bakufu and Daimyo/No Class Barriers.md",
+    "Bakufu and Daimyo/Road Conditions.md",
+    "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "_Mind Map.canvas",
+    "Bakufu and Daimyo",
     "Religious Institutions",
-    "images/travel.jpg",
+    "Peasants/travel.jpg",
     "images/Reason for travel (from academics)",
-    "_travel.jpg",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Literature",
     "New folder",
     "Mind Map 1.canvas",
     "_config.yml",
-    "images",
+    "Peasants",
     "Untitled 1.canvas",
     "Excalidraw"
   ]

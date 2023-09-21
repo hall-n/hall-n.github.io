@@ -32,10 +32,8 @@ How did villagers view travelers
 - brings good fortune, or might invite curse
 
 How did the Shogunate view travelers?
-
 - "dirty and lazy dropouts, playing no useful part in proper human society" threat to order and stability (Blacker 2008)
 - negative view of leisure activities -> travel for religious reasons
-
 - travel viewed by authorities as "frivolous, useless, extravagant and immoral." (blacker 2008)
 - Economic
 
@@ -55,10 +53,8 @@ Did the shogunates response on limiting leisure travel act as the driving force 
 Leisure and religion already linked
 
 Did the temples and shrines tried to attract tourists?
-
-- to raise money
+- Grand festivals to raise money
 
 Festivals
-
 - pray for rain, so not just leisure activity
 - "Festivals at shrines were frequently held during the busy farming season, as they functioned  as a leisure time to take a break from monotonous labor and prepare for a return to normal life." (朴 et al 2014)
