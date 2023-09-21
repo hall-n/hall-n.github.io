@@ -59,6 +59,18 @@
             }
           },
           {
+            "id": "3bf1c7a3db3c3f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "villages changes, bushi peasant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2cd0daa801f4e92d",
             "type": "leaf",
             "state": {
@@ -131,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oda & Ieyasu's leadership policies.md",
+                "file": "villages changes, bushi peasant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oda & Ieyasu's leadership policies.md",
+                "file": "villages changes, bushi peasant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oda & Ieyasu's leadership policies.md"
+                "file": "villages changes, bushi peasant.md"
               }
             }
           },
@@ -269,14 +281,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d653d1b5954c6bb1",
+  "active": "3bf1c7a3db3c3f0a",
   "lastOpenFiles": [
-    "The bakufu's position to daimyo and peasants.md",
     "Oda & Ieyasu's leadership policies.md",
-    "Bakufu and Shogunate",
-    "_Train of thought.md",
+    "villages changes, bushi peasant.md",
     "_Mind Map.canvas",
     "_単語.md",
+    "The bakufu's position to daimyo and peasants.md",
+    "Bakufu and Shogunate",
+    "_Train of thought.md",
     "Daimyo makeup.md",
     "Other reasons for scale of movement.md",
     "Merchants.md",
@@ -299,7 +312,6 @@
     "Kanzaki's argument 1995.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
-    "Checkpoint reality.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
