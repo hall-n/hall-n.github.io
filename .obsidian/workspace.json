@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "The bakufu's position to daimyo and peasants.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daimyo makeup.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -283,6 +283,7 @@
   },
   "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "Daimyo makeup.md",
     "_単語.md",
     "villages changes, bushi peasant.md",
     "Oda & Ieyasu's leadership policies.md",
@@ -290,7 +291,6 @@
     "The bakufu's position to daimyo and peasants.md",
     "Bakufu and Shogunate",
     "_Train of thought.md",
-    "Daimyo makeup.md",
     "Other reasons for scale of movement.md",
     "Merchants.md",
     "Overall Travel Situation.md",
