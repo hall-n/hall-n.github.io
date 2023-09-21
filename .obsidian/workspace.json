@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2630777c6649706",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -315.7911871441147,
-                  "y": 191.83336168202348,
-                  "zoom": -0.587738920847575
-                }
-              }
-            }
-          },
-          {
             "id": "acae3d68597898ec",
             "type": "leaf",
             "state": {
@@ -83,54 +68,6 @@
             }
           },
           {
-            "id": "6ca1bb0f8f169be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merchants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b45d19ef7cfe96a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kanzaki's argument 1995.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2266d02b6f2ea524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05dabb3ab4ee22f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "お寺・神社　Oyama Pilgrimage Cults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "950cd87ec593b58b",
             "type": "leaf",
             "state": {
@@ -143,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "Cultural Perspective of Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daimyo makeup.md",
+                "file": "Cultural Perspective of Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daimyo makeup.md"
+                "file": "Cultural Perspective of Travel.md"
               }
             }
           },
@@ -282,13 +219,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "950cd87ec593b58b",
   "lastOpenFiles": [
-    "Meibutsu.md",
+    "_Train of thought.md",
+    "お寺・神社　Oyama Pilgrimage Cults.md",
     "Kanzaki's argument 1995.md",
+    "Merchants.md",
+    "The bakufu's position to daimyo and peasants.md",
+    "Daimyo makeup.md",
+    "Meibutsu.md",
     "Hardships of travel.md",
     "Freedom of Travel.md",
-    "Daimyo makeup.md",
     "Cultural Perspective of Travel.md",
     "Confucian element.md",
     "Checkpoint reality.md",
@@ -297,11 +238,8 @@
     "_単語.md",
     "villages changes, bushi peasant.md",
     "Oda & Ieyasu's leadership policies.md",
-    "The bakufu's position to daimyo and peasants.md",
     "Bakufu and Shogunate",
-    "_Train of thought.md",
     "Other reasons for scale of movement.md",
-    "Merchants.md",
     "Overall Travel Situation.md",
     "Permit System.md",
     "Road Conditions.md",
@@ -309,7 +247,6 @@
     "Travel agents.md",
     "Untitled.md",
     "お寺・神社　Economic Incentives.md",
-    "お寺・神社　Oyama Pilgrimage Cults.md",
     "お寺・神社　Sacral image of wanderer.md",
     "将軍　Bakufu & Domains Economically Motivated.md",
     "_Literature Review.canvas",
