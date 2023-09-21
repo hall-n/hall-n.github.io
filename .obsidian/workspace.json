@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_単語.md",
+                "file": "Daimyo makeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_単語.md",
+                "file": "Daimyo makeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_単語.md",
+                "file": "Daimyo makeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_単語.md"
+                "file": "Daimyo makeup.md"
               }
             }
           },
@@ -283,10 +283,10 @@
   },
   "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "_単語.md",
     "villages changes, bushi peasant.md",
     "Oda & Ieyasu's leadership policies.md",
     "_Mind Map.canvas",
-    "_単語.md",
     "The bakufu's position to daimyo and peasants.md",
     "Bakufu and Shogunate",
     "_Train of thought.md",
