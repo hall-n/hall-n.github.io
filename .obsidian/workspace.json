@@ -15,8 +15,8 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -296.5729879040509,
-                  "y": 135.9258729836562,
+                  "x": -315.7911871441147,
+                  "y": 191.83336168202348,
                   "zoom": -0.587738920847575
                 }
               }
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -209,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Daimyo makeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Daimyo makeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Daimyo makeup.md"
               }
             }
           },
@@ -281,13 +282,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
+    "Meibutsu.md",
+    "Kanzaki's argument 1995.md",
+    "Hardships of travel.md",
+    "Freedom of Travel.md",
     "Daimyo makeup.md",
+    "Cultural Perspective of Travel.md",
+    "Confucian element.md",
+    "Checkpoint reality.md",
+    "Academic Discussions.md",
+    "_Mind Map.canvas",
     "_単語.md",
     "villages changes, bushi peasant.md",
     "Oda & Ieyasu's leadership policies.md",
-    "_Mind Map.canvas",
     "The bakufu's position to daimyo and peasants.md",
     "Bakufu and Shogunate",
     "_Train of thought.md",
@@ -303,15 +312,7 @@
     "お寺・神社　Oyama Pilgrimage Cults.md",
     "お寺・神社　Sacral image of wanderer.md",
     "将軍　Bakufu & Domains Economically Motivated.md",
-    "将軍　No Class Barriers.md",
-    "将軍　Political Complexity.md",
-    "将軍　Support of Pilgrimage.md",
-    "農民　Rite of Passage.md",
-    "Academic Discussions.md",
     "_Literature Review.canvas",
-    "Kanzaki's argument 1995.md",
-    "Cultural Perspective of Travel.md",
-    "Confucian element.md",
     "Religious Institutions",
     "images/travel.jpg",
     "images/Reason for travel (from academics)",
