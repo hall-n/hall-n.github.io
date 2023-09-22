@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "Goree Culture of Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
                 "file": "_Literature Review.canvas",
                 "viewState": {
                   "x": -439.7073219883701,
-                  "y": -52.13063285982517,
+                  "y": -176.60623234437483,
                   "zoom": -0.676399246652921
                 }
               }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "Goree Culture of Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "Goree Culture of Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md"
+                "file": "Goree Culture of Travel.md"
               }
             }
           },
@@ -223,13 +224,13 @@
   },
   "active": "2874df6f950e0035",
   "lastOpenFiles": [
-    "_単語.md",
-    "_Literature Review.canvas",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Goree Culture of Travel.md",
+    "Kouamé Argument.md",
+    "_Literature Review.canvas",
+    "_単語.md",
     "Vaporis' Argument.md",
     "_Train of thought.md",
-    "Kouamé Argument.md",
-    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "_Mind Map.canvas",
     "Peasants/Pilgrims & locals.md",
     "_Outline.md",
