@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaporis' Argument.md",
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c04d7da54ac8040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goree Culture of Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,9 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Train of thought.md",
+                "file": "Vaporis' Argument.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "739e09723de192e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Literature Review.canvas",
+                "viewState": {
+                  "x": -439.7073219883701,
+                  "y": -52.13063285982517,
+                  "zoom": -0.676399246652921
+                }
               }
             }
           }
@@ -85,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gore",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -123,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaporis' Argument.md",
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vaporis' Argument.md",
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vaporis' Argument.md"
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md"
               }
             }
           },
@@ -197,16 +223,17 @@
   },
   "active": "2874df6f950e0035",
   "lastOpenFiles": [
-    "_Mind Map.canvas",
-    "Kouamé Argument.md",
     "_単語.md",
-    "_Train of thought.md",
     "_Literature Review.canvas",
+    "Goree Culture of Travel.md",
+    "Vaporis' Argument.md",
+    "_Train of thought.md",
+    "Kouamé Argument.md",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "_Mind Map.canvas",
     "Peasants/Pilgrims & locals.md",
     "_Outline.md",
     "Religious Institutions/Sacral image of wanderer.md",
-    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
-    "Vaporis' Argument.md",
     "Merchants.md",
     "Other reasons for scale of movement.md",
     "Bakufu and Daimyo/Daimyo makeup.md",
@@ -224,7 +251,6 @@
     "Peasants/villages changes, bushi peasant.md",
     "Peasants/Shorter travels feasable.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
-    "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
     "Bakufu and Daimyo",
     "Religious Institutions",
     "Peasants/travel.jpg",
