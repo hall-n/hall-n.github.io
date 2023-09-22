@@ -23,14 +23,11 @@
             "id": "2874df6f950e0035",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -590.5811286815375,
-                  "y": 156.75135790537428,
-                  "zoom": -0.7777894411485151
-                }
+                "file": "Vaporis' Argument.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Vaporis' Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Vaporis' Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Vaporis' Argument.md"
               }
             }
           },
@@ -200,10 +197,10 @@
   },
   "active": "2874df6f950e0035",
   "lastOpenFiles": [
+    "_Mind Map.canvas",
     "Kouamé Argument.md",
     "_単語.md",
     "_Train of thought.md",
-    "_Mind Map.canvas",
     "_Literature Review.canvas",
     "Peasants/Pilgrims & locals.md",
     "_Outline.md",
