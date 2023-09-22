@@ -11,9 +11,24 @@
             "id": "acae3d68597898ec",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Literature Review.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": -180,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "3338f46fe3758038",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Daimyo makeup.md",
+                "file": "Henro Argument.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +117,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a842576350388b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaporis' Argument.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Shikoku",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,11 +177,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -170,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checkpoint reality.md",
+                "file": "Henro Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checkpoint reality.md",
+                "file": "Henro Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checkpoint reality.md"
+                "file": "Henro Argument.md"
               }
             }
           },
@@ -242,36 +271,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3089a03521ba000b",
+  "active": "3338f46fe3758038",
   "lastOpenFiles": [
-    "_Questions.md",
-    "_Outline.md",
+    "Peasants/Pilgrims & locals.md",
+    "Henro Argument.md",
     "_Literature Review.canvas",
-    "_単語.md",
-    "_travel.jpg",
-    "_Train of thought.md",
-    "Cultural Perspective of Travel.md",
-    "Meibutsu.md",
-    "Merchants.md",
-    "Other reasons for scale of movement.md",
-    "Overall Travel Situation.md",
-    "Untitled.md",
-    "Academic Discussions.md",
-    "Checkpoint reality.md",
-    "Religious Institutions/Kanzaki's argument of Oshi's importance.md",
+    "_Outline.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "Vaporis' Argument.md",
+    "Merchants.md",
+    "Other reasons for scale of movement.md",
+    "Bakufu and Daimyo/Daimyo makeup.md",
+    "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
+    "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
+    "_単語.md",
+    "_Train of thought.md",
+    "_Questions.md",
+    "Checkpoint reality.md",
+    "Cultural Perspective of Travel.md",
+    "Meibutsu.md",
+    "Overall Travel Situation.md",
+    "_travel.jpg",
+    "Academic Discussions.md",
+    "Religious Institutions/Kanzaki's argument of Oshi's importance.md",
     "Religious Institutions/Temple's Economic Incentives.md",
     "Peasants/villages changes, bushi peasant.md",
-    "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
     "Peasants/Shorter travels feasable.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
     "Bakufu and Daimyo/Shogunate Political Complexity.md",
-    "Bakufu and Daimyo/No Class Barriers.md",
-    "Bakufu and Daimyo/Road Conditions.md",
-    "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
-    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "_Mind Map.canvas",
     "Bakufu and Daimyo",
     "Religious Institutions",
