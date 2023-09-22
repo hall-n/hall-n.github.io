@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_単語.md",
+                "file": "Kouamé Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_単語.md",
+                "file": "Kouamé Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_単語.md"
+                "file": "Kouamé Argument.md"
               }
             }
           },
@@ -197,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "3338f46fe3758038",
   "lastOpenFiles": [
+    "_単語.md",
     "_Train of thought.md",
     "_Mind Map.canvas",
-    "_単語.md",
     "Kouamé Argument.md",
     "_Literature Review.canvas",
     "Peasants/Pilgrims & locals.md",

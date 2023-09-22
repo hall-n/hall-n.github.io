@@ -27,3 +27,7 @@ But their relationship was good
 
 Perspecitve of the pilgrims was accepting of imposed restraints
 	From the perspective of the pilgrims, it appears that they accepted the bureaucratic restraints that were imposed on them, for in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insigni³cant constraints. (424)
+
+
+### Shikoku can't be used as standard for Japan
+
