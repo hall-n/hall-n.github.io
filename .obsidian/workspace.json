@@ -11,14 +11,11 @@
             "id": "acae3d68597898ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Literature Review.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": -180,
-                  "zoom": 0
-                }
+                "file": "_単語.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,50 +25,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Henro Argument.md",
+                "file": "Kouamé Argument.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95a0a1c5f8df4ea2",
+            "id": "2874df6f950e0035",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
-                "mode": "source",
-                "source": false
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -295.601089445206,
+                  "y": 202.59285048939878,
+                  "zoom": -0.7777894411485151
+                }
               }
             }
           },
           {
-            "id": "d653d1b5954c6bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf1c7a3db3c3f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cd0daa801f4e92d",
+            "id": "67bc1dce45272b8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,57 +57,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "950cd87ec593b58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cultural Perspective of Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e146c338417931b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3089a03521ba000b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Checkpoint reality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a842576350388b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vaporis' Argument.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Shikoku",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Henro Argument.md",
+                "file": "_単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Henro Argument.md",
+                "file": "_単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Henro Argument.md"
+                "file": "_単語.md"
               }
             }
           },
@@ -271,11 +197,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3338f46fe3758038",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
-    "Peasants/Pilgrims & locals.md",
-    "Henro Argument.md",
+    "_Train of thought.md",
+    "_Mind Map.canvas",
+    "_単語.md",
+    "Kouamé Argument.md",
     "_Literature Review.canvas",
+    "Peasants/Pilgrims & locals.md",
     "_Outline.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
@@ -285,8 +214,6 @@
     "Bakufu and Daimyo/Daimyo makeup.md",
     "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
-    "_単語.md",
-    "_Train of thought.md",
     "_Questions.md",
     "Checkpoint reality.md",
     "Cultural Perspective of Travel.md",
@@ -300,8 +227,6 @@
     "Peasants/Shorter travels feasable.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
-    "Bakufu and Daimyo/Shogunate Political Complexity.md",
-    "_Mind Map.canvas",
     "Bakufu and Daimyo",
     "Religious Institutions",
     "Peasants/travel.jpg",
