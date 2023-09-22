@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "2874df6f950e0035",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": -590.5811286815375,
+                  "y": 156.75135790537428,
+                  "zoom": -0.7777894411485151
+                }
+              }
+            }
+          },
+          {
             "id": "3338f46fe3758038",
             "type": "leaf",
             "state": {
@@ -28,21 +43,6 @@
                 "file": "Kouamé Argument.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2874df6f950e0035",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -295.601089445206,
-                  "y": 202.59285048939878,
-                  "zoom": -0.7777894411485151
-                }
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kouamé Argument.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kouamé Argument.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kouamé Argument.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -198,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3338f46fe3758038",
+  "active": "2874df6f950e0035",
   "lastOpenFiles": [
+    "Kouamé Argument.md",
     "_単語.md",
     "_Train of thought.md",
     "_Mind Map.canvas",
-    "Kouamé Argument.md",
     "_Literature Review.canvas",
     "Peasants/Pilgrims & locals.md",
     "_Outline.md",
