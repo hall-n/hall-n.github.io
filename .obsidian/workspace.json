@@ -11,11 +11,14 @@
             "id": "acae3d68597898ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_単語.md",
-                "mode": "source",
-                "source": false
+                "file": "_Mind Map.canvas",
+                "viewState": {
+                  "x": 269.63488723766886,
+                  "y": -420.95810133737746,
+                  "zoom": 0.46079187020586443
+                }
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_単語.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_単語.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_単語.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -211,8 +214,8 @@
   },
   "active": "acae3d68597898ec",
   "lastOpenFiles": [
-    "Goree Culture of Travel.md",
     "_単語.md",
+    "Goree Culture of Travel.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Kouamé Argument.md",
     "_Literature Review.canvas",
