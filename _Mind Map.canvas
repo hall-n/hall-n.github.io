@@ -65,8 +65,8 @@
 		{"id":"ae51906bb9859920","type":"file","file":"Kouamé Argument.md","subpath":"#^kouameArgument","x":250,"y":215,"width":316,"height":115},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Positive effects of travel","x":-391,"y":-708,"width":240,"height":57,"color":"3"},
 		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-396,"y":-1056,"width":250,"height":179},
-		{"id":"2c8afb055927c2fb","x":-1118,"y":165,"width":250,"height":60,"type":"text","text":"Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry"},
-		{"id":"701a45fc4ce92910","x":-743,"y":-885,"width":250,"height":60,"type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d"}
+		{"id":"2c8afb055927c2fb","type":"text","text":"Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n\nTourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1118,"y":165,"width":250,"height":95},
+		{"id":"701a45fc4ce92910","type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d","x":-743,"y":-885,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1690dda42375913f","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"dfcedb0bf58e1ba2","toSide":"right","color":"3"},

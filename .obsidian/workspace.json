@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -174.39999999999995,
-                  "y": -793.7138214111335,
-                  "zoom": 0
+                  "x": -268.07428983904185,
+                  "y": -140.79257952246536,
+                  "zoom": -0.5470492029190064
                 }
               }
             }
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peasants/Commerce from pilgrims.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peasants/Commerce from pilgrims.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peasants/Commerce from pilgrims.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -213,11 +212,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2874df6f950e0035",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
+    "Peasants/Commerce from pilgrims.md",
     "Goree Culture of Travel.md",
     "_Mind Map.canvas",
-    "Peasants/Commerce from pilgrims.md",
     "_単語.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Kouamé Argument.md",
