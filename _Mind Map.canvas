@@ -22,7 +22,7 @@
 		{"id":"9170a288913c564a","type":"text","text":"## Bakufu & daimyo","x":-9,"y":-641,"width":203,"height":53,"color":"5"},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Positive effects of travel","x":-391,"y":-708,"width":240,"height":57,"color":"3"},
 		{"id":"701a45fc4ce92910","type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d","x":-743,"y":-885,"width":250,"height":60},
-		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n- pilgrims increased commerce\n- if following permit system, hometown not overly negatively effected. \n- not opposed to short pilgimages (Ambros)\n\n","x":-1118,"y":20,"width":250,"height":145},
+		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n- pilgrims increased commerce\n- if following permit system, hometown not overly negatively effected. \n- not opposed to short pilgimages \n\t- Ambros argues the variety of pilgrimages\n\t- perhaps this is reason for bakufu's making permit getting easier, which Vaporis argued could discourage *nukemairi*\n\n","x":-1118,"y":20,"width":250,"height":195},
 		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more realistic: \nin order to encourage commoners to apply, insead of nukemairi. **in other words, to follow the system**","x":-715,"y":-151,"width":186,"height":191},
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-704,"y":-298,"width":164,"height":120},
 		{"id":"137301baec25b4e0","type":"file","file":"Religious Institutions/Temples Oyama Pilgrimage Cults.md","subpath":"#^8e74f5","x":-1335,"y":-209,"width":429,"height":62},
@@ -66,7 +66,7 @@
 		{"id":"a4d827afd9d26939","type":"text","text":"Viewed merchant’s world being\n \nbased on trust and honesty","x":201,"y":-1086,"width":250,"height":60},
 		{"id":"94804075a470c0cf","type":"text","text":"**Did the rulers follow along when they saw the profits?**","x":635,"y":-1187,"width":385,"height":60,"color":"6"},
 		{"id":"3488f42a3ca4f04e","type":"text","text":"## Merchants","x":-9,"y":-877,"width":154,"height":50,"color":"5"},
-		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1118,"y":172,"width":250,"height":165}
+		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1118,"y":241,"width":250,"height":165}
 	],
 	"edges":[
 		{"id":"1690dda42375913f","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"dfcedb0bf58e1ba2","toSide":"right","color":"3"},
