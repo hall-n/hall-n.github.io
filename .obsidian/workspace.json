@@ -26,19 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Goree Culture of Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c04d7da54ac8040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goree Culture of Travel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goree Culture of Travel.md",
+                "file": "_単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goree Culture of Travel.md",
+                "file": "_単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goree Culture of Travel.md"
+                "file": "_単語.md"
               }
             }
           },
@@ -222,13 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2874df6f950e0035",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
-    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Goree Culture of Travel.md",
+    "_単語.md",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Kouamé Argument.md",
     "_Literature Review.canvas",
-    "_単語.md",
     "Vaporis' Argument.md",
     "_Train of thought.md",
     "_Mind Map.canvas",
