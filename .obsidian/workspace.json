@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -1152.4629150390624,
                   "y": 46.70014648437508,
-                  "zoom": 0
+                  "zoom": -0.6388045986493429
                 }
               }
             }
@@ -29,18 +29,6 @@
               "type": "markdown",
               "state": {
                 "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30446b11f3e6ab22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu and Daimyo/Daimyo makeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -163,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md"
               }
             }
           },
@@ -235,13 +225,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
-    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
-    "_Mind Map.canvas",
     "Bakufu and Daimyo/Daimyo makeup.md",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Peasants/Commerce from pilgrims.md",
+    "_Mind Map.canvas",
     "Goree Culture of Travel.md",
     "_単語.md",
     "Kouamé Argument.md",
