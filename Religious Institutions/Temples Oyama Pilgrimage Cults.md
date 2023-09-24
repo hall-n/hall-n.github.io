@@ -1,5 +1,7 @@
 
-Economic incentive example → Oyama pilgrimage cults Ambros ^8e74f5
+Economic incentive example → Oyama pilgrimage cults (Ambros)
+- pilgrims increased commerce by creating demand for services (Ambros)
+^8e74f5
 
 
 ## What is Oyama?
@@ -29,8 +31,13 @@ As in the case of Ise, the expanding number of Ōyama oshi reflects a pattern of
 ## Chapter 5: The impact of the Ōyama cult on the Kantō region as a popular pilgrimage destination. 
 During the early modern period, some lengthy pilgrimages, such as mass pilgrimages to the Ise Shrines or solitary pilgrimages by impoverished travelers around the island of Shikoku, had a reputation for running counter to the orderly social ideals of the bakufu—they represented in some respects what Victor Turner termed an antistructure to everyday life. **Pilgrimages to Ōyama, however, reinforced rather than undermined social structures.** The pilgrimage shaped the regional identity and inspired numerous woodblock prints, popular travel guides, and other works describing the ritual calendar of Edo residents and travel in the Kantō-Tōkai region. Overland and sea-borne pilgrimage routes developed that linked Ōyama to the Kantō region. 
 **Since pilgrims from Edo took only about one week to complete the pilgrimage, and pilgrims from the northeastern provinces in the Kantō took only about twice as long, the bakufu posed little opposition to the pilgrimage.** Moreover, most pilgrims traveled in confraternities based in rural villages or urban neighborhoods, or organized around professional groups or businesses. Such pilgrims did not abscond from their communities; instead, they were usually dispatched as annual representatives. **Confraternity members pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy.** (15-16)
-Pilgrimages from Edo shorter, bakufu not opposed. Pilgrims fueled regional economy.
 
+##### Pilgrimages from Edo shorter, bakufu not opposed. 
+
+#### Pilgrims fueled regional economy.
+Often represented in literature and art, the pilgrimage during the summer festival made Ōyama famous and affected the local economy and transportation systems. (147)
+Other historical evidence, such as oshi records and stone markers, clearly indicates Ōyama’s sustained importance for the local economy and transportation infrastructure throughout the eighteenth century. Beginning around 1700, the oshi developed large parishes outside Sagami Province and nearby rural areas of Musashi, first in Edo and then in the remaining Kantō provinces. Large parishes from distant regions created an influx of pilgrims who were unfamiliar with the territory and needed food, lodging, and other services on the road in Sagami and Musashi. This **created the need for an expanded infrastructure** such as inns, ferries, rental of palanquins and horses, and clearly marked pilgrimage routs (148)
+Beginning in the Kyōhō era (1716–1735), villages on pilgrimage routes and pilgrimage confraternities began to set up stone markers identifying the way to Ōyama at points where secondary roads forked off from major highways such as the Tōkaidō and Kōshū Kaidō, or at intersections with other secondary roads. **Ferrymen at crossing points** along the Tama and Sagami rivers came to rely on pilgrims for income. Villagers set up small **inns providing meals and lodging** for weary travelers, especially during the summer festival at Ōyama. (150)
 #### The type of place Oyama was
 As a pilgrimage site, Ōyama was consciously constructed as a remote place far from human habitation; in fact, it was a place marked by its proximity to a major urban center and by great accessibility—pilgrims visiting the mountain, Ōyama’s innkeepers traveling through the region to collect donations and distribute amulets, and Shingon clerics from temples in the region training at Ōyama in order to return to their home temples after the completion of their training period. In its ordinariness, the Ōyama cult occupied a middle ground that was neither at the center of political power nor at the margins of society. **The cultic site that initially survived on patronage by the bakufu came to depend almost exclusively on the donations’ broad social base—villagers, townspeople, and low-ranking officials.** The Ōyama cult was not used by the bakufu to mobilize human resources or to suppress resistance to the regime, but neither was it a movement to subvert the existing social order. The cult flourished precisely because it was based on and upheld the social structures that shaped village and urban life. Therefore, it can serve as a useful case study of mainstream early modern religion and society. (17-18)
 
