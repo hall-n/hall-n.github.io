@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-1060,"width":594,"height":477,"color":"4","label":"Infrastructre & Economic Freedom"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1360,"y":-520,"width":474,"height":414,"color":"#87aa64","label":"Travel Image and Promotion"},
-		{"id":"59babaeb25768e42","type":"group","x":-1220,"y":0,"width":365,"height":158,"color":"1","label":"My_Reasons"},
+		{"id":"59babaeb25768e42","type":"group","x":-1220,"y":0,"width":365,"height":280,"color":"1","label":"My_Reasons"},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
 		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-314,"y":-303,"width":153,"height":118},
 		{"id":"1b232bf348c15d78","type":"text","text":"movement out of Edo, particularly \nof women, more strict than to Edo.","x":-314,"y":-175,"width":168,"height":85},
@@ -13,7 +13,7 @@
 		{"id":"35b69ba3e031bc73","type":"file","file":"Bakufu and Daimyo/Daimyo makeup.md","x":-74,"y":195,"width":250,"height":270},
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-691,"y":-613,"width":230,"height":100,"color":"3"},
 		{"id":"623e111fca2cf416","type":"text","text":"No class barriers","x":-1083,"y":-789,"width":177,"height":50},
-		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n- ","x":-1118,"y":20,"width":250,"height":120},
+		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n- pilgrims increased commerce\n- if following permit system, hometown not overly negatively effected. \n\n","x":-1118,"y":20,"width":250,"height":120},
 		{"id":"4a3b23a2fbd3ba9c","type":"text","text":"##  Reality at checkpoints","x":-579,"y":-441,"width":296,"height":65,"color":"3"},
 		{"id":"92787d4c04e8ce56","type":"text","text":"tried to make permit system more realistic: \nin order to encourage commoners to apply, insead of nukemairi. **in other words, to follow the system**","x":-715,"y":-151,"width":186,"height":191},
 		{"id":"ec7537a4e9cfc70a","type":"text","text":"While rules seem strict, ultimately final decision left up to checkpoint staff","x":-704,"y":-298,"width":164,"height":120},
@@ -64,7 +64,9 @@
 		{"id":"fca342ae9ad044ab","type":"file","file":"Religious Institutions/Temple's Economic Incentives.md","subpath":"#^9a79a9","x":51,"y":-50,"width":347,"height":62},
 		{"id":"ae51906bb9859920","type":"file","file":"Kouamé Argument.md","subpath":"#^kouameArgument","x":250,"y":215,"width":316,"height":115},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Positive effects of travel","x":-391,"y":-708,"width":240,"height":57,"color":"3"},
-		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-396,"y":-1056,"width":250,"height":179}
+		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-396,"y":-1056,"width":250,"height":179},
+		{"id":"2c8afb055927c2fb","x":-1118,"y":165,"width":250,"height":60,"type":"text","text":"Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry"},
+		{"id":"701a45fc4ce92910","x":-743,"y":-885,"width":250,"height":60,"type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d"}
 	],
 	"edges":[
 		{"id":"1690dda42375913f","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"dfcedb0bf58e1ba2","toSide":"right","color":"3"},
@@ -124,6 +126,7 @@
 		{"id":"231536f94e3d02ee","fromNode":"4d2db80ad80e8db9","fromSide":"top","toNode":"e72b88fff50a2716","toSide":"bottom"},
 		{"id":"88296a06eae8ba76","fromNode":"a4bb52d22260d0fe","fromSide":"bottom","toNode":"6d3400823f47b029","toSide":"top"},
 		{"id":"e607b24cad1f14f3","fromNode":"a4bb52d22260d0fe","fromSide":"bottom","toNode":"35b69ba3e031bc73","toSide":"top"},
-		{"id":"fa6cac54dcdf492c","fromNode":"35b69ba3e031bc73","fromSide":"right","toNode":"ae51906bb9859920","toSide":"left"}
+		{"id":"fa6cac54dcdf492c","fromNode":"35b69ba3e031bc73","fromSide":"right","toNode":"ae51906bb9859920","toSide":"left"},
+		{"id":"9a11ac019eb925ec","fromNode":"96a1b4935b79b771","fromSide":"top","toNode":"701a45fc4ce92910","toSide":"bottom"}
 	]
 }
