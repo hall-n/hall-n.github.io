@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1fc59d83921289b1","type":"group","x":-1480,"y":-1060,"width":594,"height":477,"color":"4","label":"Infrastructre & Economic Freedom"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1360,"y":-520,"width":474,"height":414,"color":"#87aa64","label":"Travel Image and Promotion"},
-		{"id":"59babaeb25768e42","type":"group","x":-1220,"y":0,"width":365,"height":280,"color":"1","label":"My_Reasons"},
+		{"id":"59babaeb25768e42","type":"group","x":-1220,"y":0,"width":365,"height":425,"color":"1","label":"My_Reasons"},
 		{"id":"4dd12bd0dfd78a97","type":"text","text":"\n# Tokugawa travel","x":-396,"y":-588,"width":250,"height":50,"color":"#696969"},
 		{"id":"bc8b68f0af95ad07","type":"file","file":"Checkpoint reality.md","subpath":"#^6bbd61","x":-314,"y":-303,"width":153,"height":118},
 		{"id":"1b232bf348c15d78","type":"text","text":"movement out of Edo, particularly \nof women, more strict than to Edo.","x":-314,"y":-175,"width":168,"height":85},
@@ -65,7 +65,7 @@
 		{"id":"ae51906bb9859920","type":"file","file":"Kouamé Argument.md","subpath":"#^kouameArgument","x":250,"y":215,"width":316,"height":115},
 		{"id":"96a1b4935b79b771","type":"text","text":"## Positive effects of travel","x":-391,"y":-708,"width":240,"height":57,"color":"3"},
 		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-396,"y":-1056,"width":250,"height":179},
-		{"id":"2c8afb055927c2fb","type":"text","text":"Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n\nTourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1118,"y":165,"width":250,"height":95},
+		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1118,"y":165,"width":250,"height":165},
 		{"id":"701a45fc4ce92910","type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d","x":-743,"y":-885,"width":250,"height":60}
 	],
 	"edges":[
