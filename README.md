@@ -1,7 +1,9 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis I look into the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another. 
 
 ----
-[Academic Discussions](main/Merchants.md)
+### Key Groups
+[Merchants](main/Merchants.md)
+[Daimyo makeup](main/Daimyo makeup.md)
 
 ----
 ### Articles of note: 
