@@ -11,14 +11,11 @@
             "id": "67bc1dce45272b8f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -179.82408541815764,
-                  "y": -247.74014897009988,
-                  "zoom": -0.8307138869314042
-                }
+                "file": "_Outline.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Grading.md",
+                "file": "Academic Discussions.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gore",
+                "query": "kanzaki",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +156,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Academic Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Academic Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Academic Discussions.md"
               }
             }
           },
@@ -250,16 +249,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "6fdc79414a27c1dc",
   "lastOpenFiles": [
-    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "_Mind Map.canvas",
-    "Untitled.canvas",
-    "Untitled.md",
-    "_Literature Review.canvas",
     "_Outline.md",
-    "Drawing 2023-09-25 13.04.42.excalidraw.md",
+    "_Outline.canvas",
+    "_Train of thought.md",
+    "_Questions.md",
     "_Grading.md",
+    "Untitled.md",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "_Literature Review.canvas",
+    "Drawing 2023-09-25 13.04.42.excalidraw.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Bakufu and Daimyo/Daimyo makeup.md",
     "Peasants/Commerce from pilgrims.md",
@@ -267,13 +268,11 @@
     "_単語.md",
     "Kouamé Argument.md",
     "Vaporis' Argument.md",
-    "_Train of thought.md",
     "Peasants/Pilgrims & locals.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Merchants.md",
     "Other reasons for scale of movement.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
-    "_Questions.md",
     "Checkpoint reality.md",
     "Cultural Perspective of Travel.md",
     "Meibutsu.md",
