@@ -1,4 +1,5 @@
- Bafuku loses harshness, trend toward laxity ^ef28d4
+
+### Bafuku loses harshness, trend toward laxity ^ef28d4
 - system of benevolent ruler who serves the people
 - fear of peasant resistance
 

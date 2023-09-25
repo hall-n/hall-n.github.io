@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -275.6386248836349,
-                  "y": -694.9885475002025,
-                  "zoom": -1.2346107682567224
+                  "x": -676.8185581937838,
+                  "y": -525.8871613514804,
+                  "zoom": -1.430464379343194
                 }
               }
             }
@@ -53,14 +53,11 @@
             "id": "3ddc5d547950e45d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Mind Map.canvas",
-                "viewState": {
-                  "x": -628.5110175200097,
-                  "y": -432.6935295691298,
-                  "zoom": -1.1691320549700273
-                }
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -70,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,18 +250,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ddc5d547950e45d",
+  "active": "67bc1dce45272b8f",
   "lastOpenFiles": [
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "_Mind Map.canvas",
     "Untitled.canvas",
     "Untitled.md",
     "_Literature Review.canvas",
     "_Outline.md",
     "Drawing 2023-09-25 13.04.42.excalidraw.md",
     "_Grading.md",
-    "_Mind Map.canvas",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Bakufu and Daimyo/Daimyo makeup.md",
-    "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Peasants/Commerce from pilgrims.md",
     "Goree Culture of Travel.md",
     "_単語.md",
