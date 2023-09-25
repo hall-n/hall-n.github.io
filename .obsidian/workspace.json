@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -1152.4629150390624,
-                  "y": 46.70014648437508,
-                  "zoom": -0.6388045986493429
+                  "x": -168.95139403873918,
+                  "y": -199.8503735790195,
+                  "zoom": 0.13406535536235703
                 }
               }
             }
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -225,10 +224,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "67bc1dce45272b8f",
   "lastOpenFiles": [
-    "Bakufu and Daimyo/Daimyo makeup.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "Bakufu and Daimyo/Daimyo makeup.md",
     "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Peasants/Commerce from pilgrims.md",
     "_Mind Map.canvas",
