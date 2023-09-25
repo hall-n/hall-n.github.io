@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 182.7347065381626,
-                  "y": -660.1733629381391,
-                  "zoom": -1.9015276902046565
+                  "x": -443,
+                  "y": -1367.5,
+                  "zoom": 0
                 }
               }
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_README.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -185,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "67bc1dce45272b8f",
   "lastOpenFiles": [
+    "_README.md",
+    "config.yml",
     "_Literature Review.canvas",
     "!!! Ambros's Argument, Oyama Cult.md",
     "!!! Thal's Argument, Temple's Economic Incentives.md",
