@@ -2,6 +2,7 @@
 ## Words:
 8,500-10,000
 
+25+ pages
 ## Thesis Grading:
 Marks for the thesis are given in eight categories: 1) Reading, 2) Research Question, 3) Argument, 4) Methodology, 5) Analysis, 6) Structure, 7) Academic Tone, 8) Academic Standards. Details are on page 2
 

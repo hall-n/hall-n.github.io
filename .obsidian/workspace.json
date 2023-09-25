@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -168.95139403873918,
                   "y": -199.8503735790195,
-                  "zoom": 0.13406535536235703
+                  "zoom": -1.2346107682567224
                 }
               }
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+                "file": "_Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "_Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "_Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "_Outline.md"
               }
             }
           },
@@ -224,13 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "acae3d68597898ec",
   "lastOpenFiles": [
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "_Mind Map.canvas",
     "Bakufu and Daimyo/Daimyo makeup.md",
     "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Peasants/Commerce from pilgrims.md",
-    "_Mind Map.canvas",
     "Goree Culture of Travel.md",
     "_単語.md",
     "Kouamé Argument.md",
