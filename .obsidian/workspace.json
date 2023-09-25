@@ -55,11 +55,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 270,
-                  "y": -100.68886950593708,
-                  "zoom": -1.3906190156936642
+                  "x": -167.68431590991267,
+                  "y": -664.2209716626668,
+                  "zoom": -1.6170532675785652
                 }
               }
             }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -256,8 +256,8 @@
   },
   "active": "3ddc5d547950e45d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.canvas",
+    "Untitled.md",
     "_Literature Review.canvas",
     "_Outline.md",
     "Drawing 2023-09-25 13.04.42.excalidraw.md",
