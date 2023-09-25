@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Outline.md",
+                "file": "_Grading.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,9 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Structure.md",
+                "file": "_Outline.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3807168052c5381a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-09-25 13.04.42.excalidraw.md"
               }
             }
           },
@@ -97,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Drawing 2023-09-25 13.04.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Drawing 2023-09-25 13.04.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Drawing 2023-09-25 13.04.42.excalidraw.md"
               }
             }
           },
@@ -235,12 +246,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "3807168052c5381a",
   "lastOpenFiles": [
-    "_Structure.md",
     "_Outline.md",
-    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
+    "Drawing 2023-09-25 13.04.42.excalidraw.md",
+    "_Grading.md",
     "_Mind Map.canvas",
+    "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "Bakufu and Daimyo/Daimyo makeup.md",
     "Bakufu and Daimyo/The bakufu's position to daimyo and peasants.md",
     "Peasants/Commerce from pilgrims.md",
@@ -265,7 +277,6 @@
     "Religious Institutions/Kanzaki's argument of Oshi's importance.md",
     "Religious Institutions/Temple's Economic Incentives.md",
     "Peasants/villages changes, bushi peasant.md",
-    "Peasants/Shorter travels feasable.md",
     "Bakufu and Daimyo",
     "Religious Institutions",
     "Peasants/travel.jpg",
