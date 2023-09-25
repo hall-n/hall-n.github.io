@@ -1,7 +1,9 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis I look into the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another. 
 
 ----
+[Academic Discussions](Academic Discussions.md)
 
+----
 ### Articles of note: 
 - [The Tōkaidō Road: Journeys through Japanese Books and Prints in the Collections of Princeton University](https://www.jstor.org/stable/10.25290/prinunivlibrchro.73.1.0068)
 - [Cultured Travelers and Consumer Tourists in Edo-Period Sagami](https://www.jstor.org/stable/25066305)
