@@ -7,7 +7,7 @@
 		{"id":"c2614ca111c5ba3a","type":"group","x":-1600,"y":-630,"width":609,"height":383,"color":"3","label":"Authorities' Laxity"},
 		{"id":"163cf93bc2bc1f5d","type":"group","x":200,"y":-451,"width":780,"height":246,"color":"5","label":"寺社"},
 		{"id":"9f63dc8482ea351f","type":"group","x":-683,"y":-1588,"width":566,"height":307,"label":"Thesis"},
-		{"id":"59babaeb25768e42","type":"group","x":-396,"y":-280,"width":365,"height":425,"color":"1","label":"My_Reasons"},
+		{"id":"59babaeb25768e42","type":"group","x":-400,"y":-438,"width":365,"height":425,"color":"1","label":"My_Reasons"},
 		{"id":"e65420f76c6d6062","type":"group","x":-683,"y":-812,"width":574,"height":258,"color":"6","label":"Peasant Travel's Positive Effects"},
 		{"id":"50f40f8ea50d69d8","type":"group","x":200,"y":-720,"width":663,"height":180,"color":"5","label":"Peasants"},
 		{"id":"8da86cb31afccb9f","type":"group","x":-840,"y":-1060,"width":249,"height":114,"label":"Background"},
@@ -71,8 +71,8 @@
 		{"id":"a8f48184e39e0684","type":"file","file":"Meibutsu.md","x":-655,"y":-765,"width":250,"height":179},
 		{"id":"701a45fc4ce92910","type":"file","file":"Peasants/Commerce from pilgrims.md","subpath":"#^0a105d","x":-392,"y":-765,"width":283,"height":50},
 		{"id":"258b41ccfbb12184","type":"text","text":"## Why did it flourish","x":-814,"y":-1033,"width":199,"height":50,"color":"3"},
-		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n\n- if following permit system, hometown not overly negatively effected. \n- not opposed to short pilgimages \n\t- Ambros argues the variety of pilgrimages\n\t- perhaps this is reason for bakufu's making permit getting easier, which Vaporis argued could discourage *nukemairi*\n\n","x":-376,"y":-260,"width":332,"height":195},
-		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-295,"y":-39,"width":250,"height":165}
+		{"id":"f5e6d568ce27b3cc","type":"text","text":"Shogunate supported pilgrimage?\n\n- if following permit system, hometown not overly negatively effected. \n- not opposed to short pilgimages \n\t- Ambros argues the variety of pilgrimages\n\t- perhaps this is reason for bakufu's making permit getting easier, which Vaporis argued could discourage *nukemairi*\n\n","x":-380,"y":-418,"width":332,"height":195},
+		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-299,"y":-197,"width":250,"height":165}
 	],
 	"edges":[
 		{"id":"1690dda42375913f","fromNode":"258b41ccfbb12184","fromSide":"left","toNode":"dfcedb0bf58e1ba2","toSide":"right","color":"3"},
