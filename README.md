@@ -3,7 +3,8 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 ----
 ### Key Groups
 [Merchants](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Merchants.md)
-[Daimyo makeup]([main](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/)/Daimyo makeup.md)
+[Daimyo makeup](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Daimyo makeup.md)
+[Bakufu's position to daimyo and peasants](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Bakufu's position to daimyo and peasants.md)
 
 ----
 ### Articles of note: 
