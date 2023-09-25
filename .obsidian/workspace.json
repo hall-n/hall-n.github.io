@@ -15,8 +15,8 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -168.95139403873918,
-                  "y": -199.8503735790195,
+                  "x": -275.6386248836349,
+                  "y": -694.9885475002025,
                   "zoom": -1.2346107682567224
                 }
               }
@@ -29,6 +29,18 @@
               "type": "markdown",
               "state": {
                 "file": "_Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da5ef42688275b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Outline.md",
+                "file": "_Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Outline.md",
+                "file": "_Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Outline.md"
+                "file": "_Mind Map.canvas"
               }
             }
           },
@@ -224,8 +235,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acae3d68597898ec",
+  "active": "67bc1dce45272b8f",
   "lastOpenFiles": [
+    "_Structure.md",
+    "_Outline.md",
     "Religious Institutions/Temples Oyama Pilgrimage Cults.md",
     "_Mind Map.canvas",
     "Bakufu and Daimyo/Daimyo makeup.md",
@@ -238,7 +251,6 @@
     "Vaporis' Argument.md",
     "_Train of thought.md",
     "Peasants/Pilgrims & locals.md",
-    "_Outline.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Merchants.md",
     "Other reasons for scale of movement.md",
