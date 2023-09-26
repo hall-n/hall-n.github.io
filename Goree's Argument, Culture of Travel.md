@@ -1,4 +1,4 @@
-*Goree 2020, The Culture of Travel in Edo*
+***Goree 2020, The Culture of Travel in Edo***
 
 
 #### Trade meant freedom of movement for lower classes

@@ -1,7 +1,7 @@
-## Vaporis 1994, Breaking Barriers, Travel and the State in Early Modern Japan
+***Vaporis 1994, Breaking Barriers, Travel and the State in Early Modern Japan***
 
 
-**bakufu economically motivated
+bakufu economically motivated
 
 #### The negative economic effects of travel gave reasons for bakufu and daimyo to want to discourage travel
 the primary intent behind the relay system was economic: hence the bakufu's policy of discouraging sea transport, which would have allowed travelers to skip post stations and would reduce the amount of revenue they could raise through provision of transport services. (26)
