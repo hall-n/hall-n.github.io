@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": 500.09313198142456,
-                  "y": -1007.5625470770068,
-                  "zoom": -1.6581056512395533
+                  "x": -778.8722111420958,
+                  "y": -1727.2027580326992,
+                  "zoom": -0.2848871641357732
                 }
               }
             }
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "file": "Bakufu and Daimyo/Permit System.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Bakufu and Daimyo/Permit System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mind Map.canvas",
+                "file": "Bakufu and Daimyo/Permit System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mind Map.canvas"
+                "file": "Bakufu and Daimyo/Permit System.md"
               }
             }
           },
@@ -197,12 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "da5ef42688275b0f",
   "lastOpenFiles": [
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "Bakufu and Daimyo/No Class Barriers.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+    "Bakufu and Daimyo/Confucian element.md",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
     "Peasants/Commerce from pilgrims.md",
     "_Mind Map.canvas",
     "Bakufu not against pilgrimage.md",
-    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "!!! Thal's Argument, Temple's Economic Incentives.md",
     "_README.md",
     "config.yml",
@@ -224,10 +229,6 @@
     "_Grading.md",
     "Untitled.md",
     "Drawing 2023-09-25 13.04.42.excalidraw.md",
-    "Bakufu and Daimyo/Daimyo makeup.md",
-    "_単語.md",
-    "Religious Institutions/Sacral image of wanderer.md",
-    "Merchants.md",
     "_travel.jpg",
     "Bakufu and Daimyo",
     "Religious Institutions",
