@@ -16,6 +16,7 @@
 		{"id":"378a0944c6958441","type":"group","x":-2120,"y":360,"width":640,"height":320,"color":"1","label":"Merchants' value influencial?"},
 		{"id":"163cf93bc2bc1f5d","type":"group","x":600,"y":-591,"width":780,"height":246,"color":"#8f8f8f","label":"寺社"},
 		{"id":"50f40f8ea50d69d8","type":"group","x":600,"y":-860,"width":663,"height":180,"color":"#8f8f8f","label":"Peasants"},
+		{"id":"b3fdacbbad1a14b3","x":-1920,"y":-1112,"width":465,"height":292,"type":"file","file":"Maps.md"},
 		{"id":"c8b91747074a680e","type":"file","file":"Bakufu and Daimyo/No Class Barriers.md","subpath":"#^930058","x":-518,"y":-1510,"width":323,"height":50},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-518,"y":-1460,"width":255,"height":50},
 		{"id":"d89f1e3aad2235f7","type":"file","file":"Other reasons for scale of movement.md","x":-160,"y":-1503,"width":260,"height":114},
@@ -82,7 +83,6 @@
 		{"id":"bb2e64e530f327e9","type":"text","text":"### If against peasant travel, why were the Bakufu lax regarding pilgimage, and why did they not change the permit system to try to limit the peasant's movement? ","x":-1257,"y":-1815,"width":712,"height":92},
 		{"id":"376f98e16b631bdd","type":"file","file":"Merchants.md","x":-2080,"y":404,"width":400,"height":216},
 		{"id":"397cd9a99bb79ed9","type":"file","file":"Peasants/Spread of travel information.md","subpath":"#^1ce652","x":-1364,"y":-1047,"width":288,"height":78},
-		{"id":"4808f109d9bf3d52","x":-1920,"y":-1112,"width":465,"height":292,"color":"1","type":"text","text":"#### Maps facilitated an ideal of commoner centered city\nMaps like Ishikawa Ryulsen's perhaps had a particular appeal to a commoner audience because they allowed commoners access to the city both spatially and culturally, and thus facilitated the construction of an ideal, if not the reality, of a commoner-centered city. Like the advent of vernacular languages in the strictly linguistic sense, **printed maps allowed for new forms of expression and constituted new channels of agency for the common people who used them.** YONEMOTO"},
 		{"id":"c7eaab8d6e01846d","type":"text","text":"Draw from Temples promotion THAL","x":-965,"y":-994,"width":310,"height":50},
 		{"id":"f422b972c22a4363","type":"file","file":"Kanzaki's argument of Oshi's importance.md","subpath":"#^8c338a","x":-965,"y":-929,"width":331,"height":75},
 		{"id":"837eb49692859c05","type":"text","text":"##### Traveling promotion by oshi from temples and shrines","x":-1317,"y":-929,"width":250,"height":60}
@@ -127,6 +127,6 @@
 		{"id":"db354c2ce5a5d470","fromNode":"bc8b68f0af95ad07","fromSide":"right","toNode":"1b232bf348c15d78","toSide":"left"},
 		{"id":"b83c7f35d740003a","fromNode":"fc3823b0a568594c","fromSide":"right","toNode":"03179b61e6344ac4","toSide":"left"},
 		{"id":"f375509d30007942","fromNode":"378a0944c6958441","fromSide":"right","toNode":"e65420f76c6d6062","toSide":"left","color":"1"},
-		{"id":"50a2a2ee57f6a4ed","fromNode":"4808f109d9bf3d52","fromSide":"right","toNode":"397cd9a99bb79ed9","toSide":"left","color":"1"}
+		{"id":"50a2a2ee57f6a4ed","fromNode":"b3fdacbbad1a14b3","fromSide":"right","toNode":"397cd9a99bb79ed9","toSide":"left","color":"1"}
 	]
 }
