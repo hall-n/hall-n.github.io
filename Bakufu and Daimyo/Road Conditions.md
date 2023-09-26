@@ -1,6 +1,6 @@
 Road infrastructure spurred travel Vaporis, Traganou 2004
 
-Safe & convenient road conditions ^379e39
+#### Safe & convenient road conditions ^379e39
 	In the merchant writer Saikaku's words, Japan had become a "well-governed land where the sword remains forever sheathed and peace reigns eternal."11 Wadare was over, and even the danger from highwaymen and pirates that threatened travelers in earlier times is nowhere evident in Tokugawa travel diaries. The only fear that any Tokugawa wayfarer seems to have expressed was that of wolves. 12. This is not to say that highway crime no longer existed, 13 but rather that the possibility of incurring physical harm or violent death on the road does not appear to have restrained Tokugawa travelers. (Vaporis 1994, 220) ^bf991f
 
 Safety increased 

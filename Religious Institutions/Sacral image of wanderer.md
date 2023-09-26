@@ -1,3 +1,5 @@
+ Sacral image of wanderer 
+ 
  image of wander crucial to travel boom Blacker 1984 ^1196a3
  anyone can participate  ^38592f
 

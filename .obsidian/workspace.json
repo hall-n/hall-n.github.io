@@ -15,9 +15,9 @@
               "state": {
                 "file": "_Mind Map.canvas",
                 "viewState": {
-                  "x": -443,
-                  "y": -1367.5,
-                  "zoom": 0
+                  "x": 500.09313198142456,
+                  "y": -1007.5625470770068,
+                  "zoom": -1.6581056512395533
                 }
               }
             }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_README.md",
+                "file": "Peasants/Commerce from pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!!! Thal's Argument, Temple's Economic Incentives.md",
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56815ff714793a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bakufu not against pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -186,11 +199,15 @@
   },
   "active": "67bc1dce45272b8f",
   "lastOpenFiles": [
+    "Peasants/Commerce from pilgrims.md",
+    "_Mind Map.canvas",
+    "Bakufu not against pilgrimage.md",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "!!! Thal's Argument, Temple's Economic Incentives.md",
     "_README.md",
     "config.yml",
     "_Literature Review.canvas",
     "!!! Ambros's Argument, Oyama Cult.md",
-    "!!! Thal's Argument, Temple's Economic Incentives.md",
     "Peasants/Freedom of Travel.md",
     "Peasants/Shorter travels feasable.md",
     "Peasants/Pilgrims & locals.md",
@@ -199,10 +216,7 @@
     "Vaporis' Argument, Travel & Tourism.md",
     "Kouamé Argument, Shikoku Pilgrimage.md",
     "Goree's Argument, Culture of Travel.md",
-    "_Mind Map.canvas",
     "Academic Discussions.md",
-    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
-    "Peasants/Commerce from pilgrims.md",
     "_Outline.md",
     "_Outline.canvas",
     "_Train of thought.md",
@@ -214,8 +228,6 @@
     "_単語.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Merchants.md",
-    "Other reasons for scale of movement.md",
-    "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
     "_travel.jpg",
     "Bakufu and Daimyo",
     "Religious Institutions",
