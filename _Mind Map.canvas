@@ -18,7 +18,6 @@
 		{"id":"50f40f8ea50d69d8","type":"group","x":600,"y":-860,"width":663,"height":180,"color":"#8f8f8f","label":"Peasants"},
 		{"id":"c8b91747074a680e","type":"file","file":"Bakufu and Daimyo/No Class Barriers.md","subpath":"#^930058","x":-518,"y":-1510,"width":323,"height":50},
 		{"id":"6955fc729b07f2ee","type":"text","text":"Road town services prioritized daimyo but could service anyone","x":-518,"y":-1460,"width":255,"height":50},
-		{"id":"397cd9a99bb79ed9","type":"file","file":"Peasants/Spread of travel information.md","subpath":"#^1ce652","x":-518,"y":-1383,"width":302,"height":66},
 		{"id":"d89f1e3aad2235f7","type":"file","file":"Other reasons for scale of movement.md","x":-160,"y":-1503,"width":260,"height":114},
 		{"id":"5f50087fe55ce034","type":"text","text":"abolishment of tolls and private barriers","x":-1076,"y":-1458,"width":226,"height":50},
 		{"id":"3652b60a2f2f4afe","type":"text","text":"Increase road town services that targeted commoner travelers\n","x":-1076,"y":-1408,"width":255,"height":50},
@@ -27,9 +26,6 @@
 		{"id":"60c5ec6c01109f5b","type":"text","text":"#### Travel infrastructure","x":-1358,"y":-1416,"width":211,"height":67},
 		{"id":"f63bc89d7307a11f","type":"file","file":"Peasants/Hardships of travel.md","subpath":"#^886943","x":-780,"y":-1300,"width":650,"height":50,"color":"1"},
 		{"id":"b13292d990040816","type":"file","file":"Religious Institutions/Sacral image of wanderer.md","subpath":"#^38592f","x":-1011,"y":-1066,"width":310,"height":50},
-		{"id":"c7eaab8d6e01846d","type":"text","text":"Draw from Temples promotion THAL","x":-1011,"y":-994,"width":310,"height":50},
-		{"id":"f422b972c22a4363","type":"file","file":"Kanzaki's argument of Oshi's importance.md","subpath":"#^8c338a","x":-1011,"y":-929,"width":331,"height":75},
-		{"id":"837eb49692859c05","type":"text","text":"##### Traveling promotion by oshi from temples and shrines","x":-1364,"y":-1004,"width":250,"height":60},
 		{"id":"86a8b8a971f19592","type":"file","file":"Bakufu and Daimyo/Permit System.md","subpath":"#^a93008","x":-1383,"y":-669,"width":288,"height":79},
 		{"id":"f7ec5f283ff4aaf3","type":"text","text":"#### Positive image of traveling","x":-1364,"y":-1134,"width":288,"height":50},
 		{"id":"b3fda11ed78490f5","type":"file","file":"Peasants/Freedom of Travel.md","subpath":"#^d81d9f","x":-1011,"y":-1134,"width":310,"height":50},
@@ -84,7 +80,12 @@
 		{"id":"03179b61e6344ac4","type":"text","text":"### Present literature dealing with this question","x":-100,"y":-2074,"width":245,"height":95,"color":"4"},
 		{"id":"fc3823b0a568594c","type":"text","text":"#### Vaporis, etc. argue that Bakufu were against travel, envisioned peasants \"tied to land\"\n#### But their actions don't reveal them coming down harshly against peasant travel","x":-711,"y":-2093,"width":516,"height":132},
 		{"id":"bb2e64e530f327e9","type":"text","text":"### If against peasant travel, why were the Bakufu lax regarding pilgimage, and why did they not change the permit system to try to limit the peasant's movement? ","x":-1257,"y":-1815,"width":712,"height":92},
-		{"id":"376f98e16b631bdd","type":"file","file":"Merchants.md","x":-2080,"y":404,"width":400,"height":216}
+		{"id":"376f98e16b631bdd","type":"file","file":"Merchants.md","x":-2080,"y":404,"width":400,"height":216},
+		{"id":"397cd9a99bb79ed9","type":"file","file":"Peasants/Spread of travel information.md","subpath":"#^1ce652","x":-1364,"y":-1047,"width":288,"height":78},
+		{"id":"4808f109d9bf3d52","x":-1920,"y":-1112,"width":465,"height":292,"color":"1","type":"text","text":"#### Maps facilitated an ideal of commoner centered city\nMaps like Ishikawa Ryulsen's perhaps had a particular appeal to a commoner audience because they allowed commoners access to the city both spatially and culturally, and thus facilitated the construction of an ideal, if not the reality, of a commoner-centered city. Like the advent of vernacular languages in the strictly linguistic sense, **printed maps allowed for new forms of expression and constituted new channels of agency for the common people who used them.** YONEMOTO"},
+		{"id":"c7eaab8d6e01846d","type":"text","text":"Draw from Temples promotion THAL","x":-965,"y":-994,"width":310,"height":50},
+		{"id":"f422b972c22a4363","type":"file","file":"Kanzaki's argument of Oshi's importance.md","subpath":"#^8c338a","x":-965,"y":-929,"width":331,"height":75},
+		{"id":"837eb49692859c05","type":"text","text":"##### Traveling promotion by oshi from temples and shrines","x":-1317,"y":-929,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8ffabf0ae716aed1","fromNode":"3488f42a3ca4f04e","fromSide":"right","toNode":"2360fcae13b655f2","toSide":"left"},
@@ -117,7 +118,7 @@
 		{"id":"69de601570ae08f6","fromNode":"fe58275cfeabc7cd","fromSide":"right","toNode":"5f50087fe55ce034","toSide":"left"},
 		{"id":"4209f1966ad422e7","fromNode":"60c5ec6c01109f5b","fromSide":"right","toNode":"3652b60a2f2f4afe","toSide":"left"},
 		{"id":"f04fcbb65394dfa1","fromNode":"60c5ec6c01109f5b","fromSide":"right","toNode":"57b72075b312a136","toSide":"left"},
-		{"id":"6e2e5d9a1851911a","fromNode":"623e111fca2cf416","fromSide":"right","toNode":"397cd9a99bb79ed9","toSide":"left"},
+		{"id":"6e2e5d9a1851911a","fromNode":"f7ec5f283ff4aaf3","fromSide":"bottom","toNode":"397cd9a99bb79ed9","toSide":"top"},
 		{"id":"7e1d8bbc42bb1b1b","fromNode":"f63bc89d7307a11f","fromSide":"bottom","toNode":"dfcedb0bf58e1ba2","toSide":"top","color":"1"},
 		{"id":"703e09def80ec607","fromNode":"f7ec5f283ff4aaf3","fromSide":"right","toNode":"b3fda11ed78490f5","toSide":"left"},
 		{"id":"6e607066fe4b618b","fromNode":"f7ec5f283ff4aaf3","fromSide":"right","toNode":"b13292d990040816","toSide":"left"},
@@ -125,6 +126,7 @@
 		{"id":"b9de66054317f0d8","fromNode":"837eb49692859c05","fromSide":"right","toNode":"f422b972c22a4363","toSide":"left"},
 		{"id":"db354c2ce5a5d470","fromNode":"bc8b68f0af95ad07","fromSide":"right","toNode":"1b232bf348c15d78","toSide":"left"},
 		{"id":"b83c7f35d740003a","fromNode":"fc3823b0a568594c","fromSide":"right","toNode":"03179b61e6344ac4","toSide":"left"},
-		{"id":"f375509d30007942","fromNode":"378a0944c6958441","fromSide":"right","toNode":"e65420f76c6d6062","toSide":"left","color":"1"}
+		{"id":"f375509d30007942","fromNode":"378a0944c6958441","fromSide":"right","toNode":"e65420f76c6d6062","toSide":"left","color":"1"},
+		{"id":"50a2a2ee57f6a4ed","fromNode":"4808f109d9bf3d52","fromSide":"right","toNode":"397cd9a99bb79ed9","toSide":"left","color":"1"}
 	]
 }
