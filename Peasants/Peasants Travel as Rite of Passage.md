@@ -1,5 +1,7 @@
 Rite of passage, increase experience ^927bd3
 
+Shinno 2002
+.The encounter with the hardships of the road came to be regarded as a forIIl of discipline,par― ticularly for young people.It was in the early lnodern era thatthe proverb "Send a cherished child on a journcy''was created.Precisely because of the obstacles and dangers involvcd,travel took on the character of a rite of passage. 456
 ## 通過儀礼, Rite of passage
 
 江戸時代の上層農民の余暇と旅行

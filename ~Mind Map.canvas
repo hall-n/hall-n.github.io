@@ -5,7 +5,7 @@
 		{"id":"e65420f76c6d6062","type":"group","x":-1395,"y":540,"width":1513,"height":360,"color":"6","label":"Economic benefit from peasant travellers"},
 		{"id":"dfcedb0bf58e1ba2","type":"group","x":-1395,"y":-1174,"width":1513,"height":340,"color":"5","label":"Travel Image and Promotion by 寺社"},
 		{"id":"1fc59d83921289b1","type":"group","x":-1395,"y":-1549,"width":1513,"height":315,"color":"5","label":"Travel Infrastructure & Economic Freedom"},
-		{"id":"f62e146a0e02bd33","type":"group","x":-1395,"y":-60,"width":1513,"height":300,"color":"6","label":"Variance in Pilgrimages, hence variance in bakufu's reaction"},
+		{"id":"f62e146a0e02bd33","type":"group","x":-1395,"y":-60,"width":1513,"height":300,"color":"6","label":"Variance in Pilgrimages, creating positive community ties (hence no obstruction from bakufu)"},
 		{"id":"494bd5fcc4eefb3c","type":"group","x":600,"y":-1380,"width":1023,"height":428,"color":"#8f8f8f","label":" Bakufu_Daimyo"},
 		{"id":"c2614ca111c5ba3a","type":"group","x":-1395,"y":-770,"width":1513,"height":273,"color":"5","label":"Checkpoints' Laxity"},
 		{"id":"9f63dc8482ea351f","type":"group","x":-1395,"y":-2140,"width":1513,"height":260,"color":"2","label":"Thesis: The rise of commerce from pilgrimage"},
@@ -17,6 +17,7 @@
 		{"id":"378a0944c6958441","type":"group","x":-2120,"y":465,"width":640,"height":320,"color":"1","label":"Merchants' value influencial?"},
 		{"id":"163cf93bc2bc1f5d","type":"group","x":600,"y":-591,"width":780,"height":246,"color":"#8f8f8f","label":"寺社"},
 		{"id":"50f40f8ea50d69d8","type":"group","x":600,"y":-860,"width":663,"height":180,"color":"#8f8f8f","label":"Peasants"},
+		{"id":"afdfee256f20a6d5","x":-786,"y":0,"width":771,"height":160,"type":"file","file":"Shinno 2002, dichotomy of pleasure and religion a modern idea.md"},
 		{"id":"3652b60a2f2f4afe","type":"text","text":"Increase road town services that targeted commoner travelers\n","x":-1076,"y":-1408,"width":255,"height":50},
 		{"id":"57b72075b312a136","type":"text","text":"Centralized network","x":-1076,"y":-1355,"width":197,"height":50},
 		{"id":"669620e09795e351","type":"file","file":"Peasants/Shorter travels feasable.md","subpath":"#^733040","x":-1364,"y":-1330,"width":233,"height":60},
@@ -83,10 +84,10 @@
 		{"id":"2c8afb055927c2fb","type":"text","text":"- Benefits of tourism realized in Edo period., therefore \"tying people to the land\" would minimize those economic benefits\n- Tourism culture boom can be seen in media and popular culture. Like modern, a wanted industry","x":-1374,"y":1020,"width":588,"height":140},
 		{"id":"35b69ba3e031bc73","type":"file","file":"Bakufu and Daimyo/Daimyo's weakness to peasants.md","subpath":"#^c23e22","x":-1367,"y":345,"width":263,"height":62},
 		{"id":"ae51906bb9859920","type":"file","file":"Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md","subpath":"#^kouameArgument","x":-1037,"y":345,"width":316,"height":62},
-		{"id":"cdafc6304dee36b0","type":"file","file":"Bakufu and Daimyo/Bakufu not against all pilgrimage.md","x":-1355,"y":0,"width":469,"height":207},
 		{"id":"6f2cc72ddfb5e67d","type":"text","text":"## Counter questions \n##### What are motivations to decrease pilgrimage?\n- what are the negative effects of proper pilgrimage? **money leaving domain**\n\n**Similarities to modern Japan** \n- policies in place, but actual implementation of them up to the person in charge. \n- Soft rules that can adapt to circumstances.","x":-1840,"y":-305,"width":407,"height":227,"color":"1"},
 		{"id":"afd3c185ce9cb593","type":"file","file":"Bakufu and Daimyo/Nakai 1988, Shogunate Political Complexity.md","x":-879,"y":-287,"width":536,"height":158},
-		{"id":"20834ad617f6b415","type":"text","text":"# Permit system easy to both obtain and circumvent","x":-634,"y":-566,"width":267,"height":80,"color":"1"}
+		{"id":"20834ad617f6b415","type":"text","text":"# Permit system easy to both obtain and circumvent","x":-634,"y":-566,"width":267,"height":80,"color":"1"},
+		{"id":"cdafc6304dee36b0","type":"file","file":"Bakufu and Daimyo/Bakufu not against all pilgrimage.md","x":-1355,"y":0,"width":469,"height":207}
 	],
 	"edges":[
 		{"id":"8ffabf0ae716aed1","fromNode":"3488f42a3ca4f04e","fromSide":"right","toNode":"2360fcae13b655f2","toSide":"left"},
