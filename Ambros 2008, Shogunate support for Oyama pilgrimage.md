@@ -1,10 +1,10 @@
-
-Economic incentive example → Oyama pilgrimage cults (Ambros)
-- pilgrims increased commerce by creating demand for services (Ambros)
+*Ambros 2008, Emplacing a Pilgrimage The Ōyama Cult and Regional Religion in Early Modern Japan*
+#### Distinguishes the difference in pilgrims, difference in authorities reactions
+Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Oyama reinforced social structures
+#### Economic incentive example → Oyama pilgrimage cults (Ambros)
+pilgrims increased commerce by creating demand for services (Ambros)
 ^8e74f5
-
-
-## What is Oyama?
+#### What is Oyama?
 a medieval yamabushi site that was understood as an earthly manifestation of Maitreya’s Tus.ita Heaven, changing into a complex Shingon academy and popular pilgrimage site in the early modern period.
 
 #### Chapter 2 & 3: Ōyama’s institutional complexities. 
@@ -67,7 +67,6 @@ Licensing system
 <mark style="background: #FFF3A3A6;">	??? page 99~</mark>
 ## Conclusion of *Emergence of the Ōyama Oshi*, 
 From *Ambros 2008, Emplacing a Pilgrimage The Ōyama Cult and Regional Religion in Early Modern Japan*
-
 #### Economic changes created oshi
 The return to ancient ways envisioned by these Nativist oshi was not simply a return to medieval Ōyama but a mythical, pre-Buddhist site. They did not seek a reinstatement of Ōyama’s shugendō but a pure Shinto tradition. They attempted to reject their status as oshi and re-define themselves as Shinto shrine priests. Ironically, however, they took for granted the highly popular Ōyama cult, which had resulted from the oshi’s symbiotic relationship with the Shingon clergy during the early modern period.
 It had been their role as oshi that contributed to the spread of the Ōyama cult in the Kantō region in the seventeenth and eighteenth cen-turies. Over the course of the seventeenth century, the oshi developed primarily out of yamabushi who had lost much of their authority to the Shingon clergy on the mountain in the first decade of the seventeenth century. Eventually, the tradition of mountain asceticism largely disap- peared from Ōyama in the second half of the seventeenth century and left the former yamabushi to seek new means of income, forcing them to run inns and develop parishes throughout the Kantō region. **These parishes, from which most of Ōyama’s pilgrims came, became the single most important source of income for Ōyama**. The system spread from areas near Ōyama across the entire Kantō region. It was these oshi who sustained the bonds between parishioners and the mountain through making yearly rounds of their parishes and providing accommodations for pilgrims. Despite their conflict-laden genesis, the oshi were not inconstant opposition to Ōyama’s Shingon temples. They developed cus-tomary networks with temples to handle pilgrims and received licenses from the head Shingon temple, Hachidaibō, which helped them to dis-tinguish themselves from their competing innkeepers in neighboring villages. Another reason why the oshi did not voice a united opposition to the temples was that they were in fact a fairly diverse group with different heritages and levels of wealth. Some oshi were in the employ of Hachidaibō and therefore shared the temples’ interests. It was only in the mid-nineteenth century that several wealthy oshi began to seek affiliation with external sources of authority such as the Shirakawa House and to engage in anti-Buddhist rhetoric culled from the Nativist Hirata school. This rhetoric eventually led to friction between the Shingon temples and the oshi, and provided the basis for the disassociation of kami and Buddhas in the early Meiji period.

@@ -11,11 +11,14 @@
             "id": "da5ef42688275b0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "~Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -631.6782840764433,
+                  "y": -1460.7749025738353,
+                  "zoom": -0.6720647142330834
+                }
               }
             }
           },
@@ -27,22 +30,10 @@
               "state": {
                 "file": "~Literature Review.canvas",
                 "viewState": {
-                  "x": -927.5469171989341,
-                  "y": 793.7255788868337,
-                  "zoom": -1.031912105499809
+                  "x": 640.5760448882668,
+                  "y": -699.9602717026668,
+                  "zoom": -0.5377407506605048
                 }
-              }
-            }
-          },
-          {
-            "id": "7b7b55fbd2dd7d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blacker 2008, Image of pilgrimage important, Bakufu's negative view of pilgrims.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -52,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temple's Economic Incentives increased pilgrims.md",
+                "file": "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,12 +96,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -200,24 +191,24 @@
   },
   "active": "72a79c61c7033fc2",
   "lastOpenFiles": [
-    "Blacker 2008, Image of pilgrimage important, Bakufu's negative view of pilgrims.md",
-    "~Questions.md",
-    "Peasants/Hardships of travel.md",
+    "~Mind Map.canvas",
     "~Literature Review.canvas",
-    "Religious Institutions/Sacral image of wanderer.md",
+    "~Outline.canvas",
+    "~Questions.md",
+    "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Temple's Economic Incentives increased pilgrims.md",
-    "Bakufu and Daimyo/Bakufu not against pilgrimage.md",
+    "Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+    "Peasants/Hardships of travel.md",
+    "Religious Institutions/Sacral image of wanderer.md",
+    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
     "Overall Travel Situation.md",
     "Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "!!! Ambros's Argument, Oyama Cult.md",
     "~travel.jpg",
     "~単語.md",
     "~README.md",
     "~Train of thought.md",
-    "~Outline.canvas",
     "~Outline.md",
-    "~Mind Map.canvas",
     "~Grading.md",
     "Bakufu and Daimyo/No Class Barriers.md",
     "Merchants.md",

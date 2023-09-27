@@ -1,4 +1,4 @@
-Research on Hakuseki shogun advisor shows how authorities role was not at commoners' expense, and policies and focus changed with different administrations.
+#### Research on Hakuseki shogun advisor shows how authorities role was not at commoners' expense, and policies and focus changed with different administrations.
 
 *Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press*
 
