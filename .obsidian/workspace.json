@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da5ef42688275b0f",
+            "id": "ea9690a2218cb221",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -836.9239492518914,
-                  "y": -1951.3972749002476,
-                  "zoom": -0.810561519771266
-                }
-              }
-            }
-          },
-          {
-            "id": "8f65134a93c3b052",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Literature Review.canvas",
-                "viewState": {
-                  "x": -1121.2162179815577,
-                  "y": -689.7182673650896,
-                  "zoom": -1.4299013962348306
+                  "x": -3122.342546142,
+                  "y": -1618.0657898452744,
+                  "zoom": -1.1599116833778516
                 }
               }
             }
@@ -41,21 +26,14 @@
             "id": "84cc36eeddfc5c44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "真野 2002, dichotomy of pleasure and religion a modern idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea9690a2218cb221",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
+                "file": "~Literature Review.canvas",
+                "viewState": {
+                  "x": -1210.0854835244359,
+                  "y": -362.8076003388987,
+                  "zoom": -1.5083058885518594
+                }
               }
             }
           },
@@ -71,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -138,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature Review.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature Review.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~Literature Review.canvas"
               }
             }
           },
@@ -210,12 +188,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da5ef42688275b0f",
+  "active": "84cc36eeddfc5c44",
   "lastOpenFiles": [
-    "~Literature Review.canvas",
     "~Mind Map.canvas",
-    "Peasants/Commerce from pilgrims.md",
+    "~Literature Review.canvas",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
+    "Peasants/Commerce from pilgrims.md",
     "~単語.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -240,7 +219,6 @@
     "Religious Institutions/Travel agents.md",
     "Cultural Perspective of Travel.md",
     "Bakufu and Daimyo/Road Conditions.md",
-    "Bakufu and Daimyo/Nakai 1988, Shogunate Political Complexity.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
