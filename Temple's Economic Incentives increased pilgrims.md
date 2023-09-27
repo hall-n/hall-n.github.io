@@ -1,4 +1,4 @@
-Lack of bakufu's funding prompts support from shrine visitors  Thal ^9a79a9
+# Thal 2005, Lack of bakufu's funding prompts support from shrine visitors
 ##### competitive age
 Growing trade fostered fierce competition - among priests and diamyo seeking prosperity for their domains, among producers and merchants seeking lucrative contracts, among religious rivals seeking the donations and prayer commissions of would-be worshippers. The god Konpira became both resource and benefactor, as people sought to build and capitalize upon the pilgrimage at the same time that they prayed to the god for health and wealth. Amid these market forces, Mt. Zozu grew from a center of local trade to become an important link among the emerging entrepreneurial elites of western Japan. By the mid-eighteenth century, Konkoin's priests would obtain national recognition and economic security as the imperially sponsored, the exclusive site of a redefined Konpira. The object of prayers from people across the social and economic spectrum, Konpira became for many a god of money, symbolically as well as miraculously powerful in the increasingly fierce competition of a market-oriented age. (Thal 2005, 73)
 
@@ -25,8 +25,13 @@ the Tadotsu lord - who did not actually live in Tadotsu until 1827 but stayed in
 ##### Lords sent representative pilgrims 
 These lords, like the lords of Takamatsu, apparently viewed Konpira Daigongen as a powerful local guardian, good for guaranteeing prosperity as well as safety upon their journeys. (Thal 2005, 77) 
 ##### Personal and professional reasons for supporting shrines and pilgrimage
-The Matsudaira and Kyogoku families, then, became committed surporters of Konpira Daigongen shortly after their arrival in Shikoku. They carried Konpira with them to Osaka and Edo, where they enrshined the deity at their mansions. They supported the development of the pilrimage to Mt. Zozu, facilitating traffic throught the three ports of Takamatsu, Marugame, and Tadotsu, thereby fostering custom for boat operators, innkeepers, fanmakers, and other business in Konpira and their own domains. In effect, their support of Konpira - oustide the formal boundaries of any of the three larger domains - into an expanding network of personal, economic, and ritual relationships. (Thal 2005, 78)
-##### Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country
+The Matsudaira and Kyogoku families, then, became committed surporters of Konpira Daigongen shortly after their arrival in Shikoku. They carried Konpira with them to Osaka and Edo, where they enrshined the deity at their mansions. They supported the development of the pilrimage to Mt. Zozu, facilitating traffic throught the three ports of Takamatsu, Marugame, and Tadotsu, thereby fostering custom for boat operators, innkeepers, fanmakers, and other business in Konpira and their own domains. In effect, their support of Konpira - oustide the formal boundaries of any of the three larger domains - into an expanding network of personal, economic, and ritual relationships. (Thal 2005, 78) ^94a46e
+
+
+
+
+# Ishimori 1995 Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country
+
 "kaich6 which is the display of an image at the temple which owns it, and the other is the degaich6 which involves transporting the image to another place for viewing" (Ishimori 1995, 15)
 ##### Degaicho attracted vendors and shows
 "For the pilgrims, the primary benefit of the kaicho" was to obtain divine protection by establishing ties with Buddha. However, for the monks at the temples, the primary benefit was the extra revenue, while the Shogunate benefited from the demonstration of its power through the OMce of Temple and Shrine Administration." (Ishimori 1995, 16)

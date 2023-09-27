@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67bc1dce45272b8f",
+            "id": "da5ef42688275b0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Literature Review.canvas",
-                "viewState": {
-                  "x": -1084.3255469017554,
-                  "y": 255.27705526964655,
-                  "zoom": -1.3866272004259128
-                }
+                "file": "~Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,21 +23,24 @@
             "id": "72a79c61c7033fc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bakufu and Daimyo/No Class Barriers.md",
-                "mode": "source",
-                "source": false
+                "file": "~Literature Review.canvas",
+                "viewState": {
+                  "x": -927.5469171989341,
+                  "y": 793.7255788868337,
+                  "zoom": -1.031912105499809
+                }
               }
             }
           },
           {
-            "id": "da5ef42688275b0f",
+            "id": "7b7b55fbd2dd7d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merchants.md",
+                "file": "Blacker 2008, Image of pilgrimage important, Bakufu's negative view of pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,13 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu not against pilgrimage.md",
+                "file": "Temple's Economic Incentives increased pilgrims.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nenzi",
+                "query": "Blacker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Literature Review.canvas",
+                "file": "~Literature Review.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Literature Review.canvas",
+                "file": "~Literature Review.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Literature Review.canvas"
+                "file": "~Literature Review.canvas"
               }
             }
           },
@@ -198,38 +198,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67bc1dce45272b8f",
+  "active": "72a79c61c7033fc2",
   "lastOpenFiles": [
-    "Merchants.md",
-    "Bakufu and Daimyo/No Class Barriers.md",
-    "_Literature Review.canvas",
-    "Academic Discussions.md",
+    "Blacker 2008, Image of pilgrimage important, Bakufu's negative view of pilgrims.md",
+    "~Questions.md",
+    "Peasants/Hardships of travel.md",
+    "~Literature Review.canvas",
+    "Religious Institutions/Sacral image of wanderer.md",
+    "Temple's Economic Incentives increased pilgrims.md",
+    "Bakufu and Daimyo/Bakufu not against pilgrimage.md",
     "Overall Travel Situation.md",
+    "Kanzaki 1995, Oshi's importance in pilgrimage.md",
+    "Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
+    "!!! Ambros's Argument, Oyama Cult.md",
+    "~travel.jpg",
+    "~単語.md",
+    "~README.md",
+    "~Train of thought.md",
+    "~Outline.canvas",
+    "~Outline.md",
+    "~Mind Map.canvas",
+    "~Grading.md",
+    "Bakufu and Daimyo/No Class Barriers.md",
+    "Merchants.md",
+    "Academic Discussions.md",
     "Religious Institutions/Travel agents.md",
-    "Thal 2005, Temple's Economic Incentives increased pilgrims.md",
     "Cultural Perspective of Travel.md",
     "Bakufu and Daimyo/Road Conditions.md",
-    "_Mind Map.canvas",
     "Bakufu and Daimyo/Nakai 1988, Shogunate Political Complexity.md",
     "Maps.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
     "Peasants/Commerce from pilgrims.md",
-    "Other reasons for scale of movement.md",
-    "Vaporis' Argument, Travel & Tourism.md",
-    "Religious Institutions/Sacral image of wanderer.md",
-    "Kanzaki's argument of Oshi's importance.md",
-    "Peasants/villages changes, bushi peasant.md",
-    "Peasants/Spread of travel information.md",
-    "Peasants/Shorter travels feasable.md",
-    "Peasants/Pilgrims & locals.md",
-    "Peasants/Peasants Travel as Rite of Passage.md",
-    "Peasants/Hardships of travel.md",
-    "Peasants/Freedom of Travel.md",
-    "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
-    "Bakufu and Daimyo/Permit System.md",
     "config.yml",
-    "_Outline.canvas",
-    "_travel.jpg",
     "Bakufu and Daimyo",
     "Religious Institutions",
     "Peasants/travel.jpg",

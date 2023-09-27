@@ -19,7 +19,7 @@ Both faces of the ambivalence, the divinity and the outcast, are outside human s
 
 
 
-
+# Ishimori 1995, 
 #### *Ishimori 1995, Tourism and Religion : From the Perspective of Comparative Civilization*
 religion and tourism opposite ends of human behavior: sacred/profane
 But have the same elements of transcending everyday, fear and fascination

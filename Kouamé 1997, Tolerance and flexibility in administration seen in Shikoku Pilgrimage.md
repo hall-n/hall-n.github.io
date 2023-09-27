@@ -1,3 +1,5 @@
+tolerance seen in an administration renowned for its severity, flexibility of a social system known for its rigidity
+
 *Kouamé 1997, Shikoku’s local authorities and henro during the Golden Age of the Pilgrimage*
 
 As long as the pilgrims followed regulations, the local authorities supported pilgrims ^kouameArgument
