@@ -15,14 +15,30 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -731.9397703723641,
-                  "y": -883.1537952571011,
-                  "zoom": -1.4120848516912827
+                  "x": 952.8221686241613,
+                  "y": -700,
+                  "zoom": -2.5850028439781294
+                }
+              }
+            }
+          },
+          {
+            "id": "d04081995937817e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature To Read.canvas",
+                "viewState": {
+                  "x": -976.8539682539683,
+                  "y": -400,
+                  "zoom": -2.1451167078598106
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature To Read.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature To Read.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~Literature To Read.canvas"
               }
             }
           },
@@ -146,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56815ff714793a60",
+  "active": "d04081995937817e",
   "lastOpenFiles": [
-    "~単語.md",
+    "~Mind Map.canvas",
     "~Outline.canvas",
     "~Outline.md",
-    "~Mind Map.canvas",
     "~Literature To Read.canvas",
+    "~単語.md",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Commerce from pilgrims.md",
