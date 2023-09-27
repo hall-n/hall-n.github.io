@@ -6,6 +6,7 @@
 		{"id":"ec8dc40bfb1bd6f5","type":"group","x":-2260,"y":-1460,"width":1900,"height":580,"label":"Societal Complexity & Shifting Cultural Values"},
 		{"id":"d493f1eb2371db70","x":1080,"y":-1920,"width":653,"height":394,"type":"group","label":"Not Relevant"},
 		{"id":"53dbe13e23e4b1f9","type":"group","x":-2590,"y":-1920,"width":1990,"height":114,"color":"#707070","label":"Legend"},
+		{"id":"8ffd8a17e4f413a0","x":-1435,"y":-195,"width":250,"height":60,"type":"text","text":""},
 		{"id":"65c239e596558e46","type":"file","file":"Bakufu and Daimyo/Nakai 1988, Shogunate Political Complexity.md","x":-1557,"y":-1400,"width":594,"height":169,"color":"2"},
 		{"id":"af92518884c51a79","type":"file","file":"Goree's Argument, Culture of Travel.md","x":-1617,"y":-740,"width":500,"height":520},
 		{"id":"8cf0c368f182d4c9","type":"text","text":"# Sheldon 1971, Merchants not against status system\n*Sheldon 1971, Pre-Modern’ Merchants and Modernization in Japan*","x":-1557,"y":-1200,"width":537,"height":90},
