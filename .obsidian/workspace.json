@@ -15,9 +15,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -3122.342546142,
-                  "y": -1618.0657898452744,
-                  "zoom": -1.1599116833778516
+                  "x": -3276.7734596989103,
+                  "y": -1458.2117478713787,
+                  "zoom": -1.155199333826701
                 }
               }
             }
@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "~Literature Review.canvas",
+                "file": "~Literature To Read.canvas",
                 "viewState": {
-                  "x": -1210.0854835244359,
-                  "y": -362.8076003388987,
-                  "zoom": -1.5083058885518594
+                  "x": -810.5359031425432,
+                  "y": -572.0954757770329,
+                  "zoom": -2.447720089334635
                 }
               }
             }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature Review.canvas",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature Review.canvas",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature Review.canvas"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -188,17 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84cc36eeddfc5c44",
+  "active": "ea9690a2218cb221",
   "lastOpenFiles": [
+    "~Literature To Read.canvas",
     "~Mind Map.canvas",
-    "~Literature Review.canvas",
+    "~Outline.canvas",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Commerce from pilgrims.md",
     "~単語.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "~Outline.canvas",
     "~Questions.md",
     "Temple's Economic Incentives increased pilgrims.md",
     "Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
