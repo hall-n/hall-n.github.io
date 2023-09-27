@@ -15,9 +15,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -943.5072299853495,
-                  "y": -869.7066223469964,
-                  "zoom": -0.7326857607657193
+                  "x": -836.9239492518914,
+                  "y": -1951.3972749002476,
+                  "zoom": -0.810561519771266
                 }
               }
             }
@@ -30,9 +30,9 @@
               "state": {
                 "file": "~Literature Review.canvas",
                 "viewState": {
-                  "x": -1367,
-                  "y": -480,
-                  "zoom": -0.7996283811330795
+                  "x": -1121.2162179815577,
+                  "y": -689.7182673650896,
+                  "zoom": -1.4299013962348306
                 }
               }
             }
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature Review.canvas",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature Review.canvas",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature Review.canvas"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -211,13 +210,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f65134a93c3b052",
+  "active": "da5ef42688275b0f",
   "lastOpenFiles": [
-    "Peasants/Commerce from pilgrims.md",
+    "~Literature Review.canvas",
     "~Mind Map.canvas",
+    "Peasants/Commerce from pilgrims.md",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "~単語.md",
-    "~Literature Review.canvas",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Outline.canvas",
