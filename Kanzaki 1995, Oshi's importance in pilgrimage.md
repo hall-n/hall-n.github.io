@@ -1,5 +1,5 @@
 *Kanzaki 1995, A comparative analysis of the tourist industry*
-The oshi were originators of tourism in Japan ^8c338a
+#### The oshi were originators of tourism in Japan ^8c338a
 
 A desire to travel is common to all human beings, but travel thrives only because institutions and facilities for travel were well equipped and the society stable (40)
 
