@@ -8,44 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea9690a2218cb221",
+            "id": "56815ff714793a60",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -3276.7734596989103,
-                  "y": -1458.2117478713787,
-                  "zoom": -1.155199333826701
+                  "x": -349.54605542083937,
+                  "y": -1214.2020599532632,
+                  "zoom": -0.694680452773131
                 }
-              }
-            }
-          },
-          {
-            "id": "84cc36eeddfc5c44",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Literature To Read.canvas",
-                "viewState": {
-                  "x": -810.5359031425432,
-                  "y": -572.0954757770329,
-                  "zoom": -2.447720089334635
-                }
-              }
-            }
-          },
-          {
-            "id": "56815ff714793a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~単語.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -187,15 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea9690a2218cb221",
+  "active": "56815ff714793a60",
   "lastOpenFiles": [
-    "~Literature To Read.canvas",
-    "~Mind Map.canvas",
+    "~単語.md",
     "~Outline.canvas",
+    "~Outline.md",
+    "~Mind Map.canvas",
+    "~Literature To Read.canvas",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Commerce from pilgrims.md",
-    "~単語.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Questions.md",
@@ -210,7 +184,6 @@
     "~travel.jpg",
     "~README.md",
     "~Train of thought.md",
-    "~Outline.md",
     "~Grading.md",
     "Bakufu and Daimyo/No Class Barriers.md",
     "Merchants.md",
