@@ -1,12 +1,7 @@
-Income pilgrims brought increase in commerce ^0a105d
-- petition to open road to pilgrim 
-
-
 ### Community wanted commerce from pilgrims
-- oyama example AMBROS
-- Tosa example ROBERTS
-
-#### Communities and establishments relied on pilgrims for income
+- oyama example Ambros 2008
+- Tosa example Roberts 1998
+## Ambros 2008, Communities and establishments relied on pilgrims for income
 - Ferrymen at crossing points along the Tama and Sagami rivers came to rely on pilgrims for income. Villagers set up small inns providing meals and lodging for weary travelers, especially during the summer festival at Ōyama.
 - These inns were established solely to accommodate pilgrims during the summer festival because there was no other substantial traffic through the villages. Many of these establishments were seasonal, operating only during the summer festival and providing temporary by-work for peasants hired from nearby villages. 
 - By the latter half of the eighteenth century, towns in Sagami and Musashi had come to rely financially on the pilgrimage traffic to Ōyama.
@@ -24,7 +19,7 @@ Most pilgrimages to Ōyama took place during a distinct season before the harves
 #### Because pilgrims largely came from fraternities or parishes, they were not nukemairi
 The regional make-up of the pilgrims reflects the overall distribution of Hachidayū’s parishes, which were concentrated in southeastern Musashi, Edo, and Shimōsa; therefore, the highest number of visitors (about 85 percent) came from these regions. (1)
 
-## Petition system of Tosa to draw pilgrims
+## Roberts 1998, Petition system of Tosa to draw pilgrims
 *Roberts 1998, Mercantilism in a Japanese Domain_ The Merchant Origins of Economic Nationalism in 18th-Century Tosa.*
 Another case is especially interesting because it reveals a public space of political discussion that could be communicated to the lord by the accumulation of a number of individual petitions. (129
 ##### Petition to draw pilgrims

@@ -15,10 +15,22 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -477.77500000000026,
-                  "y": -1.3750000000000058,
-                  "zoom": 0
+                  "x": -410.8833366851268,
+                  "y": 735.5239083966318,
+                  "zoom": -0.5674454547062
                 }
+              }
+            }
+          },
+          {
+            "id": "8f65134a93c3b052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peasants/Commerce from pilgrims.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,19 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shinno 2002, dichotomy of pleasure and religion a modern idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b8814a3344dca7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peasants/Peasants Travel as Rite of Passage.md",
+                "file": "真野 2002, dichotomy of pleasure and religion a modern idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,9 @@
               "state": {
                 "file": "~Literature Review.canvas",
                 "viewState": {
-                  "x": 744.633243572684,
-                  "y": -774.7234973902315,
-                  "zoom": -0.10914580975970543
+                  "x": -1095.0903452916257,
+                  "y": -165.35779821375579,
+                  "zoom": -0.9611960665384921
                 }
               }
             }
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shinno 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shinno 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shinno 2002, dichotomy of pleasure and religion a modern idea.md"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -214,12 +213,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84cc36eeddfc5c44",
+  "active": "da5ef42688275b0f",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
-    "Shinno 2002, dichotomy of pleasure and religion a modern idea.md",
-    "Peasants/Peasants Travel as Rite of Passage.md",
     "~Literature Review.canvas",
+    "~Mind Map.canvas",
+    "Peasants/Commerce from pilgrims.md",
+    "真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
     "~単語.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Outline.canvas",
@@ -244,7 +244,6 @@
     "Cultural Perspective of Travel.md",
     "Bakufu and Daimyo/Road Conditions.md",
     "Bakufu and Daimyo/Nakai 1988, Shogunate Political Complexity.md",
-    "Maps.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
