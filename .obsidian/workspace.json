@@ -8,26 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d04081995937817e",
+            "id": "c8baf028989261ba",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "~Literature To Read.canvas",
                 "viewState": {
-                  "x": -673.7396330966641,
-                  "y": 595.8600461755294,
-                  "zoom": -0.675001811463021
+                  "x": -704.6982041289091,
+                  "y": -855.1101005126255,
+                  "zoom": -1.6285939526557922
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d6e9136f68fc9aec",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "56815ff714793a60",
             "type": "leaf",
@@ -36,14 +30,15 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -816.0723079692,
-                  "y": -2128.246730676935,
-                  "zoom": -1.0078273646036784
+                  "x": -960.7315833109992,
+                  "y": -1958.9240748781917,
+                  "zoom": -1.0902528204512814
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -185,8 +179,11 @@
   "active": "56815ff714793a60",
   "lastOpenFiles": [
     "~Literature To Read.canvas",
-    "Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "Peasants/Commerce from pilgrims.md",
+    "Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+    "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Mind Map.canvas",
+    "Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Trag.md",
     "Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
@@ -196,9 +193,7 @@
     "~単語.md",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
-    "Peasants/Commerce from pilgrims.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
-    "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Questions.md",
     "Temple's Economic Incentives increased pilgrims.md",
     "Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
@@ -212,7 +207,6 @@
     "~README.md",
     "~Train of thought.md",
     "~Grading.md",
-    "Bakufu and Daimyo/No Class Barriers.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",

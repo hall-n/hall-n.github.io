@@ -1,4 +1,22 @@
 *Ambros 2008, Emplacing a Pilgrimage The Ōyama Cult and Regional Religion in Early Modern Japan*
+
+## Ambros 2008, Communities and establishments relied on pilgrims for income
+- Ferrymen at crossing points along the Tama and Sagami rivers came to rely on pilgrims for income. Villagers set up small inns providing meals and lodging for weary travelers, especially during the summer festival at Ōyama.
+- These inns were established solely to accommodate pilgrims during the summer festival because there was no other substantial traffic through the villages. Many of these establishments were seasonal, operating only during the summer festival and providing temporary by-work for peasants hired from nearby villages. 
+- By the latter half of the eighteenth century, towns in Sagami and Musashi had come to rely financially on the pilgrimage traffic to Ōyama.
+- Evidence found in other sources, such as records of disputes and accidents involving station towns and river crossings, also suggests that the regional economy relied on pilgrimage travel to Ōyama.(150)
+
+^c8371a
+#### Adverse affects that minimized pilgrim travel were halted
+The situation was no different along other routes apart from the Tōkaidō as pilgrims tried to minimize expenses along the way to Ōyama. By 1840, local communities along the major routes from Kai and Musashi had come to charge Ōyama pilgrims tolls to finance the repairs of roads and bridges, and overcharged them for ferry services, horses, palanquins, meals, and lodging. Consequently, pilgrims avoided these routes. This prompted local village heads and representatives of innkeepers from eleven villages in Tama District in Musashi and Aikō and Ōsumi Districts in Sagami to issue an agreement to cease collecting tolls for roads, cut the fees for ferries and bridges in half, and keep prices for horses, carriages, meals, and lodging within reasonable limits. (152)
+#### Commerce from pilgrimage became an essential part of the community
+The pilgrimage to Ōyama also began to have a tangible impact on the regional communications system—both for overland and sea routes. The strongest impact of the pilgrimage was witnessed during the summer festival of Sekison between 6/28 and 7/17, when even villagers who normally did not cater to travelers operated inns, ferries, and other services along the roads to Ōyama. Even though the local transportation system was not created for and did not serve exclusively the pilgrimage to Ōyama, the **pilgrimage contributed greatly to the expansion of the existing system**, which, by the late eighteenth century, became almost synonymous with Ōyamamichi in the Kantō region. (159-160)
+
+#### Pilgrimage did not have a negative economic effect on their home regions
+Most pilgrimages to Ōyama took place during a distinct season before the harvest and involved only a few members of the community, allowing the rest to maintain their daily routine as usual so that village or neighborhood life was hardly disrupted. Moreover, the pilgrimages were primarily undertaken for the good of the entire community rather than for personal reasons. Upon their return, pilgrims brought everyone amulets for protection from harm and (160) illness. Therefore, pilgrims were not perceived as escapees from their home communities but rather as emissaries traveling on the community’s behalf. **Usually, neither the local communities nor bakufu authorities sought to prevent such journeys,** unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites. (161)
+
+#### Because pilgrims largely came from fraternities or parishes, they were not nukemairi
+The regional make-up of the pilgrims reflects the overall distribution of Hachidayū’s parishes, which were concentrated in southeastern Musashi, Edo, and Shimōsa; therefore, the highest number of visitors (about 85 percent) came from these regions. (1)
 #### Distinguishes the difference in pilgrims, difference in authorities reactions
 Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Oyama reinforced social structures
 #### Economic incentive example → Oyama pilgrimage cults (Ambros)
