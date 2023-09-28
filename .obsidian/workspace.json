@@ -26,14 +26,11 @@
             "id": "56815ff714793a60",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -960.7315833109992,
-                  "y": -1958.9240748781917,
-                  "zoom": -1.0902528204512814
-                }
+                "file": "~単語.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~単語.md"
               }
             }
           },
@@ -178,11 +175,11 @@
   },
   "active": "56815ff714793a60",
   "lastOpenFiles": [
+    "~Mind Map.canvas",
     "~Literature To Read.canvas",
     "Peasants/Commerce from pilgrims.md",
     "Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "~Mind Map.canvas",
     "Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Trag.md",
