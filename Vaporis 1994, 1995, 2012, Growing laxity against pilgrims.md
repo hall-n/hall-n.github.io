@@ -1,9 +1,3 @@
-##### Vaporis 1989, 1994, 1995, 2012 
-- Over time, pilgrimage permits obtained easily
-- Growing laxity by barrier officials
-- Cases of authorities negative view of pilgrims
-- Prefectures that banned pilgrimage at one time
-
 *Vaporis 1994, Breaking Barriers, Travel and the State in Early Modern Japan*
 #### The negative economic effects of travel gave reasons for bakufu and daimyo to want to discourage travel
 the primary intent behind the relay system was economic: hence the bakufu's policy of discouraging sea transport, which would have allowed travelers to skip post stations and would reduce the amount of revenue they could raise through provision of transport services. (26)
