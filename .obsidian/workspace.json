@@ -4,6 +4,39 @@
     "type": "split",
     "children": [
       {
+        "id": "b02636f732087eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04081995937817e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature To Read.canvas",
+                "viewState": {
+                  "x": -1757.1871725737162,
+                  "y": -317.4036307399894,
+                  "zoom": -0.27479020543732524
+                }
+              }
+            }
+          },
+          {
+            "id": "0d9d2a37be8ab12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaporis, Growing laxity against pilgrims.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "d6e9136f68fc9aec",
         "type": "tabs",
         "children": [
@@ -15,30 +48,14 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": 952.8221686241613,
-                  "y": -700,
-                  "zoom": -2.5850028439781294
-                }
-              }
-            }
-          },
-          {
-            "id": "d04081995937817e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Literature To Read.canvas",
-                "viewState": {
-                  "x": -976.8539682539683,
-                  "y": -400,
-                  "zoom": -2.1451167078598106
+                  "x": -1068.7375000000002,
+                  "y": -2333.9375000000005,
+                  "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -104,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature To Read.canvas"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -162,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d04081995937817e",
+  "active": "56815ff714793a60",
   "lastOpenFiles": [
+    "~Literature To Read.canvas",
     "~Mind Map.canvas",
+    "Vaporis.md",
+    "Vaporis, Growing laxity against pilgrims.md",
     "~Outline.canvas",
     "~Outline.md",
-    "~Literature To Read.canvas",
     "~単語.md",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
@@ -204,8 +225,6 @@
     "Merchants.md",
     "Academic Discussions.md",
     "Religious Institutions/Travel agents.md",
-    "Cultural Perspective of Travel.md",
-    "Bakufu and Daimyo/Road Conditions.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
