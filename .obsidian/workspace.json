@@ -15,10 +15,22 @@
               "state": {
                 "file": "~Literature To Read.canvas",
                 "viewState": {
-                  "x": -704.6982041289091,
-                  "y": -855.1101005126255,
-                  "zoom": -1.6285939526557922
+                  "x": -955,
+                  "y": 962,
+                  "zoom": -0.3395240481694539
                 }
+              }
+            }
+          },
+          {
+            "id": "b3822517115a4bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,11 +38,14 @@
             "id": "56815ff714793a60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "~単語.md",
-                "mode": "source",
-                "source": false
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -68.52809684813839,
+                  "y": -898.7607699486933,
+                  "zoom": -1.7314792208310454
+                }
               }
             }
           }
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~単語.md",
+                "file": "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~単語.md",
+                "file": "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~単語.md"
+                "file": "Oshida et al 2011, sightseeing developed over time from pilgrimage.md"
               }
             }
           },
@@ -173,10 +188,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56815ff714793a60",
+  "active": "b3822517115a4bdb",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
     "~Literature To Read.canvas",
+    "~Mind Map.canvas",
+    "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
+    "~単語.md",
     "Peasants/Commerce from pilgrims.md",
     "Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -187,7 +204,6 @@
     "Vaporis.md",
     "~Outline.canvas",
     "~Outline.md",
-    "~単語.md",
     "真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
@@ -203,7 +219,6 @@
     "~travel.jpg",
     "~README.md",
     "~Train of thought.md",
-    "~Grading.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
