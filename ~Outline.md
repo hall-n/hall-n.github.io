@@ -22,21 +22,35 @@ This useful [video](https://www.linkedin.com/learning/word-2016-creating-long-d
 The introduction explains the how, what, where, when, why and who of the research. It introduces the reader to your dissertation and should act as a clear guide as to what it will cover.  
 
 The introduction may include the following content: 
-#### Introduce the topic of the dissertation
-- State why the topic is of interest 
-- Give background information on the subject. 
-- Refer to the main debates in the field
-#### Identify the scope of your research 
-- Highlight what hasn't already been said by the literature  
-- Demonstrate what you seek to investigate, and why 
-- Present the aim of the dissertation. 
-- Mention your research question or hypothesis 
-#### Indicate your approach  
-- Introduce your main argument (especially if you have a research question, rather than hypothesis). 
-- Mention your methods/research design. 
-- Outline the dissertation structure (introduce the main points that you will discuss in the order they will be presented). 
+### Introduce the topic of the dissertation
+- ##### State why the topic is of interest 
 
-Normally, the introduction is roughly 10% of a dissertation word count. 
+- ##### Give background information on the subject. 
+- ##### Refer to the main debates in the field
+### Identify the scope of your research 
+Vaporis has covered the permit system and pilgrim travel in detail. Along with other historians, it is clear that peasant pilgrimage suddenly increased in the Edo period, and subsequently turned into a tourism industry, with sightseeing and enjoying local specialties. In other words, it slowly came to be more complex than just shrine and temple visits. When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). Thus my research question deals with why tourism arose in Japan. 
+When looking at how and why this increase came about, historians have pointed out the following reasons, which fall into two categories; the ability to travel, and the motivation to travel. As the Edo period travel was done on foot and took many days to complete, it was quite arduous costing both money and time. 
+###### Ability
+- Laxity of the permit system and checkpoints, despite shogunate wanting peasants to stay at their fields and refrain from travel (REF)
+- Travel infrastructure, while originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. There were not class barriers, though inns and other services at checkpoints had to prioritize daimyo (REF)
+- Safe conditions as the Edo period was a time of peace (REF)
+###### Motivation
+- Promotion of travel by religiously officliated Oshi, who are argued to be much like a travel agent, arranging accommodation and providing travel information (REF)
+- A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF)
+##### Highlight what hasn't already been said by the literature  
+Recent research has revealed much about the motivations. However in the ability to travel, one question is still unclear; the laxity of the authorities against peasant pilgrimage. Historian Vaporis has dealt with this topic in great detail and outlines the numerous instances of authorities being negatively positioned against peasant pilgrimage and instances where it was banned. However, as Nosco (1996) pointed out in his review of Vaporis' work, the question Vaporis fails to specifically ask is why the laxity occurred despite what he argues as clear motivations against it. As other factors behind the increase of peasant pilgrimage have been explored in detail, this question of the reason behind the shogunate and daimyo's laxity of peasant pilgrimage is what I will uncover in this paper. 
+
+- ##### Demonstrate what you seek to investigate, and why 
+- ##### Present the aim of the dissertation. 
+- ##### Mention your research question or hypothesis 
+### Indicate your approach  
+- ##### Introduce your main argument (especially if you have a research question, rather than hypothesis). 
+- ##### Mention your methods/research design. 
+- ##### Outline the dissertation structure (introduce the main points that you will discuss in the order they will be presented). 
+
+There are religious, economic, and social factors that surround the surge in pilgrimage. Vaporis describes some of the social factors, alluding that because pilgrimage was seen as a rite of passage and worshiping at shrines such as Ise were connected to the Emperor's authority, restricting pilgrimage could have negative repercussions for them. However, Vaporis does not clearly state these as being the reason behind shogun's laxity. While social acceptance of pilgrimage could have been influential,  I argue  that the shogunate's reason for being was more focused on <mark style="background: #FFF3A3A6;">keeping a propserous country rather than lording over the lower class</mark>  and it was the the economic factors surrounding pilgrimage that are the primary reason which  affected the shogunate's desire and ability to restrict the movements of the lower class. 
+
+**Normally, the introduction is roughly 10% of a dissertation word count.** 
 
 ## Literature Review
  *which can be included in the introduction rather than as a separate chapter. Check with your supervisor if you are unsure.* 
