@@ -4,24 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b02636f732087eea",
+        "id": "7313d1cc81ab1d6d",
         "type": "tabs",
         "children": [
-          {
-            "id": "c8baf028989261ba",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Literature To Read.canvas",
-                "viewState": {
-                  "x": -1929.9911921330076,
-                  "y": -320.416619295711,
-                  "zoom": -0.014421868721644011
-                }
-              }
-            }
-          },
           {
             "id": "56815ff714793a60",
             "type": "leaf",
@@ -30,48 +15,26 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -1184.5522977771027,
-                  "y": -1177.8640939539146,
+                  "x": -835.2530870806663,
+                  "y": -2051.112120695007,
                   "zoom": -0.42373393420740874
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "bd3850ecceab6228",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b3822517115a4bdb",
+            "id": "85459afd5b84e234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Outline.md",
+                "file": "論文/Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "25a708bec28ac3e7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Outline.canvas",
-                "viewState": {
-                  "x": 173.04198799574485,
-                  "y": 65.29005441162623,
-                  "zoom": -0.6658444648277695
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Outline.canvas",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Outline.canvas",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Outline.canvas"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -209,21 +172,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25a708bec28ac3e7",
+  "active": "56815ff714793a60",
   "lastOpenFiles": [
+    "論文/Introduction.md",
+    "~Mind Map.canvas",
+    "~Outline.md",
+    "~Literature To Read.canvas",
+    "~Outline.canvas",
+    "論文",
     "~bline.png",
     "~arrow.png",
-    "~Outline.md",
-    "~Outline.canvas",
     "arrow.png",
     "~arrow.jpg",
     "~travel.jpg",
     "arrow.jpg",
     "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
     "Excalidraw",
-    "Introduction,.md",
-    "~Literature To Read.canvas",
-    "~Mind Map.canvas",
     "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "~単語.md",
     "Peasants/Commerce from pilgrims.md",
@@ -256,7 +220,6 @@
     "New folder",
     "Mind Map 1.canvas",
     "_config.yml",
-    "Peasants",
     "Untitled 1.canvas"
   ]
 }
