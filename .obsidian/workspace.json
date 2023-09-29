@@ -54,8 +54,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25a708bec28ac3e7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Outline.canvas",
+                "viewState": {
+                  "x": 173.04198799574485,
+                  "y": 65.29005441162623,
+                  "zoom": -0.6658444648277695
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "~Outline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "~Outline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature To Read.canvas"
+                "file": "~Outline.canvas"
               }
             }
           },
@@ -194,12 +209,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8baf028989261ba",
+  "active": "25a708bec28ac3e7",
   "lastOpenFiles": [
+    "~bline.png",
+    "~arrow.png",
     "~Outline.md",
+    "~Outline.canvas",
+    "arrow.png",
+    "~arrow.jpg",
+    "~travel.jpg",
+    "arrow.jpg",
+    "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
+    "Excalidraw",
+    "Introduction,.md",
     "~Literature To Read.canvas",
     "~Mind Map.canvas",
-    "~Outline.canvas",
     "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "~単語.md",
     "Peasants/Commerce from pilgrims.md",
@@ -222,9 +246,6 @@
     "Overall Travel Situation.md",
     "Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "~travel.jpg",
-    "~README.md",
-    "~Train of thought.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
@@ -236,7 +257,6 @@
     "Mind Map 1.canvas",
     "_config.yml",
     "Peasants",
-    "Untitled 1.canvas",
-    "Excalidraw"
+    "Untitled 1.canvas"
   ]
 }

@@ -1,0 +1,9 @@
+Vaporis has covered the permit system and pilgrim travel in detail. Along with other historians, it is clear that peasant pilgrimage suddenly increased in the Edo period, and subsequently turned into a tourism industry, with sightseeing and enjoying local specialties. In other words, it slowly came to be more complex than just shrine and temple visits. When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). Thus my research question deals with why tourism arose in Japan. 
+When looking at how and why this increase came about, historians have pointed out the following reasons, which fall into two categories; the ability to travel, and the motivation to travel. As the Edo period travel was done on foot and took many days to complete, it was quite arduous costing both money and time. 
+###### Ability
+- Laxity of the permit system and checkpoints, despite shogunate wanting peasants to stay at their fields and refrain from travel (REF)
+- Travel infrastructure, while originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. There were not class barriers, though inns and other services at checkpoints had to prioritize daimyo (REF)
+- Safe conditions as the Edo period was a time of peace (REF)
+###### Motivation
+- Promotion of travel by religiously officliated Oshi, who are argued to be much like a travel agent, arranging accommodation and providing travel information (REF)
+- A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF)
