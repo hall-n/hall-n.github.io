@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "7313d1cc81ab1d6d",
+        "id": "24ee17527f1be943",
         "type": "tabs",
+        "dimension": 56.70241286863271,
         "children": [
           {
             "id": "56815ff714793a60",
@@ -15,20 +16,42 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -835.2530870806663,
-                  "y": -2051.112120695007,
-                  "zoom": -0.42373393420740874
+                  "x": -709.9388620868514,
+                  "y": -1973.781024243064,
+                  "zoom": -0.9765662920908624
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7313d1cc81ab1d6d",
+        "type": "tabs",
+        "dimension": 43.297587131367294,
+        "children": [
+          {
+            "id": "85459afd5b84e234",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature To Read.canvas",
+                "viewState": {
+                  "x": -1438.2337376948126,
+                  "y": 708.1287449820244,
+                  "zoom": -1.0872759151243931
                 }
               }
             }
           },
           {
-            "id": "85459afd5b84e234",
+            "id": "161d7083fab5feb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "~Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature To Read.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature To Read.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~Literature To Read.canvas"
               }
             }
           },
@@ -172,15 +196,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56815ff714793a60",
+  "active": "85459afd5b84e234",
   "lastOpenFiles": [
-    "論文/Introduction.md",
-    "~Mind Map.canvas",
     "~Outline.md",
+    "~Mind Map.canvas",
     "~Literature To Read.canvas",
+    "論文/Introduction.md",
     "~Outline.canvas",
-    "論文",
     "~bline.png",
+    "論文",
     "~arrow.png",
     "arrow.png",
     "~arrow.jpg",
