@@ -16,20 +16,13 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -928.0723303790521,
-                  "y": -1552.2331900339266,
-                  "zoom": -1.1255985389586776
+                  "x": -336.99952669199706,
+                  "y": -1538.845202602199,
+                  "zoom": -1.86798600488602
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7313d1cc81ab1d6d",
-        "type": "tabs",
-        "dimension": 43.297587131367294,
-        "children": [
+          },
           {
             "id": "85459afd5b84e234",
             "type": "leaf",
@@ -38,13 +31,33 @@
               "state": {
                 "file": "~Literature To Read.canvas",
                 "viewState": {
-                  "x": -2142.181585651639,
-                  "y": 56.050738453596,
-                  "zoom": -1.0872759151243931
+                  "x": -1599.2658390764534,
+                  "y": 229.13254592712067,
+                  "zoom": -0.45402083911337093
                 }
               }
             }
           },
+          {
+            "id": "22c568aeaebf9414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~Grading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7313d1cc81ab1d6d",
+        "type": "tabs",
+        "dimension": 43.297587131367294,
+        "children": [
           {
             "id": "161d7083fab5feb6",
             "type": "leaf",
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -209,12 +221,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dee51479de13b7d1",
+  "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "論文/Title & Thesis.md",
+    "論文/Introduction.md",
+    "~Literature To Read.canvas",
+    "~Grading.md",
     "~Outline.md",
     "~Mind Map.canvas",
-    "~Literature To Read.canvas",
-    "論文/Introduction.md",
     "~Outline.canvas",
     "~bline.png",
     "論文",
@@ -246,7 +260,6 @@
     "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
     "Overall Travel Situation.md",
     "Kanzaki 1995, Oshi's importance in pilgrimage.md",
-    "Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
