@@ -6,7 +6,7 @@
       {
         "id": "24ee17527f1be943",
         "type": "tabs",
-        "dimension": 56.70241286863271,
+        "dimension": 56.702412868632706,
         "children": [
           {
             "id": "56815ff714793a60",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -709.9388620868514,
-                  "y": -1973.781024243064,
-                  "zoom": -0.9765662920908624
+                  "x": -928.0723303790521,
+                  "y": -1552.2331900339266,
+                  "zoom": -1.1255985389586776
                 }
               }
             }
@@ -38,8 +38,8 @@
               "state": {
                 "file": "~Literature To Read.canvas",
                 "viewState": {
-                  "x": -1438.2337376948126,
-                  "y": 708.1287449820244,
+                  "x": -2142.181585651639,
+                  "y": 56.050738453596,
                   "zoom": -1.0872759151243931
                 }
               }
@@ -56,8 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dee51479de13b7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "論文/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature To Read.canvas",
+                "file": "論文/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature To Read.canvas"
+                "file": "論文/Introduction.md"
               }
             }
           },
@@ -196,7 +209,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85459afd5b84e234",
+  "active": "dee51479de13b7d1",
   "lastOpenFiles": [
     "~Outline.md",
     "~Mind Map.canvas",
