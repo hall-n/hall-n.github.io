@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Paramore 2012.md",
+                "file": "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,6 +30,21 @@
                   "x": -239.1059635022197,
                   "y": -2121.7249175291413,
                   "zoom": -0.9435781668409321
+                }
+              }
+            }
+          },
+          {
+            "id": "4978ffad87095c16",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": -1036.791153503066,
+                  "y": -1085.0792992907402,
+                  "zoom": -1.1214467107392276
                 }
               }
             }
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Paramore 2012.md",
+                "file": "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Paramore 2012.md",
+                "file": "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Paramore 2012.md"
+                "file": "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md"
               }
             }
           },
@@ -175,10 +190,10 @@
   },
   "active": "161d7083fab5feb6",
   "lastOpenFiles": [
+    "~Literature.canvas",
     "~Mind Map.canvas",
-    "Historian's arguments/Paramore 2012.md",
+    "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "~Outline.md",
-    "~Literature To Read.canvas",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Trag.md",
     "Vaporis.md",
