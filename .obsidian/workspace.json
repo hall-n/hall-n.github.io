@@ -4,59 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "24ee17527f1be943",
-        "type": "tabs",
-        "dimension": 56.702412868632706,
-        "children": [
-          {
-            "id": "56815ff714793a60",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -336.99952669199706,
-                  "y": -1538.845202602199,
-                  "zoom": -1.86798600488602
-                }
-              }
-            }
-          },
-          {
-            "id": "85459afd5b84e234",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Literature To Read.canvas",
-                "viewState": {
-                  "x": -1599.2658390764534,
-                  "y": 229.13254592712067,
-                  "zoom": -0.45402083911337093
-                }
-              }
-            }
-          },
-          {
-            "id": "22c568aeaebf9414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~Grading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 43.297587131367294,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -64,26 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Outline.md",
+                "file": "Historian's arguments/Paramore 2012.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dee51479de13b7d1",
+            "id": "fe1bdc012e0ea031",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "論文/Introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -239.1059635022197,
+                  "y": -2121.7249175291413,
+                  "zoom": -0.9435781668409321
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -149,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Historian's arguments/Paramore 2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Historian's arguments/Paramore 2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "Historian's arguments/Paramore 2012.md"
               }
             }
           },
@@ -221,14 +173,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "161d7083fab5feb6",
   "lastOpenFiles": [
-    "論文/Title & Thesis.md",
-    "論文/Introduction.md",
-    "~Literature To Read.canvas",
-    "~Grading.md",
-    "~Outline.md",
     "~Mind Map.canvas",
+    "Historian's arguments/Paramore 2012.md",
+    "~Outline.md",
+    "~Literature To Read.canvas",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "Trag.md",
+    "Vaporis.md",
+    "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
+    "論文/Introduction.md",
+    "Historian's arguments",
+    "論文/Title & Thesis.md",
+    "~Grading.md",
     "~Outline.canvas",
     "~bline.png",
     "論文",
@@ -239,27 +197,21 @@
     "arrow.jpg",
     "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
     "Excalidraw",
-    "Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
+    "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "~単語.md",
     "Peasants/Commerce from pilgrims.md",
-    "Roberts 1998, Petition system of Tosa to draw pilgrims.md",
-    "Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
-    "Trag.md",
-    "Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Vaporis.md",
-    "真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "Nosco 1996, Vaporis doesn't answer questions about laxity.md",
+    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "~Questions.md",
-    "Temple's Economic Incentives increased pilgrims.md",
-    "Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+    "Historian's arguments/Temple's Economic Incentives increased pilgrims.md",
+    "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Peasants/Hardships of travel.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
-    "Overall Travel Situation.md",
-    "Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
@@ -269,7 +221,6 @@
     "Literature",
     "New folder",
     "Mind Map 1.canvas",
-    "_config.yml",
     "Untitled 1.canvas"
   ]
 }
