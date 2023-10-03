@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
+                "file": "Meibutsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": 663.8555915912247,
-                  "y": -1487.9221559466423,
-                  "zoom": -0.25337733379374394
+                  "x": 523.5766480387427,
+                  "y": -562.2937674544451,
+                  "zoom": -0.18977516869706382
                 }
               }
             }
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nenzi 2008, views government at odds with religion.md",
+                "file": "~Literature.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nenzi 2008, views government at odds with religion.md",
+                "file": "~Literature.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nenzi 2008, views government at odds with religion.md"
+                "file": "~Literature.canvas"
               }
             }
           },
@@ -201,11 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "977c40af9e8f86c3",
+  "active": "4978ffad87095c16",
   "lastOpenFiles": [
-    "~Literature.canvas",
-    "Nenzi 2008, views government at odds with religion.md",
+    "Meibutsu.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
+    "Nenzi 2008, views government at odds with religion.md",
+    "~Literature.canvas",
     "~Mind Map.canvas",
     "~Outline.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
