@@ -27,8 +27,8 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -100.2629084979211,
-                  "y": -2148.0313034428495,
+                  "x": 583.097019639734,
+                  "y": -2280.862390176867,
                   "zoom": -0.46117886531200136
                 }
               }
@@ -42,9 +42,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -808.7415100565956,
-                  "y": -562.2937674544451,
-                  "zoom": -0.4868021303415544
+                  "x": 724.5359665576688,
+                  "y": -1153.48563999363,
+                  "zoom": -0.5540289288759598
                 }
               }
             }
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~Literature.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~Literature.canvas"
               }
             }
           },
@@ -201,13 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "4978ffad87095c16",
   "lastOpenFiles": [
+    "~Mind Map.canvas",
     "~Literature.canvas",
     "Meibutsu.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Nenzi 2008, views government at odds with religion.md",
-    "~Mind Map.canvas",
     "~Outline.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Trag.md",
