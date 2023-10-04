@@ -6,7 +6,7 @@
 		{"id":"ec8dc40bfb1bd6f5","type":"group","x":-2260,"y":-1460,"width":1900,"height":580,"label":"Societal Complexity & Shifting Cultural Values"},
 		{"id":"d493f1eb2371db70","type":"group","x":1080,"y":-1920,"width":900,"height":709,"label":"Not Relevant"},
 		{"id":"53dbe13e23e4b1f9","type":"group","x":-2590,"y":-1920,"width":1990,"height":114,"color":"#707070","label":"Legend"},
-		{"id":"2bdc0b14eec19d81","x":29,"y":-1040,"width":700,"height":100,"type":"file","file":"Seaton et al 2017, pilgrimage led to contents tourism.md"},
+		{"id":"c5722fa712e2f604","x":-509,"y":774,"width":250,"height":60,"type":"file","file":"Ishimori 2009.md"},
 		{"id":"eba814a3114844d8","type":"file","file":"Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md","x":-1030,"y":-700,"width":600,"height":260},
 		{"id":"cb7cbca5c289d335","type":"text","text":"### Langrill 2012, Merchants changing values, Shogun's authority religious based","x":-1557,"y":-1094,"width":517,"height":114,"color":"2"},
 		{"id":"4a947f878b6733cc","type":"text","text":"sacred and profane were never separated in Japan, and obtaining talismans from temples were still a strong motivation. Therefore isn't \"using pilgrimage as excuse for leisure\" just painting modern values?\\\n\n## Use oshi's rise link to pilgrimage rise as point against","x":-504,"y":-140,"width":468,"height":160,"color":"1"},
@@ -51,7 +51,8 @@
 		{"id":"f39f8c3eae3e313a","type":"file","file":"Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md","x":-1310,"y":872,"width":470,"height":208,"color":"2"},
 		{"id":"b867d182f4bbc7d0","type":"file","file":"Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md","x":-1310,"y":500,"width":430,"height":288,"color":"5"},
 		{"id":"d25391d067d8524b","type":"file","file":"Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md","x":-2180,"y":812,"width":760,"height":240,"color":"2"},
-		{"id":"353ada3092ec7c38","type":"file","file":"Fabricand and Person 2011, literary works spread travel popularity.md","x":-802,"y":872,"width":490,"height":69,"color":"5"}
+		{"id":"353ada3092ec7c38","type":"file","file":"Fabricand and Person 2011, literary works spread travel popularity.md","x":-802,"y":872,"width":490,"height":69,"color":"5"},
+		{"id":"2bdc0b14eec19d81","x":-802,"y":1030,"width":700,"height":100,"color":"3","type":"file","file":"Seaton et al 2017, pilgrimage led to contents tourism.md"}
 	],
 	"edges":[
 		{"id":"cc5bc98c0c6bd034","fromNode":"4a947f878b6733cc","fromSide":"top","toNode":"5105a84bb927ad54","toSide":"right","color":"1"},

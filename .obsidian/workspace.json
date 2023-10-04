@@ -42,44 +42,20 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": 717.1244301003057,
-                  "y": -985.8986667657497,
+                  "x": -384.47671263288015,
+                  "y": 803.8880868739811,
                   "zoom": -1.1166660600901017
                 }
               }
             }
           },
           {
-            "id": "fce1c3495a9847cc",
+            "id": "8c47e73fdfb4c275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaton et al 2017, pilgrimage led to contents tourism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "598f27b7d09653f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fabricand and Person 2011, literary works spread travel popularity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "977c40af9e8f86c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nenzi 2008, views government at odds with religion.md",
+                "file": "Ishimori 2009.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seaton et al 2017, pilgrimage led to contents tourism.md",
+                "file": "Ishimori 2009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seaton et al 2017, pilgrimage led to contents tourism.md",
+                "file": "Ishimori 2009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seaton et al 2017, pilgrimage led to contents tourism.md"
+                "file": "Ishimori 2009.md"
               }
             }
           },
@@ -225,16 +201,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fce1c3495a9847cc",
+  "active": "8c47e73fdfb4c275",
   "lastOpenFiles": [
+    "Nenzi 2008, views government at odds with religion.md",
+    "Ishimori 2009.md",
+    "Fabricand and Person 2011, literary works spread travel popularity.md",
+    "~Literature.canvas",
+    "Seaton et al 2017, pilgrimage led to contents tourism.md",
     "~単語.md",
     "Meibutsu.md",
-    "Seaton et al 2017, pilgrimage led to contents tourism.md",
-    "~Literature.canvas",
-    "Fabricand and Person 2011, literary works spread travel popularity.md",
     "~Mind Map.canvas",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
-    "Nenzi 2008, views government at odds with religion.md",
     "~Outline.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Trag.md",
@@ -263,7 +240,6 @@
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "~Questions.md",
-    "Historian's arguments/Temple's Economic Incentives increased pilgrims.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
