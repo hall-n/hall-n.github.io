@@ -1,10 +1,17 @@
 *Vaporis 1994, Breaking Barriers, Travel and the State in Early Modern Japan*
 #### The negative economic effects of travel gave reasons for bakufu and daimyo to want to discourage travel
+
+^4c2305
+
 the primary intent behind the relay system was economic: hence the bakufu's policy of discouraging sea transport, which would have allowed travelers to skip post stations and would reduce the amount of revenue they could raise through provision of transport services. (26)
 The application of Tokugawa law was at times unpredictable and random, but it could also be flexible, for it was a traditional principle in Japanese law that reason should prevail over custom and precedent (179)
-Sekisho were concerned primarily with the movement of people-particularly women-out ofEdo, contributing perhaps to the laxity with which other offenders were treated. Status was also a factor; while there are only two cases of samurai committing a sekisho-related offense, in both instances the samurai were made to suffer the death penalty. These cases, compared with those of commoners, emphasize the great distance that government maintained between status groups.  (181)
-**regulations dealing with commoner travel were issued frequently and were inspired mainly by economics rather than a desire for totalitarian control**…There were limits to what the state could do to prohibit pilgrimage, which was widely accepted in society as a sacred act, and the evidence shows that the control measures instituted were generally ineffective. 
-…
+Sekisho were concerned primarily with the movement of people-particularly women-out of Edo, contributing perhaps to the laxity with which other offenders were treated. Status was also a factor; while there are only two cases of samurai committing a sekisho-related offense, in both instances the samurai were made to suffer the death penalty. These cases, compared with those of commoners, emphasize the great distance that government maintained between status groups.  (181)
+**regulations dealing with commoner travel were issued frequently and were inspired mainly by economics rather than a desire for totalitarian control**…There were limits to what the state could do to prohibit pilgrimage, which was widely accepted in society as a sacred act, and the evidence shows that the control measures instituted were generally ineffective. (198)
+
+#### Most common restrictions on any long-distance travel had to do with timing 
+
+^99563b
+
 Perhaps the most common restrictions on any long-distance travel had to do with timing. Since travel during the agricultural season would take a peasant away from the land, in theory decreasing the agricultural output of a village, long-distance travel was generally restricted to the agricultural off-season, after taxes had been collected. (198)
 This illegal traffic was hurting business at Sekigawa and Nojiri, the post stations on either side of the sekisho that travelers bypassed. As a result, some officials from Nojiri apparently disabled or partially dismantled a bridge on the side road to stop the traffic, indicating that there were important economic reasons for travel restrictions. (190)
 
@@ -16,9 +23,13 @@ Travel permits obtained indiscriminately while on one's journey defeated the pri
 These economic requirements for travel were general conditions established by private domains and bakufu authorities. But, if we look closely at the requirements, they are not as strict as they appear, for they did not interfere with the flow of life. Not many responsible households would leave on an expensive journey with work to be done in the fields or with taxes unpaid. Consequently, these regulations seem to have been aimed more at commoners who would be more inclined to drop everything at a moment's notice to go on pilgrimage-servant personnel, temporary workers, and tenants. (199)
 ..
 Officials frequently bent the rules for travelers with defective permits, and sometimes downgraded travel offenses to avoid having to prosecute commoners….The physical and legal barriers erected by the state were insufficient to thwart commoners' desire to travel; although the government continued to keep these barriers in place, they gave their tacit and sometimes explicit approval to travelers who circumvented them (216)
-..
 
-#### Money leaving domain
+
+
+#### Money leaving domain was one reason for being against pilgrimage
+
+^cad2d2
+
 travelers commonly covered 40 kilometers a day (200)
 Domains in western Japan generally permitted relatively long periods of time for pilgrimage, which, judging by actual travel times, allowed extra time for sightseeing… In contrast, a number of eastern domains were strict with time limits, but gradually relaxed them
 ..
