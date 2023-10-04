@@ -4,7 +4,7 @@
 		{"id":"00b612749f6a1be9","type":"group","x":0,"y":-1920,"width":963,"height":1640,"color":"4","label":"To Read"},
 		{"id":"a39c4213bc4e9377","type":"group","x":-2260,"y":-760,"width":1900,"height":720,"label":"Bakufu against pilgrimage and peasant travel"},
 		{"id":"ec8dc40bfb1bd6f5","type":"group","x":-2260,"y":-1460,"width":1900,"height":580,"label":"Societal Complexity & Shifting Cultural Values"},
-		{"id":"d493f1eb2371db70","type":"group","x":1080,"y":-1920,"width":653,"height":394,"label":"Not Relevant"},
+		{"id":"d493f1eb2371db70","type":"group","x":1080,"y":-1920,"width":800,"height":460,"label":"Not Relevant"},
 		{"id":"53dbe13e23e4b1f9","type":"group","x":-2590,"y":-1920,"width":1990,"height":114,"color":"#707070","label":"Legend"},
 		{"id":"b2efa41d3fa1be56","type":"text","text":"# <mark style=\"background: #FF5582A6;\">Questions and Points</mark>","x":-1980,"y":-1900,"width":250,"height":60,"color":"1"},
 		{"id":"cdd1feaac0b5a5ea","type":"text","text":"# <mark style=\"background: #FFB86CA6;\">Indirect Evidence of Lenience</mark>","x":-1682,"y":-1900,"width":297,"height":60,"color":"2"},
@@ -27,7 +27,7 @@
 		{"id":"af92518884c51a79","type":"file","file":"Historian's arguments/Goree's Argument, Culture of Travel.md","x":-1617,"y":-700,"width":500,"height":520},
 		{"id":"8ffd8a17e4f413a0","type":"text","text":"Used onsen to cure ailments, 87\nmoney-hungry, seeking only gain in this world 88\npilgrims and onsen visitors also sight-seeing 89\n\"sightseeing is of no worth\" Kaga government 90\n\"Not performing pilgrimage\" 91\nusing occasion to just sightsee 92","x":-1946,"y":-180,"width":372,"height":155},
 		{"id":"9ae558e770e0ef1a","type":"text","text":"# Fabricand-Person 2011, The Tōkaidō Road Journeys through Japanese Books ","x":28,"y":-622,"width":649,"height":64},
-		{"id":"408acb22b3853cad","type":"text","text":"# Collcutt 1990, Review of Keene: Travelers of a Hundred Ages The Japanese as Revea","x":29,"y":-538,"width":609,"height":50},
+		{"id":"408acb22b3853cad","type":"text","text":"# Collcutt 1990, Review of Keene: Travelers of a Hundred Ages The Japanese as Revea","x":29,"y":-538,"width":611,"height":98},
 		{"id":"72d085dbd07efe29","type":"file","file":"Nenzi 2008, views government at odds with religion.md","x":-1538,"y":-157,"width":618,"height":177,"color":"5"},
 		{"id":"8cf0c368f182d4c9","type":"text","text":"# Sheldon 1971, Merchants not against status system\n*Sheldon 1971, Pre-Modern’ Merchants and Modernization in Japan*","x":-1557,"y":-1200,"width":537,"height":90},
 		{"id":"7c7d8617f5be15d3","type":"text","text":"# PJutschow and Fukuda 1981, officials also combined mairi with other purposes\n*PJutschow and Fukuda 1981, Four Japanese dairies*\n\nMany other officials, of course, took such journeys. The Ashikaga shoguns were fond, it seems, of journeying to such symbolic places as the lse Shrines (Ise Kiko of 1433), and Mt. Fuji (Fuji Kiko or 1432), all of which symbolize the nation over which they ruled. (10)","x":29,"y":-1211,"width":700,"height":100},
@@ -44,13 +44,13 @@
 		{"id":"27ba8615f8ad4f00","type":"text","text":"# Shively 1964, Regulations & Bakufu\n*Shively 1964, Sumptuary Regulation Status in Early Tokugawa*","x":37,"y":-1460,"width":484,"height":129},
 		{"id":"1a2e689888010472","type":"file","file":"Historian's arguments/Temple's Economic Incentives increased pilgrims.md","subpath":"#Ishimori 1995 Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country","x":-1310,"y":280,"width":400,"height":160},
 		{"id":"eb598bf404d4529e","type":"file","file":"Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md","x":-802,"y":388,"width":533,"height":400,"color":"5"},
-		{"id":"b2680133c3f8aade","type":"text","text":"# Takekoshi 1930, Economic factors \n*Takekoshi 1930, The economic aspects of the history of the civilization of japan","x":37,"y":-1620,"width":530,"height":140},
 		{"id":"6be18ec7977d1e3b","type":"text","text":"# Nenzi 2004, Consumerism in travel\n*Nenzi 2004, Cultured Travelers and Consumer Tourists in Edo-Pe*","x":627,"y":-1880,"width":416,"height":148},
 		{"id":"efe2257df7c47281","type":"text","text":"# Unknown or Not Specified","x":-1331,"y":-1900,"width":291,"height":60},
 		{"id":"ef40ef64a8640bfb","type":"text","text":"# Unread","x":-990,"y":-1900,"width":250,"height":60,"color":"4"},
 		{"id":"c67ea214790d7a8c","type":"text","text":"# Carder 2019, Pilgrimage and Women’s Exclusion in Japan’s Sacred Mountains","x":1100,"y":-1900,"width":320,"height":120},
 		{"id":"57f57b1bed4e2bde","type":"text","text":"# Gerhart 1999, The Eyes of Power-Art and Early Tokugawa Authority","x":1100,"y":-1757,"width":366,"height":50},
-		{"id":"798873b85af2a06e","type":"text","text":"# Foard 1982, Boundaries Compassion Buddhism","x":1100,"y":-1670,"width":380,"height":50}
+		{"id":"798873b85af2a06e","type":"text","text":"# Foard 1982, Boundaries Compassion Buddhism","x":1100,"y":-1670,"width":380,"height":50},
+		{"id":"b2680133c3f8aade","type":"text","text":"# Takekoshi 1930, Economic factors \n*Takekoshi 1930, The economic aspects of the history of the civilization of japan","x":1466,"y":-1900,"width":300,"height":135}
 	],
 	"edges":[
 		{"id":"cc5bc98c0c6bd034","fromNode":"4a947f878b6733cc","fromSide":"top","toNode":"5105a84bb927ad54","toSide":"right","color":"1"},
