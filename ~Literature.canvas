@@ -50,7 +50,8 @@
 		{"id":"57f57b1bed4e2bde","type":"text","text":"# Gerhart 1999, The Eyes of Power-Art and Early Tokugawa Authority","x":1100,"y":-1757,"width":366,"height":50},
 		{"id":"798873b85af2a06e","type":"text","text":"# Foard 1982, Boundaries Compassion Buddhism","x":1100,"y":-1670,"width":380,"height":50},
 		{"id":"b2680133c3f8aade","type":"text","text":"# Takekoshi 1930, Economic factors \n*Takekoshi 1930, The economic aspects of the history of the civilization of japan","x":1466,"y":-1900,"width":300,"height":135},
-		{"id":"408acb22b3853cad","type":"text","text":"# Collcutt 1990, Review of Keene: Travelers of a Hundred Ages The Japanese as Revea","x":1100,"y":-1600,"width":611,"height":98}
+		{"id":"408acb22b3853cad","type":"text","text":"# Collcutt 1990, Review of Keene: Travelers of a Hundred Ages The Japanese as Revea","x":1100,"y":-1600,"width":611,"height":98},
+		{"id":"f9537bc75995a9c7","x":-2960,"y":-1374,"width":540,"height":308,"type":"text","text":"# Images\nhttps://dpul.princeton.edu/pudl0052/catalog/8g84mm34q"}
 	],
 	"edges":[
 		{"id":"cc5bc98c0c6bd034","fromNode":"4a947f878b6733cc","fromSide":"top","toNode":"5105a84bb927ad54","toSide":"right","color":"1"},
