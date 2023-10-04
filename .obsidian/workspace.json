@@ -42,10 +42,22 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -2280.752834889922,
-                  "y": -979.012513260246,
+                  "x": -1930.3226758393787,
+                  "y": -977.1385551904569,
                   "zoom": -0.6888579565287005
                 }
+              }
+            }
+          },
+          {
+            "id": "598f27b7d09653f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fabricand and Person 2011, reason's for travel increase.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -203,8 +215,9 @@
   },
   "active": "4978ffad87095c16",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
+    "Fabricand and Person 2011, reason's for travel increase.md",
     "~Literature.canvas",
+    "~Mind Map.canvas",
     "Meibutsu.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Nenzi 2008, views government at odds with religion.md",
@@ -239,7 +252,6 @@
     "~Questions.md",
     "Historian's arguments/Temple's Economic Incentives increased pilgrims.md",
     "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
-    "Peasants/Hardships of travel.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",
