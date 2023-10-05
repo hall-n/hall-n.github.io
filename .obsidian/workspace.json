@@ -38,11 +38,14 @@
             "id": "4978ffad87095c16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bakufu and Daimyo/Permit System.md",
-                "mode": "source",
-                "source": false
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": 652.028456658736,
+                  "y": -908.5991345871912,
+                  "zoom": -0.8251342781304293
+                }
               }
             }
           },
@@ -50,16 +53,19 @@
             "id": "8c47e73fdfb4c275",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Historian's arguments/Ishimori 2009.md",
-                "mode": "source",
-                "source": false
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": 582.4290736571429,
+                  "y": -834.9985446056613,
+                  "zoom": -0.8381526700575672
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "89",
+                "query": "tabi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bakufu and Daimyo/Permit System.md",
+                "file": "~Literature.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bakufu and Daimyo/Permit System.md",
+                "file": "~Literature.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bakufu and Daimyo/Permit System.md"
+                "file": "~Literature.canvas"
               }
             }
           },
@@ -198,14 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4978ffad87095c16",
+  "active": "8c47e73fdfb4c275",
   "lastOpenFiles": [
+    "論文/Introduction.md",
+    "Historian's arguments/Ishimori 2009.md",
+    "~Literature.canvas",
+    "Bakufu and Daimyo/Permit System.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "~Mind Map.canvas",
-    "Bakufu and Daimyo/Permit System.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "~Literature.canvas",
-    "Historian's arguments/Ishimori 2009.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
     "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
@@ -213,7 +219,6 @@
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "Bakufu and Daimyo/Road Conditions.md",
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
-    "論文/Introduction.md",
     "論文/Title & Thesis.md",
     "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
