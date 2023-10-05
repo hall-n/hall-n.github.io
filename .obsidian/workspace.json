@@ -26,14 +26,11 @@
             "id": "fe1bdc012e0ea031",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -335.37484436035163,
-                  "y": -2184.8375000000005,
-                  "zoom": 0
-                }
+                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,14 +38,11 @@
             "id": "4978ffad87095c16",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Literature.canvas",
-                "viewState": {
-                  "x": -384.47671263288015,
-                  "y": 803.8880868739811,
-                  "zoom": -1.1166660600901017
-                }
+                "file": "Bakufu and Daimyo/Permit System.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,25 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "63b26b34eb216506",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3dc4d361578de5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "89",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Bakufu and Daimyo/Permit System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Bakufu and Daimyo/Permit System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "Bakufu and Daimyo/Permit System.md"
               }
             }
           },
@@ -221,17 +198,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "4978ffad87095c16",
   "lastOpenFiles": [
-    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "~Mind Map.canvas",
+    "Bakufu and Daimyo/Permit System.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "~Literature.canvas",
+    "Historian's arguments/Ishimori 2009.md",
+    "Historian's arguments/Goree's Argument, Culture of Travel.md",
+    "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+    "Bakufu and Daimyo/No Class Barriers.md",
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "Bakufu and Daimyo/Road Conditions.md",
+    "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
+    "論文/Introduction.md",
+    "論文/Title & Thesis.md",
+    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
     "~単語.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Historian's arguments/Ishimori 2009.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md",
-    "~Literature.canvas",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Meibutsu.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
@@ -239,10 +227,7 @@
     "Trag.md",
     "Vaporis.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
-    "論文/Introduction.md",
     "Historian's arguments",
-    "論文/Title & Thesis.md",
-    "~Grading.md",
     "~Outline.canvas",
     "~bline.png",
     "論文",
@@ -251,15 +236,7 @@
     "~arrow.jpg",
     "~travel.jpg",
     "arrow.jpg",
-    "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
     "Excalidraw",
-    "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
-    "Peasants/Commerce from pilgrims.md",
-    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "config.yml",
     "Bakufu and Daimyo",
     "Religious Institutions",

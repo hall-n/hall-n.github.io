@@ -1,7 +1,23 @@
 
-Vaporis has covered the permit system and pilgrim travel in detail. Along with other historians, it is clear that peasant pilgrimage suddenly increased in the Edo period, and subsequently turned into a tourism industry, with sightseeing and enjoying local specialties. In other words, it slowly came to be more complex than just shrine and temple visits. When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). Thus my research question deals with why tourism arose in Japan. 
+Vaporis has covered the permit system and pilgrim travel in detail. Along with other historians, it is clear that peasant pilgrimage greatly increased over the course of the Edo period, and subsequently turned into a tourism industry, with sightseeing and enjoying local specialties. In other words, it slowly came to be more complex than just shrine and temple visits. When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). Thus my research question deals with why tourism arose in Japan. Trying to understand how and why this increase came about, historians have pointed out various factors, ranging from economic to religious, but I believe they can be designated into two categories;  motivation and ability. 
 
-Trying to understand how and why this increase came about, historians have pointed out the following reasons, which I believe fall into two categories; the ability to travel, and the motivation to travel. However, in the ability to travel, a question arises. If the bakufu and daimyo authorities were positioned against travel, as it could have negative economic effects on the income they received due to the peasant's efforts at their fields, why were the permits that were necessary for travel able to obtained so easily by peasants? Why did the checkpoint officials show more laxity to the peasants as time went on? I argue that the explanation for this apparent contradiction lies in the motivations that gave rise to mass peasant pilgrimage, primarily the  the economic factors. Using recent research that reveals the economic motivations that lie behind both the travel agent like oshi who encouraged peasants to travel and the cases where communities and town authorities petition to increase pilgrimage, I argue that the economic benefits of pilgrimage combined with the bakufu's position of being a "benevolent'" ruler gave them less incentive to stop the peasants from traveling than it did to simply manage the system to keep up with the sudden surge of pilgrimage travel.  
+Travel in the Edo period was quite arduous the majority of peasant's travel was on foot (REF). Depending on the destination, pilgrimage could take many days, and sometimes many months, to complete, costing both time, effort and money. Thus the motivation to set out on a pilgrimage is necessary. 
+As motivation for undertaking such a journey, research has revealed three significant factors. 
+- oshi, who promoted temples and are agued to be the first travel agents. (REF)
+- sacred wanderer image (REF)
+- rite of passage by overcoming hardships of travel (REF)
+
+In research that reveals the peasant's ability to travel, historians have pointed to the countrywide road system and the permit system. The road (REF) which<mark style="background: #FFF3A3A6;"> was kept well maintained and in Edo's time of peace could be travelled safely</mark>. While originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. Inns and other services at checkpoints had to prioritize daimyo (REF), but they were still allowed to accommodate the lower class. 
+However, in order to pass through the many checkpoints along the highway, one needed to have a permit. Such a permit would not be issued for simply travel for pleasure, but a journey for the purpose of pilgrimage was permissible.  
+- the permit system and how peasant's could obtain a pass in order to proceed through the many barrier checkpoints positioned around the country. 
+
+- Laxity of the permit system and checkpoints, despite shogunate wanting peasants to stay at their fields and refrain from travel (REF)
+
+
+
+However, in the ability to travel, a question arises. If the bakufu and daimyo authorities were positioned against travel, as it could have negative economic effects on the income they received due to the peasant's efforts at their fields, why were the permits that were necessary for travel able to obtained so easily by peasants? Why did the checkpoint officials show more laxity to the peasants as time went on? I argue that the explanation for this apparent contradiction lies in the motivations that gave rise to mass peasant pilgrimage, primarily the  the economic factors. 
+
+Using recent research that reveals the economic motivations that lie behind both the travel agent like oshi who encouraged peasants to travel and the cases where communities and town authorities petition to increase pilgrimage, I argue that the economic benefits of pilgrimage combined with the bakufu's position of being a "benevolent'" ruler gave them less incentive to stop the peasants from traveling than it did to simply manage the system to keep up with the sudden surge of pilgrimage travel.  
 
 This research will reveal not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower class. These points are both vital to understanding  what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. 
 ## 1. The question in understanding the rise of peasant pilgrimage
@@ -9,27 +25,16 @@ This research will reveal not only the situation that faced peasants as they beg
 **Question**: Why the rise in peasant pilgrimage that turned into sightseeing?
 **Answer**: Peasant's ability to travel and motivation to travel.
 - ability: many historians have revealed cases where the ruling authorities are negatively positioned against pilgrimage, and how the bakufu invisions peasant's being tied to the land. Therefore the peasant's ability to overcome this obstacle is crucial to understanding the rise of tourism.
-- motivation: Travel in the Edo period was quite arduous the majority of peasant's travel was on foot (REF). Depending on the destination, pilgrimage could take many days, and sometimes many months, to complete, costing both time, effort and money. Thus the motivation to set out on a pilgrimage is necessary.
+-
 The elements behind these two factors has been slowly revealed over the decade's of historians research and a clear image of the situation for Edo period peasants has become clear. 
 
-**Motivation**: Recent research has revealed two significant factors that could have given peasants reason to go on what in the Edo period would be a difficult and long journey. 
-- oshi 
-- sacred wanderer image
-- rite of passage by overcoming hardships of travel
-
-**Ability**: In research that reveals the peasant's ability to travel, historians have uncovered many of the specific conditions of travel.
-- lodging facilities to accommodate peasant's during their travels
-- the permit system and how peasant's could obtain a pass in order to proceed through the many barrier checkpoints positioned around the country. 
 
 Perhaps the most detailed research on peasant's ability to travel has been conducted by Vaporis in his papers about the road conditions and many barriers, both physical and social. In line with many other historians, he has argued at length how the authorities were bent on preventing the peasant's ability to travel, detailing the negative effects from pilgrimage and how the shogunate envisioned the peasant's tied to the land. As both the bakufu and daimyo's income came directly from the peasant's efforts in their fields, it is understandable how travel away from one's region could have negative repercussions in the eyes of those authorities.
 However, in his detailed account of the permit system and how it changed over the years, Vaporis reveals that not only does the bakufu and checkpoint officials deal with the peasants who travel with a measure of laxity, over time that laxity increases and changes to the permit system do not obstruct peasant pilgrimage, only encourage permit taking. In other words, the position of officials, which historians' have argued to be against peasant travel, does not match the actions they have taken in response. While Vapori's research presents a clear view of the situation that became more tolerant of peasant's pilgrimage, he fails to ask why this trend occurred. If the bakufu authorities had aspirations for control over the peasants to keep them tied to their lands, why do the changes to the permit system only make them more flexible and easily obtained? While this question remains clearly unasked, I believe the answer lies in the motivations surrounding peasant's travel. Like Vaporis, many historians have argued the negative perspective of authorities towards peasant travel. However, other researchers, particularly in the last few decades as the social dynamics of the Edo period peasants has become a topic of interest,  have revealed cases of indifference and even positive perceptions of pilgrimage by authorities. This research, which ties in to the motivations for travel, I will outline. 
 
 
 
-###### Ability
-- Laxity of the permit system and checkpoints, despite shogunate wanting peasants to stay at their fields and refrain from travel (REF)
-- Travel infrastructure, while originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. There were not class barriers, though inns and other services at checkpoints had to prioritize daimyo (REF)
-- Safe conditions as the Edo period was a time of peace (REF)
+
 ###### Motivation
 - Promotion of travel by religiously affiliated Oshi, who are argued to be much like a travel agent, arranging accommodation and providing travel information (REF)
 - A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF 
