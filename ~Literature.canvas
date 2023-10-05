@@ -3,8 +3,8 @@
 		{"id":"11ec482fb45b8006","type":"group","x":-2260,"y":40,"width":2289,"height":1080,"label":"Commercialism of Pilgrimage"},
 		{"id":"00b612749f6a1be9","type":"group","x":0,"y":-1920,"width":963,"height":1640,"color":"4","label":"To Read"},
 		{"id":"a39c4213bc4e9377","type":"group","x":-2260,"y":-760,"width":1900,"height":720,"label":"Bakufu against pilgrimage and peasant travel"},
+		{"id":"d493f1eb2371db70","type":"group","x":1080,"y":-1920,"width":900,"height":1300,"label":"Not Relevant"},
 		{"id":"ec8dc40bfb1bd6f5","type":"group","x":-2260,"y":-1460,"width":1900,"height":580,"label":"Societal Complexity & Shifting Cultural Values"},
-		{"id":"d493f1eb2371db70","type":"group","x":1080,"y":-1920,"width":900,"height":709,"label":"Not Relevant"},
 		{"id":"53dbe13e23e4b1f9","type":"group","x":-2590,"y":-1920,"width":1990,"height":114,"color":"#707070","label":"Legend"},
 		{"id":"2b495c31e4022ddb","type":"file","file":"Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md","x":-2240,"y":-1220,"width":520,"height":240,"color":"2"},
 		{"id":"0ed36863b80ccd7e","type":"text","text":"# Yonemoto 2000 & 2003: Maps\n***Yonemoto 2003, Mapping Early Modern Japan- Space, Place, and Culture in the Tokugawa Period***\nThis elegant history considers a fascinating array of texts, cultural practices, and intellectual processes—including maps and mapmaking, poetry, travel writing, popular fiction, and encyclopedias—to chart the emergence of a new geographical consciousness in early modern Japan. Marcia Yonemoto's wide-ranging history of ideas traces changing conceptions and representations of space by looking at the roles played by writers, artists, commercial publishers, and the Shogunal government in helping to fashion a new awareness of space and place in this period. Her impressively researched study shows how spatial and geographical knowledge confined to elites in early Japan became more generalized, flexible, and widespread in the Tokugawa period. In the broadest sense, her book grasps the elusive processes through which people came to name, to know, and to interpret their worlds in narrative and visual forms.\n\n***Yonemoto 2000, The Spatial Vernacular in Tokugawa Maps***\nMarcia Yonemoto assesses \"geographical knowledge\" in early modern Japan by evaluating the currency of a variety of texts and maps of that era. She argues that this knowledge was not monopolized by the state or the elite but was widely shared- a \"spatial vernacular\" that many were conversant with and understood.","x":-2240,"y":-1440,"width":623,"height":169},
@@ -25,7 +25,6 @@
 		{"id":"23c7380ebc22463d","type":"file","file":"Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md","x":-1760,"y":100,"width":400,"height":660,"color":"6"},
 		{"id":"e7bc0c66ae980a41","type":"file","file":"Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md","x":-2200,"y":100,"width":400,"height":660,"color":"6"},
 		{"id":"fc4f12c9a9a4012e","type":"text","text":"# Therefore \"bakufu and han against pilgrimage\" is too simple and ignoring important details\nBakufu and han interested in keeping order and reducing negative effects in communities, as seen in the idea of their responsibility as \"benevolence\"","x":-2680,"y":220,"width":390,"height":160,"color":"1"},
-		{"id":"27ba8615f8ad4f00","type":"text","text":"# Shively 1964, Regulations & Bakufu\n*Shively 1964, Sumptuary Regulation Status in Early Tokugawa*","x":37,"y":-1460,"width":484,"height":129},
 		{"id":"f39f8c3eae3e313a","type":"file","file":"Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md","x":-1310,"y":872,"width":470,"height":208,"color":"2"},
 		{"id":"d25391d067d8524b","type":"file","file":"Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md","x":-2180,"y":812,"width":760,"height":240,"color":"2"},
 		{"id":"353ada3092ec7c38","type":"file","file":"Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md","x":-802,"y":872,"width":490,"height":69,"color":"5"},
@@ -52,7 +51,8 @@
 		{"id":"798873b85af2a06e","type":"text","text":"# Foard 1982, Boundaries Compassion Buddhism","x":1100,"y":-1670,"width":380,"height":50},
 		{"id":"b2680133c3f8aade","type":"text","text":"# Takekoshi 1930, Economic factors \n*Takekoshi 1930, The economic aspects of the history of the civilization of japan","x":1466,"y":-1900,"width":300,"height":135},
 		{"id":"408acb22b3853cad","type":"text","text":"# Collcutt 1990, Review of Keene: Travelers of a Hundred Ages The Japanese as Revea","x":1100,"y":-1600,"width":611,"height":98},
-		{"id":"3186cf0b21632f1a","type":"text","text":"# Kim 1961, On Political Thought in Tokugawa Japan","x":1100,"y":-1481,"width":648,"height":122}
+		{"id":"3186cf0b21632f1a","type":"text","text":"# Kim 1961, On Political Thought in Tokugawa Japan","x":1100,"y":-1481,"width":648,"height":122},
+		{"id":"27ba8615f8ad4f00","type":"text","text":"# Shively 1964, Regulations & Bakufu\n*Shively 1964, Sumptuary Regulation Status in Early Tokugawa*\nClothing that commoners could wear was strictly ruled","x":1100,"y":-1335,"width":484,"height":129}
 	],
 	"edges":[
 		{"id":"cc5bc98c0c6bd034","fromNode":"4a947f878b6733cc","fromSide":"top","toNode":"5105a84bb927ad54","toSide":"right","color":"1"},
