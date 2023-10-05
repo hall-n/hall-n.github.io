@@ -1,0 +1,25 @@
+*Nenzi 2004, Cultured Travelers and Consumer Tourists in Edo-Pe*
+
+#### Changed over time
+Whereas the educated travelers of the sev enteenth century had interacted with individual sites in a deeply personal effort to recover the substratum of literary, poetic, or historical evocations deposited and obscured by time, by the nineteenth century the cultural dimension associ ated with each utamakura7meisho had been incorporated into a larger marketing strategy. When educated divertissements met commodification, the sites of Sagami emerged as loci of multiple attractions, "travel packages" where identi fication with literary or historical precedent was but one of the many ways in which visitors could interact with and enjoy the spaces of travel.6 (287)
+
+#### Meibutsu spurred travel
+Many a "new meisho" owed its creation (and old ones their re-creation) to the presence of a meibutsu ?#j, or a local specialty. Much like meisho, meibutsu is a broad concept that defies clear-cut defi . Often translated as "souvenir," most meibutsu were indeed locally produced items that travelers purchased and brought back as tangible memories of their journey. 
+One important form of meibutsu were gastronomic specialties. While the space of cultured travel was marked by a progression of evocative identifications with lyrical sites, for many consumer tourists the same space came to be perceived as a series of culinary experiences.52 Many locations without any other notable appeal could create themselves as *meisho* simply by promoting the (301)
+right house special.53 Elsewhere tasty cuisine served as a means to add to the fame of a locale and to increase its appeal as a travel destination. (302)
+
+#### Meibutsu became important factor for popular destination
+appreciate highly. Much less favorable com ments were reserved for its meals: "We did fast at that inn; the food was not good at all." To their relief, the inn of Tachibanaya Buhei HS??? in Enoshima, where they went from ?yama, featured
+
+Kanshi, too, was less than impressed by the gastronomy of ?yama: Although this town of ?yama is compared to Huainan ffiSj [south China, near the scenic mountain Huangshan S ill], I certainly cannot praise the flavor [of its food]. When I think of refined foods that suit the taste of travelers, I wonder whether this is a place where crowds of templegoers need to stay.62 (303)
+
+Oda's comment suggests that consumerism reached religious sites as well as lyrical meisho. Nineteenth-century visitors may have been drawn by the moun tain's traditional sacred aura, but they were not fully satisfied unless the complex catered to their less spiritual appetites as well. (304)
+
+#### Activities that hurt commerce of rightful religious group were stopped
+that the illegal activities of local entrepreneurs were to be halted immediately. Pragmatically, the magistrate allowed some room for compromise: should daimyo or high-ranking individuals come on a pilgrimage, private inns might provide accommodation in case temple lodgings proved inadequate for travelers of such stature. Aside from these special circum stances, however, inns were not to be run secretly (naish? nite ?IjE^T), the magistrate warned, and all pilgrims should remain under the care of the temple lodgings. Finally, amulet distribution by others was to continue only on the condition that those who benefited from it also provide public services to the temple. (306)
+
+
+tokonoma, located in the back of the temple, in the inner part of the build ing."76 Iwamotoin, according to T?shi's record, offered accommodations of various sizes and kinds, along with amenities such as an inner courtyard where he was able to escape the chaos of the main lodging, still under siege by crowds of pilgrims. The
+
+
+agreement (giteisho Wi??M) to limit the amount of tolls asked of ?yama pilgrims. The document recognized that the requests for money to be used for road and bridge repairs had been excessive, and that as a result many travelers had simply chosen alternate routes. The same document called for the immediate elimination of all tolls, asked ferry operators to lower their fares by 50 percent so as to attract more visitors to the mountain, and, while still allow ing for packhorse drivers and carriers to collect fixed fares, formally warned them against extorting more money from their customers under false pretenses. A decree issued by the daikan {V? in 1856 forbade all coastal villages situated between Shinagawa and Hodogaya to provide boat transportation to Oyama travelers (309)

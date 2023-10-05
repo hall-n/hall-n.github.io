@@ -8,3 +8,6 @@ Ishimori points out that shikoku pilgrimage for more religious aspects while Kan
 
 Oyama might be argued to be tourism, but even so, both tourism and religious pilgrimages were seen negatively by some domains. 
 Therefore, perhaps the reason behind the negative perception was not the motive for the journey (e.g. tourism or religious) but how that journey affected the local economies. 
+
+
+see Hur 2000
