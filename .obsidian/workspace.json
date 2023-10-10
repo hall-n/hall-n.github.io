@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7313d1cc81ab1d6d",
+        "id": "cb706483ff618c02",
         "type": "tabs",
         "children": [
           {
@@ -15,20 +15,26 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": 1477.6231529599966,
-                  "y": -1342.3161808102832,
-                  "zoom": -0.7398811259684293
+                  "x": -723.3528638593432,
+                  "y": -2313.6564055836784,
+                  "zoom": -1.8233986742116337
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7313d1cc81ab1d6d",
+        "type": "tabs",
+        "children": [
           {
             "id": "fe1bdc012e0ea031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+                "file": "論文/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,8 +48,8 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -1148.7901694648626,
-                  "y": 551.5286427203455,
+                  "x": -1343.9464877573816,
+                  "y": -844.3811339553093,
                   "zoom": -1.2213306436855564
                 }
               }
@@ -55,26 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "597b667bd8e6341d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nenzi 2004, Consumerism of pilgrimage.md",
+                "file": "Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature.canvas",
+                "file": "論文/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature.canvas",
+                "file": "論文/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature.canvas"
+                "file": "論文/Introduction.md"
               }
             }
           },
@@ -213,16 +206,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4978ffad87095c16",
+  "active": "fe1bdc012e0ea031",
   "lastOpenFiles": [
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "~Literature.canvas",
-    "~Mind Map.canvas",
-    "Nenzi 2004, Consumerism of pilgrimage.md",
+    "Maps.md",
+    "Meibutsu.md",
+    "Merchants.md",
+    "Other reasons for scale of movement.md",
+    "Overall Travel Situation.md",
+    "~Outline.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "Peasants/Commerce from pilgrims.md",
-    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
+    "~Literature.canvas",
     "論文/Introduction.md",
+    "Peasants/Hardships of travel.md",
+    "Peasants/Freedom of Travel.md",
+    "Peasants/Commerce from pilgrims.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "~Mind Map.canvas",
+    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
+    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
     "Historian's arguments/Ishimori 2009.md",
     "Bakufu and Daimyo/Permit System.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
@@ -235,13 +236,6 @@
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
     "論文/Title & Thesis.md",
     "Bakufu and Daimyo/Bakufu & Domains Economically Motivated.md",
-    "~単語.md",
-    "Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md",
-    "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
-    "Meibutsu.md",
-    "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
-    "~Outline.md",
-    "Trag.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
