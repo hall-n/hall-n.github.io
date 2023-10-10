@@ -25,7 +25,7 @@ All kinds of travel required permission in the form of traffic stamps and checkp
 ##### Inns serving food helped tourism grow
 In the middle of the Edo period inns began to serve meals for the first time. It was a radical change for the traveler since they no longer needed to bring any food. The introduction of meal service at inns contributed the development of travel for pleasure. The introduction of serving meals at inns inevitablly entailed the development of prostitution which was one of the important aspects of tourism. Every "shukuba" (station) had some brothels, and many male travelers visited there for female attraction. 
 
-##### Goverment abloshed brothels at inns to control morals, but doesn't mention tourism
+##### Government abolished brothels at inns to control morals, but doesn't mention tourism
 In the second year of Manji era (1659), the government decided to abolish the brothels at "shukuba" in order to control of people's morals. Since (184)
 that time, waitresses at inns played a very important role not only in serving meals but also in serving as night mates for male customers [MiyAMoTo 1965]. The availability of such services at inns was most welcomed by many male travelers in non-ordinary playful setting. Iri the Genroku era the numbers of these waitresses greatly increased in accordance with the booming of tourism. The prevalence of prostitution at "shukuba" (station) by waitresses naturally brought controls by the police in .the third year of Kyoho (1718). 'The government proclaimed that the number of the waitresses should be limited to 2 persons per inn. (185)
 

@@ -6,6 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
+        "dimension": 59.584450402144775,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -15,10 +16,22 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -917.4571393170468,
-                  "y": -2031.0615066658809,
-                  "zoom": -1.2918015975540846
+                  "x": -869.9072875499925,
+                  "y": 1445.7638596366676,
+                  "zoom": -1.4791716593969615
                 }
+              }
+            }
+          },
+          {
+            "id": "85e3d79bce73f40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peasants/Peasants Travel as Rite of Passage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -27,6 +40,7 @@
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
+        "dimension": 40.415549597855225,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -66,8 +80,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c95fb37b434f1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -134,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md"
               }
             }
           },
@@ -206,35 +232,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "161d7083fab5feb6",
+  "active": "0c95fb37b434f1e7",
   "lastOpenFiles": [
-    "論文/Introduction.md",
+    "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "~Mind Map.canvas",
-    "Maps.md",
-    "Meibutsu.md",
-    "Merchants.md",
-    "Other reasons for scale of movement.md",
-    "Overall Travel Situation.md",
-    "~Outline.md",
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "~Literature.canvas",
-    "Peasants/Hardships of travel.md",
-    "Peasants/Freedom of Travel.md",
-    "Peasants/Commerce from pilgrims.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
+    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments/Ishimori 2009.md",
-    "Bakufu and Daimyo/Permit System.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "Excalidraw/Drawing 2023-09-29 14.55.51.excalidraw.md",
-    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
-    "Bakufu and Daimyo/No Class Barriers.md",
-    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
-    "Bakufu and Daimyo/Road Conditions.md",
+    "Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md",
+    "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
-    "論文/Title & Thesis.md",
+    "Bakufu and Daimyo/Permit System.md",
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "Bakufu and Daimyo/No Class Barriers.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+    "Bakufu and Daimyo/Confucian element.md",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "Bakufu and Daimyo/Bakufu not against all pilgrimage.md",
+    "Academic Discussions.md",
+    "論文/Introduction.md",
+    "Cultural Perspective of Travel.md",
+    "Maps.md",
+    "Merchants.md",
+    "Meibutsu.md",
+    "Religious Institutions/Travel agents.md",
+    "Bakufu and Daimyo/Road Conditions.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "Peasants/Freedom of Travel.md",
+    "~Literature.canvas",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
