@@ -15,9 +15,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -870.6941148160071,
-                  "y": -832.8641027296835,
-                  "zoom": -1.4124252796985037
+                  "x": -917.4571393170468,
+                  "y": -2031.0615066658809,
+                  "zoom": -1.2918015975540846
                 }
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Introduction.md"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -206,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "161d7083fab5feb6",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
     "論文/Introduction.md",
+    "~Mind Map.canvas",
     "Maps.md",
     "Meibutsu.md",
     "Merchants.md",
