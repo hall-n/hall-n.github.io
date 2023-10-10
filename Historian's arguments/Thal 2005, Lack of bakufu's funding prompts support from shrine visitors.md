@@ -1,4 +1,4 @@
-# Thal 2005, Lack of bakufu's funding prompts support from shrine visitors
+
 ##### competitive age
 Growing trade fostered fierce competition - among priests and diamyo seeking prosperity for their domains, among producers and merchants seeking lucrative contracts, among religious rivals seeking the donations and prayer commissions of would-be worshippers. The god Konpira became both resource and benefactor, as people sought to build and capitalize upon the pilgrimage at the same time that they prayed to the god for health and wealth. Amid these market forces, Mt. Zozu grew from a center of local trade to become an important link among the emerging entrepreneurial elites of western Japan. By the mid-eighteenth century, Konkoin's priests would obtain national recognition and economic security as the imperially sponsored, the exclusive site of a redefined Konpira. The object of prayers from people across the social and economic spectrum, Konpira became for many a god of money, symbolically as well as miraculously powerful in the increasingly fierce competition of a market-oriented age. (Thal 2005, 73)
 
@@ -30,10 +30,3 @@ The Matsudaira and Kyogoku families, then, became committed surporters of Konpir
 
 
 
-# Ishimori 1995 Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country
-
-"kaich6 which is the display of an image at the temple which owns it, and the other is the degaich6 which involves transporting the image to another place for viewing" (Ishimori 1995, 15)
-##### Degaicho attracted vendors and shows
-"For the pilgrims, the primary benefit of the kaicho" was to obtain divine protection by establishing ties with Buddha. However, for the monks at the temples, the primary benefit was the extra revenue, while the Shogunate benefited from the demonstration of its power through the OMce of Temple and Shrine Administration." (Ishimori 1995, 16)
-"although the kaich6 was originally conceived as a purely religious event based on simple faith, in reality, it contained many elements of tourism. A system was created by utilizing religious facilities such as the temple grounds and holy images and deploying various aspects of the religious institutions so that the organizers could earn extra revenue, and the visitors could not only worship the religious image, but also enjoy the plays, attractions, gambling, and shopping for souvenirs [GRABuRN 1983]." (Ishimori 1995, 16)
-"As times change, so does the experience of 7Vtzminose. Thus, there are people who perceive it while participating in religious services in a cathedral, temple, or shrine, while others have a similar experience while surrounded by the crowds at Disneyland or when slipping into a mineral bath at a hot spring resort. **Although some things change, however, the homologous relationship between religion and touris'm remains constant."** (Ishimori 1995, 23) ^a99347

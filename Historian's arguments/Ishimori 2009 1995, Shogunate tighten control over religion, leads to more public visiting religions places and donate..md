@@ -1,5 +1,6 @@
 *Ishimori 2009, Popularization and commercialization of tourism in early modern Japan*
 
+
 ##### Pilgrimage cost effort and money
 Considering that the people who traveled outside their home country at that time must had to have a permit and a certificate, which functioned much like a present day passport, and they spent a large amount of money, such travels in the Edo period can be regarded as the overseas travel in the present day. 
 
@@ -69,3 +70,13 @@ Moreover, information brought by the travelers was highly evaluated in the Edo p
 ^653ba1
 
 Traveling also contributed to the diffusion of agricultural techniques and special local products, and to the expansion of markets which favoured economic prosperity. Owing to the development and popularization of tourism Japan could cope with the radical changes at the end of the Tokugawa regime and after the MeiJi Restoration. (192)
+
+
+
+## Ishimori 1995 Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country
+
+"kaich6 which is the display of an image at the temple which owns it, and the other is the degaich6 which involves transporting the image to another place for viewing" (Ishimori 1995, 15)
+##### Degaicho attracted vendors and shows
+"For the pilgrims, the primary benefit of the kaicho" was to obtain divine protection by establishing ties with Buddha. However, for the monks at the temples, the primary benefit was the extra revenue, while the Shogunate benefited from the demonstration of its power through the OMce of Temple and Shrine Administration." (Ishimori 1995, 16)
+"although the kaich6 was originally conceived as a purely religious event based on simple faith, in reality, it contained many elements of tourism. A system was created by utilizing religious facilities such as the temple grounds and holy images and deploying various aspects of the religious institutions so that the organizers could earn extra revenue, and the visitors could not only worship the religious image, but also enjoy the plays, attractions, gambling, and shopping for souvenirs [GRABuRN 1983]." (Ishimori 1995, 16)
+"As times change, so does the experience of 7Vtzminose. Thus, there are people who perceive it while participating in religious services in a cathedral, temple, or shrine, while others have a similar experience while surrounded by the crowds at Disneyland or when slipping into a mineral bath at a hot spring resort. **Although some things change, however, the homologous relationship between religion and touris'm remains constant."** (Ishimori 1995, 23) ^a99347

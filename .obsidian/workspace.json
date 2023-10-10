@@ -6,7 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 59.584450402144775,
+        "dimension": 43.875838926174495,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -1119.3955486470481,
-                  "y": 1825.1519035738904,
-                  "zoom": -1.4352518588304586
+                  "x": -758.3473448492434,
+                  "y": 1800.0862544971008,
+                  "zoom": -1.315563364158546
                 }
               }
             }
@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peasants/Peasants Travel as Rite of Passage.md",
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 40.415549597855225,
+        "dimension": 56.124161073825505,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -62,9 +62,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -935.9981503257403,
-                  "y": -652.0174392896942,
-                  "zoom": -1.3985105209805544
+                  "x": -817.4746938125305,
+                  "y": 699.6523161506159,
+                  "zoom": -0.9374902333078757
                 }
               }
             }
@@ -87,14 +87,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Literature.canvas",
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Literature.canvas",
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Literature.canvas"
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md"
               }
             }
           },
@@ -232,17 +232,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4978ffad87095c16",
+  "active": "0c95fb37b434f1e7",
   "lastOpenFiles": [
+    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "~Mind Map.canvas",
+    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "~Literature.canvas",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "Langrill 2012, Merchants changing values, Shogun's authority religious based.md",
     "Historian's arguments/Tadao 1995, Conditions of travel, Oshi's involvement.md",
     "Maps.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Historian's arguments/Temple's Economic Incentives increased pilgrims.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
@@ -254,13 +257,10 @@
     "論文/Introduction.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
-    "Historian's arguments/Ishimori 2009.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md",
     "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
-    "Bakufu and Daimyo/Permit System.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
