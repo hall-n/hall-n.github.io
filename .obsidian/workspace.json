@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -1232.1412258324656,
-                  "y": 2626.9848472747212,
-                  "zoom": -1.1522949081659317
+                  "x": -1119.3955486470481,
+                  "y": 1825.1519035738904,
+                  "zoom": -1.4352518588304586
                 }
               }
             }
@@ -62,9 +62,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -1343.9464877573816,
-                  "y": -844.3811339553093,
-                  "zoom": -1.2213306436855564
+                  "x": -935.9981503257403,
+                  "y": -652.0174392896942,
+                  "zoom": -1.3985105209805544
                 }
               }
             }
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "~Literature.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "~Literature.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md"
+                "file": "~Literature.canvas"
               }
             }
           },
@@ -232,13 +232,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c95fb37b434f1e7",
+  "active": "4978ffad87095c16",
   "lastOpenFiles": [
+    "~Mind Map.canvas",
+    "~Literature.canvas",
+    "Historian's arguments/Tadao 1995, Conditions of travel, Oshi's involvement.md",
+    "Maps.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Temple's Economic Incentives increased pilgrims.md",
-    "~Mind Map.canvas",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
@@ -257,11 +261,6 @@
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Bakufu and Daimyo/Shogunate Support of Pilgrimage.md",
     "Bakufu and Daimyo/Permit System.md",
-    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
-    "Bakufu and Daimyo/No Class Barriers.md",
-    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
-    "Bakufu and Daimyo/Confucian element.md",
-    "~Literature.canvas",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

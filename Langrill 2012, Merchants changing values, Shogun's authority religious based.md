@@ -1,0 +1,1 @@
+### Langrill 2012, Merchants changing values, Shogun's authority religious based
