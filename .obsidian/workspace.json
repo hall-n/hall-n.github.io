@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -758.3473448492434,
-                  "y": 1800.0862544971008,
-                  "zoom": -1.315563364158546
+                  "x": -1966.8826984561445,
+                  "y": 1366.1771362942072,
+                  "zoom": -1.6024761070117106
                 }
               }
             }
@@ -80,21 +80,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c95fb37b434f1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -232,11 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c95fb37b434f1e7",
+  "active": "161d7083fab5feb6",
   "lastOpenFiles": [
+    "論文/Introduction.md",
+    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "~Mind Map.canvas",
-    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "~Literature.canvas",
     "Peasants/Peasants Travel as Rite of Passage.md",
@@ -254,7 +242,6 @@
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
-    "論文/Introduction.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
