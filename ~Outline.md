@@ -19,6 +19,8 @@ It is a good idea to use the electronic table of contents feature in Word to a
 This useful [video](https://www.linkedin.com/learning/word-2016-creating-long-documents/create-a-master-document?u=42314660) will walk you through the formatting of longer documents using the electronic table of contents feature. 
 
 ## Chapter 1: Introduction
+**Normally, the introduction is roughly 10% of a dissertation word count.** (850-1000)
+
 The introduction explains the how, what, where, when, why and who of the research. It introduces the reader to your dissertation and should act as a clear guide as to what it will cover.  
 
 The introduction may include the following content: 
@@ -36,7 +38,6 @@ The introduction may include the following content: 
 - Mention your methods/research design. 
 - Outline the dissertation structure (introduce the main points that you will discuss in the order they will be presented). 
 
-**Normally, the introduction is roughly 10% of a dissertation word count.** 
 
 ## Literature Review
  *which can be included in the introduction rather than as a separate chapter. Check with your supervisor if you are unsure.* 
@@ -71,6 +72,7 @@ In what order are you going to present the points you want to make in this chapt
 Each chapter should have a short introduction and conclusion. 
 
 ## Conclusion
+425+ words (5-10%)
 The conclusion is the final chapter of your dissertation. It should flow logically from the previously presented text; therefore, you should avoid introducing new ideas, new data, or a new direction.  
 
 Ideally, the conclusion should leave the reader with a clear understanding of the discovery or argument you have advanced.  
