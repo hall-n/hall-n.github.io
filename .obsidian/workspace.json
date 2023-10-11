@@ -6,7 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 54.624664879356565,
+        "dimension": 54.62466487935657,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -91,7 +91,7 @@
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 45.375335120643435,
+        "dimension": 45.37533512064343,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -278,7 +278,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f7d8217c20cd875",
+  "active": "fe1bdc012e0ea031",
   "lastOpenFiles": [
     "~Mind Map.canvas",
     "論文/Introduction.md",
