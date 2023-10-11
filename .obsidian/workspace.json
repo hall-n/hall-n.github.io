@@ -16,10 +16,22 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -912.9996135425796,
-                  "y": -1790.4297513108895,
-                  "zoom": -1.3466733070517451
+                  "x": -1464.8226778149992,
+                  "y": -12.080567358507363,
+                  "zoom": -0.7402443170062605
                 }
+              }
+            }
+          },
+          {
+            "id": "9deae481c34e4efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checkpoint reality.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overall Travel Situation.md",
+                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7313d1cc81ab1d6d",
@@ -171,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -241,13 +251,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "0f7d8217c20cd875",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,11 +278,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "0f7d8217c20cd875",
   "lastOpenFiles": [
-    "Overall Travel Situation.md",
-    "論文/Introduction.md",
     "~Mind Map.canvas",
+    "論文/Introduction.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "Overall Travel Situation.md",
+    "Checkpoint reality.md",
+    "Peasants/Hardships of travel.md",
     "~Literature.canvas",
     "Hall 1966, Bizen example of benevolent ruler.md",
     "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
@@ -279,7 +300,6 @@
     "Historian's arguments/Tadao 1995, Conditions of travel, Oshi's involvement.md",
     "Maps.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
@@ -287,9 +307,6 @@
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
-    "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

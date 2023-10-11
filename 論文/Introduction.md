@@ -23,7 +23,7 @@ Therefore, I argue that the reason for this laxity lies in:
 	Evidence: 
 	- Confucian based Tokugawa was not authoritarian but bottom up (Paramore 2012)
 	- Oda and Ieyasu's leadership policies and idea of "men of the realm" (Cambridge History, *need reference*)
-	- Confucian precepts of benevolent rule (Cambridge, Hall)
+	- Confucian precepts of benevolent rule (Cambridge, Hall). Indeed Vaporis himself mentions "Considerable benevolence was shown by officials to commoners caught trying to go through or around sekisho illegally" (1994, 180) despite his position that authorities were set against letting commoners travel.
 	- Reference work of leaving peasants with surplus for overall economic benefit. Perhaps they have more to lose than to gain if they go against the commoners. Perhaps the idea of them being against pilgrimage is based on a few writings without taking their overall actions into account.
 **Conclusion:** Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 **Why this research is meaningful:** This research will reveal not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower class. These points are both vital to understanding  what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. 
@@ -64,3 +64,21 @@ This research on the motivations for travel will .
 - Promotion of travel by religiously affiliated Oshi, who are argued to be much like a travel agent, arranging accommodation and providing travel information (REF)
 - A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF 
 
+## Why were authorities lax with peasant pilgrimage?
+
+#### Why be against pilgrimage?
+While many historians mention the authorities 
+
+
+Traganou (2004) goes so far as to argue that the pilgrimage itself posed a threat to bakufu's authority. 
+
+
+Perhaps the most persuasive argument that would explain the authorities desire to restrict or ban pilgrimage is of an economic origin. Vaporis explains how travelling into other regions meant that money leaving the domain caused concern for the ruler. For example, when the Kaga domain restricted pilgrimage to a popular Kyoto shrine, they claimed it was to "stem the outflow of precious domain resources like gold and silver" (Vaporis 1994, 202).
+
+Reasons to be against it
+"regulations dealing with commoner travel were issued frequently and were inspired mainly by economics rather than a desire for totalitarian control" (Vaporis 1994, 198).
+
+Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. The changes by the Kaga and  domains as well seem reactionary as they made the permit application process for more simple. He observes that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them on nukemairi" (Vaporis 1994, 173). While making no comment on  nukemairi has been argued to be damaging to the economy, allowing those people to acquire permits gives us the image that the underlying motivation was to urge people to follow the system, in other words, make the system more suitable in response to the needs of the people, instead of trying to control what the people needed. 
+
+
+regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" (Vaporis 1994, 198). But what if the purpose was not to stem
