@@ -31,6 +31,7 @@ Therefore, I argue that the reason for this laxity lies in:
 To understand this economic element, it is first necessary to understand the situation surrounding pilgrimage. Therefore I will briefly outline the rise in pilgrimage the primary factors that led to its increase. 
 
 ## Background: The rise of tourism pilgrimage
+
 Along with other historians, it is clear that peasant pilgrimage greatly increased over the course of the Edo period, and subsequently turned into a tourism industry, with sightseeing and enjoying local specialties. In other words, it slowly came to be more complex than just shrine and temple visits. When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). Trying to understand how and why this increase came about, historians have pointed out various factors, ranging from economic to religious, but I believe they can be organized into two categories;  motivation and ability. 
 #### Motivation
 Travel in the Edo period was quite arduous the majority of peasant's travel was on foot (REF). Depending on the destination, pilgrimage could take many days, and sometimes many weeks, to complete, costing both time, effort and money. Thus the motivation to set out on a pilgrimage is necessary. 
