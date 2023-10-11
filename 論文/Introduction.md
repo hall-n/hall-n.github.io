@@ -24,7 +24,7 @@ Therefore, I argue that the reason for this laxity lies in:
 	- Confucian based Tokugawa was not authoritarian but bottom up (Paramore 2012)
 	- Oda and Ieyasu's leadership policies and idea of "men of the realm" (Cambridge History, *need reference*)
 	- Confucian precepts of benevolent rule (Cambridge, Hall)
-Reference work of leaving peasants with surplus for overall economic benefit. Perhaps they have more to lose than to gain if they go against the commoners. Perhaps the idea of them being against pilgrimage is based on a few writings without taking their overall actions into account.
+	- Reference work of leaving peasants with surplus for overall economic benefit. Perhaps they have more to lose than to gain if they go against the commoners. Perhaps the idea of them being against pilgrimage is based on a few writings without taking their overall actions into account.
 **Conclusion:** Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 **Why this research is meaningful:** This research will reveal not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower class. These points are both vital to understanding  what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. 
 

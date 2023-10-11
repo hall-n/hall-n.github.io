@@ -27,9 +27,24 @@
             "id": "c53ca8843013d964",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": -1403.9208890756106,
+                  "y": 326.46461801911045,
+                  "zoom": -0.6514119899272952
+                }
+              }
+            }
+          },
+          {
+            "id": "ab678bb5869baaa8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "file": "Hall 1966, Bizen example of benevolent ruler.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "file": "~Literature.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "file": "~Literature.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md"
+                "file": "~Literature.canvas"
               }
             }
           },
@@ -236,16 +250,17 @@
   },
   "active": "c53ca8843013d964",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
-    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "論文/Introduction.md",
+    "~Literature.canvas",
+    "Hall 1966, Bizen example of benevolent ruler.md",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+    "~Mind Map.canvas",
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "~Outline.md",
     "~Grading.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "~Literature.canvas",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "Langrill 2012, Merchants changing values, Shogun's authority religious based.md",
     "Historian's arguments/Tadao 1995, Conditions of travel, Oshi's involvement.md",
@@ -262,7 +277,6 @@
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
