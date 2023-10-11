@@ -67,10 +67,11 @@ This research on the motivations for travel will .
 ## Why were authorities lax with peasant pilgrimage?
 
 #### Why be against pilgrimage?
-Many historians mention the authorities' position against pilgrimage (Kanzaki 1995, Watkins 2008). In Vaporis' many works on the permit system and travel in the Edo period, he often mentions how the bakufu and daimyo idealized a society where the peasants "remained tied to the land" (1994, 136). Both Vaporis and Traganou explain this desire to keep peasants at their farms is because travel might reduce agricultural production. Moving beyond economic reasons, Traganou (2004) goes so far as to argue that the pilgrimage itself posed a threat to bakufu's authority. 
+In the many  historians mention the authorities' position against pilgrimage (Kanzaki 1995, Nenzi 2004, Watkins 2008). In Vaporis' many works on the permit system and travel in the Edo period, he often mentions how the bakufu and daimyo idealized a society where the peasants "remained tied to the land" (1994, 136). Both Vaporis and Traganou explain this desire to keep farmers at their land is because travel might reduce agricultural production. Moving beyond economic reasons, Traganou (2004) goes so far as to argue that the pilgrimage itself posed a threat to bakufu's authority. 
+
 Hard evidence on what the authorities thought of the peasants undertaking pilgrimage is limited to statements from a few officials, 
 
-These statements, however, are from only single individuals and thus may not reflect the majority of opinions and overall stance of the bakufu. However, if they were against pilgrimage, then why would they not have taken steps to restrict it? 
+These statements are from only single individuals and therefore may not reflect the majority of opinions and overall stance of the bakufu. Taking the perspective of the historians above and assuming that the bakufu were against peasant pilgrimage, then why would they not have taken steps to restrict it? By examining the bakufu's possible motives might reveal their position towards travel.    
 
 
 Perhaps the most persuasive argument that would explain the authorities desire to restrict or ban pilgrimage is of an economic origin. Vaporis explains how travelling into other regions meant that money leaving the domain caused concern for the ruler. For example, when the Kaga domain restricted pilgrimage to a popular Kyoto shrine, they claimed it was to "stem the outflow of precious domain resources like gold and silver" (Vaporis 1994, 202).
