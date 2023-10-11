@@ -67,10 +67,10 @@ This research on the motivations for travel will .
 ## Why were authorities lax with peasant pilgrimage?
 
 #### Why be against pilgrimage?
-While many historians mention the authorities 
+Many historians mention the authorities' position against pilgrimage (Kanzaki 1995, Watkins 2008). In Vaporis' many works on the permit system and travel in the Edo period, he often mentions how the bakufu and daimyo idealized a society where the peasants "remained tied to the land" (1994, 136). Both Vaporis and Traganou explain this desire to keep peasants at their farms is because travel might reduce agricultural production. Moving beyond economic reasons, Traganou (2004) goes so far as to argue that the pilgrimage itself posed a threat to bakufu's authority. 
+Hard evidence on what the authorities thought of the peasants undertaking pilgrimage is limited to statements from a few officials, 
 
-
-Traganou (2004) goes so far as to argue that the pilgrimage itself posed a threat to bakufu's authority. 
+These statements, however, are from only single individuals and thus may not reflect the majority of opinions and overall stance of the bakufu. However, if they were against pilgrimage, then why would they not have taken steps to restrict it? 
 
 
 Perhaps the most persuasive argument that would explain the authorities desire to restrict or ban pilgrimage is of an economic origin. Vaporis explains how travelling into other regions meant that money leaving the domain caused concern for the ruler. For example, when the Kaga domain restricted pilgrimage to a popular Kyoto shrine, they claimed it was to "stem the outflow of precious domain resources like gold and silver" (Vaporis 1994, 202).
@@ -81,4 +81,10 @@ Reasons to be against it
 Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. The changes by the Kaga and  domains as well seem reactionary as they made the permit application process for more simple. He observes that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them on nukemairi" (Vaporis 1994, 173). While making no comment on  nukemairi has been argued to be damaging to the economy, allowing those people to acquire permits gives us the image that the underlying motivation was to urge people to follow the system, in other words, make the system more suitable in response to the needs of the people, instead of trying to control what the people needed. 
 
 
-regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" (Vaporis 1994, 198). But what if the purpose was not to stem
+
+
+"Some of the ways domains sought to regulate pilgrimage were setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  (Vaporis 1994, 198). 
+
+Vaporis comments that "regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" (1994, 198). However, in these examples of actions against pilgrimage, the these reasons appear to be to only limit possible negative economic effects. Were the authorities really trying to stem the desire to travel? 
+
+Next, look at other 

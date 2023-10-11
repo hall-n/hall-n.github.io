@@ -118,5 +118,14 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-dictionary-plugin:dictionary-open-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }
