@@ -6,7 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 43.875838926174495,
+        "dimension": 54.624664879356565,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -16,10 +16,22 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -625.4467712266153,
-                  "y": 691.9290781341017,
-                  "zoom": -1.6024761070117106
+                  "x": -1121.8061745299422,
+                  "y": 2563.39909241866,
+                  "zoom": -1.0141751088008035
                 }
+              }
+            }
+          },
+          {
+            "id": "c53ca8843013d964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,12 +47,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 56.124161073825505,
+        "dimension": 45.375335120643435,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -110,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tabi",
+                "query": "benevolen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,11 +140,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -147,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Introduction.md"
+                "file": "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md"
               }
             }
           },
@@ -219,10 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "c53ca8843013d964",
   "lastOpenFiles": [
     "~Mind Map.canvas",
+    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "論文/Introduction.md",
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "~Outline.md",
     "~Grading.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
@@ -246,8 +263,6 @@
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
-    "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "Historian's arguments/Fabricand and Person 2011, literary works spread travel popularity.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

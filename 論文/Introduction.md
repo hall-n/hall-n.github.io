@@ -17,7 +17,13 @@ There are religious, economic, and social factors that surround the surge in pil
 **Answer:** While social acceptance of pilgrimage could have been influential,  I argue that the bakufu was more focused on <mark style="background: #FFF3A3A6;">keeping a propserous country rather than lording over the lower class</mark>  and it was the the economic factors surrounding pilgrimage that are the primary reason which  affected the their desire and ability to restrict the movements of the lower class. Specifically, the rise of pilgrimage tourism as an industry and the economic benefits thereof. 
 Therefore, I argue that the reason for this laxity lies in:
 - **economic motivations to encourage pilgrimage**
+	Evidence: 
+	- cases where they limit pilgrimage are for their negative affects on region. They never seek to stop pilgrimage itself.
 - **position of benevolent ruler** and being more concerned with economy than domineering commoner's lives. 
+	Evidence: 
+	- Confucian based Tokugawa was not authoritarian but bottom up (Paramore 2012)
+	- Oda and Ieyasu's leadership policies and idea of "men of the realm" (Cambridge History, *need reference*)
+	- Confucian precepts of benevolent rule (Cambridge, Hall)
 Reference work of leaving peasants with surplus for overall economic benefit. Perhaps they have more to lose than to gain if they go against the commoners. Perhaps the idea of them being against pilgrimage is based on a few writings without taking their overall actions into account.
 **Conclusion:** Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 **Why this research is meaningful:** This research will reveal not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower class. These points are both vital to understanding  what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. 
