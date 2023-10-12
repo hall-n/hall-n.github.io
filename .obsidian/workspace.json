@@ -11,14 +11,11 @@
             "id": "161d7083fab5feb6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": 800.4352341607474,
-                  "y": -1276.3137712627135,
-                  "zoom": -1.4142963142705351
-                }
+                "file": "~単語.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -78,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cambridge",
+                "query": "lacker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "~単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "~単語.md"
               }
             }
           },
@@ -198,33 +195,34 @@
   },
   "active": "161d7083fab5feb6",
   "lastOpenFiles": [
-    "~Literature.canvas",
-    "Historian's arguments/Cambridge 2008.md",
-    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "論文/Title & Thesis.md",
+    "~travel.jpg",
+    "~Train of thought.md",
+    "~README.md",
+    "~Questions.md",
     "~Outline.md",
     "~Mind Map.canvas",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
-    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
-    "Checkpoint reality.md",
-    "Overall Travel Situation.md",
-    "Peasants/Hardships of travel.md",
-    "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
-    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "~Literature.canvas",
     "~Grading.md",
-    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
-    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "Peasants/Peasants Travel as Rite of Passage.md",
-    "Historian's arguments/Langrill 2012, Merchants changing values, Shogun's authority religious based.md",
-    "Historian's arguments/Tadao 1995, Conditions of travel, Oshi's involvement.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Overall Travel Situation.md",
+    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
+    "Other reasons for scale of movement.md",
+    "Merchants.md",
+    "Meibutsu.md",
     "Maps.md",
+    "Cultural Perspective of Travel.md",
+    "Checkpoint reality.md",
+    "Religious Institutions/Travel agents.md",
+    "Religious Institutions/Sacral image of wanderer.md",
+    "Peasants/villages changes, bushi peasant.md",
+    "Peasants/Spread of travel information.md",
+    "Peasants/Shorter travels feasable.md",
+    "Peasants/Pilgrims & locals.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "Peasants/Hardships of travel.md",
+    "Peasants/Freedom of Travel.md",
+    "Peasants/Communities wanted commerce from pilgrims.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
@@ -232,7 +230,6 @@
     "~arrow.png",
     "arrow.png",
     "~arrow.jpg",
-    "~travel.jpg",
     "arrow.jpg",
     "Excalidraw",
     "config.yml",

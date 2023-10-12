@@ -1,3 +1,4 @@
+#Yonemoto_2003
 #### Maps facilitated an ideal of commoner centered city
 Maps like Ishikawa Ryulsen's perhaps had a particular appeal to a commoner audience because they allowed commoners access to the city both spatially and culturally, and thus facilitated the construction of an ideal, if not the reality, of a commoner-centered city. Like the advent of vernacular languages in the strictly linguistic sense, **printed maps allowed for new forms of expression and constituted new channels of agency for the common people who used them.** YONEMOTO
 

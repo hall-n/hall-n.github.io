@@ -1,4 +1,5 @@
 *Oshid et al 2011, A Study on the Developmental Process of the Route Planning and the Staying Base on Kamakura Tourism in Early Modern* 
+#OshidaEtal_2011
 
 ##### Kamakura first centered on shrines & temples, but with time scenery sightseeing's value became known.
 このことより， 鎌倉観光は基本的には有名社寺の参詣を中心とした観光形態であったといえるが，時代の経過に伴って通過するだけであった海岸 沿いにも観光価値を見出すようになった様子が伺えた。

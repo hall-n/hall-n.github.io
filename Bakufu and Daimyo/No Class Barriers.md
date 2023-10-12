@@ -1,7 +1,7 @@
 Shogunate forbade travel by carriage, thus travel on foot could be done by anyone ^930058
 
 
-
+#Tadao_1995 
 *Tadao 1995, Tourism as a Phenomenon of Civilization*
 
 Why Japan had so many lower class travelers

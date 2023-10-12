@@ -3,9 +3,9 @@
 - system of benevolent ruler who serves the people
 - fear of peasant resistance
 
-
+#Cambridge 
 #### bakufu governing in tandem with daimyo 
-The present consensus among historians is that government organization during the Edo period was the consequence of the evolution of two political systems: the shogunal system of national control and the daimyo system of local control. Both of these aspects of government were necessary and mutually dependent. In other words, the hegemonic power ultimately acquired by the shogun rested significantly on the ability of the daimyo who made up the shogun's vassal band to assert effective command over their provincial domains. These in fact accounted for no less than three-quarters of the national land base. **The shogun, although in possession of the remaining one-quarter, was not prepared to abolish the daimyo and take on the administration of the entire country through a private officer corps.** (Cambridge 2008, 8)
+The present consensus among historians is that government organization during the Edo period was the consequence of the evolution of two political systems: the shogunal system of national control and the daimyo system of local control. Both of these aspects of government were necessary and mutually dependent. In other words, the hegemonic power ultimately acquired by the shogun rested significantly on the ability of the daimyo who made up the shogun's vassal band to assert effective command over their provincial domains. These in fact accounted for no less than three-quarters of the national land base. **The shogun, although in possession of the remaining one-quarter, was not prepared to abolish the daimyo and take on the administration of the entire country through a private officer corps.** ( Cambridge 2008, 8)
 
 #### Can't be compared to European counterparts
 As shown in the chapter by Wakita Osamu, so distinctive are the bakuhan and kokudaka systems, so difficult to compare with other historical models, particularly European, that the use of feudalism as an explanatory device has become less attractive. (Cambridge 2008, 8)

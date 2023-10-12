@@ -1,6 +1,6 @@
 
 *Roberts 1998, Mercantilism in a Japanese Domain_ The Merchant Origins of Economic Nationalism in 18th-Century Tosa
-
+#Roberts_1998 
 Another case is especially interesting because it reveals a public space of political discussion that could be communicated to the lord by the accumulation of a number of individual petitions. (129
 ##### Petition to draw pilgrims
 The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki. (142)

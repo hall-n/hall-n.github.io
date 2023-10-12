@@ -1,6 +1,7 @@
 tolerance seen in an administration renowned for its severity, flexibility of a social system known for its rigidity
 
 *Kouamé 1997, Shikoku’s local authorities and henro during the Golden Age of the Pilgrimage*
+#Kouame_1997 
 
 As long as the pilgrims followed regulations, the local authorities supported pilgrims ^kouameArgument
 ##### Kouame argues that Shikoku can't be used as standard for Japan, but if Shikoku authorities are following bakufu rules, then we can assume a certain level of uniformity  

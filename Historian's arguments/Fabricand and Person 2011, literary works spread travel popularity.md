@@ -1,6 +1,6 @@
 ##### References Vaporis for authorities against travel
 ##### Fabricand-Person 2011, The Tōkaidō Road Journeys through Japanese Books 
-
+#Fabricand-Person_2011 
 ##### Literary meisho influenced desire to travel
 Literary allusion in the form of meisho (famous place) added another important dimension to Chikusai monogatari, to later fictional guidebooks, and, eventually, to the woodblock prints and paintings of the Tōkaidō journey. Traditionally, the word meisho carried with it an understanding that a place was famous for both its beauty and its association with classical poetry and literature. The mere mention of such a place was a literary allusion that imparted multiple layers of meaning to the contemporary Japanese audience. The fact that many of these famous places were to be found along the Tōkaidō Road added to its distinction—even if some had long since disappeared.
 

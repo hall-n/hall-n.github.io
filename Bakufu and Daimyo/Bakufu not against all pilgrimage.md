@@ -1,4 +1,5 @@
-### Bakufu not against pilgrimage AMBROS
+### Bakufu not against pilgrimage 
+#Ambros_2008 
 - The bakufu did not oppose female pilgrims but was concerned that they were bypassing official checkpoints 
 - Bakufu didn't try to prevent such pilgrimages,  unless they showed bad behavior or made their journey too long
 

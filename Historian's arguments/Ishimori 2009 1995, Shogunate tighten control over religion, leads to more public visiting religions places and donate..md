@@ -1,5 +1,5 @@
 *Ishimori 2009, Popularization and commercialization of tourism in early modern Japan*
-
+#Ishimori_2009 
 ##### Value of tourism studies
 Thus todrism can be one of the most appropriate themes for the comparative studies of civilizations to interprete various aspects of historical processes in the wider perspective．(193)
 
@@ -76,6 +76,7 @@ Traveling also contributed to the diffusion of agricultural techniques and speci
 
 
 ## Ishimori 1995 Shogunate tighten control over religion, leads to more public visiting religions places and donate. This made Kaicho popularized around the country
+#Ishimori_1995
 
 "kaich6 which is the display of an image at the temple which owns it, and the other is the degaich6 which involves transporting the image to another place for viewing" (Ishimori 1995, 15)
 ##### Degaicho attracted vendors and shows

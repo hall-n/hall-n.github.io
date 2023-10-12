@@ -1,4 +1,5 @@
 *Blacker 1984, The Religious Traveller in the Edo Period*
+#Blacker_1984
 #### Traveler a figure outside society
 The new sekisho erected by the Tokugawa were not, as a rule, in spots which hindered pilgrimage to any of the popular shrines and in any case were not intended to exact money in tolls. 593
 But a mere improvement in roads and hotels is not enough to account for the extraordinary increase, among classes of society which had hitherto scarcely stirred out of their villages or towns, in the desire to 'go on pilgrimages'. Why should farmers and merchants, not to speak of craftsmen and samurai, wish to embark on what was still an arduous, uncomfortable, expensive and often hazardous journey to a distant holy place? 594

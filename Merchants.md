@@ -4,6 +4,7 @@ values shifted
 
 ### Merchants slowly created a more egalitarian society
 
+#Langrill_2012 
 ### *Langrill 2012, The evolution of merchant moral thought in Tokugaw*
 The Tokugawa Era of Japan is known for its domination by the shogunate, or warrior bureaucracy. While samurai capture the popular imagination, the merchant class of this era was changing their cultural narrative as well. The regime, officially Neo-Confucian, considered trade a vulgar and corrupting activity, but among commoners, especially in Osaka, a culture arose celebrating the virtue of commerce. Merchant scholars and commoners assailed the orthodoxy by putting forth alternate interpretations of Confucianism, and later by abandoning the entire Confucian framework. Their primary goal was to explore the nature of virtue and commerce, and justify their own place in the world. As a side effect, the marriage of virtue to commerce allowed a nexus of long-term relationships to arise, based in Osaka.
 ...
@@ -16,6 +17,7 @@ The books taught that risk taking was a necessary part of life in business, and 
 The Handa merchants were not unique; Najita (ibid, p. 25) was ‘convinced that commoners writing for commoners was not just an urban phenomenon but one that joined town and country in a shared discourse.’ The ubiquity of handbooks, which commoners in small groups read together and discussed, lends support to the image of Tokugawa commoners as active participants in shaping their own worldview
 
 
+#Sheldon_1971
 ### *Sheldon 1971, Pre-Modern’ Merchants and Modernization in Japan*
 The general lines of the story of the merchant class before I868, whose 'rise' was chiefly economic and cultural, rather than political, are fairly well known among students of Japan. 193
 ...

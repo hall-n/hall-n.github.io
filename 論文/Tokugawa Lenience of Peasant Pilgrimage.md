@@ -43,7 +43,7 @@ As motivation for undertaking such a journey, research has revealed primary two 
 the image of pilgrimage gained from popular media.
 A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF)
 - sacred wanderer image (REF)
-- freedom of Edo society restrictions ( #Blacker_2008)	 and travel as escape ( #Traganou_2004)
+- freedom of Edo society restrictions ( #Blacker_1984 )	 and travel as escape ( #Traganou_2004)
 - rite of passage by overcoming hardships of travel (REF)
 - Literary works spread travel popularity 
 	- #Fabricand-Person_2011 
@@ -86,7 +86,7 @@ This research on the motivations for travel will .
 In the many articles on travel in the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008), particularly of women and peasants ( #Nenzi_2004). While none openly ask the question of why, some do reference economic and social factors.
 In Vaporis' many works on the travel permit system, he often mentions how the authorities idealized a society where the peasants "remained tied to the land" ( #Vaporis_1994, 136). Along with historian #Traganou_2004) who wrote at length on traveling the Tokaido Road, Vaporis explain this desire to keep farmers at their land is because travel might reduce agricultural production. Because both the bakufu and daimyo's finances are directly tied to the production of the lands farmed by the peasants, this would appear to be logical reaction. Moving behond economic reasons, #Traganou_2004) argues that the pilgrimage itself posed a threat to bakufu's authority.
 
-#Blacker_2008) also argues that the peasants were hindered by "the increasingly harassing restrictions imposed by the han authorities on a custom which appeared in their eyes frivolous, useless, extravant and immoral. By absenting themselves for several weeks to walk to Ise, the farmers neglected their proper duty and caused a fall in production" ( #Blacker_2008, 604). Though Blacker does admit that some daimyo did not object when the travel was undertaken during the idle part of the year. 
+#Blacker_1984 ) also argues that the peasants were hindered by "the increasingly harassing restrictions imposed by the han authorities on a custom which appeared in their eyes frivolous, useless, extravant and immoral. By absenting themselves for several weeks to walk to Ise, the farmers neglected their proper duty and caused a fall in production" ( #Blacker_1984 , 604). Though Blacker does admit that some daimyo did not object when the travel was undertaken during the idle part of the year. 
 
 Vaporis as well references hard evidence on what the authorities thought of the peasants undertaking pilgrimage. 
 

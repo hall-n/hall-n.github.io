@@ -1,5 +1,5 @@
 ##### Travel agents oshi Tadao 1995
-
+#Tadao_1995 
 
 #### Tadao 1995, Tourism as a Phenomenon of Civilization
 "Another important aspect of the relationship between religion and tourism was the role of travel agencies. Whereas Western records indicate the establishment of the modern travel agency, such as that represented bY Thomas Cook, in the midnineteenth century, travel agencies were well established in Japan long before that time." (6)

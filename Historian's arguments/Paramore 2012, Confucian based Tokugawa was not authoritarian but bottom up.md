@@ -1,4 +1,5 @@
 *The Nationalization of Confucianism: Academism, Examinations and Bureaucratic Governance in the Late Tokugawa State*
+#Paramore_2012 
 
 examines the causes and effects of the shogunate’s establishment of a state academy and examination system from 1788 onward.... The role of state academicians in reforming Tokugawa processes of governance, suggesting that they effected the creation of a new structural engagement between knowledge and power which had surprisingly “modern” characteristics.
 

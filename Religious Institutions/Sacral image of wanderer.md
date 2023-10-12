@@ -3,6 +3,7 @@ Sacral image of wanderer
 image of wander crucial to travel boom BLACKER 1984 ^1196a3
 anyone can participate  ^38592f
 
+#Blacker_1984 
 #### economic changes not enough to warrant travel boom (Blacker 1984)
 I suggest that it is to this ancient figure, and to the archetypal 'image' that he projects on Japanese minds, that we must first look for an answer to our question. (594)
 #### The wanderer is therefore a sacral figure, a vehicle for a divinity
@@ -18,7 +19,7 @@ Because the pilgrim might be Kobo Daishi in disguise. (606)
 Both faces of the ambivalence, the divinity and the outcast, are outside human society. They are not part of the intricate web of relationships by which men and women in the Edo period were joined together. They were outside and irrelevant to thegorin or Five Relations, by which Neo-Confucian doctrine sought to order the society proper to human beings. The ascetic wanderer acknowledged no feudal lord, and had cut his ties with his parents, his wife, his elder and younger brothers and his friends. Nor was he part and parcel of the Four Orders, samurai, farmers, craftsmen and merchants, which formed the layers of the vertical society essential to the Edo human cosmos. Without an occupation recognized as part of the human world, without the moral ties, either above or below, which placed him in a context necessary to a fully human life, he was a being from another world. Once outside, once relegated to that strange space which has no structure or familiar pattern, which is an unmeasurable unknown, then it is only too easy for a man to slip from one face of the ambivalence to the other. The disguised divinity may, with only a hairbreadth movement, turn into the polluted outcast. (607)
 
 
-
+#Ishimori_1995 
 # Ishimori 1995, 
 #### *Ishimori 1995, Tourism and Religion : From the Perspective of Comparative Civilization*
 religion and tourism opposite ends of human behavior: sacred/profane
@@ -40,4 +41,4 @@ institutionalized religions saw religious wandering as heresy, but popular among
 
 "The wanderer is therefore a sacral figure, a vehicle for a divinity.
 Theyugyosha is on the contrary a holy figure, the vehicle or messenger
-of a god, kami no shisha, even himself a disguised god and dispenser of blessings" (Blacker 2008, 587)
+of a god, kami no shisha, even himself a disguised god and dispenser of blessings" ( #Blacker_1984 , 587)

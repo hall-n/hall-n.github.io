@@ -1,5 +1,6 @@
 
 *Tadao 1995, Tourism as a Phenomenon of Civilization*
+#Tadao_1995 
 ##### Tourism linked to mairi
 The background of the popularization of tourism in Japan's Edo period lies in the significant role played by the practice of visiting and worshipping at temples and shrines. It was because this system of visiting temples and shrines for worship was recognized that, even during the shogunate's rule over feudal domains, commoners were permitted to travel outside their native villages. This made possible the distinction in practice between the official purpose (tatemae) of travel to worship at shrines and temples and the real motive (honne) of taking a pleasure trip.
 

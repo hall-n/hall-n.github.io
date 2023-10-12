@@ -1,5 +1,5 @@
 *Ambros 2008, Emplacing a Pilgrimage The Ōyama Cult and Regional Religion in Early Modern Japan*
-
+#Ambros_2008 
 ## Ambros 2008, Communities and establishments relied on pilgrims for income
 - Ferrymen at crossing points along the Tama and Sagami rivers came to rely on pilgrims for income. Villagers set up small inns providing meals and lodging for weary travelers, especially during the summer festival at Ōyama.
 - These inns were established solely to accommodate pilgrims during the summer festival because there was no other substantial traffic through the villages. Many of these establishments were seasonal, operating only during the summer festival and providing temporary by-work for peasants hired from nearby villages. 

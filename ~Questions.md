@@ -25,19 +25,19 @@ Perhaps the restrictions urged more travel and backfired
 
 How did villagers view travelers
 
-- potential disguised divinities (blacker 2008)
+- potential disguised divinities (blacker )
 
-- settai, giving alms to pilgrims (blacker 2008) "Because the pilgrim might be Kobo Daishi in disguise."
+- settai, giving alms to pilgrims (blacker ) "Because the pilgrim might be Kobo Daishi in disguise."
 
 - brings good fortune, or might invite curse
 
 How did the Shogunate view travelers?
-- "dirty and lazy dropouts, playing no useful part in proper human society" threat to order and stability (Blacker 2008)
+- "dirty and lazy dropouts, playing no useful part in proper human society" threat to order and stability (Blacker )
 - negative view of leisure activities -> travel for religious reasons
 - travel viewed by authorities as "frivolous, useless, extravagant and immoral." (blacker 2008)
 - Economic
 
-- neglecting duty and causing fall in production (blacker 2008)
+- neglecting duty and causing fall in production (blacker )
 - money leaves domain, outflow of resources (Vaporis 1994)
 
 - was negative view just for saving face?

@@ -1,3 +1,4 @@
+#Langrill_2012
 Tokugawa regime legitimated itself through the spiritual authority of the emperor and the philosophy of Neo-Confucianism. 
 
 

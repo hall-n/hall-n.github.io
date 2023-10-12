@@ -1,6 +1,6 @@
 ***Goree 2020, The Culture of Travel in Edo***
 
-
+#Goree_2020
 #### Trade meant freedom of movement for lower classes
 These merchants and artisans enjoyed much freedom of movement because of their societal role in distributing and retailing rice and other goods needed in both cities and the countryside. Exemplifying such movement, itinerant peddlers traveled trade routes to sell goods as varied as medicine, cooking utensils, farm tools, and books.  By contrast, the authorities restricted travel among samurai to official shogunal and domain business. Those wishing to take leave of their posts to travel for medical treatment or sightseeing might be able to do so but only after obtaining special permission through a tedious application process (5)
 

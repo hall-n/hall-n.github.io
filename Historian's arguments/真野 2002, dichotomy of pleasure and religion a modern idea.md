@@ -1,4 +1,5 @@
 真野俊和とローラ・ネンジ(訳). 2002. 「旅･巡礼･遊山―近世参詣事情（英訳版）
+#Shinno_2002
 #### positive community ties from pilgrimage
 The encounter with the hardships of the road came to be regarded as a form of discipline, particularly for young people. It was in the early modern era that the proverb "Send a cherished child on a journcy'' was created. Precisely because of the obstacles and dangers involved, travel took on the character of a rite of passage.
 Often people set out on pilgrilnages to lse because it was something expected by their local community. Although it is hard to find detailed evidence of such practices in early modern written records, we may turn to more recent reports of local customs for some examples. (456)

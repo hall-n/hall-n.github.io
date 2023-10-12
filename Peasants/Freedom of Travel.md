@@ -1,6 +1,6 @@
 Freedom from Edo jidai restrictions ^d81d9f
 
-Blacker 1994 points out that the changes in roads and ease of travel isn't enough to explain the surge in travel
+#Blacker_1984  points out that the changes in roads and ease of travel isn't enough to explain the surge in travel
 
 
 

@@ -1,8 +1,10 @@
 Road infrastructure spurred travel TRAGANOU, VAPORIS
 
+#Vaporis_1994 
 #### Safe & convenient road conditions ^379e39
 In the merchant writer Saikaku's words, Japan had become a "well-governed land where the sword remains forever sheathed and peace reigns eternal."11 Wadare was over, and even the danger from highwaymen and pirates that threatened travelers in earlier times is nowhere evident in Tokugawa travel diaries. The only fear that any Tokugawa wayfarer seems to have expressed was that of wolves. 12. This is not to say that highway crime no longer existed, 13 but rather that the possibility of incurring physical harm or violent death on the road does not appear to have restrained Tokugawa travelers. (Vaporis 1994, 220) ^bf991f
 
+#Traganou_2004 
 #### Safety increased 
 Nobunaga widened the roads and abolished the barriers (sekisho) throughout the areas over which he extended his control. Hideyoshi continued this project, eliminating the bandits who lived outside the law and were the major fear of the travelers along the highways (Bresler 1975:65–8, 71–2). With this, traveling, and pilgrimage in particular, increased critically. When the Tokugawa came to power, the highways were reorganized and maintained to an unprecedented degree. (Traganou 2004, 14)
 
@@ -24,10 +26,12 @@ The Tōkaidō included less mountainous parts in comparison with other roads and
 #### Well developed 
 "The communications infrastructure was, in contemporary terms, well developed-an interpretation that is at odds with Meiji historical revisionism which has traditionally condemned various aspects of Tokuga,wa life as "feudal" or backward."27 Vaporis 1995, The Early Modern Origins of Japanese Tourism
 
+#Vaporis_1995
 #### No wheeled traffic
 "The absence of wheeled traffic, which was responsible for the great disrepair of contemporary European roads, is important in explaining why it was possible to maintain conditions in a better state in Tokugawa Japan." reason is "the problem of keeping traffic flow free of interruptions and roads in optimum condition for official travelers and communications." 27 Vaporis 1995, The Early Modern Origins of Japanese Tourism
 
 
+#Vaporis_2012 
 *Vaporis 2012 Linking the Realm: The Gokaidô Highway Network in Early Modern Japan*
 #### In Highways, Byways, and Road Systems
 the government did not always build roads where the people found them the most useful; the state’s purposes in building them and the people’s needs did not necessarily coincide…. conflict between official post stations and private operators over transport rights erupted rather often. 99

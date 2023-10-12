@@ -1,3 +1,4 @@
+#Vaporis_1994 
 Strict with punishments for samurai, while lax for commoners ^6bbd61
 
 The application of Tokugawa law was at times unpredictable and random, but it could also be flexible, for it was a traditional principle in Japanese law that reason should prevail over custom and precedent Vaporis 1994, 179

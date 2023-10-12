@@ -1,4 +1,5 @@
 *Vaporis 1994, Breaking Barriers, Travel and the State in Early Modern Japan*
+#Vaporis_1994 
 #### The negative economic effects of travel gave reasons for bakufu and daimyo to want to discourage travel
 
 ^4c2305
@@ -74,7 +75,7 @@ perhaps not readily apparent because their efforts were often reactive, governme
 
 
 
-
+#Vaporis_1995 
 ## Vaporis 1995, The Early Modern Origins of Japanese Tourism
 
 #### The popularity of tourism and travel
@@ -143,7 +144,7 @@ also transport and baggage services
 
 
 
-
+#Vaporis_2012 
 ## Vaporis 2012 Linking the Realm: The Gokaidô Highway Network in Early Modern Japan
 In *Highways, Byways, and Road Systems  2012*
 
