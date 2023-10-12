@@ -1,10 +1,11 @@
 *Traganou 2004, The Tokaido Road- Travelling and Representation in Edo and Meiji Japan*
-(Review by Wigen)
+(Review by #Wigen)
 presents pilgrimage as an affront to the feudal order and at threat to the authority of the bakufu
 
 people are as much products of discourse as producers of it; the fleeting freedoms of the road are largely illusory; and the regulatory apparatus is never far from view.
 when Traganou wants to show that mobility was a "departure from the feudal condition" (p. 6), she makes her case by contrasting government drawings of the Tõkaidõ with their commercial counterparts. Official maps and views depict the Tokugawa turnpike as a stark landscape of control, devoid of human figures and dominated by government barriers and checkpoints. In popular prints, by contrast, the same corridor is crowded with commoners; jostling shopkeepers and pleasure-seeking consumers symbolically overrun the regulatory apparatus of the shogun. 
 
+#Traganou_2004 
 ## Abstracts
 _The Tôkaidô Road_ offers a comparative study of the Tôkaidô road's representations during the Edo (1600-1868) and Meiji (1868-1912) eras. Throughout the Edo era, the Tôkaidô highway was the most important route of Japan and transportation was confined to foot travel. In 1889, the Tôkaidô Railway was established, at first paralleling and eventually almost eliminating the use of the highway. During both periods, the Tôkaidô was a popular topic of representation and was depicted in a variety of visual and literary media. After the installation of the railway in the Meiji era, the Tôkaidô was presented as a landscape of progress, modernity and westernisation. Such representations were fundamental in shaping the Tôkaidô and the realm of travelling in the collective consciousness of the Japanese people.
 

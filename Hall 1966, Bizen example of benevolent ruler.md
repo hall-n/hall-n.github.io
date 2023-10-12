@@ -1,5 +1,5 @@
 *Hall 1966, Government and local power in Japan, 500 to 1700*
-
+#Hall_1966 
 #### Bizen's Mitumasa's quality of social responsibility
 In Bizen Mitsumasa quickly proved himself one of the great daimyo of his age, gaining a reputation as one of the “three outstanding administrators” of the Tokugawa period. The events of Mitsumasa’s rule are therefore doubly important, since it was under him that the institutions of the Tokugawa Great Peace were firmly established (402)
 in Bizen and since Mitsumasa provides us with one of the best examples of the successful daimyo of the Tokugawa age. (403)

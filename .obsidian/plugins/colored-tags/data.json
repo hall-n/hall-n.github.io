@@ -1,0 +1,33 @@
+{
+  "chroma": 16,
+  "lightness": 90,
+  "palette": 8,
+  "seed": 7,
+  "knownTags": {
+    "Vaporis": 1,
+    "Nosco_1996": 2,
+    "Paramore_2012": 3,
+    "Cambridge": 4,
+    "Hall": 5,
+    "Blacker_2008": 6,
+    "Traganou_2004": 7,
+    "Fabricand-Person_2011": 8,
+    "Kanzaki_1995": 9,
+    "Tadao_1995": 10,
+    "Ishimori_2009": 11,
+    "SeatonEtal_2017": 12,
+    "Vaporis_2012": 13,
+    "Watkins_2008": 14,
+    "Nenzi_2004": 15,
+    "Vaporis_1994": 16,
+    "Roberts_1998": 17,
+    "Ambros_2008": 18,
+    "Thal_2005": 19,
+    "Kouame_1997": 20,
+    "Kouame": 21,
+    "Nenzi_2008": 22,
+    "Wigen": 23,
+    "Hall_1966": 24
+  },
+  "_version": 2
+}

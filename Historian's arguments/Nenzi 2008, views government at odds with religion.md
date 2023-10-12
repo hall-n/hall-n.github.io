@@ -1,4 +1,4 @@
-Nenzi 2008, Commodified experience of travel
+#Nenzi_2008, Commodified experience of travel
 *Nenzi 2008, Excursions in Identity Travel and the Intersection of Place, Gender, and Status in Edo Japan*
 ##### Review by Wigen
 shogunal* authorities constantly had to contend not only with commoners on the move but with competing power bases as well, including a sprawling religious establishment whose representatives ranged from marginal mendicants to entrenched priestly hierarchies.
