@@ -17,7 +17,7 @@
                 "file": "~Mind Map.canvas",
                 "viewState": {
                   "x": -907.6650179168937,
-                  "y": -1831.4696870612156,
+                  "y": -1512.4955686379237,
                   "zoom": -1.0447824064405664
                 }
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "論文/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~Mind Map.canvas",
+                "file": "論文/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~Mind Map.canvas"
+                "file": "論文/Introduction.md"
               }
             }
           },
@@ -280,10 +280,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "161d7083fab5feb6",
+  "active": "fe1bdc012e0ea031",
   "lastOpenFiles": [
-    "論文/Introduction.md",
     "~Mind Map.canvas",
+    "論文/Introduction.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
