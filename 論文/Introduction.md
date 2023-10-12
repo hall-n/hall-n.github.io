@@ -110,7 +110,7 @@ Vaporis does observe how bakufu officials did make reactionary changes to the pe
 
 
 
-"Some of the ways domains sought to regulate pilgrimage were setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  (Vaporis 1994, 198). 
+"Some of the ways domains sought to regulate pilgrimage were setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  (#Vaporis 1994, 198). 
 
 Vaporis comments that "regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" (1994, 198). However, in these examples of actions against pilgrimage, the these reasons appear to be to only limit possible negative economic effects. Were the authorities really trying to stem the desire to travel? 
 

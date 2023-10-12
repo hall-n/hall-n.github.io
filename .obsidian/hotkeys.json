@@ -127,5 +127,15 @@
       ],
       "key": "D"
     }
-  ]
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": []
 }
