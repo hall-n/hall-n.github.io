@@ -6,7 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 54.62466487935657,
+        "dimension": 59.98659517426274,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -1464.8226778149992,
-                  "y": -12.080567358507363,
-                  "zoom": -0.7402443170062605
+                  "x": -907.6650179168937,
+                  "y": -1831.4696870612156,
+                  "zoom": -1.0447824064405664
                 }
               }
             }
@@ -86,13 +86,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 45.37533512064343,
+        "dimension": 40.01340482573726,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Introduction.md"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -280,14 +280,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "161d7083fab5feb6",
   "lastOpenFiles": [
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "論文/Introduction.md",
+    "~Mind Map.canvas",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~Literature.canvas",
-    "~Mind Map.canvas",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
