@@ -6,7 +6,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 59.98659517426274,
+        "dimension": 48.741610738255034,
         "children": [
           {
             "id": "161d7083fab5feb6",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -907.6650179168937,
-                  "y": -1512.4955686379237,
-                  "zoom": -1.0447824064405664
+                  "x": -1602.421847543823,
+                  "y": 1975.348649961274,
+                  "zoom": -0.6918024589133651
                 }
               }
             }
@@ -55,9 +55,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -1458.6992161477656,
-                  "y": -416.6946859264475,
-                  "zoom": -0.6514119899272952
+                  "x": -1076.9532872676334,
+                  "y": 754.7583961643717,
+                  "zoom": -0.22691194583972976
                 }
               }
             }
@@ -86,12 +86,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7313d1cc81ab1d6d",
         "type": "tabs",
-        "dimension": 40.01340482573726,
+        "dimension": 51.258389261744966,
         "children": [
           {
             "id": "fe1bdc012e0ea031",
@@ -161,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stem",
+                "query": "commerci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +179,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Introduction.md",
+                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Introduction.md"
+                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md"
               }
             }
           },
@@ -266,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,14 +280,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1bdc012e0ea031",
+  "active": "c53ca8843013d964",
   "lastOpenFiles": [
-    "~Mind Map.canvas",
     "論文/Introduction.md",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~Literature.canvas",
+    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+    "~Mind Map.canvas",
+    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",

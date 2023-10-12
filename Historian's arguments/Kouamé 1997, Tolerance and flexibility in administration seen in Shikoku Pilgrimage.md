@@ -15,7 +15,7 @@ The reception that the Shikoku authorities gave to henro reveals that the politi
 the rigid system established during the seventeenth century did change, some of its basic principles became lax, and the development of travel among ordinary citizens was symptomatic of these social changes (see, for example, UCHIDA 1996). (413)
 
 #### Can see this development in Shikoku pilgrimage 1800-1850 
-the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of µexibility of a social system known for its rigidity. At the same time such an investigation would enable us to acquire a very concrete understanding of the conditions of the pilgrims (henro ’−) in the Tokugawa period, to know who the pilgrims were, and also to measure their impact on local societies in Shikoku. (414)
+the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity. At the same time such an investigation would enable us to acquire a very concrete understanding of the conditions of the pilgrims (henro ’−) in the Tokugawa period, to know who the pilgrims were, and also to measure their impact on local societies in Shikoku. (414)
 
 
 #### Local authorities tried to control pilgrims.
@@ -28,8 +28,7 @@ the proportion of people, and especially of pilgrims, who were helped to return 
 When Shikoku authorities helped a sick pilgrim return home, or buried a dead one, it is conceivable that they were just following the rules for common travelers that had been established by the Tokugawa bakufu since the end of the seventeenth century (423)
 
 #### Argues that local authorities should not be analyzed in terms of oppressive control. Benevolence relevant.
-Indeed there are various historical materials that suggest that the general attitude of local authorities in Shikoku towards the henro should not be 
-analyzed only in terms of repressive control. The fact is that the Shikoku authorities during the Tokugawa period did help pilgrims who were in trouble (421)
+Indeed there are various historical materials that suggest that the general attitude of local authorities in Shikoku towards the henro should not be analyzed only in terms of repressive control. The fact is that the Shikoku authorities during the Tokugawa period did help pilgrims who were in trouble (421)
 
 - Did they succeed in efficiently controlling the henro who came from outside, who were constantly on the move, and therefore who were not well integrated into the social order?
 
