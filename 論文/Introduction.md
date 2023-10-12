@@ -5,7 +5,9 @@ Increase in tourism. While many historians claim the authorities to be clearly s
 
 ## Introduction
 
-However, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land (Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). It is this position of the ruling authorities wherein questions arise; if the bakufu and daimyo authorities were positioned against travel, why were the permits that were necessary for travel able to obtained so easily by commoners? Why did the checkpoint officials show more laxity to the peasants as time went on? In order to answer these questions I believe it is necessary to reexamine the position of the authorities and what reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
+However, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land (Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). It is this position of the ruling authorities wherein questions arise; if the bakufu and daimyo authorities were positioned against travel, why were the permits that were necessary for travel able to obtained so easily by commoners? Why did the checkpoint officials show more laxity to the peasants as time went on? In order to answer these questions  xcvmvcm
+
+I believe it is necessary to reexamine the position of the authorities and what reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
 
 
 #### Outline
