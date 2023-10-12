@@ -55,9 +55,9 @@
               "state": {
                 "file": "~Literature.canvas",
                 "viewState": {
-                  "x": -1076.9532872676334,
-                  "y": 754.7583961643717,
-                  "zoom": -0.22691194583972976
+                  "x": -952.429433899346,
+                  "y": 425.55776497651965,
+                  "zoom": -1.37131464570762
                 }
               }
             }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+                "file": "論文/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+                "file": "論文/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Blacker 2008, Freedom found in travel, Bakufu's negative view of pilgrims.md"
+                "file": "論文/Introduction.md"
               }
             }
           },
@@ -280,10 +280,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53ca8843013d964",
+  "active": "fe1bdc012e0ea031",
   "lastOpenFiles": [
-    "論文/Introduction.md",
     "~Literature.canvas",
+    "論文/Introduction.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "~Mind Map.canvas",

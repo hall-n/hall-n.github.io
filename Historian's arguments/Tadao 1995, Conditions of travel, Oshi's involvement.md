@@ -5,4 +5,4 @@ The background of the popularization of tourism in Japan's Edo period lies in th
 
 ##### Religious groups were travel agencies
 They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. 
-... These examples show that in Japan religious oMcials had a role in institutionalizing the travel industry from before the Edo period.  (6)
+... These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period.  (6)
