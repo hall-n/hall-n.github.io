@@ -7,7 +7,7 @@ Increase in tourism. While many historians claim the authorities to be clearly s
 
 However, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land ( #Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). It is this position of the ruling authorities wherein questions arise; if the bakufu and daimyo authorities were positioned against travel, why were the permits that were necessary for travel able to obtained so easily by commoners? Why did the checkpoint officials show more laxity to the peasants as time went on? In order to understand the bakufu's motivations, I believe it is necessary to examine the situation surrounding pilgrimage itself. In recent years, historians have approached the topic from many different angles asking new questions about how and why pilgrimage became so widely practiced. Based on this research, this paper will reexamine previous evidence used in determine the position of the authorities
 
-,  what reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
+What reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
 
 
 #### Outline
@@ -154,7 +154,9 @@ Position of authorities: benevolent ruler, desire to manage not domineer
 #Paramore_2012 
 #### Oda and Ieyasu's leadership policies
 #### Confucian precepts of benevolent rule
-#Cambridge #Hall_1966 
+#Cambridge 
+##### Bizen's example of a benevolent ruler
+The administration of Bizen was typical of the kind which was provided by the larger daimyo of the Tokugawa period. ( #Hall_1966 410) 
 #### Leaving peasants with surplus
 ## Conclusion
 ### Why this research is meaningful	
