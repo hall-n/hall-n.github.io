@@ -119,14 +119,14 @@ I believe the primary factors in the authorities' lenience toward pilgrimage is 
 
 benevolent ruler position held by the bakufu authorities, which the daimyo largely followed (REF). %%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
 ### Tokugawa's governance
-The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF). 
-While Gordon and ? 
-However, #Paramore_2012 argues that reforms to the Tokugawa state "were usually designed to open government structures to bottom-up input" (ibid, 25). He argues that the changes opened the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27)
+The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. 
+#Gordon_2003 and #Tanimoto_2019  argue that while Confucian concept of benevolence was not popular in the seventeenth century, in some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped  #Tanimoto_2019 .
+Examining bureaucratic governance, #Paramore_2012 argues that reforms to the Tokugawa state "were usually designed to open government structures to bottom-up input" (ibid, 25). He argues that the changes opened up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27)
 
 Position of authorities: benevolent ruler, desire to manage not domineer
 
 - Policies in place, but actual implementation of them up to the person in charge. 
-- Soft rules that can adapt to circumstances.
+- Soft rules that can adapt to circumstances. 
 #### Not authoritarian
 #Paramore_2012 
 #### Oda and Ieyasu's leadership policies
@@ -135,6 +135,9 @@ Position of authorities: benevolent ruler, desire to manage not domineer
 ##### Bizen's example of a benevolent ruler
 The administration of Bizen was typical of the kind which was provided by the larger daimyo of the Tokugawa period. ( #Hall_1966 410) 
 #### Leaving peasants with surplus
+In my previous research ( #Hall_2022), I argued that the position of the shogunate was focused on keeping a balanced rice market, and to that end they intentionally left a surplus of rice with the peasants. I believe this to be an example of their underlying economic motivations. Therefore, if the pilgrimage of the peasants had a positive economic impact, and as long as those peasants paid their rice tribute, they would be more inclined to allow it, making changing to keep in within the confines that prevented economic harm to the region (**as one historian mentions)** than to spend more effort and money into micromanaging. Indeed, the majority of peasants traveled in their free time after their farmer's responsibilities were fulfilled (REF). 
+
+Indeed, Vaporis notices the regulations with 
 
 ### Negative effects of pilgrimage
 Looking at the reasons the authorities might have to be against pilgrimage. 
@@ -144,7 +147,6 @@ Perhaps the most persuasive argument that would explain the authorities desire t
 "regulations dealing with commoner travel were issued frequently and were inspired mainly by economics rather than a desire for totalitarian control" ( #Vaporis_1994, 198).
 
 Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. The changes by the Kaga and  domains as well seem reactionary as they made the permit application process for more simple. He observes that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them on nukemairi" ( #Vaporis_1994, 173). While making no comment on  nukemairi has been argued to be damaging to the economy, allowing those people to acquire permits gives us the image that the underlying motivation was to urge people to follow the system, in other words, make the system more suitable in response to the needs of the people, instead of trying to control what the people needed. 
-
 
 
 "Some of the ways domains sought to regulate pilgrimage were setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( #Vaporis_1994, 198). 
