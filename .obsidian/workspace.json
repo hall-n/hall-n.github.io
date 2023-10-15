@@ -57,9 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ffbd277d0d440ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "cb706483ff618c02",
@@ -106,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lacker",
+                "query": "concurrent",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +133,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,21 +199,21 @@
             }
           },
           {
-            "id": "633a5185bff66bd5",
+            "id": "0f7d8217c20cd875",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a445b1490201b821",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
               }
-            }
-          },
-          {
-            "id": "0f7d8217c20cd875",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
             }
           }
         ],
@@ -223,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37594fd40e550d8b",
+  "active": "9ffbd277d0d440ab",
   "lastOpenFiles": [
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
