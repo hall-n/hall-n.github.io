@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "926616d120974250",
+        "id": "efdef6f985ba1735",
         "type": "tabs",
         "children": [
           {
-            "id": "37594fd40e550d8b",
+            "id": "85e3d79bce73f40d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Overall Travel Situation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c53ca8843013d964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,24 +38,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c53ca8843013d964",
+            "id": "37594fd40e550d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e3d79bce73f40d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+                "file": "Overall Travel Situation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+                "file": "Overall Travel Situation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md"
+                "file": "Overall Travel Situation.md"
               }
             }
           },
@@ -197,10 +196,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c53ca8843013d964",
+  "active": "85e3d79bce73f40d",
   "lastOpenFiles": [
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~Literature.canvas",
     "論文/Title & Thesis.md",
     "~単語.md",
@@ -212,7 +213,6 @@
     "~Mind Map.canvas",
     "~Grading.md",
     "Overall Travel Situation.md",
-    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Other reasons for scale of movement.md",
     "Merchants.md",
     "Meibutsu.md",
