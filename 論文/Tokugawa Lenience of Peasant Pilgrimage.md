@@ -113,8 +113,30 @@ At the same time, Vaporis describes the many cases of laxity where checkpoint of
 There are religious, economic, and social factors that surround the promotion of pilgrimage and its subsequent increase, yet the position of the authorities has been against pilgrimage in spite of those factors. 
 %%but none of them would have been possible had the authorities not been so lax with letting pilgrims travel %%
 Vaporis describes some of the social factors, alluding that because pilgrimage was seen as a rite of passage and worshiping at shrines such as Ise were connected to the Emperor's authority, restricting pilgrimage could have negative repercussions for them. However, Vaporis does not clearly state these as being the reason behind bakufu's laxity. 
-While the popular image of travel may have softened the perspective of some authorities towards it, in light of the **benevolent ruler** position held by the bakufu authorities, which the daimyo largely followed (REF), I believe the economic impacts of pilgrimage and its subsequent form of tourism were the primary factors that effected the authorities position. %%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
-#### Negative effects of pilgrimage
+While the religious aspects of pilgrimage may played a part in softening the perspective of some authorities towards it, I argue that it does not fully explain. 
+
+I believe the primary factors in the authorities' lenience toward pilgrimage is the Tokugawa regime's socially responsive, bottum-up ( #Paramore_2012 ) governance and the economic impact of pilgrimage.  
+
+benevolent ruler position held by the bakufu authorities, which the daimyo largely followed (REF). %%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
+### Tokugawa's governance
+The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF). 
+While Gordon and ? 
+However, #Paramore_2012 argues that reforms to the Tokugawa state "were usually designed to open government structures to bottom-up input" (ibid, 25). He argues that the changes opened the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27)
+
+Position of authorities: benevolent ruler, desire to manage not domineer
+
+- Policies in place, but actual implementation of them up to the person in charge. 
+- Soft rules that can adapt to circumstances.
+#### Not authoritarian
+#Paramore_2012 
+#### Oda and Ieyasu's leadership policies
+#### Confucian precepts of benevolent rule
+#Cambridge 
+##### Bizen's example of a benevolent ruler
+The administration of Bizen was typical of the kind which was provided by the larger daimyo of the Tokugawa period. ( #Hall_1966 410) 
+#### Leaving peasants with surplus
+
+### Negative effects of pilgrimage
 Looking at the reasons the authorities might have to be against pilgrimage. 
 
 Perhaps the most persuasive argument that would explain the authorities desire to restrict or ban pilgrimage is of an economic origin. Vaporis explains how travelling into other regions meant that money leaving the domain caused concern for the ruler. For example, when the Kaga domain restricted pilgrimage to a popular Kyoto shrine, they claimed it was to "stem the outflow of precious domain resources like gold and silver" ( #Vaporis_1994, 202).
@@ -161,18 +183,5 @@ Villages stopping practices that lessened pilgrim visitors
 Argues that local authorities should not be analyzed in terms of oppressive control. Benevolence relevant. 
 "Indeed there are various historical materials that suggest that the general attitude of local authorities in Shikoku towards the henro should not be analyzed only in terms of repressive control. The fact is that the Shikoku authorities during the Tokugawa period did help pilgrims who were in trouble" ( #Kouame_1997, 421)
 "in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insignificant constraints. ( #Kouame_1997, 424)
-### Bakufu's position of a benevolent ruler
-Position of authorities: benevolent ruler, desire to manage not domineer
-
-- Policies in place, but actual implementation of them up to the person in charge. 
-- Soft rules that can adapt to circumstances.
-#### Not authoritarian
-#Paramore_2012 
-#### Oda and Ieyasu's leadership policies
-#### Confucian precepts of benevolent rule
-#Cambridge 
-##### Bizen's example of a benevolent ruler
-The administration of Bizen was typical of the kind which was provided by the larger daimyo of the Tokugawa period. ( #Hall_1966 410) 
-#### Leaving peasants with surplus
 ## Conclusion
 ### Why this research is meaningful	
