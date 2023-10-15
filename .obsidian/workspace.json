@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~単語.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~単語.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~単語.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~単語.md"
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
               }
             }
           },
@@ -195,6 +195,9 @@
   },
   "active": "161d7083fab5feb6",
   "lastOpenFiles": [
+    "論文/Title & Thesis.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "~単語.md",
     "~travel.jpg",
     "~Train of thought.md",
     "~README.md",
@@ -203,7 +206,6 @@
     "~Mind Map.canvas",
     "~Literature.canvas",
     "~Grading.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Other reasons for scale of movement.md",
@@ -222,7 +224,6 @@
     "Peasants/Hardships of travel.md",
     "Peasants/Freedom of Travel.md",
     "Peasants/Communities wanted commerce from pilgrims.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
