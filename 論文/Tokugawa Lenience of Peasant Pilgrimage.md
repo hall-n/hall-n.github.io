@@ -8,6 +8,11 @@ Increase in tourism. While many historians claim the authorities to be clearly s
 However, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land ( #Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). However, if the bakufu and daimyo authorities were positioned against travel, why were the permits that were necessary for travel able to obtained so easily by commoners? Why did the checkpoint officials show more laxity to the peasants as time went on? In order to understand the authorities' motivations, I believe it is necessary to examine the situation surrounding pilgrimage itself. In recent years, historians have approached the topic from many different angles asking new questions about how and why pilgrimage became so widely practiced. 
 Studies of uncover the situation of pilgrimage; shikoku, Oyama. These studies reveal the widespread effects of pilgrimage and the responses from authorities and communities. I argue that the social and economic effects of pilgrimage, which slowly became a form of ? tourism is highly relevant to understand the position of the bakufu and daimyo. 
 
+Blacker's study of travel during the Tokugawa period, they argue against accepting a "legalistic interpretation of Tokugawa Japan" (6), as doing so overlooks crucial factors. 
+- overestimates the state's authority
+- incorrectly represents peasants as "immobile", their movements severely restricted and strictly inspected at barriers.  
+The evidence presented here will demonstrate that, while sekisho did affect the flow and pattern of travel throughout Tokugawa Japan, they did not significantly impede travelers (7)
+
 Based on this research, this paper will reexamine previous evidence used in determine the position of the authorities
 What reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
 
