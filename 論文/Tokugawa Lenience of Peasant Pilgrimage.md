@@ -67,7 +67,9 @@ Looking at the amount of travelers that took to the roads, it is clear that peas
 When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). 
 As historians have researched exactly how and why these changes came about, they have uncovered various economic and religious factors, which I believe can be organized into two overall categories;  motivation and ability. 
 ### Motivation
-Travel in the Edo period was mostly done by foot and on average one could cover **40 kilometers in a day**. Depending on the destination, the trip could take weeks or even months to complete, costing both time, effort and money. Thus it has been argued that there had to have been ample motivation to set out on such a journey (REF). 
+Travel in the Edo period was mostly done by foot and on average one could cover **40 kilometers in a day**. Depending on the destination, the trip could take weeks or even months to complete, costing both time, effort and money. 
+%%Thus it has been argued that there had to have been ample motivation to set out on such a journey (REF). 
+%%
 As motivation for undertaking such a journey, research has revealed primary two main factors; the popular image of pilgrimage held by society and its direct promotion by those affiliated with shrines and temples. 
 #### Popular image of pilgrimage
 the image of pilgrimage gained from popular media.
@@ -78,9 +80,19 @@ A positive travel image with connotations of religious image of a sacred wandere
 - Literary works spread travel popularity 
 	- #Fabricand-Person_2011 
 #### Pilgrimage promotion 
-Promotion of travel by religiously affiliated Oshi, who are argued to be much like a travel agent, arranging accommodation and providing travel information (REF)
+Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
+who promoted temples and
+are agued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49).
+They operated much like a travel agent . 
+They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
+They arranged the routes to popular religious destinations, offering accommodation 
 
-The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. who promoted temples and are agued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49).
+Oshi, who are argued to be much like a travel agent 
+arranging accommodation and providing travel information (REF)
+
+In Ambros's research of the Oyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Oyama into a major tourist destination. 
+
+The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. 
 
 "They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. .. These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period" ( #Tadao_1995, 6).
 
@@ -144,6 +156,8 @@ Position of authorities: benevolent ruler, desire to manage not domineer
 - Soft rules that can adapt to circumstances. 
 #### Not authoritarian
 #Paramore_2012 
+
+The following examples reflects the bakufu and daimyo's position of 
 #### Oda and Ieyasu's leadership policies
 #### Confucian precepts of benevolent rule
 #Cambridge 
@@ -161,7 +175,7 @@ Perhaps the most persuasive argument that would explain the authorities desire t
 
 "regulations dealing with commoner travel were issued frequently and were inspired mainly by economics rather than a desire for totalitarian control" ( #Vaporis_1994, 198).
 
-Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. The changes by the Kaga and  domains as well seem reactionary as they made the permit application process for more simple. He observes that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them on nukemairi" ( #Vaporis_1994, 173). While making no comment on  nukemairi has been argued to be damaging to the economy, allowing those people to acquire permits gives us the image that the underlying motivation was to urge people to follow the system, in other words, make the system more suitable in response to the needs of the people, instead of trying to control what the people needed. 
+Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. The changes by the Kaga and  domains as well seem reactionary as they made the permit application process for more simple. He observes that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them on nukemairi" ( #Vaporis_1994, 173). While making no comment on nukemairi has been argued to be damaging to the economy, allowing those people to acquire permits gives us the image that the underlying motivation was to urge people to follow the system, in other words, make the system more suitable in response to the needs of the people, instead of trying to control what the people needed. 
 
 
 "Some of the ways domains sought to regulate pilgrimage were setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( #Vaporis_1994, 198). 
@@ -190,6 +204,11 @@ Villages stopping practices that lessened pilgrim visitors
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
 "Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
 ##### Oyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
+
+In Ambros's research (2008) of the pilgrimage to Ōyama, a popular shrine in the Kanto region, she argues that the community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu was not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
+The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (150). This increase in commerce due to tourism brought by the pilgrims was not lost on the bakufu, she argues. While the bakufu's financial support of the Oyama shrine waned in the beginning of the Tokugawa period, their 
+
+when the Ōyama clergy was supported by the bakufu authorities when they faced the **dispute in 1660s** (ibid, 90). 
 "The regional make-up of the pilgrims reflects the overall distribution of Hachidayū’s parishes, which were concentrated in southeastern Musashi, Edo, and Shimōsa; therefore, the highest number of visitors (about 85 percent) came from these regions" (Ambros 2008, 163)
 ##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
 *North region of Shikoku*
