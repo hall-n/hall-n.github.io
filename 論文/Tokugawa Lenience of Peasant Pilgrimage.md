@@ -188,6 +188,7 @@ Economic motivations: commerce from pilgrims
 
 As seen in motivations to promote tourism by the oshi, there were a number of economic benefits of pilgrimage that were desired not just by the shrines and temples, but the various services that catered to travelers
 others who stand to gain economically from their pilgrimage. 
+Therefore, obstructing pilgrimage would hinder what had become an important industry for some regions, such as  Ōyama (Ambros 2008).
 
 - Temples and shrines who receive funds from the talismans and offerings of pilgrims
 - Merchants and peasants selling meibutsu specifically catering to pilgrims
@@ -210,6 +211,14 @@ The Ōyama pilgrimage also feuled the regional economy, by creating a demand for
 
 when the Ōyama clergy was supported by the bakufu authorities when they faced the **dispute in 1660s** (ibid, 90). 
 "The regional make-up of the pilgrims reflects the overall distribution of Hachidayū’s parishes, which were concentrated in southeastern Musashi, Edo, and Shimōsa; therefore, the highest number of visitors (about 85 percent) came from these regions" (Ambros 2008, 163)
+
+An important point observed by Ambros is that how a pilgrimage is conducted affects how the bakufu authorities react to it. She points out that both the bakufu and the regional communities did not seek to prevent journeys to Ōyama, "unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites" (ibid, 161). In looking at the make-up of Ōyama pilgrims, she observes that they were largely from parishes or fraternities, and thus were not *nukemairi*, EXPLANATION.
+"Confraternity members pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama. 
+
+
+%%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Oyama reinforced social structures" (ibid, PAGE)%%
+
+The bakufu's reaction to the Oyama pilgrimage provides insight into their 
 ##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
 *North region of Shikoku*
 
