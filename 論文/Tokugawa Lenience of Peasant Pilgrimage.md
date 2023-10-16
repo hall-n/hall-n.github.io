@@ -19,15 +19,24 @@ Vaporis's study of travel during the Tokugawa period, they argue against accepti
 - incorrectly represents peasants as "immobile", their movements severely restricted and strictly inspected at barriers.  
 The evidence presented here will demonstrate that, while sekisho did affect the flow and pattern of travel throughout Tokugawa Japan, they did not significantly impede travelers (7)
 
-Based on this research, this paper will reexamine previous evidence used in determine the position of the authorities
+Based on this research, this paper will examine previous evidence used in determine the position of the authorities
 What reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
 
 #### Outline
 **Background:** Brief explanation of rise of pilgrimage and its change to sightseeing and tourism.
 
-This rise is a result increased **ability** and **motivation** to undertake pilgrimage which grew significantly over the course of the Edo period.   Recent research has revealed much about the motivations that spurred peasant travel, 
-The safety and convenience that the highway offered allowed travel to be undertaken by not just the elite, but the the commoner; that is, as long as they could obtain a permit to pass through the *sekisho* barriers that the bakufu positioned along the highway. It is here that a contradiction arises; if the authorities were set against peasant travel and idealized a society where the peasants remained tied to the land ( #Vaporis_1994 **why their laxity** towards it? 
-Research that covers the Tokugawa road barriers the travel permit system in great detail is the work of Vaporis Constantine. He outlines the numerous examples of authorities being negatively positioned against peasant pilgrimage and instances where it was banned, at the same time highlighting their tolerance of travel and flexibility of the system. However, the question that Vaporis does not ask is why the authorities were so lax in allowing pilgrimage, despite what he argues as clear motivations against it #Nosco_1996 . That laxity is arguably the largest factor in the peasant's ability to travel, as without the ability to obtain a permit and  
+This rise is a result increased **ability** and **motivation** to undertake pilgrimage which grew significantly over the course of the Edo period.  Recent research has revealed much about the motivations that spurred peasant travel, 
+The safety and convenience that the highway offered allowed travel to be undertaken by not just the elite, but the the commoner; that is, as long as they could obtain a permit to pass through the *sekisho* barriers that the bakufu positioned along the highway. 
+
+
+It is here that a contradiction arises; if the authorities were set against peasant travel and idealized a society where the peasants remained tied to the land ( #Vaporis_1994 **why their laxity** towards it? 
+Research that covers the Tokugawa road barriers the travel permit system in great detail is the work of Vaporis Constantine.  he challenges the idea that the authorities fully controlled the peasants' movements, and argues that the peasants found ways to circumvent the barriers. 
+Overall the image he presents is the authorities being against travel, and the peasants trying to defy
+He outlines the numerous examples of authorities being negatively positioned against peasant pilgrimage and instances where it was banned.
+
+the peasants' movements was at the same time highlighting their tolerance of travel and flexibility of the system. However, the question that Vaporis does not ask is why the authorities were so lax in allowing pilgrimage, despite what he argues as clear motivations against it #Nosco_1996 .
+
+That laxity is arguably the largest factor in the peasant's ability to travel, as without the ability to obtain a permit and  
 would have severely hindered all movements o
 yet the reason behind it remains obscure.
 
