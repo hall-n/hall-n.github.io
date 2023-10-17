@@ -168,8 +168,6 @@ Position of authorities: benevolent ruler, desire to manage not domineer
 - Soft rules that can adapt to circumstances. 
 #### Not authoritarian
 #Paramore_2012 
-
-The following examples reflects the bakufu and daimyo's position of 
 #### Oda and Ieyasu's leadership policies
 #### Confucian precepts of benevolent rule
 #Cambridge 
@@ -179,9 +177,10 @@ That sees the prosperity of his entire realm and its citizens as a reflection
 Hall argues that Mitsumasa of the Bizen province provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403)
 Hall also points out that "The Tokugawa bakufu had led the way in drawing upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). 
 
-Reflecting the degree to which the confucian benevolent ruler was a concept to authorities. While #Gordon_2003 and #Tanimoto_2019 both argue that the benevolence appears limited in how the bakufu deals with peasants, mentioning the often quoted "squeezing of the peasants. However, as I argued in Hall 2022, the fact that the authorities left the peasants with a surplus reflects their priority of economic growth. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
+Reflecting the degree to which the confucian benevolent ruler was a concept to authorities. While #Gordon_2003 and #Tanimoto_2019 both argue that the benevolence appears limited in how the bakufu deals with peasants, mentioning the often quoted "squeezing of the peasants, as I argued in Hall 2022, the fact that the authorities left the peasants with a surplus reflects their priority of economic growth. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
 This together with the Bizen example presents an image of realistic benevolence.  
 
+This observation that the government is concerned with the well-being of the lower class is also reflected in Paramore's research on governance changes that occurred in the later half of Tokugawa period (2012). Refuting the arguments that Neo-Confucian political concepts encouraged "social stasis and authoritarianism", he argues that governmental changes "were usually designed to open government structures to bottom-up input in an attempt to make government more socially responsive" (ibid, 25). 
 #### Leaving peasants with surplus
 In my previous research ( #Hall_2022), I argued that the position of the shogunate was focused on keeping a balanced rice market, and to that end they intentionally left a surplus of rice with the peasants. I believe this to be an example of their underlying economic motivations. Therefore, if the pilgrimage of the peasants had a positive economic impact, and as long as those peasants paid their rice tribute, they would be more inclined to allow it, making changing to keep in within the confines that prevented economic harm to the region (**as one historian mentions)** than to spend more effort and money into micromanaging. Indeed, the majority of peasants traveled in their free time after their farmer's responsibilities were fulfilled (REF). 
 
