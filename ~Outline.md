@@ -1,5 +1,6 @@
 
 ## Abstract
+100-300 words
 Abstracts are used by other researchers to establish the relevance of the study to their own work. Therefore, they should contain the what, why, who, where and how of your project.  
 
 They are typically between 250 – 300 words long, offer a summary of the main findings and present the conclusions, so you should attempt to write an abstract (if requested), after you have finished writing the dissertation.  
