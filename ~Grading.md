@@ -10,7 +10,7 @@ inclusive of all notes and including the bibliography
 
 The abstract won’t be included in the overall word count for the project study
 
-5 pm on Monday 4th December 2023
+ December 4th, Monday 17:00
 ## Thesis Grading:
 Marks for the thesis are given in eight categories: 1) Reading, 2) Research Question, 3) Argument, 4) Methodology, 5) Analysis, 6) Structure, 7) Academic Tone, 8) Academic Standards. Details are on page 2
 

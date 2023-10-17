@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Grading.md",
+                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,9 +39,9 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -1270.5730768751805,
-                  "y": -1016.5956345262666,
-                  "zoom": -0.6278435039800027
+                  "x": -1462.4023620121884,
+                  "y": 1810.8980189364825,
+                  "zoom": -1.1925140571874002
                 }
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oshi",
+                "query": "Oda",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
+                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md"
               }
             }
           },
@@ -236,11 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fd1275da03df3e9",
+  "active": "c53ca8843013d964",
   "lastOpenFiles": [
-    "~Grading.md",
+    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
+    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~Mind Map.canvas",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "~Grading.md",
     "~Outline.md",
     "論文/Bibliography.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -265,7 +267,6 @@
     "Checkpoint reality.md",
     "Religious Institutions/Sacral image of wanderer.md",
     "Peasants/villages changes, bushi peasant.md",
-    "Peasants/Spread of travel information.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
