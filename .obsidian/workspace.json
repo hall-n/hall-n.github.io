@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb706483ff618c02",
@@ -218,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,9 +238,10 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "論文/Bibliography.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "~Mind Map.canvas",
     "~Outline.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "論文/Bibliography.md",
     "~Grading.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Religious Institutions/Travel agents.md",
@@ -248,7 +250,6 @@
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "~Mind Map.canvas",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "~Literature.canvas",
     "~単語.md",
@@ -265,7 +266,6 @@
     "Religious Institutions/Sacral image of wanderer.md",
     "Peasants/villages changes, bushi peasant.md",
     "Peasants/Spread of travel information.md",
-    "Peasants/Shorter travels feasable.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

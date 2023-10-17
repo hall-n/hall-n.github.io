@@ -25,16 +25,16 @@ This useful [video](https://www.linkedin.com/learning/word-2016-creating-long-d
 The introduction explains the how, what, where, when, why and who of the research. It introduces the reader to your dissertation and should act as a clear guide as to what it will cover.  
 
 The introduction may include the following content: 
-### Introduce the topic of the dissertation
+#### Introduce the topic of the dissertation
 - State why the topic is of interest 
 - Give background information on the subject. 
 - Refer to the main debates in the field
-### Identify the scope of your research 
+#### Identify the scope of your research 
 - Highlight what hasn't already been said by the literature  
 - Demonstrate what you seek to investigate, and why 
 - Present the aim of the dissertation. 
 -  Mention your research question or hypothesis 
-### Indicate your approach  
+#### Indicate your approach  
 - Introduce your main argument (especially if you have a research question, rather than hypothesis). 
 - Mention your methods/research design. 
 - Outline the dissertation structure (introduce the main points that you will discuss in the order they will be presented). 
