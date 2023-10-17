@@ -2,17 +2,26 @@
 ## Words:
 8,500-10,000
 25+ pages
+
+inclusive of all notes and including the bibliography
+
+**Abstract:**
+200-250 words
+
+The abstract won’t be included in the overall word count for the project study
+
+5 pm on Monday 4th December 2023
 ## Thesis Grading:
 Marks for the thesis are given in eight categories: 1) Reading, 2) Research Question, 3) Argument, 4) Methodology, 5) Analysis, 6) Structure, 7) Academic Tone, 8) Academic Standards. Details are on page 2
 
 ## 90-100 (A to A+) The following criteria are applied:
-- Clear evidence of wide and relevant reading of academic material.
-- Sets a challenging research question.
-- Displays consistently strong original argument to answer the research question
-- Demonstrates a sophisticated methodology for answering the research question.
-- Demonstrates critical thinking and analytical skills; shows excellent awareness of competing views.
-- Thesis is well-structured and logical, conforming to academic style (with a clear introduction, body and conclusion).
-- Appropriate academic tone is used consistently throughout. 8. Academic referencing system is consistently and correctly used. Formatting is consistent and conforms to instructions.
+1. Clear evidence of wide and relevant reading of academic material. Shows excellent awareness of competing views. 
+2. Sets a challenging research question. 
+3. Demonstrates a sophisticated methodology for answering the research question.
+4. Demonstrates critical thinking and analytical skills; displays consistently strong original argument to answer the research question. 
+5. Thesis is well-structured and logical, conforming to academic style (with a clear introduction, body and conclusion). 
+6. Appropriate academic tone is used consistently throughout.
+7. Academic referencing system is consistently and correctly used. Formatting is consistent and conforms to instructions.
 
 #  Layout
 
