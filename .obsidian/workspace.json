@@ -75,8 +75,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fd1275da03df3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -222,12 +235,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37594fd40e550d8b",
+  "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "論文/Bibliography.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~Outline.md",
     "~Grading.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Religious Institutions/Travel agents.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "論文/Title & Thesis.md",
@@ -252,7 +266,6 @@
     "Peasants/villages changes, bushi peasant.md",
     "Peasants/Spread of travel information.md",
     "Peasants/Shorter travels feasable.md",
-    "Peasants/Pilgrims & locals.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
