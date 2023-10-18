@@ -114,6 +114,8 @@ While originally much like a missionary, over time they "became more merchants t
 ( #Ishimori_2009)
 Pilgrimage led to contents tourism ( #SeatonEtal_2017)
 
+
+
 ### Ability
 %%In research that reveals the peasant's ability to travel, historians have pointed to the countrywide road system and the permit system.%%
 #### Travel infrastructure 
@@ -212,7 +214,7 @@ Therefore, obstructing pilgrimage would hinder what had become an important indu
 - Merchants and peasants selling meibutsu specifically catering to pilgrims
 - Lodging providers catering to pilgrims
 - Traveling needs catering to pilgrims (luggage, traveling services, etc.)
-#### Examples of daimyo and town authorities' efforts to encourage pilgrimage
+### Examples of daimyo and town authorities' efforts to encourage pilgrimage
 There were even towns that arose and flourished due to the direct results of pilgrimage, therefore it came to be of significant economic importance for many regions. 
 
 ##### Sagami ( #Nenzi_2004)
