@@ -65,17 +65,20 @@ Therefore, I argue that the reason for this laxity lies in:
 To understand this economic element, it is first necessary to understand the situation surrounding pilgrimage. Therefore I will briefly outline the rise in pilgrimage the primary factors that led to its increase.%% 
 
 ## Background: The rise of tourism pilgrimage
-As Japan entered an era of peace in the beginning of the Tokugawa period, many changes were instituted that would allow for mass travel.  While travel was still time consuming and arduous, it was no longer dangerous. With the alternate attendance system, the amount of people traveling the roads grew significantly, thus the bakufu made keeping the traffic flowing smoothly a high priority. 
-They created a centralized road network, and while it spanned across the country through many region's territories, the bakufu abolished private barriers and tolls. Along the highway, trees were planted for shade and wind cover, and wheels that would damage the road surface became banned. Only travel by foot or by **horse** was allowed, and therefore  did not **eliminate commoner from using it.** In order to facilitate travel, **road stations and corvee labor was instituted**, and while they had to prioritize servicing **Tokugawa officials and daimyo,** they could cater to peasants and the wider population. Thus, the travel changes that were made **in order for the daimyo and their alternate attendance** could be taken advantage of by the commoner, provided they had a valid permit to pass through the *sekisho*, or X barriers that the bakufu set up along the highway. While travel for pleasure was not recognized at that time (?), pilgrimage and visits to onsen for health reasons were permitted. 
+As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu instituted an alternate attendance system, requiring the daimyo to visit Edo every other year.  
+In order to facilitate the travel by the daimyo due to the new alternate attendance system, a centralized road network spanning across the country was created. Along this route, tolls and private barrers were abolished, and instead the bakufu created official *sekisho* barriers to monitor the  
+%%They organized road stations and corvee labor was instituted along this road, the bakufu created official *sekisho* barriers. Trees were planted along the road for shade and wind cover, and wheels that would damage the road surface were banned. Only travel by foot or by **horse** was allowed, and therefore  did not **eliminate commoner from using it.** %%
+
+and while they had to prioritize servicing **Tokugawa officials and daimyo,** they could cater to peasants and the wider population. Thus, the travel changes that were made **in order for the daimyo and their alternate attendance** could be taken advantage of by the commoner, provided they had a valid permit to pass through the *sekisho*, or X barriers that the bakufu set up along the highway. While travel for pleasure was not recognized at that time (?), pilgrimage and visits to onsen for health reasons were permitted. 
 
 Looking at the amount of travelers that took to the roads, it is clear that peasant pilgrimage greatly increased over the course of the Edo period. Over time it  became more complex than just shrine and temple visits, slowly turned into a tourism industry, with sightseeing and enjoying local specialties becoming commonplace and often turning into the primary focus of the pilgrimage itself (REF).  
 %%When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). %%
 %%As historians have researched exactly how and why these changes came about, they have uncovered various economic and religious factors, which I believe can be organized into two overall categories;  motivation and ability. %%
 ### Motivation
-Travel in the Edo period was mostly done by foot and on average one could cover **40 kilometers in a day**. Depending on the destination, the trip could take weeks or even months to complete, costing both time, effort and money. 
+%%Travel in the Edo period was mostly done by foot and on average one could cover **40 kilometers in a day**. Depending on the destination, the trip could take weeks or even months to complete, costing both time, effort and money. %%
 %%Thus it has been argued that there had to have been ample motivation to set out on such a journey (REF). 
 %%
-As motivation for undertaking such a journey, research has revealed primary two main factors; the popular image of pilgrimage held by society and its direct promotion by those affiliated with shrines and temples. 
+%%As motivation for undertaking such a journey, research has revealed primary two main factors; the popular image of pilgrimage held by society and its direct promotion by those affiliated with shrines and temples. 
 #### Popular image of pilgrimage
 the image of pilgrimage gained from popular media.
 A positive travel image with connotations of religious image of a sacred wanderer and seen as a rite of passage (REF)
@@ -83,7 +86,7 @@ A positive travel image with connotations of religious image of a sacred wandere
 - freedom of Edo society restrictions ( #Blacker_1984 )	 and travel as escape ( #Traganou_2004)
 - rite of passage by overcoming hardships of travel (REF)
 - Literary works spread travel popularity 
-	- #Fabricand-Person_2011 
+	- #Fabricand-Person_2011 %%
 #### Pilgrimage promotion 
 Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
 who promoted temples and
