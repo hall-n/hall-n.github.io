@@ -242,9 +242,10 @@ The bakufu's reaction to the Oyama pilgrimage provides insight into their
 
 ##### Authoritie's tolerance in Shikoku pilgrimage ( #Kouame_1997)
 "the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity" ( #Kouame_1997, 414). 
+
 "authorities did seek to regulate the pilgrims closely, and to proscribe unruly elements, they also provided a system of support for those in need who followed the regulations"( #Kouame_1997, 424).
 Argues that local authorities should not be analyzed in terms of oppressive control. Benevolence relevant. 
 "Indeed there are various historical materials that suggest that the general attitude of local authorities in Shikoku towards the henro should not be analyzed only in terms of repressive control. The fact is that the Shikoku authorities during the Tokugawa period did help pilgrims who were in trouble" ( #Kouame_1997, 421)
-"in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insignificant constraints. ( #Kouame_1997, 424)
+"in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insignificant constraints ( #Kouame_1997, 424)
 ## Conclusion
 ### Why this research is meaningful	
