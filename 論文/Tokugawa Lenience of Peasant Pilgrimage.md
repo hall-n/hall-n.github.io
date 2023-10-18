@@ -4,17 +4,42 @@
 Increase in tourism. Many historians present the situation as the authorities being clearly set against peasant pilgrimage and travel, implementing a system of barriers to impede their movement, barriers which the peasants found ways to circumvent. Other research into travel and the permit system, however, reveals that both the daimyo and bakufu were clearly tolerant towards allowing peasants to travel, showing hesitance to enforce the laws that controlled peasants mobility. 
 %% the bakufu was reluctant to enforce travel limitations on peasants.%% 
 %%the increase is clearly linked to laxity of authorities in allowing it%%
-I argue that the explanation for this apparent contradiction lies in the %%commercialization of travel  economic motivations behind travel promotion which gave rise to mass peasant pilgrimage, and a%% misunderstanding of the position of the authorities towards peasants; the bakufu and daimyo's position was not authoritarian, but was focused on keeping their region prosperous; therefore, as long as travel did not negatively effect the peasant's production, they had little reason to ban its practice. Using recent research that reveals cases where communities and town authorities petition to increase pilgrimage, I argue that the economic benefits of pilgrimage would encourage authorities to allow it's practice. This explanation of the authorities' economic objective explains why they took steps to keep travel within reason, seeking to eliminate *nukemairi* pilgrimages which had a negative effect on the regions while making permits for ?? more easily obtainable.  
+I argue that the explanation for this apparent contradiction lies in the %%commercialization of travel  economic motivations behind travel promotion which gave rise to mass peasant pilgrimage, and a%% misunderstanding of the position of the authorities towards peasants and does not take into account the economic benefits that the tourism from pilgrimage brought. The bakufu and daimyo's position was not authoritarian, but was focused on keeping their region prosperous. Using recent research that reveals cases where communities and town authorities petition to increase pilgrimage, I argue that as long as travel did not negatively effect the peasant's production, the bakufu and daimyo had more reason to allow its practice because pilgrimage brought commerce due to its tourist nature.  This explanation of the authorities' economic objective explains why they took steps to keep travel within reason, seeking to eliminate *nukemairi* pilgrimages which had a negative effect on the regions while making permits for ?? more easily obtainable.  
 %%the economic motivations that lie behind both the travel agent like oshi who encouraged peasants to travel and the%%
 %%combined with the bakufu's position of being a "benevolent'" ruler gave them less incentive to stop the peasants from traveling than it did to simply manage the system to keep up with the sudden surge of pilgrimage travel.%%  
 %%I argue that the bakufu and daimyo position towards peasant travel was not to confine farmers to their lands, but to ensure that their movement did not have a negative economic effect. This explains why they responded to the surge in travel by making proper travel permits easier to obtain.%%
+
+
 ## Key Phrases
+%%
 - bakufu implemented a system of travel regulations and barriers to control the mobility of commoners
 - reluctance of the bakufu to enforce its travel laws
 - commoners, however, found ways to circumvent these barriers, frequently ignoring the laws designed to control their mobility.
-
+%%
 ## Introduction
-During the Edo period, a daunting amount of Japanese took to the roads to travel on pilgrimages. While the purpose was visiting temples and shrines, over time sightseeing and contents tourism motivations emerged. Despite the popularity of travel, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land ( #Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). However, this reasoning alone does not explain why were the permits that were necessary for travel able to obtained so easily by commoners as time went by. Nor does it explain why the checkpoint officials show more laxity to the peasants as time went on. If were are to assume that the bakufu and daimyo authorities were positioned against travel, then their lenience of it appears contradictory. This paper searches for the reason behind that lenience.
+
+##### Travel infrastructure 
+As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu instituted an alternate attendance system, requiring the daimyo to visit Edo every other year.  
+
+In order to facilitate the compulsory travel by the daimyo due to the new alternate attendance system, the bakufu instituted a centralized road network and check point barriers. Along this route which spanned across the country, tolls and private barrers were abolished, and road stations and corvee labor was instituted in order to manage the high number of travelers. Trees were planted along the road for shade and wind cover, and wheels that would damage the road surface were banned. Only travel by foot or by **horse** was allowed, and therefore did not **eliminate commoner from using it.**
+
+%%and while they had to prioritize servicing **Tokugawa officials and daimyo,** they could cater to peasants and the wider population. Thus, the travel changes that were made **in order for the daimyo and their alternate attendance** could be taken advantage of by the commoner, provided they had a valid permit to pass through the *sekisho*, or X barriers that the bakufu set up along the highway. While travel for pleasure was not recognized at that time (?), pilgrimage and visits to onsen for health reasons were permitted. 
+
+Looking at the amount of travelers that took to the roads, it is clear that peasant pilgrimage greatly increased over the course of the Edo period. Over time it  became more complex than just shrine and temple visits, slowly turned into a tourism industry, with sightseeing and enjoying local specialties becoming commonplace and often turning into the primary focus of the pilgrimage itself (REF). %% 
+The road (REF) which was kept well maintained and in Edo's time of peace could be travelled safely. While originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. Inns and other services at checkpoints had to prioritize daimyo (REF), but they were still allowed to accommodate the lower class. 
+During the Edo period, a daunting amount of Japanese took to the roads to travel on pilgrimages. While the purpose was visiting temples and shrines, over time sightseeing and contents tourism motivations emerged. 
+
+The safety and convenience that the highway offered allowed travel to be undertaken by not just the elite, but the the commoner; that is, as long as they could obtain a permit to pass through the *sekisho* barriers that the bakufu positioned along the highway. 
+##### Perception of authorities against travel
+Despite the popularity of travel, many historians have argued that that the ruling authorities were negatively positioned against peasant pilgrimage, claiming that the bakufu envisioned peasant's being tied to the land ( #Vaporis). Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). 
+
+##### Question
+
+However, the question that Vaporis does not ask is why the authorities were so lax in allowing pilgrimage, despite what he argues as clear motivations against it #Nosco_1996 .
+I believe the primary factors in the authorities' lenience toward pilgrimage is the Tokugawa regime's socially responsive, bottum-up ( #Paramore_2012 ) governance and the economic impact of pilgrimage.  
+
+
+However, this reasoning alone does not explain why were the permits that were necessary for travel able to obtained so easily by commoners as time went by. Nor does it explain why the checkpoint officials show more laxity to the peasants as time went on. If were are to assume that the bakufu and daimyo authorities were positioned against travel, then their lenience of it appears contradictory. This paper searches for the reason behind that lenience.
 In order to understand the authorities' motivations, I believe it is necessary to examine the situation surrounding pilgrimage itself. In recent years, historians have approached the topic from many different angles asking new questions about how and why pilgrimage became so widely practiced. Their research reveals the economic motivations underlying the promotion of pilgrimage by the *oshi*, who operated much like a travel agent to attract pilgrims to the temple or shrine they were affiliated to. As pilgrimage increased, other parties arose to take advantage of this tourism. Services and business arose to cater to this traveler and over time some regions' economy came to rely on pilgrims. I believe this to be an example of the positive economic benefit that pilgrimage offered regions. I argue that these economic benefits to be gained from pilgrimage is one reason why the authorities were lenient towards it. 
 In addition, I argue this is because their purpose was not authoritarian, but to 
 %%Studies of uncover the situation of pilgrimage; shikoku, Oyama. %%
@@ -30,22 +55,27 @@ Vaporis's study of travel during the Tokugawa period, they argue against accepti
 overestimates the state's authority and incorrectly represents peasants as "immobile", with their movements severely restricted and strictly inspected at barriers.  
 %%The evidence presented here will demonstrate that, while sekisho did affect the flow and pattern of travel throughout Tokugawa Japan, %% His conclusion is that despite the intention of the authorities, the *sekisho* barriers did not significantly impede peasant travelers (ibid, 7) though he does not put forward the question of why. 
 
+**The permit system**
+However, in order to pass through the many checkpoints along the highway, one needed to have a permit. Such a permit would not be issued for simply travel for pleasure, but a journey for the purpose of pilgrimage was permissible.  
+
+- the permit system and how peasant's could obtain a pass in order to proceed through the many barrier checkpoints positioned around the country. 
+
+
+In line with many other historians, he has argued at length how the authorities were bent on preventing the peasant's ability to travel, detailing the negative effects from pilgrimage and how the authorities envisioned the peasants being tied to the land. As both the bakufu and daimyo's income came directly from the peasant's efforts in their fields, it is understandable how travel away from one's region could have negative repercussions in the eyes of those authorities.
+However, in his detailed account of the permit system and how it changed over the years, Vaporis reveals that not only does the bakufu and checkpoint officials deal with the peasants who travel with a measure of laxity, over time that laxity increases and changes to the permit system do not obstruct peasant pilgrimage, only encourage permit taking. In other words, the position of officials, which historians' have argued to be against peasant travel, does not match the actions they have taken in response. While Vaporis' research presents a clear view of the situation that became more tolerant of peasant's pilgrimage, he does not ask the question of why this trend occurred. If the bakufu authorities had aspirations for control over the peasants to keep them tied to their lands, why do the changes to the permit system only make them more flexible and easily obtained? While this question remains unasked in Vaporis' many writings pertaining to travel, I believe the answer lies in the motivations that gave the commoners reasons to undertake pilgrimage. Looking at research from other historians, many have argued the negative perspective of authorities towards peasant travel, usually referencing Vaporis' work. However, in the last few decades as the social dynamics of the Edo period peasants has become a topic of interest,  the research of other historians has revealed cases of indifference and even positive perceptions of pilgrimage by authorities. 
+
+##### My argument
 Based on this research, this paper will examine previous evidence used in determine the position of the authorities
 What reasons they could have to be for or against pilgrimage, and with that position in mind, consider the economic effects of pilgrimage. 
 
 #### Outline
 **Background:** Brief explanation of rise of pilgrimage and its change to sightseeing and tourism.
 
-%%This rise is a result increased **ability** and **motivation** to undertake pilgrimage which grew significantly over the course of the Edo period.  Recent research has revealed much about the motivations that spurred peasant travel, 
-The safety and convenience that the highway offered allowed travel to be undertaken by not just the elite, but the the commoner; that is, as long as they could obtain a permit to pass through the *sekisho* barriers that the bakufu positioned along the highway. 
-It is here that a contradiction arises; if the authorities were set against peasant travel and idealized a society where the peasants remained tied to the land ( #Vaporis_1994 **why their laxity** towards it? %%
 
-However, the actual situation at the barriers and actions of the authorities in response to growing peasant travel 
-the peasants' movements was at the same time highlighting their tolerance of travel and flexibility of the system. However, the question that Vaporis does not ask is why the authorities were so lax in allowing pilgrimage, despite what he argues as clear motivations against it #Nosco_1996 .
+It is here that a contradiction arises; if the authorities were set against peasant travel and idealized a society where the peasants remained tied to the land ( #Vaporis_1994 **why their laxity** towards it? 
 
 %%That laxity is arguably the largest factor in the peasant's ability to travel, as without the ability to obtain a permit and  
-would have severely hindered all movements o
-yet the reason behind it remains obscure.%%
+would have severely hindered all movements, yet the reason behind it remains obscure.%%
 
 %%Hints of an answer to this question have been made by ??, who mentions the social acceptance of pilgrimage. 
 While social acceptance of pilgrimage could have been influential,  I argue that the reason for the authorities laxity towards peasant pilgrimage was the bakufu's economic focus and position toward the peasants of benevolent ruler. Because they were more focused on <mark style="background: #FFF3A3A6;">keeping a propserous country rather than lording over the lower class</mark> ,  the the economic factors surrounding pilgrimage 
@@ -64,16 +94,7 @@ Therefore, I argue that the reason for this laxity lies in:
 **Conclusion:** Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 To understand this economic element, it is first necessary to understand the situation surrounding pilgrimage. Therefore I will briefly outline the rise in pilgrimage the primary factors that led to its increase.%% 
 
-## Background: The rise of tourism pilgrimage
-As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu instituted an alternate attendance system, requiring the daimyo to visit Edo every other year.  
-In order to facilitate the travel by the daimyo due to the new alternate attendance system, a centralized road network spanning across the country was created. Along this route, tolls and private barrers were abolished, and instead the bakufu created official *sekisho* barriers to monitor the  
-%%They organized road stations and corvee labor was instituted along this road, the bakufu created official *sekisho* barriers. Trees were planted along the road for shade and wind cover, and wheels that would damage the road surface were banned. Only travel by foot or by **horse** was allowed, and therefore  did not **eliminate commoner from using it.** %%
 
-and while they had to prioritize servicing **Tokugawa officials and daimyo,** they could cater to peasants and the wider population. Thus, the travel changes that were made **in order for the daimyo and their alternate attendance** could be taken advantage of by the commoner, provided they had a valid permit to pass through the *sekisho*, or X barriers that the bakufu set up along the highway. While travel for pleasure was not recognized at that time (?), pilgrimage and visits to onsen for health reasons were permitted. 
-
-Looking at the amount of travelers that took to the roads, it is clear that peasant pilgrimage greatly increased over the course of the Edo period. Over time it  became more complex than just shrine and temple visits, slowly turned into a tourism industry, with sightseeing and enjoying local specialties becoming commonplace and often turning into the primary focus of the pilgrimage itself (REF).  
-%%When looking at tourism historically, Japan was early in commoner's being able to travel, especially when compared to European countries, where it was largely limited to nobility (REF). %%
-%%As historians have researched exactly how and why these changes came about, they have uncovered various economic and religious factors, which I believe can be organized into two overall categories;  motivation and ability. %%
 ### Motivation
 %%Travel in the Edo period was mostly done by foot and on average one could cover **40 kilometers in a day**. Depending on the destination, the trip could take weeks or even months to complete, costing both time, effort and money. %%
 %%Thus it has been argued that there had to have been ample motivation to set out on such a journey (REF). 
@@ -87,6 +108,7 @@ A positive travel image with connotations of religious image of a sacred wandere
 - rite of passage by overcoming hardships of travel (REF)
 - Literary works spread travel popularity 
 	- #Fabricand-Person_2011 %%
+%%
 #### Pilgrimage promotion 
 Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
 who promoted temples and
@@ -106,33 +128,23 @@ The direct promotion of pilgrimage along with offering convenience of lodgings a
 
 While originally much like a missionary, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). 
 
-"The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".
-
-### Ability
-%%In research that reveals the peasant's ability to travel, historians have pointed to the countrywide road system and the permit system.%%
-#### Travel infrastructure 
-The road (REF) which<mark style="background: #FFF3A3A6;"> was kept well maintained and in Edo's time of peace could be travelled safely</mark>. While originally laid out by the bakufu for the alternate attendance system of the daimyo, it was able to be used by commoners as well. Inns and other services at checkpoints had to prioritize daimyo (REF), but they were still allowed to accommodate the lower class. 
-#### The permit system
-However, in order to pass through the many checkpoints along the highway, one needed to have a permit. Such a permit would not be issued for simply travel for pleasure, but a journey for the purpose of pilgrimage was permissible.  
-
-- the permit system and how peasant's could obtain a pass in order to proceed through the many barrier checkpoints positioned around the country. 
-%%Laxity of the permit system and checkpoints, despite shogunate wanting peasants to stay at their fields and refrain from travel (REF)%%
-
-Perhaps the most detailed research on peasant's ability to travel has been conducted by Vaporis in his papers about the road conditions and many barriers, both physical and social. 
-His main arguments that are relevant to this paper is that the authorities were against travel and wished for the peasants to remain at their farmland, and that despite that position, they were unable to limit the movements of the peasants who 
+"The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".%%
 
 
-In line with many other historians, he has argued at length how the authorities were bent on preventing the peasant's ability to travel, detailing the negative effects from pilgrimage and how the authorities envisioned the peasants being tied to the land. As both the bakufu and daimyo's income came directly from the peasant's efforts in their fields, it is understandable how travel away from one's region could have negative repercussions in the eyes of those authorities.
-However, in his detailed account of the permit system and how it changed over the years, Vaporis reveals that not only does the bakufu and checkpoint officials deal with the peasants who travel with a measure of laxity, over time that laxity increases and changes to the permit system do not obstruct peasant pilgrimage, only encourage permit taking. In other words, the position of officials, which historians' have argued to be against peasant travel, does not match the actions they have taken in response. While Vaporis' research presents a clear view of the situation that became more tolerant of peasant's pilgrimage, he fails to ask why this trend occurred. If the bakufu authorities had aspirations for control over the peasants to keep them tied to their lands, why do the changes to the permit system only make them more flexible and easily obtained? While this question remains unasked in Vaporis' many writings pertaining to travel, I believe the answer lies in the motivations that gave the commoners reasons to undertake pilgrimage. Looking at research from other historians, many have argued the negative perspective of authorities towards peasant travel, usually referencing Vaporis' work. However, in the last few decades as the social dynamics of the Edo period peasants has become a topic of interest,  the research of other historians has revealed cases of indifference and even positive perceptions of pilgrimage by authorities. 
-
-This research on the motivations for travel will .
 
 
-## Question: Why were authorities lax with peasant pilgrimage?
+## Argument by historians
 
-#### Argument by historians
-In the many articles on travel in the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008), particularly of women and peasants ( #Nenzi_2004). While none openly ask the question of why, some do reference economic and social factors.
-In Vaporis' many works on the travel permit system, he often mentions how the authorities idealized a society where the peasants "remained tied to the land" ( #Vaporis_1994, 136). Along with historian #Traganou_2004) who wrote at length on traveling the Tokaido Road, Vaporis explain this desire to keep farmers at their land is because travel might reduce agricultural production. Because both the bakufu and daimyo's finances are directly tied to the production of the lands farmed by the peasants, this would appear to be logical reaction. Moving behond economic reasons, #Traganou_2004) argues that the pilgrimage itself posed a threat to bakufu's authority, though does not specifically outline why and how.
+In the literature surrounding the rise of travel and tourism by pilgrims, the bakufu and daimyo are represented as being against travel, 
+
+In the many articles on travel in the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008), particularly of women  #Nenzi_2004). While none openly ask the question of why, some do reference economic and social factors.
+
+However, the actual situation at the barriers and actions of the authorities in response to growing peasant pilgrimage reveals their tolerance of travel and flexibility of the system. 
+
+In Vaporis's study of the road barriers the travel permit system of the Tokugawa period, he challenges the idea that the authorities fully controlled the peasants' movements, and argues that the peasants found ways to circumvent the barriers. 
+Vaporis argues against accepting a "legalistic interpretation of Tokugawa Japan" (6), as doing so overestimates the state's authority and incorrectly represents peasants as immobile, with their movements severely restricted and strictly inspected at barriers. His conclusion is that despite the intention of the authorities, the *sekisho* barriers did not significantly impede peasant travelers (ibid, 7)
+
+In Vaporis' many works on the travel permit system, he often mentions how the authorities idealized a society where the peasants "remained tied to the land" ( #Vaporis_1994, 136). Along with historian #Traganou_2004) who wrote at length on traveling the Tokaido Road, Vaporis explain this desire to keep farmers at their land is because travel might reduce agricultural production. Because both the bakufu and daimyo's finances are directly tied to the production of the lands farmed by the peasants, this would appear to be logical reaction. Moving beyond economic reasons, #Traganou_2004) argues that the pilgrimage itself posed a threat to bakufu's authority, though does not specifically outline why and how.
 
 #Blacker_1984 ) also argues that the peasants were hindered by "the increasingly harassing restrictions imposed by the han authorities on a custom which appeared in their eyes frivolous, useless, extravagant and immoral. By absenting themselves for several weeks to walk to Ise, the farmers neglected their proper duty and caused a fall in production" ( #Blacker_1984 , 604). Though Blacker does admit that some daimyo did not object when the travel was undertaken during the idle part of the year. 
 
@@ -148,10 +160,13 @@ There are religious, economic, and social factors that surround the promotion of
 Vaporis describes some of the social factors, alluding that because pilgrimage was seen as a rite of passage and worshiping at shrines such as Ise were connected to the Emperor's authority, restricting pilgrimage could have negative repercussions for them. However, Vaporis does not clearly state these as being the reason behind bakufu's laxity. 
 While the religious aspects of pilgrimage may played a part in softening the perspective of some authorities towards it, I argue that it does not fully explain. 
 
-I believe the primary factors in the authorities' lenience toward pilgrimage is the Tokugawa regime's socially responsive, bottum-up ( #Paramore_2012 ) governance and the economic impact of pilgrimage.  
 
-benevolent ruler position held by the bakufu authorities, which the daimyo largely followed (REF). %%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
-### Tokugawa's governance
+
+
+benevolent ruler position held by the bakufu authorities, which the daimyo largely followed (REF). 
+
+%%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
+## Tokugawa's governance
 The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. 
 #Gordon_2003 and #Tanimoto_2019  argue that while Confucian concept of benevolence was not popular in the seventeenth century, in some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped  #Tanimoto_2019 .
 Examining bureaucratic governance, #Paramore_2012 argues that reforms to the Tokugawa state "were usually designed to open government structures to bottom-up input" (ibid, 25). He argues that the changes opened up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27)
@@ -180,7 +195,10 @@ In my previous research ( #Hall_2022), I argued that the position of the shoguna
 
 Indeed, Vaporis notices the regulations with 
 
-### Negative effects of pilgrimage
+
+
+## Economic gains of pilgrimage
+#### Negative effects of pilgrimage
 Looking at the reasons the authorities might have to be against pilgrimage. 
 
 Perhaps the most persuasive argument that would explain the authorities desire to restrict or ban pilgrimage is of an economic origin. Vaporis explains how travelling into other regions meant that money leaving the domain caused concern for the ruler. For example, when the Kaga domain restricted pilgrimage to a popular Kyoto shrine, they claimed it was to "stem the outflow of precious domain resources like gold and silver" ( #Vaporis_1994, 202).
@@ -195,7 +213,6 @@ Vaporis does observe how bakufu officials did make reactionary changes to the pe
 Vaporis comments that "regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" ( #Vaporis_1994, 198). However, in these examples of actions against pilgrimage, the these reasons appear to be to only limit possible negative economic effects. Were the authorities really trying to stem the desire to travel? 
 
 
-### Economic gains of pilgrimage
 Economic motivations: commerce from pilgrims
 The financial gain that came from pilgrimage was not something that was felt by shrines and temples alone. While talismans and religious offerings were important elements of one's pilgrimage, the commerce brought by pilgrims was felt by many other
 %%As seen in motivations to promote tourism by the oshi, there were a number of economic benefits of pilgrimage that were desired not just by the shrines and temples, but the various %% services that catered to travelers. 
@@ -219,7 +236,7 @@ The commerce that pilgrimage brought to a region was not something that could be
 In order to appeal to consumer tourist, religious destinations "had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Oyama, a baggage delivery network" (ibid, 309).
 
 These examples show just how important the tourism industry that arose from pilgrimage.  
-### Examples of daimyo and town authorities' efforts to encourage pilgrimage
+## Examples of authorities encouraging pilgrimage
 There were even towns that arose and flourished due to the direct results of pilgrimage, therefore it came to be of significant economic importance for many regions. 
 
 ##### Sagami ( #Nenzi_2004)
