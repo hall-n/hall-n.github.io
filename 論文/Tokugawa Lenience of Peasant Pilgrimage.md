@@ -168,32 +168,25 @@ benevolent ruler position held by the bakufu authorities, which the daimyo large
 %%In order to understand these economic effects, To answer the question of why there was such laxity towards peasant pilgrimage, it is necessary to look at both its positive and negative effects and who stands to gain from its proliferation.%% 
 ## Tokugawa's governance
 The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. 
-#Gordon_2003 and #Tanimoto_2019  argue that while Confucian concept of benevolence was not popular in the seventeenth century, in some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped  #Tanimoto_2019 .
-Examining bureaucratic governance, #Paramore_2012 argues that reforms to the Tokugawa state "were usually designed to open government structures to bottom-up input" (ibid, 25). He argues that the changes opened up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27)
+
+
 
 Position of authorities: benevolent ruler, desire to manage not domineer
 
 - Policies in place, but actual implementation of them up to the person in charge. 
 - Soft rules that can adapt to circumstances. 
-#### Not authoritarian
-#Paramore_2012 
-#### Oda and Ieyasu's leadership policies
-#### Confucian precepts of benevolent rule
-#Cambridge 
-##### Bizen's example of a benevolent ruler
-The administration of Bizen was typical of the kind which was provided by the larger daimyo of the Tokugawa period. ( #Hall_1966 410) 
-That sees the prosperity of his entire realm and its citizens as a reflection
-Hall argues that Mitsumasa of the Bizen province provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403)
-Hall also points out that "The Tokugawa bakufu had led the way in drawing upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). 
 
-Reflecting the degree to which the confucian benevolent ruler was a concept to authorities. While #Gordon_2003 and #Tanimoto_2019 both argue that the benevolence appears limited in how the bakufu deals with peasants, mentioning the often quoted "squeezing of the peasants, as I argued in Hall 2022, the fact that the authorities left the peasants with a surplus reflects their priority of economic growth. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
-This together with the Bizen example presents an image of realistic benevolence.  
+While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants". 
+in some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped  #Tanimoto_2019 . 
 
-This observation that the government is concerned with the well-being of the lower class is also reflected in Paramore's research on governance changes that occurred in the later half of Tokugawa period (2012). Refuting the arguments that Neo-Confucian political concepts encouraged "social stasis and authoritarianism", he argues that governmental changes "were usually designed to open government structures to bottom-up input in an attempt to make government more socially responsive" (ibid, 25). 
+as I argued in paper on the rice tax (Hall 2022), the fact that the authorities left the peasants with a surplus reflects their priority of economic growth. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
+This observation that the government is concerned with the well-being of the lower class is also reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). Hall argues that that Mitsumasa of the Bizen province provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403) and this type of administration was typical of of the larger daimyo during the Tokugawa period (ibid, 410). Hall also points out that "The Tokugawa bakufu had led the way in drawing upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period. Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, he argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). 
+
+This argument against the idea that the Tokugawa government was top-down and authoriatian
 #### Leaving peasants with surplus
 In my previous research ( #Hall_2022), I argued that the position of the shogunate was focused on keeping a balanced rice market, and to that end they intentionally left a surplus of rice with the peasants. I believe this to be an example of their underlying economic motivations. Therefore, if the pilgrimage of the peasants had a positive economic impact, and as long as those peasants paid their rice tribute, they would be more inclined to allow it, making changing to keep in within the confines that prevented economic harm to the region (**as one historian mentions)** than to spend more effort and money into micromanaging. Indeed, the majority of peasants traveled in their free time after their farmer's responsibilities were fulfilled (REF). 
 
-Indeed, Vaporis notices the regulations with 
+Indeed, Vaporis notices the regulations dealing with pilgrimage have to do with economic reasons, though he fails to make the statement that 
 
 
 
