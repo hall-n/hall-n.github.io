@@ -6,7 +6,7 @@
       {
         "id": "efdef6f985ba1735",
         "type": "tabs",
-        "dimension": 64.52991452991454,
+        "dimension": 37.43589743589744,
         "children": [
           {
             "id": "85e3d79bce73f40d",
@@ -77,7 +77,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 35.47008547008547,
+        "dimension": 62.56410256410256,
         "children": [
           {
             "id": "37594fd40e550d8b",
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md"
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
               }
             }
           },
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,10 +252,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07718c6817734a7a",
+  "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
+    "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
