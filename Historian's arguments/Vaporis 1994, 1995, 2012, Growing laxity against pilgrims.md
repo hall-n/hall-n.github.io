@@ -2,6 +2,19 @@
 #Vaporis_1994 
 
 
+Notes:
+%%
+
+Vaporis's study of travel during the Tokugawa period, they argue against accepting a "legalistic interpretation of Tokugawa Japan" (6), as doing so overlooks crucial factors 
+overestimates the state's authority and incorrectly represents peasants as "immobile", with their movements severely restricted and strictly inspected at barriers.  
+The evidence presented here will demonstrate that, while sekisho did affect the flow and pattern of travel throughout Tokugawa Japan, 
+His conclusion is that despite the intention of the authorities, the *sekisho* barriers did not significantly impede peasant travelers (ibid, 7) though he does not put forward the question of why. 
+Research that covers the Tokugawa road barriers the travel permit system in great detail is the work of Vaporis Constantine.  he challenges the idea that the authorities fully controlled the peasants' movements, and argues that the peasants found ways to circumvent the barriers. 
+Overall the image he presents is the authorities being against travel, and the peasants trying to defy
+He outlines the numerous examples of authorities being negatively positioned against peasant pilgrimage and instances where it was banned.
+His main argument is that the peasants were mobile, despite the efforts of the authorities to make them otherwise. 
+%%
+
 there was an intimate relationship between travel and pilgrimage. They were to a large extent synonymous-a fact that is readily apparent from a quick perusal of travel permits and diaries. Authorities were much more tolerant of pilgrimage than other types of travel because of its sacred nature as a religious act; and, therefore, travel often fell under that rubric. (4)
 The findings of this study will reveal a great disjunction between government regulations on travel and the social reality at which they were aimed. Countless persons from all social ranks defied governmental authority by traveling without official permission despite the volumes of legislation intended to regulate or restrict movement. Such legislation appears to have been ·merely a reaction to the social reality that existed and thus, ip. a sense, was little more than sumptuary legislation. The social, economic, and political implications of this interpretation necessarily recast our view of Tokugawa society.
 This study, furthermore, will show that government policy regarding travel was, on the whole, positive rather than repressive; the application of regulations was far more flexible than suggested by statute. This growing flexibility in a system that originally had been more rigid allowed for-and in fact promoted-the increasing mobility that characterized Tokugawa Japan from the eighteenth century on.

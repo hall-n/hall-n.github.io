@@ -29,9 +29,10 @@ In contrast to this argument that the bakufu and daimyo were against peasant tra
 
 The checkpoint officials dealt with the peasants who travel with an increasing measure of laxity, and changes that the bakufu make to the permit system make them more flexible and easily obtained, thus encouraging permit applications instead of obstructing peasant pilgrimage ( #Vaporis ). If were are to assume that the authorities were positioned against travel, then why do we observe such lenience towards it?
 
-While Vaporis' work presents a clear view of the situation that became more tolerant of peasant's pilgrimage, he does not ask the question of why this trend occurred. His argument simply challenges the fact that the authorities fully controlled the peasants' movements, pointing out that the peasants found ways to circumvent the barriers and thus were not immobile. This paper seeks to find the question revealed by Vaporis 
+While Vaporis' work presents a clear view of the situation that became more tolerant of peasant's pilgrimage, he does not ask the question of why this trend occurred. His argument simply challenges the fact that the authorities fully controlled the peasants' movements, pointing out that the peasants found ways to circumvent the barriers and thus were not immobile. This paper seeks to find the question revealed but unanswered in Vaporis work. 
+
 As the social dynamics of the Edo period and the lives of the peasants have become topics of interest in the last few decades,  research of other historians has revealed cases of positive perceptions of pilgrimage by authorities. 
-In this paper, I argue that the primary factors in the authorities' lenience toward pilgrimage is the Tokugawa regime's socially responsive, bottum-up ( #Paramore_2012 ) governance and the economic impact of pilgrimage.  
+In this paper, I argue that the primary factors in the authorities' lenience toward pilgrimage is the Tokugawa regime's socially responsive, bottom-up ( #Paramore_2012 ) governance and the economic impact of pilgrimage.  
 
 In addition, I argue this is because their purpose was not authoritarian, but to 
 %%Studies of uncover the situation of pilgrimage; shikoku, Oyama. %%
@@ -41,14 +42,8 @@ These studies reveal the widespread effects of pilgrimage and the responses from
 In order to understand the authorities' motivations, I believe it is necessary to examine the economic situation surrounding pilgrimage. In recent years, historians have approached the topic from many different angles asking new questions about how and why pilgrimage became so widely practiced. Their research reveals the economic motivations underlying the promotion of pilgrimage by the *oshi*, who operated much like a travel agent to attract pilgrims to the temple or shrine they were affiliated to. As pilgrimage increased, other parties arose to take advantage of this tourism. Services and business arose to cater to this traveler and over time some regions' economy came to rely on pilgrims. I believe this to be an example of the positive economic benefit that pilgrimage offered regions. I argue that these economic benefits to be gained from pilgrimage is one reason why the authorities were lenient towards it. 
 
 
-Research that covers the Tokugawa road barriers the travel permit system in great detail is the work of Vaporis Constantine.  he challenges the idea that the authorities fully controlled the peasants' movements, and argues that the peasants found ways to circumvent the barriers. 
-%%Overall the image he presents is the authorities being against travel, and the peasants trying to defy%%
-He outlines the numerous examples of authorities being negatively positioned against peasant pilgrimage and instances where it was banned.
-His main argument is that the peasants were mobile, despite the efforts of the authorities to make them otherwise. 
 
-Vaporis's study of travel during the Tokugawa period, they argue against accepting a "legalistic interpretation of Tokugawa Japan" (6), as doing so %%overlooks crucial factors %% 
-overestimates the state's authority and incorrectly represents peasants as "immobile", with their movements severely restricted and strictly inspected at barriers.  
-%%The evidence presented here will demonstrate that, while sekisho did affect the flow and pattern of travel throughout Tokugawa Japan, %% His conclusion is that despite the intention of the authorities, the *sekisho* barriers did not significantly impede peasant travelers (ibid, 7) though he does not put forward the question of why. 
+
 
 
 
@@ -83,21 +78,21 @@ It is here that a contradiction arises; if the authorities were set against peas
 would have severely hindered all movements, yet the reason behind it remains obscure.%%
 
 %%Hints of an answer to this question have been made by ??, who mentions the social acceptance of pilgrimage. 
-While social acceptance of pilgrimage could have been influential,  I argue that the reason for the authorities laxity towards peasant pilgrimage was the bakufu's economic focus and position toward the peasants of benevolent ruler. Because they were more focused on <mark style="background: #FFF3A3A6;">keeping a propserous country rather than lording over the lower class</mark> ,  the the economic factors surrounding pilgrimage 
+While social acceptance of pilgrimage could have been influential,  I argue that the reason for the authorities laxity towards peasant pilgrimage was the bakufu's economic focus and position toward the peasants of socially responsive ruler. Because they were more focused on keeping a propserous country rather than lording over the lower class,  the the economic factors surrounding pilgrimage 
 that are the primary reason which  affected the their desire and ability to restrict the movements of the lower class. Specifically, the rise of pilgrimage tourism as an industry and the economic benefits thereof. 
+
 Therefore, I argue that the reason for this laxity lies in:
 - **economic motivations to encourage pilgrimage**
-	As seen in motivations to promote tourism by the oshi, there were a number of economic benefits of pilgrimage that were desired not just by the shrines and temples. As 
-	Evidence: 
-	- cases where they limit pilgrimage are for their negative affects on region. They never seek to stop pilgrimage itself.
-- **position of benevolent ruler** and being more concerned with economy than domineering commoner's lives. 
+	As seen in motivations to promote tourism by the oshi, there were a number of economic benefits of pilgrimage that were desired not just by the shrines and temples. 
+	- cases where they limit pilgrimage are for their negative affects on region. They do not appear to seek to stop pilgrimage itself.
+- **position of benevolent ruler** and being primarily concerned with the economy and region's propsperity. 
 	Evidence: 
 	- Confucian based Tokugawa was not authoritarian but bottom up ( #Paramore_2012)
 	- Oda and Ieyasu's leadership policies and idea of "men of the realm" ( #Cambridge History, *need reference*)
 	- Confucian precepts of benevolent rule ( #Cambridge, #Hall_1966 ). Indeed Vaporis himself mentions "Considerable benevolence was shown by officials to commoners caught trying to go through or around sekisho illegally" ( #Vaporis 1994, 180) despite his position that authorities were set against letting commoners travel.
 	- Reference work of leaving peasants with surplus for overall economic benefit. Perhaps they have more to lose than to gain if they go against the commoners. Perhaps the idea of them being against pilgrimage is based on a few writings without taking their overall actions into account.
 **Conclusion:** Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
-To understand this economic element, it is first necessary to understand the situation surrounding pilgrimage. Therefore I will briefly outline the rise in pilgrimage the primary factors that led to its increase.%% 
+.%% 
 
 
 ### Motivation
