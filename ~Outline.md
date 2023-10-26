@@ -5,7 +5,7 @@ Abstracts are used by other researchers to establish the relevance of the study 
 
 They are typically between 250 – 300 words long, offer a summary of the main findings and present the conclusions, so you should attempt to write an abstract (if requested), after you have finished writing the dissertation.  
 
-A typical abstract summarises: 
+A typical abstract summarizes: 
 - What the study aimed to achieve  
 - The methodology used 
 - Why the research was conducted 
@@ -20,7 +20,7 @@ It is a good idea to use the electronic table of contents feature in Word to a
 This useful [video](https://www.linkedin.com/learning/word-2016-creating-long-documents/create-a-master-document?u=42314660) will walk you through the formatting of longer documents using the electronic table of contents feature. 
 
 ## Chapter 1: Introduction
-**Normally, the introduction is roughly 10% of a dissertation word count.** (850-1000)
+**850 words** (10%)
 
 The introduction explains the how, what, where, when, why and who of the research. It introduces the reader to your dissertation and should act as a clear guide as to what it will cover.  
 
@@ -58,6 +58,7 @@ By the end of your literature review, your reader should be able to see: 
 For more detailed guidance on how to write literature reviews, check out the Literature Review Guide. 
 
 ## Theme Chapters
+**7000 words (80%)**
 In a thematic structure, the core chapters present analysis and discussion of different themes relevant to answer the research question and support the overall argument of the dissertation. The chapters will include analysis of texts/ research material. They can explore and connect academic theories/research to develop an argument. Stella Cottrell offers some good guidance on how to structure your theme chapters. Each chapter should have the following elements (Cottrell, 2014, p183):
 #### Theme 
 What is the theme of this chapter? Sequence your themes logically (e.g. from general to specific).  
@@ -73,7 +74,7 @@ In what order are you going to present the points you want to make in this chapt
 Each chapter should have a short introduction and conclusion. 
 
 ## Conclusion
-425+ words (5-10%)
+**450-800 words (5-10%)**
 The conclusion is the final chapter of your dissertation. It should flow logically from the previously presented text; therefore, you should avoid introducing new ideas, new data, or a new direction.  
 
 Ideally, the conclusion should leave the reader with a clear understanding of the discovery or argument you have advanced.  
@@ -90,6 +91,7 @@ Tips 
 - Sum up the main points of your research.  
 
 ## Bibliography
+**800 words**
 While writing your dissertation, you would have referred to the works and research of many different authors and editors in your field of study. These works should be acknowledged in the bibliography where you will list writers alphabetically by surname. 
 
 For example: 
