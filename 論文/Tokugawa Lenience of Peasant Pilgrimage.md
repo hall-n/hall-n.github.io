@@ -4,7 +4,7 @@
 Increase in tourism. Many historians present the situation as the authorities being clearly set against peasant pilgrimage and travel, implementing a system of barriers to impede their movement, barriers which the peasants found ways to circumvent. Other research into travel and the permit system, however, reveals that both the daimyo and bakufu were clearly tolerant towards allowing peasants to travel, showing hesitance to enforce the laws that controlled peasants mobility. 
 %% the bakufu was reluctant to enforce travel limitations on peasants.%% 
 %%the increase is clearly linked to laxity of authorities in allowing it%%
-I argue that the explanation for this apparent contradiction lies in the %%commercialization of travel  economic motivations behind travel promotion which gave rise to mass peasant pilgrimage, and a%% misunderstanding of the position of the authorities towards peasants and does not take into account the economic benefits that the tourism from pilgrimage brought. The bakufu and daimyo's position was not authoritarian, but was focused on keeping their region prosperous. Using recent research that reveals cases where communities and town authorities petition to increase pilgrimage, I argue that as long as travel did not negatively effect the peasant's production, the bakufu and daimyo had more reason to allow its practice because pilgrimage brought commerce due to its tourist nature. This explanation of the authorities' economic objective explains why they took steps to keep travel within reason, seeking to eliminate *nukemairi* pilgrimages which had a negative effect on the regions while making permits for ?? more easily obtainable.  
+I argue that the explanation for this apparent contradiction lies in the %%commercialization of travel  economic motivations behind travel promotion which gave rise to mass peasant pilgrimage, and a%% assumption that the authorities wished to restrict the movement of the peasants and does not take into account the economic benefits that the tourism from pilgrimage brought. The bakufu and daimyo's position was not authoritarian, but was focused on keeping their region prosperous. Using recent research that reveals cases where communities and town authorities petition to increase pilgrimage, I argue that as long as travel did not negatively effect the peasant's production, the bakufu and daimyo had more reason to allow its practice because pilgrimage brought commerce due to its tourist nature. This explanation of the authorities' economic objective explains why they took steps to keep travel within reason, seeking to eliminate *nukemairi* pilgrimages which had a negative effect on the regions while making permits for ?? more easily obtainable.  
 %%the economic motivations that lie behind both the travel agent like oshi who encouraged peasants to travel and the%%
 %%combined with the bakufu's position of being a "benevolent'" ruler gave them less incentive to stop the peasants from traveling than it did to simply manage the system to keep up with the sudden surge of pilgrimage travel.%%  
 %%I argue that the bakufu and daimyo position towards peasant travel was not to confine farmers to their lands, but to ensure that their movement did not have a negative economic effect. This explains why they responded to the surge in travel by making proper travel permits easier to obtain.%%
@@ -26,12 +26,13 @@ Despite the popularity of pilgrimage and sightseeing, many historians have argue
 
 If were are to assume that the authorities were positioned against travel, then why do we observe such lenience towards it? While Vaporis' work presents clear evidence that authorities became more tolerant of peasant's pilgrimage, he does not directly pose the question of why. While his argument challenges the fact that the authorities fully controlled the peasants' movements, pointing out that the peasants found ways to circumvent the barriers and thus were not immobile, he positions it as despite the intent of the authorities. This paper presents an alternative perspective that highlights the importance of the tourism industry.
 
-I argue that these economic benefits to be gained from pilgrimage is highly relevant to understanding the lenience of the bakufu and daimyo because "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan. (Thal 2005, 102)". This market economy was of utmost importance to the bakufu, as my previous research (Hall 2022) revealed in their efforts to manage the rice market. As they realised the benefit to being a benevolent ruler, a realization that This concern with the economic potential of pilgrimage is because the governance of the Tokugawa regime was not authoritarian, but socially responsive ( #Paramore_2012 ) and primarily concerned with the economy and region's prosperity.  Because they were more focused on keeping a prosperous country rather than taking all the freedoms away from the lower class, they would be approving of the rise of the tourism industry from pilgrimage.
+I argue that these economic benefits to be gained from pilgrimage is highly relevant to understanding the lenience of the bakufu and daimyo because "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan. (Thal 2005, 102)". This market economy was of utmost importance to the bakufu, as my previous research (Hall 2022) revealed in their efforts to manage the rice market. This concern with the economic potential of pilgrimage is because the governance of the Tokugawa regime was not authoritarian, but socially responsive ( #Paramore_2012 ) and primarily concerned with the economy and region's prosperity.  Because they were more focused on keeping a prosperous country rather than taking all the freedoms away from the lower class, they would be approving of the rise of the tourism industry from pilgrimage.
 
 To support my argument, I first present research that reveals the Tokugawa's concept of a benevolent ruler; from bottom-up style of governance that looks more **democratic** than authoritarian (Paramore 2012) and research that shows benevolent ruling was common and prosperous (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, I argue the underlying reasons to be economic. As my previous research on the rice tax revealed, the bakufu were focused on the economy and saw that benevolence of leaving the peasants with a surplus led an overall increase in rice tax. 
 
+Referencing research that looks at the restrictions made against pilgrimage (Vaporis) and cases where authorities were clearly supportive of pilgrimage (Amber, ?) I point out the economic motivations of the bakufu and daimyo seen in both cases. 
 
-I also present research that reveals positive responses from authorities and communities who take steps to allow and support pilgrimage travel, pointing out the cases where they limit pilgrimage are when it has negative affects on region.
+I also present research that reveals positive responses from authorities and communities who take steps to allow and support pilgrimage travel, pointing out the cases where they limit pilgrimage are when it has negative affects on region. I argue that in both cases the main factor was the economic effect of pilgrimage. 
 
 From this research, I conclude that the Tokugawa bakufu would have 
 
@@ -162,12 +163,7 @@ In order to appeal to consumer tourist, religious destinations "had to be comple
 
 These examples show just how important the tourism industry that arose from pilgrimage.  
 ### Authorities Encourage Pilgrimage
-In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced and how it turned into what we recognize today as tourism. 
-
-This research reveals cases of both lenience by the authorities and shows how important of an industry pilgrimage became in the Edo period.
-
-
-There were even towns that arose and flourished due to the direct results of pilgrimage, therefore it came to be of significant economic importance for many regions. 
+In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced and how it turned into what we recognize today as tourism. This studies reveals the lenience by village and daimyo authorities towards pilgrimage and how important of an industry pilgrimage became in the Edo period. There were even towns that arose and flourished due to the direct results of pilgrimage, therefore it came to be of significant economic importance for many regions. 
 
 ##### Sagami ( #Nenzi_2004)
 *Kanagawa region*
@@ -177,12 +173,12 @@ Nenzi recognizes that efforts made by regional authorities to attract visitors t
 "These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (309).
 
 The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (150).
+
 ##### Tosa ( #Roberts_1998)
 *South region of Shikoku*
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
 "Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
 ##### Oyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
-
 In Ambros's research (2008) of the pilgrimage to Ōyama, a popular shrine in the Kanto region, she argues that the community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu was not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
 
@@ -201,6 +197,10 @@ The bakufu's reaction to the Oyama pilgrimage provides insight into their
 ##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
 *North region of Shikoku*
 
+"The priests of Konpira, like priests of other wouldbe pilgrimage siges, simultaneously devoloped the attractions of both the god and the town to boost the economic viability of the sacred domain" (3)
+"Thus, from early on, Konpira's development as an attractive site of worship proceeded in tandem with the popularity of its markets and entertainments. In the phenomenon common to pilgrimates sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship (3)"
+"The priests of Konkoin catered to such demand for entertainment in order to raise both the income and the status of the sacred domain" (5) Thal mentions the lavish festivals and parades, 
+The support of Konpira offered social benefits as well. Thal describes how the supporting domain families, Matsudaira and Kyogoku, mutually benefited all parties, "weaving the sacred domain of Konpira [...] into an expanding network of personal, economic, and ritual relationships"
 ##### Authorities' tolerance in Shikoku pilgrimage ( #Kouame_1997)
 "the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity" ( #Kouame_1997, 414). 
 
