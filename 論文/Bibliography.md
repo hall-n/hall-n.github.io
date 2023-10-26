@@ -1,3 +1,5 @@
+## Bibliography
+
 Ambros, Barbara. 2008. _Emplacing a Pilgrimage: The Ōyama Cult and Regional Religion in Early Modern Japan_. 1st ed. Vol. 297. Harvard University Asia Center. [https://doi.org/10.2307/j.ctt1tm7fn2](https://doi.org/10.2307/j.ctt1tm7fn2).
 
 Blacker, Carmen. 1984. “The Religious Traveller in the Edo Period.” _Modern Asian Studies_ 18 (4): 593–608. [https://doi.org/10.1017/S0026749X00016310](https://doi.org/10.1017/S0026749X00016310).

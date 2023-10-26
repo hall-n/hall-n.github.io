@@ -6,6 +6,7 @@ Understanding Edo Period Tourism: Tokugawa's laxity of peasant pilgrimage
 
 Tokugawa Lenience of Peasant Pilgrimage
 
+Lenience of the Tokugawa Bakufu Towards Tourism from Peasant Pilgrimage 
 
 
 ## Thesis
