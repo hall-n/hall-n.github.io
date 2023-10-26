@@ -26,7 +26,7 @@ Despite the popularity of pilgrimage and sightseeing, many historians have argue
 
 If were are to assume that the authorities were positioned against travel, then why do we observe such lenience towards it? While Vaporis' work presents clear evidence that authorities became more tolerant of peasant's pilgrimage, he does not directly pose the question of why. While his argument challenges the fact that the authorities fully controlled the peasants' movements, pointing out that the peasants found ways to circumvent the barriers and thus were not immobile, he positions it as despite the intent of the authorities. This paper presents an alternative perspective that highlights the importance of the tourism industry.
 
-I argue that these economic benefits to be gained from pilgrimage is highly relevant to understanding the lenience of the bakufu and daimyo. The reason the authorities would be more concerned with the economic potential of pilgrimage is because the governance of the Tokugawa regime was not authoritarian, but socially responsive ( #Paramore_2012 ) and primarily concerned with the economy and region's prosperity.  Because they were more focused on keeping a prosperous country rather than taking all the freedoms away from the lower class, they would be approving of the rise of the tourism industry from pilgrimage.
+I argue that these economic benefits to be gained from pilgrimage is highly relevant to understanding the lenience of the bakufu and daimyo because "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan. (Thal 2005, 102)". This market economy was of utmost importance to the bakufu, as my previous research (Hall 2022) revealed in their efforts to manage the rice market. As they realised the benefit to being a benevolent ruler, a realization that This concern with the economic potential of pilgrimage is because the governance of the Tokugawa regime was not authoritarian, but socially responsive ( #Paramore_2012 ) and primarily concerned with the economy and region's prosperity.  Because they were more focused on keeping a prosperous country rather than taking all the freedoms away from the lower class, they would be approving of the rise of the tourism industry from pilgrimage.
 
 To support my argument, I first present research that reveals the Tokugawa's concept of a benevolent ruler; from bottom-up style of governance that looks more **democratic** than authoritarian (Paramore 2012) and research that shows benevolent ruling was common and prosperous (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, I argue the underlying reasons to be economic. As my previous research on the rice tax revealed, the bakufu were focused on the economy and saw that benevolence of leaving the peasants with a surplus led an overall increase in rice tax. 
 
@@ -34,6 +34,9 @@ To support my argument, I first present research that reveals the Tokugawa's con
 I also present research that reveals positive responses from authorities and communities who take steps to allow and support pilgrimage travel, pointing out the cases where they limit pilgrimage are when it has negative affects on region.
 
 From this research, I conclude that the Tokugawa bakufu would have 
+
+Looking at the economic meaning behind pilgrimage is essential to understanding why the 
+
 
 %%
 **position of benevolent ruler** and being primarily concerned with the economy and region's prosperity. 

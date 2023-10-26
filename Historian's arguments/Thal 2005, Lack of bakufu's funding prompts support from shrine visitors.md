@@ -27,6 +27,21 @@ These lords, like the lords of Takamatsu, apparently viewed Konpira Daigongen as
 ##### Personal and professional reasons for supporting shrines and pilgrimage
 The Matsudaira and Kyogoku families, then, became committed surporters of Konpira Daigongen shortly after their arrival in Shikoku. They carried Konpira with them to Osaka and Edo, where they enrshined the deity at their mansions. They supported the development of the pilrimage to Mt. Zozu, facilitating traffic throught the three ports of Takamatsu, Marugame, and Tadotsu, thereby fostering custom for boat operators, innkeepers, fanmakers, and other business in Konpira and their own domains. In effect, their support of Konpira - oustide the formal boundaries of any of the three larger domains - into an expanding network of personal, economic, and ritual relationships. (Thal 2005, 78) ^94a46e
 
+Konpira rose to prominance with the expansion of the market economy and the social stratification that ensued. Yet the priests' successful promotion of Konpira faith came at a price. By the early 1800's, the men on Mt. Zozu had lost control over perceptions of the god. As the cult of Konpira flourished in Edo, supported by a burgeoning world of print and performance, the worship of Konpira became part of the mass culture of gods, miracles, and pilgrimage that shaped the thoughts and behaviors of people in the nineteenth-century Japan - a culture to which priests of Konpira could only contribute, not one they could control. The miracles of, and pilgrimage to, Konpira formed a prominent part of this ubiquitous culture of the gods - a culture not dominated by a single diety. Riding the wave of popular worship, Konpira grew into a nationwide attraction, drawing upon the faith and donations of the people throughout Japan. (97)
+
+The development of a widespread pilgrimage culture in the nineteenth century both relied upon and enabled the growth of economic networks of consumption, advertising, and offerings - transactions in which the gods were thought to play an active role as providers of benefits in exchange for offerings and prayer. The growth of such networks thus contributed to the development of an economy, a society, and ultimately a multifaceted culture in which the gods play an integral part. 
+In the early eighteenth century, the sponsorship of increasingly influential entrepreneurs had helped spread the cult of Konpira beyond the confines of its immediate vicinity. (98)
+
+Encouraged by entrepreneurs in the pilgrimage business and in the media, the cult of Konpira grew throughout the 1700s and early 1800s, eventually forming a prominent part of popular nineteenth-century culture. (99)
+
+By the early 1800s, pilgrimage to Konpira  began to rival pilgrimage to Ise, with as many as half the pilgrims to Ise continuing on to visit Konpira, and large numbers traveling to Konpira from western Japan as well. (102)
+
+Among souvenires from the pilgrimage at Marugame, the advertisements listed not only fans (associated with Kongobo), oil, and miso, but also patent medicines such as "Mt. Zozu Kongobo's renowned Konjinmaru" and "Konshotan" (102)
+
+The growth of Konpira faith thus paralleled the growth of its pilgrimage, promoted by those business owners (including the priests) who could profit from it. In fact, growth of the pilgrimage to Konpira seems to have relied as much on business owners as it did on priests affiliated with the site. (102)
+**Pilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan. (102)**
+
+In later years, brothel owners and innkeepers collected *hanegin*, percentages taken from the fees charged by prostitutes and geisha, to fund the construction of a permanent kabuki theater to attract pilgrims. (104)
 
 
 

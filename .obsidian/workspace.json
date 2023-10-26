@@ -6,7 +6,7 @@
       {
         "id": "efdef6f985ba1735",
         "type": "tabs",
-        "dimension": 37.43589743589744,
+        "dimension": 49.23076923076923,
         "children": [
           {
             "id": "85e3d79bce73f40d",
@@ -64,7 +64,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 62.56410256410256,
+        "dimension": 50.76923076923077,
         "children": [
           {
             "id": "37594fd40e550d8b",
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -239,8 +240,8 @@
   "active": "37594fd40e550d8b",
   "lastOpenFiles": [
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
-    "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "~Train of thought.md",
     "~Outline.md",
     "論文/Bibliography.md",
