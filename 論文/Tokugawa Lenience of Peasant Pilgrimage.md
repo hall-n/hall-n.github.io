@@ -70,31 +70,6 @@ A positive travel image with connotations of religious image of a sacred wandere
 - rite of passage by overcoming hardships of travel (REF)
 - Literary works spread travel popularity 
 	- #Fabricand-Person_2011 %%
-%%
-#### Pilgrimage promotion 
-Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
-who promoted temples and
-are agued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49).
-They operated much like a travel agent . 
-They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
-They arranged the routes to popular religious destinations, offering accommodation 
-
-Oshi, who are argued to be much like a travel agent 
-arranging accommodation and providing travel information (REF)
-
-In Ambros's research of the Oyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Oyama into a major tourist destination. 
-
-The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. 
-
-"They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. .. These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period" ( #Tadao_1995, 6).
-
-While originally much like a missionary, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). 
-
-"The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".%%
-
-
-
-
 
 ## Main Chapters
 
@@ -162,6 +137,31 @@ The commerce that pilgrimage brought to a region was not something that could be
 In order to appeal to consumer tourist, religious destinations "had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Oyama, a baggage delivery network" (ibid, 309).
 
 These examples show just how important the tourism industry that arose from pilgrimage.  
+
+#### Pilgrimage promotion by Oshi 
+Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
+who promoted temples and
+are agued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49).
+They operated much like a travel agent . 
+They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
+They arranged the routes to popular religious destinations, offering accommodation 
+
+Oshi, who are argued to be much like a travel agent 
+arranging accommodation and providing travel information (REF)
+
+In Ambros's research of the Oyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Oyama into a major tourist destination. 
+
+The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. 
+
+"They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. .. These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period" ( #Tadao_1995, 6).
+
+While originally much like a missionary, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). 
+
+"The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".
+
+
+
+
 ### Authorities Encourage Pilgrimage
 In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced and how it turned into what we recognize today as tourism. This studies reveals the lenience by village and daimyo authorities towards pilgrimage and how important of an industry pilgrimage became in the Edo period. There were even towns that arose and flourished due to the direct results of pilgrimage, therefore it came to be of significant economic importance for many regions. 
 
@@ -170,9 +170,18 @@ In recent years, historians have approached the topic of Edo period travel from 
 Villages stopping practices that lessened pilgrim visitors 
 
 Nenzi recognizes that efforts made by regional authorities to attract visitors to their region,  requesting ferry services to lower fares and  
-"These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (309).
+"These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic. For *meisho* like Oyama and Enoshima to maintain their appeal in the eyes of consumer tourists, the promise of worldly benefits bestowed by the enshrined deities had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Oyama, a baggage delivery network. (309)" (Nenzi 309).
 
-The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (150).
+"Simultaneously, villages in the region competed among themselves to secure a share of the profits to be derived from pilgrims headed for Oyama" (309)
+
+The value of pilgrimage came from meibutsu
+"Many locations without any other notable appeal could create themselves as *meisho* simply by promoting the (301)
+right house special.53 Elsewhere tasty cuisine served as a means to add to the fame of a locale and to increase its appeal as a travel destination" (302)
+
+Nenzi's observation of "Oda's comment suggests that consumerism reached religious sites as well as lyrical meisho. Nineteenth-century visitors may have been drawn by the mountain's traditional sacred aura, but they were not fully satisfied unless the complex catered to their less spiritual appetites as well" (304)
+
+**Amber**
+The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (Amber 150).
 
 ##### Tosa ( #Roberts_1998)
 *South region of Shikoku*
@@ -201,6 +210,12 @@ The bakufu's reaction to the Oyama pilgrimage provides insight into their
 "Thus, from early on, Konpira's development as an attractive site of worship proceeded in tandem with the popularity of its markets and entertainments. In the phenomenon common to pilgrimates sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship (3)"
 "The priests of Konkoin catered to such demand for entertainment in order to raise both the income and the status of the sacred domain" (5) Thal mentions the lavish festivals and parades, 
 The support of Konpira offered social benefits as well. Thal describes how the supporting domain families, Matsudaira and Kyogoku, mutually benefited all parties, "weaving the sacred domain of Konpira [...] into an expanding network of personal, economic, and ritual relationships"
+
+"Encouraged by entrepreneurs in the pilgrimage business and in the media, the cult of Konpira grew throughout the 1700s and early 1800s, eventually forming a prominent part of popular nineteenth-century culture" (99)
+
+"By the early 1800s, pilgrimage to Konpira  began to rival pilgrimage to Ise, with as many as half the pilgrims to Ise continuing on to visit Konpira, and large numbers traveling to Konpira from western Japan as well" (102)
+
+"growth of the pilgrimage to Konpira seems to have relied as much on business owners as it did on priests affiliated with the site" (102)
 ##### Authorities' tolerance in Shikoku pilgrimage ( #Kouame_1997)
 "the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity" ( #Kouame_1997, 414). 
 
