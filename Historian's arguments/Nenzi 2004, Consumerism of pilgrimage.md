@@ -1,5 +1,7 @@
 *Nenzi 2004, Cultured Travelers and Consumer Tourists in Edo-Pe*
 #Nenzi_2004 
+
+This article looks at Sagami as a case study to explore the changing interaction between travelers and their destinations in the course of the early modern period. 
 #### Changed over time
 Whereas the educated travelers of the seventeenth century had interacted with individual sites in a deeply personal effort to recover the substratum of literary, poetic, or historical evocations deposited and obscured by time, by the nineteenth century the cultural dimension associated with each utamakura7meisho had been incorporated into a larger marketing strategy. When educated divertissements met commodification, the sites of Sagami emerged as loci of multiple attractions, "travel packages" where identification with literary or historical precedent was but one of the many ways in which visitors could interact with and enjoy the spaces of travel.6 (287)
 

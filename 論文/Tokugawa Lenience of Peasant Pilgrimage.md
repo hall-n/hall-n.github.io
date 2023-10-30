@@ -131,13 +131,13 @@ Therefore, obstructing pilgrimage would hinder what had become an important indu
 - Lodging providers catering to pilgrims
 - Traveling needs catering to pilgrims (luggage, traveling services, etc.)
 
-Nenzi's research into the changing interactions of travelers and their destinations during the Edo period reveals the degree of which consumerism arose from pilgrimage. *Meibutsu* became an important element that attracted travelers, and locations began to advertise the local specialty cuisine as a marketing strategy in order to promote its popularity. Nenzi observes that many new popular travel destinations "owed its re-creation (and old ones their recreation) to the presence of a *meibutsu*" (Nenzi 2004, 302). The gastronomic element of travel became so important, that by the 1800's the pilgrims to Oyama who might have been drawn by the mountain's sacred aura, "were not fully satisfied unless the complex catered to their less spiritual appetites as well" (ibid, 304). 
+Nenzi's research into the changing interactions of travelers and their destinations during the Edo period reveals the degree of which consumerism arose from pilgrimage. *Meibutsu* became an important element that attracted travelers, and locations began to advertise the local specialty cuisine as a marketing strategy in order to promote its popularity. Nenzi observes that many new popular travel destinations "owed its re-creation (and old ones their recreation) to the presence of a *meibutsu*" (Nenzi 2004, 302). The gastronomic element of travel became so important, that by the 1800's the pilgrims to Ōyama who might have been drawn by the mountain's sacred aura, "were not fully satisfied unless the complex catered to their less spiritual appetites as well" (ibid, 304). 
 
 The commerce that pilgrimage brought to a region was not something that could be dismissed by the bakufu and daimyo as uncessesary. 
 
 "Catering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (Seaton et al 2017, 20).
 
-In order to appeal to consumer tourist, religious destinations "had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Oyama, a baggage delivery network" (ibid, 309).
+In order to appeal to consumer tourist, religious destinations "had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Ōyama, a baggage delivery network" (ibid, 309).
 
 These examples show just how important the tourism industry that arose from pilgrimage.  
 
@@ -152,7 +152,7 @@ They arranged the routes to popular religious destinations, offering accommodati
 Oshi, who are argued to be much like a travel agent 
 arranging accommodation and providing travel information (REF)
 
-In Ambros's research of the Oyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Oyama into a major tourist destination. 
+In Ambros's research of the Ōyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Ōyama into a major tourist destination. 
 
 The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. 
 
@@ -170,14 +170,26 @@ In recent years, historians have approached the topic of Edo period travel from 
 
 ##### Sagami ( #Nenzi_2004)
 *Kanagawa region*
+
+Nenzi's research (2004) on Edo period travelling and tourism looks the relationship between travelers and their destinations using the Edo-period region of Sagami (located in modern day Kanagawa prefecture) as a case study. She argues that over time attractions to draw tourists developed into a commodification of local history and regional specialties, revealing a common type of traveler that she calls "consumer tourists" (ibid 286). As she traces the changes that occurred in this region that relate to that traveler, she observes many cases of conflict between regional parties who competed for profits from tourists. To resolve this conflict, these parties turn to the regional governments and Edo authorities. 
+
+In one example from 1650, the head of a temple of the goddess Benzaiten in Enoshima complained that local fisherman were selling the diety's amulets and leading travelers to their own establishments, instead of telling them how to reach the temple lodgings. This results in a loss of income for the temple, thus they petitioned the shrine and temple magistrate in Edo to put a stop to those legitimate inns. The response from the magistrate was a compromise, allowing the private non-temple affiliated inns to be run when there was an overflow of travelers which the temple could not accommodate. As for the amulet distribution, it could continue as long as "those who benefited from it also provide services to the temple" (Nenzi 2004, 306). 
+Despite this ruling, the fishermen and other local entrepreneurs continued to target pilgrims, and over the decades tensions between them and the temple grew. However by the nineteenth century the number of pilgrims grew to the point that the temple infrastructure could not handle their accommodation, and here Nenzi observes the temple's efforts of commercialism as they offered various accommodations packages and special amenities, and provided elaborate meals and entertainment to guests.
+
+Nenzi also observes a similar trend of competition for the profits from pilgrims in the region around Ōyama. In the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (ibid 308). By 1840 local inn and village leaders 
+
+This example of the Enoshima temple reveals the increase of consumerism of pilgrimage 
+
+
+
 Villages stopping practices that lessened pilgrim visitors 
 
 Nenzi recognizes that efforts made by regional authorities to attract visitors to their region,  requesting ferry services to lower fares and  
-"These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic. For *meisho* like Oyama and Enoshima to maintain their appeal in the eyes of consumer tourists, the promise of worldly benefits bestowed by the enshrined deities had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Oyama, a baggage delivery network. (309)" (Nenzi 309).
+"These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (ibid 309). 
+To appeal to the consumer tourists, these religious institutions had to offer more "immediate gratifications" and more worldly services (ibid).
 
-"Simultaneously, villages in the region competed among themselves to secure a share of the profits to be derived from pilgrims headed for Oyama" (309)
+Nenzi observes that this new value of pilgrimage that came from  meibutsu
 
-The value of pilgrimage came from meibutsu
 "Many locations without any other notable appeal could create themselves as *meisho* simply by promoting the (301)
 right house special.53 Elsewhere tasty cuisine served as a means to add to the fame of a locale and to increase its appeal as a travel destination" (302)
 
@@ -190,7 +202,7 @@ The Ōyama pilgrimage also feuled the regional economy, by creating a demand for
 *South region of Shikoku*
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
 "Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
-##### Oyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
+##### Ōyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
 In Ambros's research (2008) of the pilgrimage to Ōyama, a popular shrine in the Kanto region, she argues that the community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu was not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
 
@@ -203,9 +215,9 @@ An important point observed by Ambros is that how a pilgrimage is conducted affe
 "Confraternity members pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama. 
 
 
-%%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Oyama reinforced social structures" (ibid, PAGE)%%
+%%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Ōyama reinforced social structures" (ibid, PAGE)%%
 
-The bakufu's reaction to the Oyama pilgrimage provides insight into their 
+The bakufu's reaction to the Ōyama pilgrimage provides insight into their 
 ##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
 *North region of Shikoku*
 
