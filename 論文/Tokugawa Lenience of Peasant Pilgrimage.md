@@ -176,7 +176,7 @@ Nenzi's research (2004) on Edo period travelling and tourism looks the relations
 In one example from 1650, the head of a temple of the goddess Benzaiten in Enoshima complained that local fisherman were selling the diety's amulets and leading travelers to their own establishments, instead of telling them how to reach the temple lodgings. This results in a loss of income for the temple, thus they petitioned the shrine and temple magistrate in Edo to put a stop to those legitimate inns. The response from the magistrate was a compromise, allowing the private non-temple affiliated inns to be run when there was an overflow of travelers which the temple could not accommodate. As for the amulet distribution, it could continue as long as "those who benefited from it also provide services to the temple" (Nenzi 2004, 306). 
 Despite this ruling, the fishermen and other local entrepreneurs continued to target pilgrims, and over the decades tensions between them and the temple grew. However by the nineteenth century the number of pilgrims grew to the point that the temple infrastructure could not handle their accommodation, and here Nenzi observes the temple's efforts of commercialism as they offered various accommodations packages and special amenities, and provided elaborate meals and entertainment to guests.
 
-Nenzi also observes a similar trend of competition for the profits from pilgrims in the region around Ōyama. In the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (ibid 308). By 1840 local inn and village leaders 
+Nenzi also observes a similar trend of competition for the profits from pilgrims in the region around Ōyama. In the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (ibid 308). By 1840 local inn and village leaders made an agreement to resolve the ten
 
 This example of the Enoshima temple reveals the increase of consumerism of pilgrimage 
 
@@ -186,14 +186,16 @@ Villages stopping practices that lessened pilgrim visitors
 
 Nenzi recognizes that efforts made by regional authorities to attract visitors to their region,  requesting ferry services to lower fares and  
 "These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (ibid 309). 
-To appeal to the consumer tourists, these religious institutions had to offer more "immediate gratifications" and more worldly services (ibid).
+To appeal to the consumer tourists, these religious institutions had to offer more "immediate gratifications" and worldly services such as souvenirs shops, teahouses, restaurants, and baggage delivery services (ibid).
 
-Nenzi observes that this new value of pilgrimage that came from  meibutsu
+Nenzi observes new values in pilgrimage that came consumption of non-religious elements,
+
+remarking that "nineteenth-century visitors may have been drawn by the mountain's traditional sacred aura, but they were not fully satisfied unless the complex catered to their less spiritual appetites as well" (304)
 
 "Many locations without any other notable appeal could create themselves as *meisho* simply by promoting the (301)
 right house special.53 Elsewhere tasty cuisine served as a means to add to the fame of a locale and to increase its appeal as a travel destination" (302)
 
-Nenzi's observation of "Oda's comment suggests that consumerism reached religious sites as well as lyrical meisho. Nineteenth-century visitors may have been drawn by the mountain's traditional sacred aura, but they were not fully satisfied unless the complex catered to their less spiritual appetites as well" (304)
+Observing the cases of consumerism at religious sites as well as Nenzi concludes that 
 
 **Amber**
 The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (Amber 150).
