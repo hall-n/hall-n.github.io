@@ -53,13 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cb706483ff618c02",
@@ -140,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -223,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,9 +239,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85e3d79bce73f40d",
+  "active": "6ffb3e63122f321e",
   "lastOpenFiles": [
+    "~Literature.canvas",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "~Mind Map.canvas",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
@@ -246,9 +252,7 @@
     "~Outline.md",
     "論文/Bibliography.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
-    "~Mind Map.canvas",
     "論文/Title & Thesis.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
@@ -258,7 +262,6 @@
     "Religious Institutions/Travel agents.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Overall Travel Situation.md",
-    "~Literature.canvas",
     "~単語.md",
     "~travel.jpg",
     "~README.md",
@@ -266,7 +269,6 @@
     "Other reasons for scale of movement.md",
     "Merchants.md",
     "Meibutsu.md",
-    "Maps.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
