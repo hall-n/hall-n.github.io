@@ -117,44 +117,15 @@ Vaporis comments that "regulations, while not without some effect, were not able
 I would argue that allowing peasants to acquire permits more easily reveals their  underlying motivation to stem pilgrimage that could harm a region's economy while promoting pilgrimage that could positively increase that economy. Indeed, Vaporis even observes some domains regulating pilgrimage by "setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( Vaporis 1994, 198). While he argues that this reflects the authorities' position against pilgrimage, I would argue that it shows their acceptance of it as they try to keep it within reasonable bounds. 
 ### Commercialization of pilgrimage 
 ( #Ishimori_2009)
-Pilgrimage led to contents tourism ( #SeatonEtal_2017)
 
-Next I present research reveals which reveals the commercialization of travel, with parties who sought to gain economically from pilgrimage working to popularize it. 
-
-The main instigators of that promotion are what have been described as the first travel agent, the temple and shrine affiliated *oshi*. They worked to attract pilgrims to shrines and temples, offering X services. Their underlying motivation behind this promotion has been argued to be largely economic (REF). The religious institutions had begun to lose financial support from the daimyo and bakufu, and thus looked to the common populace to supply those lost funds.
-
-The financial gain that came from pilgrimage was not something that was felt by shrines and temples alone. While talismans and religious offerings were important elements of one's pilgrimage, the commerce potential brought by pilgrims was realized by other services and businesses, who arose to take advantage of service from those travelers, and over time some region's economy came to rely on pilgrims. 
-
-Therefore, obstructing pilgrimage would hinder what had become an important industry for some regions, such as  Ōyama (Ambros 2008).
-- Temples and shrines who receive funds from the talismans and offerings of pilgrims
-- Merchants and peasants selling meibutsu specifically catering to pilgrims
-- Lodging providers catering to pilgrims
-- Traveling needs catering to pilgrims (luggage, traveling services, etc.)
-
-Nenzi's research into the changing interactions of travelers and their destinations during the Edo period reveals the degree of which consumerism arose from pilgrimage. *Meibutsu* became an important element that attracted travelers, and locations began to advertise the local specialty cuisine as a marketing strategy in order to promote its popularity. Nenzi observes that many new popular travel destinations "owed its re-creation (and old ones their recreation) to the presence of a *meibutsu*" (Nenzi 2004, 302). The gastronomic element of travel became so important, that by the 1800's the pilgrims to Ōyama who might have been drawn by the mountain's sacred aura, "were not fully satisfied unless the complex catered to their less spiritual appetites as well" (ibid, 304). 
-
-The commerce that pilgrimage brought to a region was not something that could be dismissed by the bakufu and daimyo as uncessesary. 
-
-"Catering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (Seaton et al 2017, 20).
-
-In order to appeal to consumer tourist, religious destinations "had to be complemented with the guarantee of more immediate gratifications - teahouses, inns, restaurants, souvenir stands, and, at least in Ōyama, a baggage delivery network" (ibid, 309).
-
-These examples show just how important the tourism industry that arose from pilgrimage.  
-
-#### Pilgrimage promotion by Oshi 
+Next I present research reveals which reveals the commercialization of travel, 
+Pilgrimage led to contents tourism ( #SeatonEtal_2017) and consumer pilgrims (Nenzi 2004). Looking at the factors that led to the pilgrimage boom, the economic motivations become obvious,
+with parties who worked to popularize pilgrimage were those who sought to gain economically from it. These main instigators of that promotion are what have been described as the first travel agent: the temple and shrine affiliated *oshi*. They worked to attract pilgrims to shrines and temples in order to make up for the lost financial support that had come from the daimyo and bakufu. 
+### Pilgrimage promotion by Oshi 
 Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
-who promoted temples and
-are agued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49).
-They operated much like a travel agent . 
-They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
-They arranged the routes to popular religious destinations, offering accommodation 
+who in addition to promoting travel to temples, offered to arrange for the pilgrim's accommodation and provided useful travel information. In looking at how they operate, they have been argued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49). They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
 
-Oshi, who are argued to be much like a travel agent 
-arranging accommodation and providing travel information (REF)
-
-In Ambros's research of the Ōyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and are responsible for transforming Ōyama into a major tourist destination. 
-
-The direct promotion of pilgrimage along with offering convenience of lodgings and travel information. oshi, by what would later be called the worlds first travel agents. 
+In Ambros's research of the Ōyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and it was due to the oshi's efforts that transformed the Ōyama religious site into such a major tourist destination. 
 
 "They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. .. These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period" ( #Tadao_1995, 6).
 
@@ -162,37 +133,43 @@ While originally much like a missionary, over time they "became more merchants t
 
 "The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".
 
+The financial gain that came from pilgrimage was not something that was felt by shrines and temples alone, however. While talismans and religious offerings were important elements of one's pilgrimage, the commerce potential of pilgrims was much larger. Accommodation along one's journey was essential,
 
+Souvenirs to bring back to the pilgrim's hometown had become an important aspect of the trip itself, as it gave validation of one's travels and offered the experience with those of the village who could not visit themselves. 
+
+Teahouses and brothels also quickly became popular stops on one's pilgrimage, with some prostitute becoming as famous (REF). 
+
+Therefore, obstructing pilgrimage would hinder what had become an important industry of tourist consumerism. 
 
 
 #### Sagami ( #Nenzi_2004)
 *Kanagawa region*
 
-Nenzi's research (2004) reveals a consumerism that arose from pilgrims as she observes the relationship between Edo-period travelers and their destinations. Using as a case study the region of Sagami, located in modern day Kanagawa prefecture, Nenzi argues that over time the attractions that drew pilgrims to this area developed into a commodification of local history and regional specialties, revealing a new common type of pilgrim that Nenzi calls the "consumer tourist" (ibid 286). As she traces the changes that occurred in this region, she observes many cases of conflict between regional parties as they competed for profits from pilgrims. 
+Nenzi's research (2004) into the changing interactions of travelers and their destinations during the Edo period reveals the degree to which that consumerism arose from pilgrimage. Using as a case study the region of Sagami, located in modern day Kanagawa prefecture, Nenzi argues that over time the attractions that drew pilgrims to this area developed into a commodification of local history and regional specialties, revealing a new common type of pilgrim that Nenzi calls the "consumer tourist" (ibid 286). 
+
+As she traces the changes that occurred in this region, she observes many cases of conflict between regional parties as they competed for profits from pilgrims. 
 
 %%To resolve this conflict, these parties turn to the regional governments and Edo authorities to stop practices that resulted in the decline of pilgrim visitors.%%
 
 In one example from 1650, the head of a temple of the goddess Benzaiten in Enoshima complained that local fisherman were selling the diety's amulets and leading travelers to their own establishments, instead of telling them how to reach the temple lodgings. This results in a loss of income for the temple, thus they petitioned the shrine and temple magistrate in Edo to put a stop to those legitimate inns. The response from the magistrate was a compromise, allowing the private non-temple affiliated inns to be run when there was an overflow of travelers which the temple could not accommodate. As for the amulet distribution, it could continue as long as "those who benefited from it also provide services to the temple" (Nenzi 2004, 306). 
 Despite this ruling, the fishermen and other local entrepreneurs continued to target pilgrims, and over the decades tensions between them and the temple grew. However by the nineteenth century the number of pilgrims grew to the point that the temple infrastructure could not handle their accommodation, and here Nenzi observes the temple's efforts of commercialism as they offered various accommodations packages and special amenities, and provided elaborate meals and entertainment to guests.
 
-This example of the Enoshima temple reveals the increase of consumerism of pilgrimage 
+Nenzi also observes a similar trend of competition for the profits from pilgrims in the region around Ōyama, where in the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (ibid 308). By 1840 local inn and village leaders made an agreement to resolve the issues of lost profit from pilgrims by lowering ferry fares and elimination of regional tolls, which had been causing travelers to choose alternate routes. "These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (ibid 309). 
 
-Nenzi also observes a similar trend of competition for the profits from pilgrims in the region around Ōyama, where in the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (ibid 308). By 1840 local inn and village leaders made an agreement to resolve the issues of lost profit from pilgrims by lowering ferry fares and  elimination of regional tolls, which had been causing travelers to choose alternate routes. 
-"These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (ibid 309).
-Nenzi also observes this consumer logic at the religious institutions of Ōyama, who had to offer pilgrims not just things of spiritual value, but also "immediate gratifications" and worldly services, such as souvenirs shops, teahouses, restaurants, and baggage delivery services.
+Nenzi also observes this consumer logic at the religious institutions of Ōyama, who had to offer pilgrims not just things of spiritual value, but also "immediate gratifications", such as souvenirs shops, teahouses, restaurants, and baggage delivery services. 
 
-Nenzi observes new values in pilgrimage that came consumption of non-religious elements,
+*Meibutsu* also became an important element for travelers, and locations began to advertise the local specialty cuisine as a marketing strategy in order to promote their popularity. Nenzi observes that many new popular travel destinations "owed its re-creation (and old ones their recreation) to the presence of a *meibutsu*" (2004, 302). The gastronomic element of travel became so important, that by the 1800's the pilgrims to Ōyama who might have been drawn by the mountain's sacred aura, "were not fully satisfied unless the complex catered to their less spiritual appetites as well" (ibid, 304). 
 
-%%remarking that "nineteenth-century visitors may have been drawn by the mountain's traditional sacred aura, but they were not fully satisfied unless the complex catered to their less spiritual appetites as well" (304)
-%%
+Nenzi observes new attractions in pilgrimage that came consumption of non-religious elements,
 
-"Many locations without any other notable appeal could create themselves as *meisho* simply by promoting the (301)
-right house special.53 Elsewhere tasty cuisine served as a means to add to the fame of a locale and to increase its appeal as a travel destination" (302)
 
-Observing the cases of consumerism at religious sites as well as Nenzi concludes that 
+The Ōyama pilgrimage also fueled the regional economy, by creating a demand for inns, ferries, and other travel related services (Amber 2008, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (ibid, 150).
 
-**Amber**
-The Ōyama pilgrimage also feuled the regional economy, by creating a demand for inns, ferries, and other travel related services (ibid, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (Amber 150).
+***Section conclusion***
+The commerce that pilgrimage brought to a region was not something that could be dismissed by the bakufu and daimyo as unnecessary or unwanted. "Catering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (Seaton et al 2017, 20). 
+
+As profits were realized by appealing to this consumer pilgrim, competition arose and 
+These examples show just how important the tourism industry that arose from pilgrimage.  
 
 ### Authorities Encourage Pilgrimage
 In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced and how it turned into what we recognize today as tourism. While their purpose is to understand more about how and why people traveled, their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. Another perspective this research reveals is how important of an industry pilgrimage became in the Edo period, with some towns arising or flourishing due to the direct results of pilgrimage. It is clear that pilgrimage and the tourism that came with it grew to be of significant economic importance for many regions in Edo period Japan. 
