@@ -78,7 +78,8 @@ In much of the literature on travel during the Edo period there is an overall pe
 
 Blacker : "Carmen Blacker, for example, argues that the archetypal pilgrim is the mendicant ( yugyōsha), a wandering ascetic, who often appeared in art and literature throughout Japanese history. Blacker holds that temporary pilgrims who absconded to the Ise Shrines or traveled along the long circuit in Shikoku emulated the ideal of the solitary mendicant and turned to pilgrimage as a means of escape from the confines of the ordinary world, forsaking their community for an individualistic spiritual journey. During the early modern period, such mendicancy was regarded as antisocial and disruptive by bakufu and domainal authorities." Ambros 
 
-Against pilgrimage because it has anti-structural elements. 
+Against pilgrimage because it has anti-structural elements, but not all pilgrimages the same (ambros)
+"Eade and Sallnow have pointed out that large, highly popular pilgrimage destinations often “develop more permanent economic infrastructures for dealing with the continual influx of pilgrims.” Unlike Turner, they conclude that “distasteful as such commercialism might appear . . . it is nevertheless a piece with the religious dealings taking place within the cult itself.”" Ambros 146
 
 Vaporis as well references hard evidence on what the authorities thought of the peasants undertaking pilgrimage. 
 These statements are from only single individuals and therefore may not reflect the majority of opinions and overall stance of the bakufu. 
