@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "07718c6817734a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e17268bb88182af",
             "type": "leaf",
             "state": {
@@ -53,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+                "file": "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb706483ff618c02",
@@ -140,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -238,20 +228,22 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "~Grading.md",
+    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
+    "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
+    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+    "~Mind Map.canvas",
+    "~Grading.md",
     "論文/Bibliography.md",
     "~Outline.md",
-    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "論文/Title & Thesis.md",
     "~Literature.canvas",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "~Mind Map.canvas",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "~Train of thought.md",
-    "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
@@ -265,8 +257,6 @@
     "~README.md",
     "~Questions.md",
     "Other reasons for scale of movement.md",
-    "Merchants.md",
-    "Meibutsu.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

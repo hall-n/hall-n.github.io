@@ -26,7 +26,9 @@ I argue that the bakufu and daimyo position towards peasant travel was not to co
 - commoners, however, found ways to circumvent these barriers, frequently ignoring the laws designed to control their mobility.
 %%
 ## Introduction (850-1000 words)
-As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu took steps to ensure that daimyo would not have the means to revolt by instiuting the alternate attendance system which required daimyo to make regular trips to Edo. In order to facilitate this compulsory travel, the bakufu instituted extensive infrastructure, building a centralized road network and positioned barrier stations, or *sekisho*, along its route in order to monitor movement. To facilitate traffic flowing smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover. The bakufu also established post stations that offered lodging, food, and travel services. While these services had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes.  These improvements to the travel network, combined with the lower classes of peasants and merchants began to find themselves with increasing financial freedom, made travel increasingly viable and led to a boom in pilgrimage. 
+As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu took steps to ensure that daimyo would not have the means of uprising against the newfound government, implementing the alternate attendance system which required daimyo to make regular trips to Edo. In order to facilitate this compulsory travel, the bakufu instituted extensive infrastructure, building a centralized road network and positioned barrier stations, or *sekisho*, along its route in order to monitor movement. To facilitate traffic flowing smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover. The bakufu also established post stations that offered lodging, food, and travel services. While these services had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes.  
+
+At the same time that the conditions for travel were greatly improved, the lower classes of peasants and merchants began to find themselves with increasing financial freedom, which made travel more viable and led to a boom in pilgrimage (Ishimori 2009). 
 In order to pass through the many *sekisho* barriers along the highway, however, one needed to have a permit. Such a permit would not be issued for simply travel for pleasure, but a journey for the purpose of pilgrimage or visiting an onsen for health reasons was permissible. The advances in media captured the appeal of travel, describing famous sights and attractions, and many traveler guidebooks began to become commonplace. As pilgrimage became increasingly popular, sightseeing and enjoying local specialties began to common elements, sometimes even turning into the primary focus of the pilgrimage itself (REF). Thus a tourism industry slowly arose out of pilgrimage in Tokugawa Japan.
 
 Despite the popularity of pilgrimage and sightseeing among commoners, however, many historians have argued that the bakufu and daimyo authorities were negatively positioned against peasant travel, and envisioned a society where the peasants "remained tied to the land" (Vaporis 1994, 136). 
@@ -138,27 +140,31 @@ Vaporis comments that "regulations, while not without some effect, were not able
 I would argue that allowing peasants to acquire permits more easily reveals their  underlying motivation to stem pilgrimage that could harm a region's economy while promoting pilgrimage that could positively increase that economy. Indeed, Vaporis even observes some domains regulating pilgrimage by "setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( Vaporis 1994, 198). While he argues that this reflects the authorities' position against pilgrimage, I would argue that it shows their acceptance of it as they try to keep it within reasonable bounds. 
 
 ### Commercialization of Pilgrimage 
-( #Ishimori_2009)
+In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced, how travelers interacted with the location, how it turned into what we recognize today as tourism. 
+%%While their purpose is to understand more about how and why people traveled,%%
 
-The commercialization of travel 
+What this research reveals is how important of an industry pilgrimage became in the Edo period, with new towns forming around popular shrines and temples (monzenmachi) and existing towns flourishing due to the direct results of pilgrimage (Ishimori 2009). 
 
 Pilgrimage led to contents tourism ( #SeatonEtal_2017) 
 
-consumer pilgrims (Nenzi 2004). Looking at the factors that led to the pilgrimage boom, the economic motivations become obvious,
-with parties who worked to popularize pilgrimage were those who sought to gain economically from it. These main instigators of that promotion are what have been described as the first travel agent: the temple and shrine affiliated *oshi*. They worked to attract pilgrims to shrines and temples in order to make up for the lost financial support that had come from the daimyo and bakufu. 
+consumer pilgrims (Nenzi 2004). 
+
+While selling amulets and travel souvenirs dates back to the before the Nara period (search REF), the commercialization of travel grew to new heights during the Edo period to "become the dominant medium through which places were experienced" (Wigen?, ?) 
+
+
+It is clear that pilgrimage and the tourism that came with it grew to be of significant economic importance for many regions in Edo period Japan. 
+
+
 #### Travel Promotion by the Oshi 
-Promotion of travel was largely due to the efforts of the *onshi* or *oshi*, 
-who in addition to promoting travel to temples, offered to arrange for the pilgrim's accommodation and provided useful travel information. In looking at how they operate, they have been argued to be the "originators of the tourist industry in Japan" ( #Kanzaki_1995, 49). They were  affiliated with temples and shrines, and originally being ?? they began to take on the form of ?. 
+Looking at the factors that led to the pilgrimage boom, the economic motivations become obvious, as the parties who worked to popularize pilgrimage were those who sought to gain economically from it. The main instigators of that promotion are what have been described as the first travel agents: the temple and shrine affiliated *oshi* ( #Kanzaki_1995 Kanzaki 1995, 49). They worked to attract pilgrims to shrines and temples in order to make up for the lost financial support that had come from the daimyo and bakufu. They appealed to pilgrims by 
+%%Promotion of travel was largely due to the efforts of the *onshi* or *oshi*,%% 
+arranging for the travelers' accommodation and provided tour guides and offering useful travel information  ( #Tadao_1995, 6). While originally much like a missionary on behalf of their shrine or temple, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). An important element of the oshi's promotion was the level of hospitality and entertainment that they offered pilgrims. They preparing luxurious accommodation and providing extravagant banquets that made use of the local specialties. They also offered tours and presented souvenirs and gifts. However, underneath this "hospitality lay a cunning business spirit. What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)". After the pilgrims returned to their village, they would talk about the luxury they enjoyed and this would lead to additional pilgrim recruitment for the Oshi. 
 
 In Ambros's research of the Ōyama shrine in the Kanto area (2008), she argues that these oshi were the key players in growing the popularity of pilgrimage, and it was due to the oshi's efforts that transformed the Ōyama religious site into such a major tourist destination. 
 
-"They were generally run by those connected to religious establishments, such as low level priests called onshi or oshi, who posted their subordinates and deputies around the country to act as tour guides. These priests contributed greatly to ･the institutionalization of package tours. .. These examples show that in Japan religious offcials had a role in institutionalizing the travel industry from before the Edo period" ( #Tadao_1995, 6).
-
-While originally much like a missionary, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). 
-
-"The same style of entertainment continued after the oshi became independent from the shrine and started to do business with ordinary people, in the Edo period, but underneath the hospitality lay a cunning business spirit. . What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)".
-
 The financial gain that came from pilgrimage was not something that was felt by shrines and temples alone, however. While talismans and religious offerings were important elements of one's pilgrimage, the commerce potential of pilgrims was much larger. Accommodation along one's journey was essential,
+
+
 
 Souvenirs to bring back to the pilgrim's hometown had become an important aspect of the trip itself, as it gave validation of one's travels and offered the experience with those of the village who could not visit themselves. 
 
@@ -194,7 +200,9 @@ Nenzi also observes this consumer logic at the religious institutions of Ōyama,
 Nenzi observes new attractions in pilgrimage that came consumption of non-religious elements,
 
 
-The Ōyama pilgrimage also fueled the regional economy, by creating a demand for inns, ferries, and other travel related services (Ambros 2008, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (ibid, 150).
+The Ōyama pilgrimage also fueled the regional economy, by creating a demand for inns, ferries, and other travel related services (Ambros 2008, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (ibid, 150). 
+
+
 
 ***Section conclusion***
 The commerce that pilgrimage brought to a region was not something that would have been dismissed by the bakufu and daimyo as unnecessary or unwanted. "Catering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (Seaton et al 2017, 20). In the media that helped to popularize that tourism, the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 
@@ -204,8 +212,9 @@ As profits were realized by appealing to this consumer pilgrim, competition aros
 These examples show just how important the tourism industry that arose from pilgrimage.  
 
 ### Authorities Response to Pilgrimage
-In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced and how it turned into what we recognize today as tourism. While their purpose is to understand more about how and why people traveled, their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. Another perspective that this research reveals is how important of an industry pilgrimage became in the Edo period, with some towns arising or flourishing due to the direct results of pilgrimage. It is clear that pilgrimage and the tourism that came with it grew to be of significant economic importance for many regions in Edo period Japan. 
 
+
+their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. 
 ##### Tosa ( #Roberts_1998)
 *South region of Shikoku*
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
