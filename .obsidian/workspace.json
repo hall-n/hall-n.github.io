@@ -6,7 +6,7 @@
       {
         "id": "efdef6f985ba1735",
         "type": "tabs",
-        "dimension": 49.23076923076924,
+        "dimension": 28.129395218002813,
         "children": [
           {
             "id": "85e3d79bce73f40d",
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
+                "file": "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,12 +72,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 50.76923076923076,
+        "dimension": 71.87060478199719,
         "children": [
           {
             "id": "3fd1275da03df3e9",
@@ -225,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +241,15 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "論文/Title & Thesis.md",
+    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+    "論文/Title & Thesis.md",
     "~Outline.md",
     "~Literature.canvas",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "~Mind Map.canvas",
-    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "~Train of thought.md",
     "論文/Bibliography.md",
