@@ -6,7 +6,7 @@
       {
         "id": "efdef6f985ba1735",
         "type": "tabs",
-        "dimension": 28.129395218002813,
+        "dimension": 43.41880341880342,
         "children": [
           {
             "id": "85e3d79bce73f40d",
@@ -71,13 +71,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 71.87060478199719,
+        "dimension": 56.58119658119658,
         "children": [
           {
             "id": "3fd1275da03df3e9",
@@ -141,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -240,24 +238,24 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "~Grading.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "論文/Bibliography.md",
+    "~Outline.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "論文/Title & Thesis.md",
-    "~Outline.md",
     "~Literature.canvas",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "~Mind Map.canvas",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "~Train of thought.md",
-    "論文/Bibliography.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
-    "~Grading.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Religious Institutions/Travel agents.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
