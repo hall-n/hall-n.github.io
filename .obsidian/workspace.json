@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,14 +24,11 @@
             "id": "6ffb3e63122f321e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Literature.canvas",
-                "viewState": {
-                  "x": -1168.641719376227,
-                  "y": -430.41415836720535,
-                  "zoom": -1.8841280018261042
-                }
+                "file": "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+                "file": "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +52,8 @@
               "state": {
                 "file": "~Mind Map.canvas",
                 "viewState": {
-                  "x": -832.657205059776,
-                  "y": 757.4193236250269,
+                  "x": -1336.468249637228,
+                  "y": -25.90332787553228,
                   "zoom": -0.5696836639444165
                 }
               }
@@ -132,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -216,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,14 +227,17 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "~Mind Map.canvas",
     "~Literature.canvas",
+    "Academic Discussions.md",
+    "~Mind Map.canvas",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+    "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "~Outline.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
@@ -255,11 +253,9 @@
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "Religious Institutions/Travel agents.md",
-    "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Overall Travel Situation.md",
     "~単語.md",
     "~travel.jpg",
-    "~README.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
