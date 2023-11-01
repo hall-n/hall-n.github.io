@@ -9,29 +9,14 @@
         "dimension": 43.41880341880342,
         "children": [
           {
-            "id": "85e3d79bce73f40d",
+            "id": "2e17268bb88182af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~Outline.md",
+                "file": "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2e17268bb88182af",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
               }
             }
           },
@@ -39,9 +24,24 @@
             "id": "6ffb3e63122f321e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": -1168.641719376227,
+                  "y": -430.41415836720535,
+                  "zoom": -1.8841280018261042
+                }
+              }
+            }
+          },
+          {
+            "id": "0a0d72a76adcef2c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
+                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,11 +51,14 @@
             "id": "37594fd40e550d8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
-                "mode": "source",
-                "source": false
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -832.657205059776,
+                  "y": 757.4193236250269,
+                  "zoom": -0.5696836639444165
+                }
               }
             }
           }
@@ -213,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,35 +232,34 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
+    "~Mind Map.canvas",
+    "~Literature.canvas",
+    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
+    "~Outline.md",
+    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
-    "~Mind Map.canvas",
     "~Grading.md",
     "論文/Bibliography.md",
-    "~Outline.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "論文/Title & Thesis.md",
-    "~Literature.canvas",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "~Train of thought.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Religious Institutions/Travel agents.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Overall Travel Situation.md",
     "~単語.md",
     "~travel.jpg",
     "~README.md",
-    "~Questions.md",
-    "Other reasons for scale of movement.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

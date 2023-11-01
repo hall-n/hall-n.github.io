@@ -17,7 +17,7 @@ Tokugawa discouraged non-official traveling, especially that of women and farmer
 Muromachi authorities saw pilgrimage as a means to collect money through the tolls and thus did not object to it. In the Edo period, it was commonly said that everyone should go on pilgrimage at least once in his lifetime, and pilgrimage became uncontrolled and even a threat to the authority of the bakufu. While farmers were allowed to go on pilgrimage, and did so especially during the slack seasons of the agricultural calendar, warriors, daimyō and samurai were not encouraged to participate. 
 
 #### okage-mairi upset local economies
-Muromachi authorities saw pilgrimage as a means to collect money through the tolls and thus did not object to it. In the Edo period, it was commonly said that everyone should go on pilgrimage at least once in his lifetime, and pilgrimage became uncontrolled and even a threat to the authority of the bakufu. While farmers were allowed to go on pilgrimage, and did so especially during the slack seasons of the agricultural calendar, warriors, daimyō and samurai were not encouraged to participate. 
+Okage-mairi upset local economies, causing inflation of the prices of rice, straw, lodgings and other necessities, and had political ramifications being related to farmers’ rebellions, such as ikki. For this reason, the upper classes viewed popular religious movements with alarm and distaste. 72
 
 #### Argument that pilgrimage is pretext, ie desire for leisure travel was first
 The use of the pilgrimage as a pretext for travel in order to obtain secular pleasures is clear in the travel literature of the Edo period.
