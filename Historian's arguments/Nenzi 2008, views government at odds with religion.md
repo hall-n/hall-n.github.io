@@ -1,9 +1,9 @@
 #Nenzi_2008, Commodified experience of travel
 *Nenzi 2008, Excursions in Identity Travel and the Intersection of Place, Gender, and Status in Edo Japan*
-##### Review by Wigen
+##### Review by Wigen, 2010
 shogunal* authorities constantly had to contend not only with commoners on the move but with competing power bases as well, including a sprawling religious establishment whose representatives ranged from marginal mendicants to entrenched priestly hierarchies.
 more circumspe highlighting the legal conflicts and grudging compromises that gra ally widened the scope for women to worship at distant temple shrines, she reveals that devotional travel was not just a way for moners to push back against an oppressive regime, but the sit separate struggle between political and religious
-Commercialization of travel was hardly new in eighteenth century Japan; the selling of amulets and sacred services had been practiced for centuries, and evidence of souvenir shopping dates back as far as the 700s (pp. 148-49). But by late Edo, the market had mushroomed to become the dominant medium through which places were experienced.
+Commercialization of travel was hardly new in eighteenth century Japan; the selling of amulets and sacred services had been practiced for centuries, and evidence of souvenir shopping dates back as far as the 700s (pp. 148-49). But by late Edo, the market had mushroomed to become the dominant medium through which places were experienced. 298
 
 #### sees views government at odds with religion
 Historically, the political domination of space had always had to come to terms with a formidable contender, the religious establishment. Religious discourse had traditionally mapped space—the same space—with a different brush, privileging exclusive areas of karmic superiority, spaces of cleanliness, and peaks endowed with sacred meanings. Not exclusively an Edo period phenomenon (as the example of Mandala of a Pilgrimage to Mount Fuji, discussed later, demonstrates), the religious alternative to official mapmaking continued to increase and diversify itself in the early modern period. (14)
