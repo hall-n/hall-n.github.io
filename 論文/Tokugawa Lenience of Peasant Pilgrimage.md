@@ -210,17 +210,6 @@ As profits were realized by appealing to this consumer pilgrim, competition aros
 These examples show that a driving force behind the rise of the tourism industry of pilgrimage financial gain, and as those providers of services and goods catering to the growing desires of pilgrims as the competition created luxurious experiences. 
 just how important the tourism industry that arose from pilgrimage.  
 
-##### Tosa ( #Roberts_1998)
-
-Behind this promotion of pilgrimage by non-religious entities 
-People were seeing the oerall benefit to the region 
-
-Roberts argues that the concept behind merchants and others engaged in commerce was the rhetoric of kokueki, 
-In their calls to 
-
-"The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
-"Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
-While the research above mention a few cases of neutral action of the authorities towards pilgrimage, in order to asses their disposition it is necessary to review more specific/other cases of both positive and negative reactions. cases of their involvement with pilgrimage.  
 ### Authorities Response to Pilgrimage
 
 
@@ -297,7 +286,33 @@ More specific example of that government's political stance can be seen in Param
 
 
 
-This argument against the idea that the Tokugawa government was top-down and authoriatian
+This argument against the idea that the Tokugawa government was top-down and authoritarian
+A concrete example of this bottom-up governance can be seen in Roberts (1998) research on mercantilism in the Edo period. 
+
+##### Tosa ( #Roberts_1998)
+
+Behind this promotion of pilgrimage by non-religious entities 
+People were seeing the oerall benefit to the region 
+
+Roberts argues that the concept behind merchants and others engaged in commerce was the rhetoric of *kokueki*, which means "prosperity of the country"
+In their calls to 
+
+In his research on the roots of economic nationalism in Japan, he argued that in the 1700's, a the mercantilist thought developed that was centered on the "prosperity of the country",  
+The daimyo sought to reduce the the dominance of the economy of the shogun, 
+"Commoners led the response "with a mercantilist strategy of protection and development of the commercial economy. They resisted the economy of service by creating a new economic rhetoric that decentered the lord, imagined the domain as an economic country, and gave merchants a public worth and identity unknown in Confucian economic thought. This thought and activity changed domainal government, and played an important role in the decline of shogunal authority, producing proto-nationalist practices and rhetoric that influenced Meiji era national development" 
+
+In Roberts' research (1998) of the merchant thought during the Edo period, he observes that one way the government incorporated new ideas and policies into their administration was the use of petition boxes. "Petitioning in all forms was a major means of integrating the interests of the ruled and the rulers" (ibid, 132). Roberts believes that these prevalence of petitioning suggests a search for new ideas, and over time the mercantilist thought of *kokueki*, meaning "prosperity of the country", became embedded into the discourse of the samurai through petitions, and ultimately the samurai adopted the *kokueki* thought into their discourse (ibid, 133). 
+Among petitions where the term *kokueki* appears are calls for the encouraging tourism, where a scabbard maker Zenpachi suggests, among other things, that the daimyo promote pilgrimage to a famous local temple. Zenpachi argues that if access into the region was made easier and "pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (ibid, 142)."
+Roberts points out an important part of this petition is that in Zenpachi's many suggestions, none of them represent his personal economic interest and was "a way of understanding the economy and the lord's and people's roles within it. This was inspired, Roberts argues, by the idea of *kokueki*. 
+   "It is not inevitable that a scabbard maker should be so concerned with, as he says, 'thinking of ways in which to have foreign money drop into Tosa' [...] What was common to these and many other petitions was a vision of Tosa as a single economic unit, the welfare of which was dependent mainly upon commercial concerns - most often export industries - and cash flow within the domain" (ibid, 142).
+While Roberts observes that not all petitions were enacted, and often that was disagreement among townspeople on what should be suggested, and the "samurai interest in the economic potential of commerce and commercially inspired industry was mixed" (ibid ,149).
+I would argue that they reflect how widespread mercantile thought was becoming in Edo period Japan, and how the interests of the lower classes could reached the rulers. 
+
+
+
+
+While the research above mention a few cases of neutral action of the authorities towards pilgrimage, in order to asses their disposition it is necessary to review more specific/other cases of both positive and negative reactions. cases of their involvement with pilgrimage.  
+
 #### Leaving peasants with surplus
 
 as I argued in paper on the rice tax (Hall 2022), the fact that the authorities left the peasants with a surplus reflects their priority of managing the economy and regional prosperity. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 

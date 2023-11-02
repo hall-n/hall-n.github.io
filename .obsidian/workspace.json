@@ -129,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md"
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
               }
             }
           },
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +227,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a0d72a76adcef2c",
+  "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
