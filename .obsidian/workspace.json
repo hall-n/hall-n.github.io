@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wigen",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
+                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md"
               }
             }
           },
@@ -226,17 +225,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fd1275da03df3e9",
+  "active": "0a0d72a76adcef2c",
   "lastOpenFiles": [
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
+    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "~Literature.canvas",
     "Academic Discussions.md",
     "~Mind Map.canvas",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -255,7 +255,6 @@
     "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "Religious Institutions/Travel agents.md",
     "Overall Travel Situation.md",
-    "~単語.md",
     "~travel.jpg",
     "Historian's arguments",
     "~Outline.canvas",

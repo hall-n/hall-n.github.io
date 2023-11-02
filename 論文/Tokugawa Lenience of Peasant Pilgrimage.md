@@ -212,7 +212,11 @@ just how important the tourism industry that arose from pilgrimage.
 
 ##### Tosa ( #Roberts_1998)
 
-Behind this promotion of pilgrimage by non-religious entities lies a fundamental concept of 
+Behind this promotion of pilgrimage by non-religious entities 
+People were seeing the oerall benefit to the region 
+
+Roberts argues that the concept behind merchants and others engaged in commerce was the rhetoric of kokueki, 
+In their calls to 
 
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
 "Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
