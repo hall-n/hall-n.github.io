@@ -225,9 +225,13 @@ This increase in commerce brought by tourism from the pilgrims was not lost on t
 when the Ōyama clergy was supported by the bakufu authorities when they faced the **dispute in 1660s** (ibid, 90). 
 
 
-An important point observed by Ambros is that how a pilgrimage is conducted affects how the bakufu authorities react to it. She points out that both the bakufu and the regional communities did not seek to prevent journeys to Ōyama, "unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites" (ibid, 161). In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities. The members from these groups "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama.
+An important point observed by Ambros is that how a pilgrimage is conducted affects how the bakufu authorities react to it. She points out that both the bakufu and the regional communities did not seek to prevent journeys to Ōyama, "unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites" (ibid, 161). In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities. The members from these groups "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama. 
 
-In contrast to this support, she observes how the authorities outlawed confraternities of Mt. Fuji  during the eighteenth and nineteenth centuries. 
+In contrast to this bakufu's support of Ōyama pilgrimages, authorities outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. Their reasons, however, have to do with how the Fuji cult was managed and how its members acted. Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
+
+As these examples show, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted, how it affected the local region was an important deciding factor on whether the authorities supported or prohibited it. 
+
+
 
 One prohibition she observes that the bakufu issued was for pilgrimages that included trips to both Mt. Fuji and Ōyama because the journey would then be too long.   
 
