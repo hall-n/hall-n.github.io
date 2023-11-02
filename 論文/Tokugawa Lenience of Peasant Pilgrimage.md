@@ -127,7 +127,7 @@ However, the question that Vaporis does not ask is why the authorities were so l
 Vaporis comments that "regulations, while not without some effect, were not able to stem the irrepressible desire of the masses in Tokugawa Japan to travel" ( Vaporis 1994, 198). Because the examples of actions against pilgrimage appear to be to limit its negative economic effects, were the authorities really trying to stem the desire to travel? 
 
 
-I would argue that allowing peasants to acquire permits more easily reveals their underlying motivation to stem pilgrimage that could harm a region's economy while promoting pilgrimage that could positively increase that economy. Indeed, Vaporis even observes some domains regulating pilgrimage by "setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( Vaporis 1994, 198). While he positions this as if it reflects the authorities' position against pilgrimage, I would argue that it shows their acceptance of it as they try to keep it within reasonable bounds. In contrast to the arguments above, pilgrimage overall had a positive economic impact the industry surrounding the tourism that came from it became important for many regions of Edo period Japan. 
+I would argue that allowing peasants to acquire permits more easily reveals their underlying motivation to stem pilgrimage that could harm a region's economy while promoting pilgrimage that could positively increase that economy. Indeed, Vaporis even observes some domains regulating pilgrimage by "setting certain economic qualifications for the issuance of travel permits, determining when and where travel was allowed, determining who was allowed to travel, and establishing the length of time as well as the number of times a person could travel"  ( Vaporis 1994, 198). While he positions this as if it reflects the authorities' position against pilgrimage, I would argue that it shows their acceptance of it as they try to keep it within reasonable bounds. In contrast to the arguments above, pilgrimage overall had a positive economic impact the industry surrounding the tourism that came from it became important for many regions of Edo period Japan. In order to see that impact in perspective, a review of the factors that led to pilgrimage travel being commercialized. behind the rise of tourism.
 
 %%This paper seeks to answer the questions that Vaporis' research reveals but which are left largely unasked; why the bakufu and daimyo authorities were so permissive of pilgrimage if it was argued to be so disruptive to society and threatened the ruler's authority and damaging to the economy? If were are to assume that the authorities were positioned against travel, why do we observe such lenience towards it? %% 
 
@@ -207,19 +207,22 @@ In the media that helped to popularize that tourism, the authorities show no neg
 
 As profits were realized by appealing to this consumer pilgrim, competition arose and 
 
-These examples show just how important the tourism industry that arose from pilgrimage.  
+These examples show that a driving force behind the rise of the tourism industry of pilgrimage financial gain, and as those providers of services and goods catering to the growing desires of pilgrims as the competition created luxurious experiences. 
+just how important the tourism industry that arose from pilgrimage.  
 
-While the research above mention a few cases of neutral action of the authorities towards pilgrimage, in order to asses their disposition it is necessary to review more specific cases of their involvement with pilgrimage.  
-### Authorities Response to Pilgrimage
-their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. 
 ##### Tosa ( #Roberts_1998)
-*South region of Shikoku*
+
+Behind this promotion of pilgrimage by non-religious entities lies a fundamental concept of 
+
 "The scabbard maker Zenpachi's petition gives another example of how this thought was not merely a means of arguing self-interest, but was a convincing. (141) way of understanding the economy and the lord's and people's roles within it.15 Not one of Zenpachi's ten suggestions had personal economic interest at stake, yet most were inspired in whole or in part by bullionist concerns and phrased in terms of kokueki" ( #Roberts_1998, 142).
 "Zenpachi also urged the lord to promote religious tourism to Tosa's famous Godaisan temple by making entry into the country easy for foreigners at the temple's festival time. If this were done and the pilgrims increased, 'every year great amounts of foreign gold and silver would drop into the country, working eternally for the prosperity of the country and providing all of the people with a living'" (Roberts 1998, 142).
+While the research above mention a few cases of neutral action of the authorities towards pilgrimage, in order to asses their disposition it is necessary to review more specific/other cases of both positive and negative reactions. cases of their involvement with pilgrimage.  
+### Authorities Response to Pilgrimage
+
+
 ##### Ōyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
 In Ambros's research (2008) of the pilgrimage to Ōyama, a popular shrine in the Kanto region, she argues that the community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu was not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
-Argues that the contraints of the domainal authorities of Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146)
 
 This increase in commerce brought by tourism from the pilgrims was not lost on the bakufu, she argues. 
 
@@ -233,19 +236,10 @@ An important point observed by Ambros is that how a pilgrimage is conducted affe
 %%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Ōyama reinforced social structures" (ibid, PAGE)%%
 
 The bakufu's reaction to the Ōyama pilgrimage provides insight into their 
-##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
-*North region of Shikoku*
 
-"The priests of Konpira, like priests of other would be pilgrimage sites, simultaneously developed the attractions of both the god and the town to boost the economic viability of the sacred domain" (3)
-"Thus, from early on, Konpira's development as an attractive site of worship proceeded in tandem with the popularity of its markets and entertainments. In the phenomenon common to pilgrimates sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship (3)"
-"The priests of Konkoin catered to such demand for entertainment in order to raise both the income and the status of the sacred domain" (5) Thal mentions the lavish festivals and parades, 
-The support of Konpira offered social benefits as well. Thal describes how the supporting domain families, Matsudaira and Kyogoku, mutually benefited all parties, "weaving the sacred domain of Konpira [...] into an expanding network of personal, economic, and ritual relationships"
+Argues that the constraints of the domainal authorities of Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). 
+Yet even in the case of Shikoku, these constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouame (1997) 
 
-"Encouraged by entrepreneurs in the pilgrimage business and in the media, the cult of Konpira grew throughout the 1700s and early 1800s, eventually forming a prominent part of popular nineteenth-century culture" (99)
-
-"By the early 1800s, pilgrimage to Konpira  began to rival pilgrimage to Ise, with as many as half the pilgrims to Ise continuing on to visit Konpira, and large numbers traveling to Konpira from western Japan as well" (102)
-
-"growth of the pilgrimage to Konpira seems to have relied as much on business owners as it did on priests affiliated with the site" (102)
 ##### Tolerance in Shikoku ( #Kouame_1997)
 
 *Natalie Kouamé argues that the Shikoku pilgrimage flourished particularly in the late seventeenth and the early nineteenth centuries.* 
@@ -260,24 +254,50 @@ Kouame argues that when looking at the level of freedom that the authorities wer
 
 %%"in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insignificant constraints ( #Kouame_1997, 424)
 %%
+
+More recent research of pilgrimages in Shikoku was done by Thal (2005), who studies the development of the Konpira site located in norther Shikoku, but whose popularity spread throughout Japan. 
+##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
+*North region of Shikoku*
+
+"The priests of Konpira, like priests of other would be pilgrimage sites, simultaneously developed the attractions of both the god and the town to boost the economic viability of the sacred domain" (3)
+"Thus, from early on, Konpira's development as an attractive site of worship proceeded in tandem with the popularity of its markets and entertainments. In the phenomenon common to pilgrimates sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship (3)"
+"The priests of Konkoin catered to such demand for entertainment in order to raise both the income and the status of the sacred domain" (5) Thal mentions the lavish festivals and parades, 
+The support of Konpira offered social benefits as well. Thal describes how the supporting domain families, Matsudaira and Kyogoku, mutually benefited all parties, "weaving the sacred domain of Konpira [...] into an expanding network of personal, economic, and ritual relationships"
+
+"Encouraged by entrepreneurs in the pilgrimage business and in the media, the cult of Konpira grew throughout the 1700s and early 1800s, eventually forming a prominent part of popular nineteenth-century culture" (99)
+
+"By the early 1800s, pilgrimage to Konpira  began to rival pilgrimage to Ise, with as many as half the pilgrims to Ise continuing on to visit Konpira, and large numbers traveling to Konpira from western Japan as well" (102)
+
+"growth of the pilgrimage to Konpira seems to have relied as much on business owners as it did on priests affiliated with the site" (102)
+
+
+In these examples of the authorities intervening and managing of pilgrimage it is evident that their focus is on the keeping the economic effects of the industry positive, ensuring that the pilgrims do not burden the local regions. 
+
+their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. 
+
+This focus on ensuring the prosperity of the common people is also evident in changes to the governing structure of the bakufu and reflected in common styles of daimyo structure. 
+
+A similar observation of the authorities desire to manage not domineer can be seen in looking at the governing style of the bakufu and the daimyo. 
 ### Tokugawa's governance
-The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. 
+%%The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. %%
 
 
+While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants", Tanimoto does at admit that there are some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped.  
 
-Position of authorities: benevolent ruler, desire to manage not domineer
 
-- Policies in place, but actual implementation of them up to the person in charge. 
-- Soft rules that can adapt to circumstances. 
+This observation that the government is concerned with the well-being of the lower class is also reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). He argues that that Mitsumasa of the Bizen province provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403) . 
 
-While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants". 
-in some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped  #Tanimoto_2019 . 
+Hall also adds that this type of benevolent administration was typical of the larger daimyo during the Tokugawa period (ibid, 410), as he looks at X research. But these concepts were not something that the daimyo were emulating the Tokugawa bakufu. Hall also points out that the "bakufu had led the way in drawing upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). 
 
-as I argued in paper on the rice tax (Hall 2022), the fact that the authorities left the peasants with a surplus reflects their priority of managing the economy and regional prosperity. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
-This observation that the government is concerned with the well-being of the lower class is also reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). Hall argues that that Mitsumasa of the Bizen province provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403) and this type of administration was typical of of the larger daimyo during the Tokugawa period (ibid, 410). Hall also points out that "The Tokugawa bakufu had led the way in drawing upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period. Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, he argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). 
+More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period. Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, he argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). 
+
+
 
 This argument against the idea that the Tokugawa government was top-down and authoriatian
 #### Leaving peasants with surplus
+
+as I argued in paper on the rice tax (Hall 2022), the fact that the authorities left the peasants with a surplus reflects their priority of managing the economy and regional prosperity. Perhaps what benevolence represents the idea that if the people are prosperous, those ruling them will also be part in this prosperity. 
+
 In my previous research ( #Hall_2022), I argued that the position of the shogunate was focused on keeping a balanced rice market, and to that end they intentionally left a surplus of rice with the peasants. I believe this to be an example of their underlying economic motivations and how that led them to govern with a degree of benevolence. Like their actions with the rice tax, if the pilgrimage of the peasants had a positive economic impact, and as long as that travel did not hinder the crop yields, the bakufu would be more inclined to allow it, making changing to keep in within the confines that prevented economic harm to the region (**as one historian mentions)** than to spend more effort and money into micromanaging. Indeed, the majority of peasants traveled in their free time after their farmer's responsibilities were fulfilled (REF). 
 
 Indeed, Vaporis notices the regulations dealing with pilgrimage have to do with economic reasons, though he fails to make the statement that 
