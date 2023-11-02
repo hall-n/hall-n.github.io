@@ -218,38 +218,11 @@ While the research above mention a few cases of neutral action of the authoritie
 ### Authorities Response to Pilgrimage
 
 ##### Ōyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
-In Ambros's research (2008) 
+In Ambros's research (2008) of the Ōyama pilgrimage, a sacred mountain located in the Kanagawa Prefecture, she argues that how pilgrimage was conducted affected how the bakufu authorities reacted to it. In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities, where the members "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). The pilgrimages also usually took place before harvest, sending only a select few members of the community and thus village life was not disrupted. In addition, these pilgrimages were not for the sake of an individual, but undertaken on behalf of the entire community, as the pilgrims would bring back amulets for everyone. These community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu were not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
+In contrast to the bakufu's support of Ōyama pilgrimages, Ambros points out that they outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. The reasons have to do with how the Fuji cult was managed and how its members acted, as Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
 
-
-
-
-when the Ōyama clergy was supported by the bakufu authorities when they faced the **dispute in 1660s** (ibid, 90). 
-
-
-An important point observed by Ambros is that how a pilgrimage is conducted affects how the bakufu authorities react to it. She points out that both the bakufu and the regional communities did not seek to prevent journeys to Ōyama, "unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites" (ibid, 161). In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities. The members from these groups "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama. 
-
-In contrast to this bakufu's support of Ōyama pilgrimages, authorities outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. Their reasons, however, have to do with how the Fuji cult was managed and how its members acted. Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
-
-As these examples show, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted, how it affected the local region was an important deciding factor on whether the authorities supported or prohibited it. 
-
-
-
-
-
-In detailing the history of the religious groups, there are cases where the 
- 
-
-
-%%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Ōyama reinforced social structures" (ibid, PAGE)%%
-
-The bakufu's reaction to the Ōyama pilgrimage provides insight into their 
-
-Ambros concludes that the pilgrimage to Ōyama, a popular shrine in the Kanto region, she argues that the community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu was not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). An example of this is the prohibition that the bakufu issued for dual pilgrimage to both Mt. Fuji and Ōyama because the journey would be too long. 
-lengthy pilgrimages or those by impoverished solitary travelers ran counter to the orderly ideals of bakufu. 
-
-Ambros argues that the constraints of the domainal authorities of Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). 
-Yet even in the case of Shikoku, these constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouame (1997) 
+Another example of a pilgrimage that is represented with some controversy is the long circuit of Shikoku. Ambros argues that the constraints that the domain authorities instituted in Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). This type of pilgrimage often were unauthorized (*nukemairi*), to which the authorities as well as the pilgrims' families were strongly opposed to. Yet even in the case of Shikoku, these constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouame (1997) 
 
 ##### Tolerance in Shikoku ( #Kouame_1997)
 
@@ -288,7 +261,12 @@ their research reveals cases of lenience shown to pilgrims by village and daimyo
 
 This focus on ensuring the prosperity of the common people is also evident in changes to the governing structure of the bakufu and reflected in common styles of daimyo structure. 
 
+
+As these examples show, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted and how it affected the local region was an important deciding factor on whether the authorities supported or prohibited it. 
+
 A similar observation of the authorities desire to manage not domineer can be seen in looking at the governing style of the bakufu and the daimyo. 
+
+
 ### Tokugawa's governance
 %%The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. %%
 
