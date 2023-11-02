@@ -119,7 +119,6 @@ Despite the above reasons which stress the unwanted nature of pilgrimage, the re
 Looking at the government policies regarding travel, Vaporis concludes that they were "on the whole, positive rather than repressive" and quite flexible. "This growing flexibility in a system that originally had been more rigid allowed for - and in fact promoted - the increasing mobility that characterized Tokugawa Japan from the eighteenth century on" (Vaporis 1994, 5).
 
 
-
 Vaporis argues against accepting a "legalistic interpretation of Tokugawa Japan" (6), as doing so overestimates the state's authority and incorrectly represents peasants as immobile, with their movements severely restricted and strictly inspected at barriers. His conclusion is that despite the intention of the authorities, the *sekisho* barriers did not significantly impede peasant travelers (ibid, 7)
 
 
@@ -153,11 +152,10 @@ While the religious aspects of pilgrimage may played a part in softening the per
 
 
 ### Commercialization of Pilgrimage 
-In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced, how travelers interacted with their destinations, and how their travels turned into what we recognize today as contents tourism ( #SeatonEtal_2017) . While some elements of this tourism dates back to the before the Nara period, such as the buying of amulets and travel souvenirs, the commercialization of travel grew to new heights during the Edo period to "become the dominant medium through which places were experienced" (Wigen 2010, 298).  
-This research emphasizes how important of an industry pilgrimage became in the Edo period, with new towns forming around popular shrines and temples (monzenmachi), and existing towns flourishing due to the direct results of pilgrimage (Ishimori 2009). 
-The economic potential of these travelers was realized by the shrine and temples Oshi, who promoted and organized pilgrim's travel and organize travel for pilgrims (Kanzaki 1995). Their efforts resulted in the direct increase of pilgrims (Ambros 2008) and over time other local entities began to compete for the service of those travelers.
-Thus, pilgrimage and the tourism that came with it grew to be of significant economic importance for many regions in Edo period Japan. 
+In recent years, historians have approached the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced, how travelers interacted with their destinations, and how their travels turned into what we recognize today as contents tourism ( #SeatonEtal_2017) . While some elements of this tourism dates back to the before the Nara period, such as the buying of amulets and travel souvenirs, the commercialization of travel grew to new heights during the Edo period to "become the dominant medium through which places were experienced" (Wigen 2010, 298). 
 
+The key element to these changes were the efforts of the religious institutions. 
+The economic potential of these travelers was realized by the shrine and temples Oshi, who promoted and organized pilgrim's travel and organize travel for pilgrims (Kanzaki 1995). Their efforts resulted in the direct increase of pilgrims (Ambros 2008) and over time other local entities began to compete for the service of those travelers. 
 
 consumer pilgrims (Nenzi 2004). 
 
@@ -191,24 +189,28 @@ The gastronomic element of travel became so important, that by the 1800's the pi
 
 %%Nenzi observes new attractions in pilgrimage that came consumption of non-religious elements,%%
 
-The importance of consumer logic is also noticed by other historians, as Ambros (2008) argues that the religious institutions of Ōyama had to offer pilgrims not just things of spiritual value, but also "immediate gratifications", such as souvenirs shops, teahouses, restaurants, and baggage delivery services (ibid, ??).
-The Ōyama pilgrimage thus fueled the regional economy, by creating a demand for inns, ferries, and other travel related services (Ambros 2008, 148), and over time these nearby towns came to rely on Ōyama pilgrimage (ibid, 150). 
+The importance of consumer logic is also noticed by other historians, as Ambros (2008) argues that the religious institutions of Ōyama, a pilgrimage destination that rivaled the popularity of Ise, had to offer pilgrims not just things of spiritual value, but also "immediate gratifications", such as souvenirs shops, teahouses, restaurants, and travel related services (ibid, ??). She argues the pilgrimage thus fueled the regional economy and over time these regions came to rely on Ōyama pilgrimage. 
 
 ***Section conclusion***
-The commerce that pilgrimage brought to a region was not something that would have been dismissed by the bakufu and daimyo as unnecessary or unwanted. "Catering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (Seaton et al 2017, 20). In the media that helped to popularize that tourism, the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 
+
+This research emphasizes how important of an industry pilgrimage became in the Edo period, with new towns forming around popular shrines and temples (monzenmachi), and existing towns flourishing due to the direct results of pilgrimage (Ishimori 2009). 
+
+Thus, pilgrimage and the tourism that came with it grew to be of significant economic importance for many regions in Edo period Japan, and would not have been dismissed by  
+
+The commerce that pilgrimage brought to a region was therefore not something that would have been dismissed by the bakufu and daimyo as unnecessary simply on the grounds that ????. This point is argued by Seaton et al argue, "[c]atering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (2017, 20). 
+
+
+
+
+
+In the media that helped to popularize that tourism, the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 
 
 As profits were realized by appealing to this consumer pilgrim, competition arose and 
 
-
-In light of these developments surrounding pilgrimage, obstructing the pilgrims from travel would hinder what had become an important industry of tourist consumerism. 
-
-
 These examples show just how important the tourism industry that arose from pilgrimage.  
 
-While the example's above reveal cases of neutral action of the authorities, let us look at cases of more positive or negative reactions. 
+While the research above mention a few cases of neutral action of the authorities towards pilgrimage, in order to asses their disposition it is necessary to review more specific cases of their involvement with pilgrimage.  
 ### Authorities Response to Pilgrimage
-
-
 their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. 
 ##### Tosa ( #Roberts_1998)
 *South region of Shikoku*
@@ -219,7 +221,6 @@ In Ambros's research (2008) of the pilgrimage to Ōyama, a popular shrine in the
 
 Argues that the contraints of the domainal authorities of Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146)
 
-
 This increase in commerce brought by tourism from the pilgrims was not lost on the bakufu, she argues. 
 
 when the Ōyama clergy was supported by the bakufu authorities when they faced the **dispute in 1660s** (ibid, 90). 
@@ -227,7 +228,6 @@ when the Ōyama clergy was supported by the bakufu authorities when they faced t
 
 An important point observed by Ambros is that how a pilgrimage is conducted affects how the bakufu authorities react to it. She points out that both the bakufu and the regional communities did not seek to prevent journeys to Ōyama, "unless pilgrims either were behaving in wasteful ways or extended their journeys to too many sacred sites" (ibid, 161). In looking at the make-up of Ōyama pilgrims, she observes that they were largely from parishes or fraternities, and thus were not *nukemairi*, EXPLANATION.
 "Confraternity members pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). She argues that this is an important distinguishing difference in pilgrimage, and why the authorities supported Ōyama. 
-
 
 
 %%"Long pilgrimages or impoverished travelers run counter to orderly ideals of bakufu while pilgrimages like Ōyama reinforced social structures" (ibid, PAGE)%%
