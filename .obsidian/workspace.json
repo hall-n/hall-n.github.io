@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "e8de689a267ccf33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6962fbd468da123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cb706483ff618c02",
         "type": "tabs",
         "children": [
@@ -77,11 +95,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -164,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +200,11 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~単語.md",
     "論文/Title & Thesis.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~Mind Map.canvas",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
@@ -197,7 +219,6 @@
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "~Outline.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
-    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "~Grading.md",
     "論文/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
