@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+                "file": "~単語.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -165,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +179,8 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "~単語.md",
+    "論文/Title & Thesis.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~Mind Map.canvas",
@@ -201,7 +201,6 @@
     "~Grading.md",
     "論文/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "論文/Title & Thesis.md",
     "~Train of thought.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
