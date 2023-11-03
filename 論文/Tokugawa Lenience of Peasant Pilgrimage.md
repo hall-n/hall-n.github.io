@@ -44,7 +44,7 @@ Following this, an examination of %%research on Edo travel reveals%% **how pilgr
 %%The economic potential of these travelers was realized by the shrine and temples Oshi, who promoted and organized pilgrim's travel and organize travel for pilgrims (Kanzaki 1995). Their efforts resulted in the direct increase of pilgrims (Ambros 2008) and over time other local entities began to vie for the service of those travelers, creating a competitive market .%% 
  
 
-Next, an analysis of **how authorities respond to this industry** using studies that reveals cases of positive responses from authorities and communities who take steps to allow and support pilgrimage travel (Ambros 2008, Kouame 1997,  Thal 2005), and cases where the authorities attempt to restrict pilgrimage (Vaporis ?). I argue that in both instances, the main factor in the authorities' actions was the economic effect of pilgrimage; thus we see the authorities limiting it when it has negative affects on region and allowing or promoting it when those affects are positive or neutral. 
+Next, an analysis of **how authorities respond to this industry** using studies that reveals cases of positive responses from authorities and communities who take steps to allow and support pilgrimage travel (Ambros 2008, Kouamé 1997,  Thal 2005), and cases where the authorities attempt to restrict pilgrimage (Vaporis ?). I argue that in both instances, the main factor in the authorities' actions was the economic effect of pilgrimage; thus we see the authorities limiting it when it has negative affects on region and allowing or promoting it when those affects are positive or neutral. 
 
 Finally, research of Tokugawa bakufu and daimyo governance reveals a trend of moving away from authoritarian methods and instead allowing the lower classes to be prosperous. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity.
 
@@ -221,27 +221,18 @@ In Ambros's research (2008) of the Ōyama pilgrimage, a sacred mountain located 
 
 In contrast to the bakufu's support of Ōyama pilgrimages, Ambros points out that they outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. The reasons have to do with how the Fuji cult was managed and how its members acted, as Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
 
-Another example of a pilgrimage that is represented with some controversy is the long circuit of Shikoku. Ambros argues that the constraints that the domain authorities instituted in Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). This type of pilgrimage often were unauthorized (*nukemairi*), to which the authorities as well as the pilgrims' families were strongly opposed to. Yet even in the case of Shikoku, these constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouame (1997) 
+##### Tolerance in Shikoku
+#Kouamé_1997
+Another example of a pilgrimage that is represented with some controversy is the Shikoku circuit pilgrimage of eighty-eight religious sites, a journey that often took <mark style="background: #FFF3A3A6;">??? days</mark>. Ambros argues that the constraints that the domain authorities instituted in Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). This type of unauthorized pilgrimage (*nukemairi*) was one garnered opposition from the pilgrims' families well as the authorities. <mark style="background: #FFF3A3A6;"> because of its negative nukemairi effects</mark>.
 
-##### Tolerance in Shikoku ( #Kouame_1997)
+Yet even in these constraints places on Shikoku pilgrimage can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouamé (1997). 
+She points out that while the authorities did try to closely regulate pilgrims and forbid the disorderly and disruptive elements of the pilgrimage, they also provided a system of support for those in need who followed the regulations"(ibid, 424). Kouamé therefore argues that local authorities should not be analyzed in terms of oppressive control, because they "did help pilgrims who were in trouble" (ibid, 421). 
 
-*Natalie Kouamé argues that the Shikoku pilgrimage flourished particularly in the late seventeenth and the early nineteenth centuries.* 
+For example, in the case of a pilgrim's illness or death, they could depend on local officials to provide medical care, repatriation to their home town, or organize their burial. Looking at how many pilgrims the authorities helped return to their home regions was "quite significant", Kouamé argues. "It it clear that such assistance was standard practice" (ibid, 423), and may have been the Shikoku authorities just following the rules laid down by the Tokugawa bakufu. Therefore, while some historians may point to the Shikoku pilgrimage as an example of the bakufu's opposition of pilgrimage, it provides evidence of bakufu's support of the pilgrims during their journey. 
 
-"the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity" ( #Kouame_1997, 414). 
+When looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant. 
 
-"authorities did seek to regulate the pilgrims closely, and to proscribe unruly elements, they also provided a system of support for those in need who followed the regulations"( #Kouame_1997, 424).
-Argues that local authorities should not be analyzed in terms of oppressive control. Benevolence relevant. 
-"Indeed there are various historical materials that suggest that the general attitude of local authorities in Shikoku towards the henro should not be analyzed only in terms of repressive control. The fact is that the Shikoku authorities during the Tokugawa period did help pilgrims who were in trouble" ( #Kouame_1997, 421)
-
-Kouame argues that when looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant (ibid 424).
-
-%%"in the context of the freedom that the authorities were actually granting, these regulations could be seen as comparatively insignificant constraints ( #Kouame_1997, 424)
-%%
-
-More recent research of pilgrimages in Shikoku was done by Thal (2005), who studies the development of the Konpira site located in norther Shikoku, but whose popularity spread throughout Japan. 
-
-
-
+Kouamé concludes that the response to the Shikoku pilgrimage "reveals that the political authorities of the latter Tokugawa period were tolerant regarding the mobility of the ordinary populace" (ibid, 143) 
 
 
 In these examples of the authorities intervening and managing of pilgrimage it is evident that their focus is on the keeping the economic effects of the industry positive, ensuring that the pilgrims do not burden the local regions. 
@@ -312,6 +303,9 @@ Sum up the reasons for tourism and how they outweigh against tourism. If the aut
 
 
 "The early modern system was not unremittingly oppressive but gave many institutions opportunities to operate on their own terms by harnessing local and regional resources" (Ambros 2008, 239).
+
+Kouamé "the case of Shikoku could provide an example of the degree of tolerance seen in an administration renowned for its severity and the degree of flexibility of a social system known for its rigidity" (ibid, 414). 
+
 ### Why this research is meaningful	
 This research will reveal not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower class. These points are both vital to understanding  what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. 
 
