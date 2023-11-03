@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ce63507e0cfded9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文/Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
@@ -188,6 +201,7 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "論文/Bibliography.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
@@ -209,7 +223,6 @@
     "~Outline.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "~Grading.md",
-    "論文/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~Train of thought.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",

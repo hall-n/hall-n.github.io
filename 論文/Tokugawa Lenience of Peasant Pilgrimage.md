@@ -93,7 +93,7 @@ A positive travel image with connotations of religious image of a sacred wandere
 
 ## Main Chapters (6300-7000 words)
 
-### Argument by Historians
+### Argument by Historians (Watkins, Blacker, Traganou)
 In much of the literature on travel during the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement of the peasants ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008). While many of the historians that present this perspective do not elucidate on why the authorities would be adverse to this travel, others claim that the bakufu and daimyo perceived pilgrimage to be a threat due to its negative social aspects. Traganou (2004) claims that pilgrimage meant abandoning one's occupation and was used as an escape from the restrictions Edo period society.  
 %%She points out that this abandonment was reflected in the attire that the pilgrims wore; a white or sleeveless garment and sedge hat %%
 
@@ -159,7 +159,7 @@ The economic potential of these travelers was realized by the shrine and temples
 
 consumer pilgrims (Nenzi 2004). 
 
-#### Promotion of Pilgrimage for Financial Gain 
+#### Promotion of Pilgrimage for Financial Gain (Kanzaki, Tadao, Thal)
 Examining in more detail the factors that led to the pilgrimage boom, reveals the economic motivations the parties who worked to popularize pilgrimage were those who sought to gain financially from it. The instigators of that promotion are what have been described as the first travel agents: the temple and shrine affiliated *oshi* ( #Kanzaki_1995 Kanzaki 1995, 49). They worked to attract pilgrims to shrines and temples in order to make up for the lost financial support that had come from the bakufu. In Ambros's research (2008) of the Ōyama shrine in the Kanto area, she argues that these oshi were the key players in growing the popularity of pilgrimage, and it was due to the their efforts that the Ōyama religious site transformed into such a major tourist destination, almost rivaling that of Ise (REF).
 
 These Oshi appealed to pilgrims by arranging for the travelers' accommodation, providing tour guides, and offering useful travel information  ( #Tadao_1995, 6). While originally much like a missionary on behalf of their shrine or temple, over time they "became more merchants than priests, each with their own territory" ( #Kanzaki_1995, ?). A major element of the oshi's promotion was the level of hospitality and entertainment that they offered pilgrims, such as preparing luxurious silk bedding and providing extravagant banquets that made use of the local gastronomic specialties. They also offered tours and presented souvenirs and gifts to the pilgrims. However, underneath this "hospitality lay a cunning business spirit. What they intended was advertisement with maximum effect ( #Kanzaki_1995, 48)". After the pilgrims returned to their village, they would talk about the luxury they enjoyed and this would lead to additional pilgrim recruitment for the Oshi. 
@@ -172,7 +172,8 @@ The support of Konpira also offered social benefits which "legitimized, protecte
 
 %%Souvenirs to bring back to the pilgrim's hometown had become an important aspect of the trip itself, as it gave validation of one's travels and offered the experience with those of the village who could not visit themselves. %%
 
-#### Consumerist Pilgrims ( #Nenzi_2004)
+#### Consumerist Pilgrims (Nenzi, Thal)
+#Nenzi_2004)
 %%reveals the degree that consumerism arose from pilgrimage. %%
 
 Just how big of an industry pilgrimage became for some regions can be seen in Nenzi's research (2004) into the interactions of pilgrims and their destinations during the Edo period. Using as a case study the region of Sagami, located in modern day Kanagawa prefecture, Nenzi argues that over time the attractions that drew pilgrims to this area developed into a commodification of local history and regional specialties, revealing a new common type of pilgrim that Nenzi calls the "consumer tourist" (ibid 286). Her research traces the many cases of conflict between regional parties who competed for profits from these pilgrims. To resolve this conflict, those parties turned to the regional governments and Edo authorities to stop practices that resulted in the decline of pilgrim visitors.
@@ -199,7 +200,7 @@ The importance of consumer logic within pilgrimage is also noticed by other hist
 This point is argued by Seaton et al argue, "[c]atering to pilgrims by providing food, lodging, and entertainment at religious sites was the foundation of much of the modern Japanese tourism industry" (2017, 20). 
 
 "The development of a widespread pilgrimage culture in the nineteenth century both relied upon and enabled the growth of economic networks of consumption, advertising, and offerings [...] The growth of such networks thus contributed to the development of an economy, a society, and ultimately a multifaceted culture in which the gods play an integral part" (Thal 2005, 98. 
-#### Section conclusion
+#### Section conclusion (Ishimori)
 
 This research emphasizes how important of an industry pilgrimage became in the Edo period, with new towns forming around popular shrines and temples (<mark style="background: #FFF3A3A6;">monzenmachi</mark>), and existing towns flourishing due to the direct results of pilgrimage (Ishimori 2009). 
 
@@ -216,19 +217,20 @@ While the research above mention a few cases of neutral action of the authoritie
 
 ### Authorities Response to Pilgrimage
 
-##### Ōyama Cult
+##### Ōyama Cult (Ambros)
 #Ambros_2008
 In Ambros's research (2008) of the Ōyama pilgrimage, a sacred mountain located in the Kanagawa Prefecture, she argues that how the bakufu authorities reaction to pilgrimage depended on how it was conducted. In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities, where the members "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). The pilgrimages also usually took place before harvest, sending only a select few members of the community and thus village life was not disrupted. In addition, these pilgrimages were not for the sake of an individual, but undertaken on behalf of the entire community, as the pilgrims would bring back amulets for everyone. These community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu were not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
 In contrast to the bakufu's support of Ōyama pilgrimages, Ambros points out that they outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. The reasons have to do with how the Fuji cult was managed and how its members acted, as Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
 
-##### Tolerance in Shikoku
+##### Tolerance in Shikoku (Kouame)
 #Kouamé_1997
 Another example of a pilgrimage that is represented with some controversy is the Shikoku circuit pilgrimage of eighty-eight religious sites, a journey that often took <mark style="background: #FFF3A3A6;">??? days</mark>. Ambros argues that the constraints that the domain authorities instituted in Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146). This type of unauthorized pilgrimage (*nukemairi*) was one garnered opposition from the pilgrims' families well as the authorities. <mark style="background: #FFF3A3A6;"> because of its negative nukemairi effects</mark>.
 
 Yet even in these constraints places on Shikoku pilgrimage can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouamé (1997). 
 She points out that while the authorities did try to closely regulate pilgrims and forbid the disorderly and disruptive elements of the pilgrimage, they also provided a system of support for those in need who followed the regulations"(ibid, 424). Kouamé therefore argues that local authorities should not be analyzed in terms of oppressive control, because they "did help pilgrims who were in trouble" (ibid, 421). 
 
+###### Support service for pilgrims
 For example, in the case of a pilgrim's illness or death, they could depend on local officials to provide <mark style="background: #FFF3A3A6;">medical care</mark>, <mark style="background: #FFF3A3A6;">repatriation to their home town</mark>, or organize their <mark style="background: #FFF3A3A6;">burial</mark>. Looking at how many pilgrims the authorities helped return to their home regions was "quite significant", Kouamé argues. "It it clear that such assistance was standard practice" (ibid, 423), and may have been the Shikoku authorities just following the rules laid down by the Tokugawa bakufu. 
 
 "Tokugawa bakufu since the end of the seventeenth century. Indeed, several successive ordinances—the ³rst one was enacted in 1688—stipulated the measures (medical examination, medical care, inspection of the õrai tegata, contact with the relatives; see MURAKAMI 1995, pp. 2–4) (kouame 423)
@@ -242,7 +244,7 @@ This example shows that background of the situation surrounding actions taken ag
 These antisocial elements existed perhaps commonly in the Shikoku pilgrimage,
 example.
 
-However, "existence of such elements seems to have had no inµuence on the general attitudes of local authorities towards common pilgrims" (Kouamé 1997, 419)
+However, "existence of such elements seems to have had no influence on the general attitudes of local authorities towards common pilgrims" (Kouamé 1997, 419)
 
 In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order. 
 
@@ -252,19 +254,13 @@ Tosa authorities were most severe,
 Kouamé concludes that the response to the Shikoku pilgrimage "reveals that the political authorities of the latter Tokugawa period were tolerant regarding the mobility of the ordinary populace" (ibid, 143) 
 
 
-In these examples of the authorities intervening and managing of pilgrimage it is evident that their focus is on the keeping the economic effects of the industry positive, ensuring that the pilgrims do not burden the local regions. 
+As these examples show, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted and how it affected the local region was an important deciding factor on whether the authorities supported or prohibited it. Furthermore, from their reaction it is evident that their focus is on the keeping the economic effects of the industry positive, 
+their reaction is a reflection of the changing style of governance of the Tokugawa bakufu, which the daimyo largely followed. 
 
-their research reveals cases of lenience shown to pilgrims by village and daimyo authorities, as they take efforts to manage and provide care for travelers (<mark style="background: #FFF3A3A6;">as in the case of sickness or death)</mark>. 
-
-This focus on ensuring the prosperity of the common people is also evident in changes to the governing structure of the bakufu and reflected in common styles of daimyo structure. 
-
-
-As these examples show, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted and how it affected the local region was an important deciding factor on whether the authorities supported or prohibited it. 
-
-A similar observation of the authorities desire to manage not domineer can be seen in looking at the governing style of the bakufu and the daimyo. 
+This focus on ensuring the prosperity of the common people reflects the changing governance structure of the bakufu and reflected in common styles of daimyo structure. 
 
 
-### Tokugawa's governance
+### Tokugawa's governance (Hall, Paramore, Roberts)
 %%The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. %%
 
 
@@ -282,7 +278,8 @@ More specific example of that government's political stance can be seen in Param
 This argument against the idea that the Tokugawa government was top-down and authoritarian
 A concrete example of this bottom-up governance can be seen in Roberts (1998) research on mercantilism in the Edo period. 
 
-##### Tosa ( #Roberts_1998)
+##### Tosa (Roberts)
+#Roberts_1998
 
 Behind this promotion of pilgrimage by non-religious entities 
 People were seeing the oerall benefit to the region 
