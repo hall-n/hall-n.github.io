@@ -166,6 +166,9 @@ These Oshi appealed to pilgrims by arranging for the travelers' accommodation, p
 
 The financial gain that came from pilgrimage was not something that was felt by shrines and temples alone, however. While talismans and religious offerings were important elements of one's pilgrimage, the commerce potential of pilgrims was much larger. Teahouses and brothels quickly became popular stops on one's pilgrimage, with some prostitute becoming as famous *meibutsu* themselves (REF). The production of travel information grew with (REF)
 
+Similarly, Thal's research (2005) into the Konpira religious site in Northern Shikoku, a destination which rivaled Ise in popularity, shows that the growth of this site was not due to its religious significance alone, but relied on business owners as much as it did on the priests. Thal argues that the popularity of this location developed in tandem with the surrounding markets and entertainment. In order to raise income as well as the religious status of the shrine,"[t]he priests of Konpira, like priests of other would be pilgrimage sites, simultaneously developed the attractions of both the god and the town to boost the economic viability of the sacred domain" (ibid, 3), holding lavish festivals and parades which they times with events in the nearby town. "In the phenomenon common to pilgrimage sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship" (ibid, 3)
+
+The support of Konpira also offered social benefits which "legitimized, protected, and enhanced the prestige" of the regional lords in exchange for their patronage. Thal describes how the support of three nearby daimyo, mutually benefited all parties, "weaving the sacred domain of Konpira - oustide the formal boundaries of any of the three larger domains - into an expanding network of personal, economic, and ritual relationships" (ibid, 78). The religious popularity of the Konpira site, which was fueled by the pilgrims who traveled to it, was of importance to these daimyo.
 
 %%Souvenirs to bring back to the pilgrim's hometown had become an important aspect of the trip itself, as it gave validation of one's travels and offered the experience with those of the village who could not visit themselves. %%
 
@@ -236,13 +239,7 @@ Kouame argues that when looking at the level of freedom that the authorities wer
 %%
 
 More recent research of pilgrimages in Shikoku was done by Thal (2005), who studies the development of the Konpira site located in norther Shikoku, but whose popularity spread throughout Japan. 
-##### Matsudaira (Aichi) and Kyogoku (Shikoku) families ( #Thal_2005)
-*North region of Shikoku*
 
-Thal's research looks at the Konpira pilgrimage, a religious site in ? Shikoku, which by the early 1800s had began to rival Ise in popularity. The growth of this site was not due to its religious significance alone, as Thal observes that it relied on business owners as much as it did on the priests, and thus the popularity of this location developed in tandem with the surrounding markets and entertainment. In order to raise income as well as the religious status of the shrine,"[t]he priests of Konpira, like priests of other would be pilgrimage sites, simultaneously developed the attractions of both the god and the town to boost the economic viability of the sacred domain" (3), holding lavish festivals and parades which they times with events in the nearby town. "In the phenomenon common to pilgrimage sites in Japan and around the world, Mt. Zozu and its gods grew amid a bustling pilgrimage economy of entertainments and commerce: performances, prostitution, and gambling proved as integral to the growth of the sites as amulets and worship" (ibid, 3)
-
-
-The support of Konpira also offered social benefits to benefactors, as the Konpira religious institution  "legitimized, protected, and enhanced the prestige of the Takamatsu lords". Thal describes how the supporting domain families, Matsudaira and Kyogoku, mutually benefited all parties, "weaving the sacred domain of Konpira - oustide the formal boundaries of any of the three larger domains - into an expanding network of personal, economic, and ritual relationships" (ibid, 78). 
 
 
 
