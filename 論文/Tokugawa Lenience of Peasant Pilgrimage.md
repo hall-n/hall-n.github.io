@@ -216,7 +216,8 @@ While the research above mention a few cases of neutral action of the authoritie
 
 ### Authorities Response to Pilgrimage
 
-##### Ōyama Cult (Hisashi, Edo, Shimosa) ( #Ambros_2008)
+##### Ōyama Cult
+#Ambros_2008
 In Ambros's research (2008) of the Ōyama pilgrimage, a sacred mountain located in the Kanagawa Prefecture, she argues that how the bakufu authorities reaction to pilgrimage depended on how it was conducted. In looking at the make-up of Ōyama pilgrims, she observes that they were largely from confraternities, where the members "pooled their funds to finance the pilgrimage, and therefore the pilgrims were not a burden on communities along the route but fueled the regional economy" (ibid, 16). The pilgrimages also usually took place before harvest, sending only a select few members of the community and thus village life was not disrupted. In addition, these pilgrimages were not for the sake of an individual, but undertaken on behalf of the entire community, as the pilgrims would bring back amulets for everyone. These community-building aspects pilgrimage reinforced social harmony, therefore, the bakufu were not against it. "The few regulations that pertained to it were not so much meant to limit the pilgrimage to Ōyama but more to ensure that pilgrims did not extend their pilgrimages unduly and maintained order on their journeys" (Ambros 2008, 173). 
 
 In contrast to the bakufu's support of Ōyama pilgrimages, Ambros points out that they outlawed confraternities of Mt. Fuji a number of times during the eighteenth and nineteenth centuries. The reasons have to do with how the Fuji cult was managed and how its members acted, as Tyler (1981) explains that this was a new religion without any connection to an established sect and there illegal by definition. In addition, the cult had troublesome practices, such as were frequently refusing to provide sick pilgrims with any other medication besides the holy water from Fuji, and chanting while handing out talismans outside people's gates. Finally, because the devotees were a mingling of commoners and samurai, the bakufu were concerned with potential subversion. 
@@ -228,9 +229,25 @@ Another example of a pilgrimage that is represented with some controversy is the
 Yet even in these constraints places on Shikoku pilgrimage can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouamé (1997). 
 She points out that while the authorities did try to closely regulate pilgrims and forbid the disorderly and disruptive elements of the pilgrimage, they also provided a system of support for those in need who followed the regulations"(ibid, 424). Kouamé therefore argues that local authorities should not be analyzed in terms of oppressive control, because they "did help pilgrims who were in trouble" (ibid, 421). 
 
-For example, in the case of a pilgrim's illness or death, they could depend on local officials to provide <mark style="background: #FFF3A3A6;">medical care</mark>, <mark style="background: #FFF3A3A6;">repatriation to their home town</mark>, or organize their <mark style="background: #FFF3A3A6;">burial</mark>. Looking at how many pilgrims the authorities helped return to their home regions was "quite significant", Kouamé argues. "It it clear that such assistance was standard practice" (ibid, 423), and may have been the Shikoku authorities just following the rules laid down by the Tokugawa bakufu. Therefore, while some historians may point to the Shikoku pilgrimage as an example of the bakufu's opposition of pilgrimage, it provides evidence of bakufu's support of the pilgrims during their journey. 
+For example, in the case of a pilgrim's illness or death, they could depend on local officials to provide <mark style="background: #FFF3A3A6;">medical care</mark>, <mark style="background: #FFF3A3A6;">repatriation to their home town</mark>, or organize their <mark style="background: #FFF3A3A6;">burial</mark>. Looking at how many pilgrims the authorities helped return to their home regions was "quite significant", Kouamé argues. "It it clear that such assistance was standard practice" (ibid, 423), and may have been the Shikoku authorities just following the rules laid down by the Tokugawa bakufu. 
 
-When looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant. 
+"Tokugawa bakufu since the end of the seventeenth century. Indeed, several successive ordinances—the ³rst one was enacted in 1688—stipulated the measures (medical examination, medical care, inspection of the õrai tegata, contact with the relatives; see MURAKAMI 1995, pp. 2–4) (kouame 423)
+
+Therefore, while some historians may point to the Shikoku pilgrimage as an example of the bakufu's opposition of pilgrimage, it provides evidence of bakufu's support of the pilgrims during their journey. 
+
+When looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant and were instituted in order to protect the region. 
+Of course there were punishment for violates of rules, such as denying the pilgrims entrance to a province. In one such instance in the early 1800s, two sick pilgrims who were undertaking the Shikoku pilgrims in hopes of it curing their illness were denied entry into the region of Tosa (WHERE). In looking at the situation of the region at this time however, Kouamé observes that they were experiencing a famine, and likely were trying to prevent the sick pilgrims who might stay in the province beyond their allotted time and thus become a burden to the locals (ibid, 418). 
+This example shows that background of the situation surrounding actions taken against pilgrims needs careful consideration. This caution exercised by authorities is not a reflection of their position against pilgrimage, but against specific cases of negative regional repercussions or antisocial elements. 
+
+These antisocial elements existed perhaps commonly in the Shikoku pilgrimage,
+example.
+
+However, "existence of such elements seems to have had no inµuence on the general attitudes of local authorities towards common pilgrims" (Kouamé 1997, 419)
+
+In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order. 
+
+Tosa authorities were most severe, 
+
 
 Kouamé concludes that the response to the Shikoku pilgrimage "reveals that the political authorities of the latter Tokugawa period were tolerant regarding the mobility of the ordinary populace" (ibid, 143) 
 
