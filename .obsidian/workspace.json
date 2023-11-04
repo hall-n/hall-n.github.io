@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nukemairi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,10 +203,12 @@
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "論文/Bibliography.md",
+    "Bakufu and Daimyo/Permit System.md",
+    "Overall Travel Situation.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+    "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
+    "論文/Bibliography.md",
     "~単語.md",
     "論文/Title & Thesis.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -227,8 +230,6 @@
     "~Train of thought.md",
     "Historian's arguments/Paramore 2012, Confucian based Tokugawa was not authoritarian but bottom up.md",
     "Historian's arguments/Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
-    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
-    "Bakufu and Daimyo/Oda & Ieyasu's leadership policies.md",
     "~travel.jpg",
     "Historian's arguments",
     "~Outline.canvas",
