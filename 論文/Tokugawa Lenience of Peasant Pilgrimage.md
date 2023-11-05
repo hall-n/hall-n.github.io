@@ -254,6 +254,8 @@ More specific example of that government's political stance can be seen in Param
 This argument against the idea that the Tokugawa government was top-down and authoritarian
 A concrete example of this bottom-up governance can be seen in Roberts (1998) research on mercantilism in the Edo period. 
 
+Nakai's research
+
 ##### Tosa Daimyo (Roberts)
 #Roberts_1998
 
@@ -324,6 +326,7 @@ Blacker, Carmen. 1984. “The Religious Traveller in the Edo Period.” _Modern 
 Fabricand-Person, Nicole. 2011. “The Tōkaidō Road: Journeys through Japanese Books and Prints in the Collections of Princeton University.” _The Princeton University Library Chronicle_ 73 (1): 68–99. [https://doi.org/10.25290/prinunivlibrchro.73.1.0068](https://doi.org/10.25290/prinunivlibrchro.73.1.0068).
 
 Goree, Robert. 2020. “The Culture of Travel in Edo-Period Japan.” In _Oxford Research Encyclopedia of Asian History_. [https://doi.org/10.1093/acrefore/9780190277727.013.72](https://doi.org/10.1093/acrefore/9780190277727.013.72)
+
 %%Hall, John Whitney, ed. 1991. _The Cambridge History of Japan: Volume 4: Early Modern Japan_. Vol. 4. The Cambridge History of Japan. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CHOL9780521223553](https://doi.org/10.1017/CHOL9780521223553).%%
 
 Ishimori, Shuzo. 1995. “Tourism and Religion: From the Perspective of Comparative Civilization.” _Senri Ethnological Studies_ 38: 11–24.
@@ -343,6 +346,7 @@ Paramore, Kiri. 2012. “The Nationalization of Confucianism: Academism, Examina
 Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa_. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CBO9780511572760](https://doi.org/10.1017/CBO9780511572760).
 
 Seaton, Philip A., 山村高淑, 須川亜紀子, and Kyungjae Jang. 2017. _Contents Tourism in Japan : Pilgrimages to “Sacred Sites” of Popular Culture_. Cambria Press. [https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411](https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411).
+
 %%
 Sheldon, Charles D. 1971. “‘Pre-Modern’ Merchants and Modernization in Japan.” _Modern Asian Studies_ 5 (3): 193–206. [https://doi.org/10.1017/S0026749X00004017](https://doi.org/10.1017/S0026749X00004017).%%
 
