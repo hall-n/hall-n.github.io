@@ -6,7 +6,7 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 27.472527472527474,
+        "dimension": 54.22715627668659,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -38,7 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+                "file": "論文/Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "278b2b519067a24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historian's arguments/Goree's Argument, Culture of Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +62,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 72.52747252747253,
+        "dimension": 45.77284372331341,
         "children": [
           {
             "id": "3fd1275da03df3e9",
@@ -198,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +225,13 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
-    "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "論文/Bibliography.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "Historian's arguments/Goree's Argument, Culture of Travel.md",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+    "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Bakufu and Daimyo/Permit System.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
@@ -241,7 +253,6 @@
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "~Grading.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "~Train of thought.md",
     "~travel.jpg",
     "Historian's arguments",
     "~Outline.canvas",
