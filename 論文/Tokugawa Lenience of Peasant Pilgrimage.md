@@ -214,25 +214,21 @@ Another type of pilgrimage that was seen as problematic was the *nukemairi*, the
 #Kouamé_1997
 Another part responsible for the negative view of pilgrimage is the "solitary, mendicant pilgrims"(Ambros 2008, 145) who traveled around the Shikoku circuit pilgrimage of eighty-eight religious sites, a journey that often took a period of months. The Shikoku pilgrimage is therefore often referenced as cases where the authorities were more restrictive towards pilgrims (Vaporis 1994). As Ambros argues, however, the constraints that the domain authorities instituted in Shikoku were cases where they "perceived religious travel as a burden on the communities that hosted pilgrims as well as on the home communities left behind" (2008, 146) and thus were for the sake of the region, not because they were against pilgrimage. 
 
-While the authorities did institute a number of constraints on Shikoku pilgrimage, amidst these the constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry, as argued by Kouamé (1997). She points out that while the authorities did try to closely regulate pilgrims and forbid the disorderly and disruptive elements of the pilgrimage, they also provided a system of support for those in need who followed the regulations"(ibid, 424). 
+When looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant and were instituted in order to protect the region. Kouame argues that this is likely because the Shikoku circuit pilgrimage were usually not connected to religious associations, and were undertaken by individuals or small groups, unlike pilgrimages like Ise and Oyama who had religious institutions promoting and managing the pilgrim's travel directly. In addition, while the authorities did institute a number of constraints on Shikoku pilgrimage, amidst these the constraints can be seen a clear tolerance in an attempt to support a positive pilgrimage industry. Kouamé (1997) argues that while the authorities did try to closely regulate pilgrims and forbid the disorderly and disruptive elements of the pilgrimage, they also provided a system of support for those in need who followed the regulations"(ibid, 424). 
 Kouamé therefore argues that local authorities should not be analyzed in terms of oppressive control, because they "did help pilgrims who were in trouble" (ibid, 421). 
 
+The strictness of the Shikoku authorities, therefore, are their response to it being a different type of pilgrimage. 
 ###### Support service for pilgrims
 For example, in the case of a pilgrim's illness or death, they could depend on local officials to provide <mark style="background: #FFF3A3A6;">medical care</mark>, <mark style="background: #FFF3A3A6;">repatriation to their home town</mark>, or organize their <mark style="background: #FFF3A3A6;">burial</mark>. 行き倒れ遍路
 
 Looking at how many pilgrims the authorities helped return to their home regions was "quite significant", Kouamé argues. "It it clear that such assistance was standard practice" (ibid, 423), and may have been the Shikoku authorities just following the rules laid down by the Tokugawa bakufu. 
+This support for pilgrims were ordinances that was enacted in the late seventeenth century by the bakufu. ( MURAKAMI 1995, pp. 2–4) (kouame 423). Therefore, while some historians may point to the Shikoku pilgrimage as an example of the bakufu's opposition of pilgrimage, examining it closer provides evidence of bakufu's support of the pilgrims during their journey. 
 
-"Tokugawa bakufu since the end of the seventeenth century. Indeed, several successive ordinances—the ³rst one was enacted in 1688—stipulated the measures (medical examination, medical care, inspection of the õrai tegata, contact with the relatives; see MURAKAMI 1995, pp. 2–4) (kouame 423)
-
-Therefore, while some historians may point to the Shikoku pilgrimage as an example of the bakufu's opposition of pilgrimage, it provides evidence of bakufu's support of the pilgrims during their journey. 
-
-When looking at the level of freedom that the authorities were granting pilgrims, the constraints of the regulations were comparatively insignificant and were instituted in order to protect the region. 
 Of course there were punishment for violates of rules, such as denying the pilgrims entrance to a province. In one such instance in the early 1800s, two sick pilgrims who were undertaking the Shikoku pilgrims in hopes of it curing their illness were denied entry into the region of Tosa (WHERE). In looking at the situation of the region at this time however, Kouamé observes that they were experiencing a famine, and likely were trying to prevent the sick pilgrims who might stay in the province beyond their allotted time and thus become a burden to the locals (ibid, 418). 
 This example shows that background of the situation surrounding actions taken against pilgrims needs careful consideration. This caution exercised by authorities is not a reflection of their position against pilgrimage, but against specific cases of negative regional repercussions or antisocial elements. 
 
 These antisocial elements existed perhaps commonly in the Shikoku pilgrimage,
 example. 
-
 However, "existence of such elements seems to have had no influence on the general attitudes of local authorities towards common pilgrims" (Kouamé 1997, 419)
 
 In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order. 
