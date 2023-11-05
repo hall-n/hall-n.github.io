@@ -6,7 +6,7 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 44.78632478632479,
+        "dimension": 27.472527472527474,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -31,13 +31,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b6bb8110269d11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 55.21367521367522,
+        "dimension": 72.52747252747253,
         "children": [
           {
             "id": "3fd1275da03df3e9",
@@ -185,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +214,7 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
@@ -211,7 +226,6 @@
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "~単語.md",
     "論文/Title & Thesis.md",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "~Mind Map.canvas",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
