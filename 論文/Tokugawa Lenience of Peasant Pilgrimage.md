@@ -25,6 +25,8 @@ I argue that the bakufu and daimyo position towards peasant travel was not to co
 - reluctance of the bakufu to enforce its travel laws
 - commoners, however, found ways to circumvent these barriers, frequently ignoring the laws designed to control their mobility.
 %%
+
+# Thesis
 ## Introduction (850-1000 words)
 As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu took steps to ensure that daimyo would not have the means of uprising against the newfound government, implementing the alternate attendance system which required daimyo to make regular trips to Edo. In order to facilitate this compulsory travel, the bakufu instituted extensive infrastructure, building a centralized road network and positioned barrier stations, or *sekisho*, along its route in order to monitor movement. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover. The bakufu also established post stations that offered lodging, food, and travel services. While these services had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes.  
 
@@ -49,11 +51,12 @@ Following this, an examination of **how pilgrimage turned into a consumerist tou
 Next, an analysis of **how authorities respond to this industry** reveals that in many cases where communities take steps to allow and support pilgrimage travel they are met with positive responses from authorities (Ambros 2008, Kouamé 1997,  Thal 2005). In cases where the authorities attempt to restrict pilgrimage (Vaporis ?), the main factor in the authorities' actions appears to be for the purpose of limiting the negative economic effect of pilgrimage that it had towards the surrounding region. I argue that in both of these cases reflect the authorities' concern with the economy; therefore they limit pilgrimage when it has negative affect on region and allowing it when the effect is positive or neutral. 
 Finally, I argue that the reason the **Tokugawa authorities were primarily concerned with the economy was due to their style of governance** that realized the overall benefit in ensuring prosperity of the lower class. This can be traced back to the beginning of Edo period when they restructured the rice tax and prioritized agricultural development, even at the sake of improving the quality of life for the commoners. 
 research of Tokugawa bakufu and daimyo governance reveals a trend of moving away from authoritarian methods and instead allowing the lower classes to be prosperous. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity.
-To support this argument I present research that reveals the bottom-up style of governance that looks more democratic than authoritarian (Paramore 2012), and research that shows benevolent ruling was becoming more common and linked to a region's prosperity (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, another possibility is that it simply was more economically rewarding for the rulers. As my previous research on the rice tax revealed, the bakufu saw it in their own wellbeing to benevolently leave the peasants with a surplus, because it led to an overall increase in rice tax and an increase in other commodities. %%I believe this to represent their overall priority and interest in the economy.%%
-From the findings of this research, I argue that the economic potential of pilgrimage, which was exploited by the religiously affiliated oshi, popularized by media and enhanced by the competition of regional businesses, was also understood by the bakufu a became a determining factor in how they, and subsequently the regional authorities, responded to pilgrimage. The tourism industry intertwined in/of pilgrimage was greatly important to the regions and therefore would also be important to the rulers, as it was in their best interest to ensure the region's economic prosperity.
-%%
+To support this argument I present research that reveals the bottom-up style of governance that looks more democratic than authoritarian (Paramore 2012), and research that shows benevolent ruling was becoming more common and linked to a region's prosperity (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, another possibility is that it simply was more economically rewarding for the rulers. As my previous research on the rice tax revealed, the bakufu saw it in their own wellbeing to benevolently leave the peasants with a surplus, because it led to an overall increase in rice tax and an increase in other commodities. 
 
-%%
+I believe this to represent their overall priority and interest in the economy.
+
+From the findings of this research, I argue that the economic potential of pilgrimage, which was exploited by the religiously affiliated oshi, popularized by media and enhanced by the competition of regional businesses, was also understood by the bakufu a became a determining factor in how they, and subsequently the regional authorities, responded to pilgrimage. The tourism industry intertwined in/of pilgrimage was greatly important to the regions and therefore would also be important to the rulers, as it was in their best interest to ensure the region's economic prosperity.
+
 **position of benevolent ruler** and being primarily concerned with the economy and region's prosperity. 
 Evidence: 
 	- Confucian based Tokugawa was not authoritarian but bottom up ( #Paramore_2012)
@@ -327,15 +330,12 @@ Fabricand-Person, Nicole. 2011. “The Tōkaidō Road: Journeys through Japanese
 
 Goree, Robert. 2020. “The Culture of Travel in Edo-Period Japan.” In _Oxford Research Encyclopedia of Asian History_. [https://doi.org/10.1093/acrefore/9780190277727.013.72](https://doi.org/10.1093/acrefore/9780190277727.013.72)
 
-%%Hall, John Whitney, ed. 1991. _The Cambridge History of Japan: Volume 4: Early Modern Japan_. Vol. 4. The Cambridge History of Japan. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CHOL9780521223553](https://doi.org/10.1017/CHOL9780521223553).%%
-
 Ishimori, Shuzo. 1995. “Tourism and Religion: From the Perspective of Comparative Civilization.” _Senri Ethnological Studies_ 38: 11–24.
 
 Kanzaki, Noritake. 1995. “A Comparative Analysis of the Tourist Industry.” _Senri Ethnological Studies_ 38: 39–49.
 
 Kouamé, Nathalie. 1997. “Shikoku’s Local Authorities and Henro during the Golden Age of the Pilgrimage.” _Japanese Journal of Religious Studies_ 24 (November): 413–25. [https://doi.org/10.18874/jjrs.24.3-4.1997.413-425](https://doi.org/10.18874/jjrs.24.3-4.1997.413-425).
 
-%%Langrill, Ryan. 2012. “The Evolution of Merchant Moral Thought in Tokugawa Japan.” _Journal of Philosophical Economics_ Volume V Issue 2 (Articles). [https://doi.org/10.46298/jpe.10625](https://doi.org/10.46298/jpe.10625).%%
 
 Nenzi, Laura. 2004a. “Cultured Travelers and Consumer Tourists in Edo-Period Sagami.” _Monumenta Nipponica_ 59 (3): 285–319.
 
@@ -347,8 +347,6 @@ Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins 
 
 Seaton, Philip A., 山村高淑, 須川亜紀子, and Kyungjae Jang. 2017. _Contents Tourism in Japan : Pilgrimages to “Sacred Sites” of Popular Culture_. Cambria Press. [https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411](https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411).
 
-%%
-Sheldon, Charles D. 1971. “‘Pre-Modern’ Merchants and Modernization in Japan.” _Modern Asian Studies_ 5 (3): 193–206. [https://doi.org/10.1017/S0026749X00004017](https://doi.org/10.1017/S0026749X00004017).%%
 
 Thal, Sarah. 2005. _Rearranging the Landscape of the Gods: The Politics of a Pilgrimage Site in Japan, 1573-1912_. Studies of the Weatherhead East Asian Institute, Columbia University. Chicago: University of Chicago Press. [http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html](http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html).
 
@@ -361,7 +359,5 @@ Vaporis, Constantine Nomikos. 1994. _Breaking Barriers: Travel and the State in 
 Wigen, Kären. 2010. “Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan.” JSTOR.
 
 Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_.
-%%
-押田佳子, 憲久横内, 智秀岡田, and 尚紘瀬畑. 2011. “紀行文より捉えた近世鎌倉における観光経路および滞在拠点の成立過程に関する研究.” ランドスケープ研究 74 (5): 431–36. [https://doi.org/10.5632/jila.74.431](https://doi.org/10.5632/jila.74.431).
-%%
+
 真野俊和 and ローラ・ネンジ(訳). 2002. “旅･巡礼･遊山―近世参詣事情（英訳版）.” _Monumenta Nipponica : Studies on Japanese Culture Past and Present_ 57 (4): 447–71.
