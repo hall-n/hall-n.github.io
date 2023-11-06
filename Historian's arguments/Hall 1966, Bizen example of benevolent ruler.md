@@ -1,5 +1,19 @@
 *Hall 1966, Government and local power in Japan, 500 to 1700*
 #Hall_1966 
+
+#### Governance styles of early Tokugawa 
+
+
+Except for those few sengoku-daimyé on the fringes of the islands who managed to keep their territories under the Tokugawa, the rest of the entire top bracket of the military aristocracy in Japan now traced its origins to that narrow sector of central Japan which had been the home of the Oda and Tokugawa houses. 344
+So long as an active balance between fudai and tozama daimyo immobilized opposition to the shogun, the Tokugawa ready forces of gokenin and hatamoto was in fact the dominant power in all Japan.
+..
+During the period of Tokugawa hegemony Japan was governed under the broad unifying capacity of the shogun, but actual administration was partially decentralized under the regional authorities of the various daimyo. This was a system which had no ready counterpart to the national structures of other societies, and hence any attempt to characterize it by such terms as late feudalism, centralized feudalism, or military absolutism is apt to be misleading. The Tokugawa regime must be understood in its own terms as a political organism in which the daimyo set the basic pattern of local 345
+government, accepting a unity under the shogun which precluded further warfare but which left them a considerable degree of autonomy. 346
+(Tokugawa connecting himself to Minamoto (Genji) and *ason* close to the imperial family) These many aspects of the aristocratic social tradition were kept alive by the Tokugawa, reinforced and formalized after 1600 as new peerages were drawn up and the daimyo houses fitted into the hierarchy of lineages. 348
+
+
+
+
 #### Bizen's Mitumasa's quality of social responsibility
 In Bizen Mitsumasa quickly proved himself one of the great daimyo of his age, gaining a reputation as one of the “three outstanding administrators” of the Tokugawa period. The events of Mitsumasa’s rule are therefore doubly important, since it was under him that the institutions of the Tokugawa Great Peace were firmly established (402)
 in Bizen and since Mitsumasa provides us with one of the best examples of the successful daimyo of the Tokugawa age. (403)
