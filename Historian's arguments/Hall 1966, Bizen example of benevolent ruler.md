@@ -12,7 +12,39 @@ government, accepting a unity under the shogun which precluded further warfare b
 (Tokugawa connecting himself to Minamoto (Genji) and *ason* close to the imperial family) These many aspects of the aristocratic social tradition were kept alive by the Tokugawa, reinforced and formalized after 1600 as new peerages were drawn up and the daimyo houses fitted into the hierarchy of lineages. 348
 
 
+Such were the many traditional sources of legitimacy plumbed
+by the Tokugawa shoguns. Yet despite all that has been said, the legal **precariousness of the Tokugawa shogunate** is obvious, and was obvious to the men of the Tokugawa period as well. Sovereignty continued to rest in the emperor, and the chief justification of the shogunate was that it was best qualified to rule in the name of the emperor. That this laid the shogunate open to attacks of (354) usurpation and that it became a fatal weakness when once its power had failed is well known. Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon. This in turn rested largely on the effective power base upon which the shogunate was built. In a rough way this power base was equatable to the balance
+of land holdings touched upon in the previous part of this chapter.(353)
 
+Bakufu administrative dominance of major commercial centers could mean that the shogun had access to the largest supplies of loan capital, and through the great cities of Edo and Osaka the shogunate could pretty well control monetary and commercial policy in Japan. 358
+
+
+Any assessment of the effective balance of military power represented by the strategic disposition of shogunal and daimyo territories must be based on an analysis of the manpower and economic resources which these territories made available to the competing groups within the political system.  357
+Tokugawa's authority 
+If Tokugawa manpower was rather thinly and irregularly distributed across the Japanese islands, the shogun’s lands were outstanding in terms of their economic potential. It is generally assumed that the shogun attempted to reserve for himself land which was of highest quality and productiveness. 358
+
+(Tokugawa's control of mines, can regulate currency, monopoly of foreign imports, monopoly of internal commodities like marine products and vegetable oils)
+So long as the economic and technological level of the country re- (358)
+mained relatively unchanged, the Tokugawa could thus claim certain economic advantages which made possible their domination of national economic policy and the nationwide organs of exchange and transportation. 
+BaAsED upon these and many other sources of real power the Tokugawa shogunate was able to organize a system of controls which institutionalized the supremacy of the shogun in government and over the major sectors of national life. The(359)
+
+
+Daimyo's precariousness
+While it was expected that daimyo held their territories as hereditary grants, in actuality their tenure was precarious and at the pleasure of each shogun. Confiscation or transfer from one locality to another was quite frequent (362)
+Changes of domain, known as kaieki, were ordered by the shogun under a number of circumstances but primarily for lack of heir, mismanagement, infringement of the basic regulations of the shogunate, or, of course, as a sign of favor.  (362)
+
+**Inspection of daimyo**
+Inspection of the daimyo domains, both openly and through
+an intelligence system, was common. In 1633 Iemitsu began the practice of dispatching inspectors (junkenshi) to the domains of the daimyo to check on local conditions. They asked questions concerning the productivity of the domains, their financial and military resources, population, methods of administration, the standard of living of the people, and the like. (364)
+
+**Decentralized**
+In the baku-han system, the shogun governed directly only his own tenry0. The rest of the country remained under the decentralized rule of the daimyo. Moreover (367)
+The preponderance of shogunal power was so great, the shogunal lands were so widespread, so many of the important towns and cities were under direct shogunal control, and so many of the daimyo (particularly the fudai) were so completely integrated into the bakufu machinery, that the shogunate did in most senses constitute a central authority. The bakufu bureaucracy provided for much more than simply the administration of the tenryd; in fact, it bore responsibility for (368) 
+
+The tendency to adopt uniform policies and procedures increased tremendously as the daimyo established their residences in Edo and themselves became part of an integrated, elite society. 374
+
+Used confucian thought to 
+Tokugawa shoguns and their daimyo subordinates made extensive use of Confucian principles of social theory and value in order to rationalize the social system of their day and add the sanctity of doctrine to the status-based legislation in which they indulged. (370)
 
 #### Bizen's Mitumasa's quality of social responsibility
 In Bizen Mitsumasa quickly proved himself one of the great daimyo of his age, gaining a reputation as one of the “three outstanding administrators” of the Tokugawa period. The events of Mitsumasa’s rule are therefore doubly important, since it was under him that the institutions of the Tokugawa Great Peace were firmly established (402)
