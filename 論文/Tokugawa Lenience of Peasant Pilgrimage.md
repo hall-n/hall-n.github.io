@@ -241,15 +241,37 @@ This focus on ensuring the prosperity of the common people reflects the changing
 While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants" for their own benefit, Tanimoto does at admit that there are some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped. My argument goes beyond that to argue that there was a trend in the governance of both the bakufu and the daimyo toward this benevolence rule, or liberalistic rule (REF). 
 
 ##### Bizen Daimyo (Hall)
-This observation that the government was concerned with the well-being of the lower class is reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). He argues that that Mitsumasa daimyo of the Bizen province, whose style of government lasted for two hundred years, provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403). 
 
-<mark style="background: #FFF3A3A6;">Type of governance.</mark>
+In outlining the changes in ? and Edo period Japan, he examines in detail Tokugawa's rise to power. In order to legitimize this position, Tokugawa house connects itself  to the imperial family and 
+Despite the many steps taken to legitimize the Tokugawa house, the position as best fit to rule in the name of the emperor, the Tokugawa shogunate's position in fact precarious. "Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon" (Hall 1966, 353). Thus Tokugawa shogunate made attempts to put in their direct control the most productive lands and commercial centers, as this meant that they had "access to the largest supplies of loan capital" and "could control monetary and commercial policy" (358). While the shogunate's manpower was thinly distributed across Japan, "So long as the economic and technological level of the country remained relatively unchanged, the Tokugawa could thus claim certain economic advantages which made possible their domination of national economic policy and the nationwide organs of exchange and transportation" (ibid, 358-359). This is the reason behind the bakuf's focus on the economy, and why they closely managed the rice market as revealed in Hall (2022). 
+In other words, the power of the Tokugawa bakufu was closely connected to the economic potential they held 
+
+The changes that the Tokugawa shogunate made in order to solidify and protect their authority and claim to powe
+
+To supplement this power, Tokugawa shoguns also used Confucian values and principles to "rationalize the social system of their day and add the sanctity of doctrine to the status-based legislation in which they indulged" (Hall 1966, 370). The shogunate's justification of power was reliant on his being the most qualified to rule the country in the emperor's name. Perhaps this is why they decided to use the Confucian concept of a 'benevolent ruler' for the benefit of the people. 
+
+These social changes put the daimyo into a precarious position, as 
+
+"But the spread of this new functional approach to social organization created yet another need, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced" (393)
+
+For similar reasons, the daimyo also took up these Confucian values of "benevolence".  
+The daimyo were relocated and restructured in order to immobilize potential opposition to Tokugawa regime, and the samurai were taken from the villages and put to live in the castle towns. This meant the daimyo's direct connection to the villages had greatly weakened. "As a consequence the peasantry and other classes as well came to acquire a more uniform public identity ",  and the position of the daimyo shifted from "manorial lords or patriarchal superiors" to  as "rulers and officials" (392. 
+In addition, the tenure of a daimyo's family was not always hereditary, and "[c]onfiscation or transfer from one locality to another was quite frequent" (ibid 362). There were regular inspections of the daimyo by the bakufu, checking the domain's productivity, administration methods, financial resources, and the people's standards of living. Changes to daimyo that the bakufu ordered for usually "for lack of heir, mismanagement, infringement of the basic regulations of the shogunate, or, of course, as a sign of favor" (ibid 362). From these changes the daimyo no doubt felt the responsibility of their realm's productivity and prosperity, and how they managed their realm became vital to their survivial. Hall argues this is why the daimyo, like the Tokugawa regime, turned to Confucian values. He observes that "The successful daimyo after 1600 was one who learned to master the ethical-rational system of beliefs which supported his right to rule as a benevolent autocrat committed to the welfare of his subjects" (Hall 1966, 393).
+
+But the spread of this new functional approach to social organization created yet another need, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced. It was this requirement which put a premium upon the daimyo’s ability to civilize himself and to assume the guise of the enlightened despot. And it was in this context that the Tokugawa reliance on Confucian ethical values and concepts of social structure played such important roles. (393)
+
+These changes fundamentally changed the "whole structure of society and the exercise of authority", and the relationships of society that had been "essentially vertical systems were being replaced by more generalized, horizontally defined, functional group relationships" (Hall 1966, 392-393)
+
+
+This observation that the government was concerned with the well-being of the lower class is reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). He argues that that Mitsumasa daimyo of the Bizen province, whose style of government lasted for two hundred years, provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403). 
 
 Hall describes the principles of Mitsumasa's governance as being based on Confucian principles of benevolent authoritarianism. 
 
   "Mitsumasa built upon the foundations of military organization and civil administration which had been laid by his predecessors, filling out the body of codified injunctions and bureaucratic precedents. But he went further and added to his rule the indispensable ingredient of moral rationale" (ibid, 403).
   
 While this type of administration became typical of the larger daimyo during the Tokugawa period (ibid, 410), they were concepts that originated with the Tokugawa bakufu, who drew "upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). Therefore, Mitsumasa's fame was due to how adapted these ideas to daimyo rule and "persistently sought to regulate his own conduct by them".
+
+The precarious position of both the bakufu and the daimyo led to their using the Confucsian value of benevolent ruler in order to validate their position, and their focusing on their economic power in lieu of military power. 
 
 ##### Bakufu governance changes (Paramore)
 More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period. Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, he argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). 
@@ -295,7 +317,11 @@ Next, an analysis of **how authorities respond to this industry** reveals that i
 
 
 Finally, I argue that the reason the **Tokugawa authorities were primarily concerned with the economy was due to their style of governance** that realized the overall benefit in ensuring prosperity of the lower class. This can be traced back to the beginning of Edo period when they restructured the rice tax and prioritized agricultural development, even at the sake of improving the quality of life for the commoners. 
-research of Tokugawa bakufu and daimyo governance reveals a trend of moving away from authoritarian methods and instead allowing the lower classes to be prosperous. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity.
+research of Tokugawa bakufu and daimyo governance reveals a trend of 
+using Confucian ideals of benevolent rule and economic prosperity of the people in order to legitimize their position.
+
+moving away from authoritarian methods and prioritizing the welfare of the people. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity.
+
 To support this argument I present research that reveals the bottom-up style of governance that looks more democratic than authoritarian (Paramore 2012), and research that shows benevolent ruling was becoming more common and linked to a region's prosperity (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, another possibility is that it simply was more economically rewarding for the rulers. As my previous research on the rice tax revealed, the bakufu saw it in their own wellbeing to benevolently leave the peasants with a surplus, because it led to an overall increase in rice tax and an increase in other commodities. %%I believe this to represent their overall priority and interest in the economy.%%
 
 From the findings of this research, I argue that the economic potential of pilgrimage, which was exploited by the religiously affiliated oshi, popularized by media and enhanced by the competition of regional businesses, was also understood by the bakufu a became a determining factor in how they, and subsequently the regional authorities, responded to pilgrimage. The tourism industry intertwined in/of pilgrimage was greatly important to the regions and therefore would also be important to the rulers, as it was in their best interest to ensure the region's economic prosperity.

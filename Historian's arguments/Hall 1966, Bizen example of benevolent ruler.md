@@ -3,18 +3,17 @@
 
 #### Governance styles of early Tokugawa 
 
-
+**The daimyo were relocated and restructured in order to immobolize potential opposition to Tokugawa regime.**
 Except for those few sengoku-daimyé on the fringes of the islands who managed to keep their territories under the Tokugawa, the rest of the entire top bracket of the military aristocracy in Japan now traced its origins to that narrow sector of central Japan which had been the home of the Oda and Tokugawa houses. 344
 So long as an active balance between fudai and tozama daimyo immobilized opposition to the shogun, the Tokugawa ready forces of gokenin and hatamoto was in fact the dominant power in all Japan.
 ..
+
 During the period of Tokugawa hegemony Japan was governed under the broad unifying capacity of the shogun, but actual administration was partially decentralized under the regional authorities of the various daimyo. This was a system which had no ready counterpart to the national structures of other societies, and hence any attempt to characterize it by such terms as late feudalism, centralized feudalism, or military absolutism is apt to be misleading. The Tokugawa regime must be understood in its own terms as a political organism in which the daimyo set the basic pattern of local 345
 government, accepting a unity under the shogun which precluded further warfare but which left them a considerable degree of autonomy. 346
 (Tokugawa connecting himself to Minamoto (Genji) and *ason* close to the imperial family) These many aspects of the aristocratic social tradition were kept alive by the Tokugawa, reinforced and formalized after 1600 as new peerages were drawn up and the daimyo houses fitted into the hierarchy of lineages. 348
 
 
-Such were the many traditional sources of legitimacy plumbed
-by the Tokugawa shoguns. Yet despite all that has been said, the legal **precariousness of the Tokugawa shogunate** is obvious, and was obvious to the men of the Tokugawa period as well. Sovereignty continued to rest in the emperor, and the chief justification of the shogunate was that it was best qualified to rule in the name of the emperor. That this laid the shogunate open to attacks of (354) usurpation and that it became a fatal weakness when once its power had failed is well known. Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon. This in turn rested largely on the effective power base upon which the shogunate was built. In a rough way this power base was equatable to the balance
-of land holdings touched upon in the previous part of this chapter.(353)
+Such were the many traditional sources of legitimacy plumbed by the Tokugawa shoguns. Yet despite all that has been said, the legal **precariousness of the Tokugawa shogunate** is obvious, and was obvious to the men of the Tokugawa period as well. Sovereignty continued to rest in the emperor, and the chief justification of the shogunate was that it was best qualified to rule in the name of the emperor. That this laid the shogunate open to attacks of (354) usurpation and that it became a fatal weakness when once its power had failed is well known. Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon. This in turn rested largely on the effective power base upon which the shogunate was built. In a rough way this power base was equatable to the balance of land holdings touched upon in the previous part of this chapter.(353)
 
 Bakufu administrative dominance of major commercial centers could mean that the shogun had access to the largest supplies of loan capital, and through the great cities of Edo and Osaka the shogunate could pretty well control monetary and commercial policy in Japan. 358
 
@@ -51,7 +50,7 @@ By the end of the seventeenth century nearly all daimyo had successfully withdra
 
 It is this subtle but fundamental change in the whole structure of society and the exercise of authority in Japan which marked the transition from the age of the sengoku-daimyo to that of the Tokugawa baku-han system.
 Throughout Japanese society the authority relationships between lord and vassal, between enfeoffed proprietor and cultivator, between patriarchal family head and attached household, these essentially vertical systems were being replaced by more generalized, horizontally defined, functional group relationships. (392)
-But the spread of this new functional approach to social organization created yet another ened, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced. It was this requirement which put a premium upon the daimyo’s ability to civilize himself and to assume the guise of the enlightened despot. And it was in this context that the Tokugawa reliance on Confucian ethical values and concepts of social structure played such important roles. (393)
+But the spread of this new functional approach to social organization created yet another need, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced. It was this requirement which put a premium upon the daimyo’s ability to civilize himself and to assume the guise of the enlightened despot. And it was in this context that the Tokugawa reliance on Confucian ethical values and concepts of social structure played such important roles. (393)
 **The successful daimyo after 1600 was one who learned to master the ethical-rational system of beliefs which supported his right to rule as a benevolent autocrat committed to the welfare of his subjects** (393)
 #### Bizen's Mitumasa's quality of social responsibility
 In Bizen Mitsumasa quickly proved himself one of the great daimyo of his age, gaining a reputation as one of the “three outstanding administrators” of the Tokugawa period. The events of Mitsumasa’s rule are therefore doubly important, since it was under him that the institutions of the Tokugawa Great Peace were firmly established (402)
