@@ -242,13 +242,13 @@ While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benev
 
 ##### Bizen Daimyo (Hall)
 
-In outlining the changes in ? and Edo period Japan, he examines in detail Tokugawa's rise to power. In order to legitimize this position, Tokugawa house connects itself  to the imperial family and 
+In outlining the changes in ? and Edo period Japan, he examines in detail Tokugawa's rise to power and the changes they made to retain it. To legitimize the position of shogun, the Tokugawa house connected itself to the imperial family and Minamoto line, however he was 
 Despite the many steps taken to legitimize the Tokugawa house, the position as best fit to rule in the name of the emperor, the Tokugawa shogunate's position in fact precarious. "Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon" (Hall 1966, 353). Thus Tokugawa shogunate made attempts to put in their direct control the most productive lands and commercial centers, as this meant that they had "access to the largest supplies of loan capital" and "could control monetary and commercial policy" (358). While the shogunate's manpower was thinly distributed across Japan, "So long as the economic and technological level of the country remained relatively unchanged, the Tokugawa could thus claim certain economic advantages which made possible their domination of national economic policy and the nationwide organs of exchange and transportation" (ibid, 358-359). This is the reason behind the bakuf's focus on the economy, and why they closely managed the rice market as revealed in Hall (2022). 
 In other words, the power of the Tokugawa bakufu was closely connected to the economic potential they held 
 
-The changes that the Tokugawa shogunate made in order to solidify and protect their authority and claim to powe
+The changes that the Tokugawa shogunate made in order to solidify and protect their authority and claim to power
 
-To supplement this power, Tokugawa shoguns also used Confucian values and principles to "rationalize the social system of their day and add the sanctity of doctrine to the status-based legislation in which they indulged" (Hall 1966, 370). The shogunate's justification of power was reliant on his being the most qualified to rule the country in the emperor's name. Perhaps this is why they decided to use the Confucian concept of a 'benevolent ruler' for the benefit of the people. 
+To supplement this power, Tokugawa shoguns also used Confucian values and principles to "rationalize the social system of their day and add the sanctity of doctrine to the status-based legislation in which they indulged" (Hall 1966, 370). The shogunate justification of power was reliant on his being the most qualified to rule the country in the emperor's name. Perhaps this is why they decided to use the Confucian concept of a 'benevolent ruler' for the benefit of the people. 
 
 These social changes put the daimyo into a precarious position, as 
 
