@@ -245,46 +245,29 @@ This focus on ensuring the prosperity of the common people reflects the changing
 While #Gordon_2003 and #Tanimoto_2019  argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants" for their own benefit, Tanimoto does at admit that there are some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped. My argument goes beyond that to argue that there was a trend in the governance of both the bakufu and the daimyo toward this benevolence rule, or liberalistic rule (REF). 
 
 ##### Bizen Daimyo (Hall)
+ #Hall_1966
+In the late seventeenth century as Tokugawa Ieyasu rose to power, he made many attempts to legitimize his position as shogun, including connecting his lineage to the imperial family and Minamoto line. Despite these efforts, however, he still remained politically precarious. To make up for this, he strengthened his economic power (which came largely from his landholdings), ensured the daimyo were also put into a precarious position, and drew upon Confucian ethics by using the claim of benevolent governance as justification for the Tokugawa regime (Hall 1966).
+To build his economic power, Tokugawa put in his direct control the most productive lands and commercial centers, which meant that he had control of monetary and commercial policy, and access to the largest supplies of loan capital. In addition, he also owned the largest mines of precious metals which helped his ability to control currency. While Tokugawa's manpower may  have been spread thin across all of Japan, as "long as the economic and technological level of the country remained relatively unchanged, the Tokugawa [administration] could thus claim certain economic advantages which made possible their domination of national economic policy and the nationwide organs of exchange and transportation" (ibid, 358-359). 
+In order to immobilize potential opposition of the daimyo to the Tokugawa regime, the daimyo were relocated and restructured, and the tenure of their family became no longer always hereditary. The bakufu conducted regular inspections of the daimyo, checking the domain's productivity, administration methods, financial resources, and the people's standards of living. The confiscation of a daimyo's lands or transfer to a different region, which happened frequently, were usually "for lack of heir, mismanagement, infringement of the basic regulations of the shogunate, or, of course, as a sign of favor" (ibid 362). In addition, the samurai were taken from the villages and put to live in the castle towns, which greatly weakened the daimyo's direct connection to the villages. As a consequence of these changes, "the peasantry and other classes as well came to acquire a more uniform public identity ",  and the position of the daimyo shifted from "manorial lords or patriarchal superiors" to "rulers and officials" (ibid, 392). Hall argues that "Tokugawa government rested on the fundamental conception that society was composed of statuses, or estates, each with its particular function" (ibid, 369). 
+However, this new approach to social organization created the need to devise a more rational basis and ideological foundation of one's rule. Thus the Tokugawa shoguns (and following their example the daimyo) drew upon the concepts from Confucianism, using its ethical values and principles of social structure in an attempt to justify their status-based legislation. The changes that the Tokugawa regime instituted in order to protect his hegemony, Hall argues, fundamentally transformed the "whole structure of society and the exercise of authority"; the relationships of society that had been "essentially vertical systems were being replaced by more generalized, horizontally defined, functional group relationships" (392-393). 
+These changes moved the focus to whether the ruler was fit to manage the subjects of the realm, as Hall points out that "the successful daimyo after 1600 was one who learned to master the ethical-rational system of beliefs which supported his right to rule as a benevolent autocrat committed to the welfare of his subjects" (ibid, 393).
 
-In the late seventeenth century as Tokugawa Ieyasu rose to power, the changes that he instituted in order to protect his hegemony fundamentally transformed the "whole structure of society and the exercise of authority"; the relationships of society that had been "essentially vertical systems were being replaced by more generalized, horizontally defined, functional group relationships" (Hall 1966, 392-393). While Tokugawa had many many attempts to legitimize his position as shogun, including connecting his lineage to the imperial family and Minamoto line, his position still remained politically precarious. To make up for this, he strengthened his economic power. 
-He put in his direct control the most productive lands and commercial centers, which meant that he had control of monetary and commercial policy, and access to the largest supplies of loan capital. In addition, he also owned the largest mines of precious metals which helped his ability to control currency. While Tokugawa's manpower may  have been spread thin across all of Japan, as "long as the economic and technological level of the country remained relatively unchanged, the Tokugawa [administration] could thus claim certain economic advantages which made possible their domination of national economic policy and the nationwide organs of exchange and transportation" (ibid, 358-359). 
-In order to immobilize potential opposition to the Tokugawa regime, the daimyo were relocated and restructured and the tenure of their family was not always hereditary. The bakufu conducted regular inspections of the daimyo, checking the domain's productivity, administration methods, financial resources, and the people's standards of living. The confiscation of a daimyo's lands or transfer to a different region, which happened frequently, were usually "for lack of heir, mismanagement, infringement of the basic regulations of the shogunate, or, of course, as a sign of favor" (ibid 362). This meant that the daimyo's position became precarious, and they no doubt felt that the their realm's prosperity and management were vital to their survival. 
-In addition, the samurai were taken from the villages and put to live in the castle towns, which greatly weakeneed the daimyo's direct connection to the villages. As a consequence of these changes, "the peasantry and other classes as well came to acquire a more uniform public identity ",  and the position of the daimyo shifted from "manorial lords or patriarchal superiors" to  as "rulers and officials" (392. However, this "new functional approach to social organization created yet another need, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced" (393)
 
-To supplement this power, Tokugawa shoguns also used Confucian values and principles to "rationalize the social system of their day and add the sanctity of doctrine to the status-based legislation in which they indulged" (Hall 1966, 370). 
 
-Hall argues this is why the daimyo, like the Tokugawa regime, turned to Confucian values. He observes that "The successful daimyo after 1600 was one who learned to master the ethical-rational system of beliefs which supported his right to rule as a benevolent autocrat committed to the welfare of his subjects" (Hall 1966, 393).
+
+%%**Mitsumasa example**
+As an example of this type of benevolent rule, Hall presents the Mitsumasa daimyo of the Bizen province, observing that the government was concerned with the well-being of the lower class. He argues that the style of government of the Bizen province, which lasted for two hundred years, provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403). 
+Hall describes the principles of Mitsumasa's governance as being based on Confucian principles of benevolent authoritarianism. 
+
+  "Mitsumasa built upon the foundations of military organization and civil administration which had been laid by his predecessors, filling out the body of codified injunctions and bureaucratic precedents. But he went further and added to his rule the indispensable ingredient of moral rationale" (ibid, 403).
+Mitsumasa's fame was due to how adapted the Confucian ethical ideas to his governance and "persistently sought to regulate his own conduct by them".
+%%
 
 "Throughout the Tokugawa period it was the existence of real power together with the symbols which combined to support the shogun in his position as hegemon" (Hall 1966, 353). 
 
 In other words, the power of the Tokugawa bakufu was closely connected to the economic potential they held 
 
-
-
-
-These social changes put the daimyo into a precarious position, as 
-
-
-In addition, 
-
-For similar reasons, the daimyo also took up these Confucian values of "benevolence".  
-
-
-
-But the spread of this new functional approach to social organization created yet another need, that the daimyo devise a more rational basis of authority, a new ideological foundation for his rule and the type of society it embraced. It was this requirement which put a premium upon the daimyo’s ability to civilize himself and to assume the guise of the enlightened despot. And it was in this context that the Tokugawa reliance on Confucian ethical values and concepts of social structure played such important roles. (393)
-
-
 This is the reason behind the bakuf's focus on the economy, and why they closely managed the rice market as revealed in Hall (2022).
-
-
-
-This observation that the government was concerned with the well-being of the lower class is reflected in Bizen's example of a benevolent ruler by John Hall ( #Hall_1966 1966). He argues that that Mitsumasa daimyo of the Bizen province, whose style of government lasted for two hundred years, provides "one of the best examples of the successful daimyo of the Tokugawa age" (ibid, 403). 
-
-Hall describes the principles of Mitsumasa's governance as being based on Confucian principles of benevolent authoritarianism. 
-
-  "Mitsumasa built upon the foundations of military organization and civil administration which had been laid by his predecessors, filling out the body of codified injunctions and bureaucratic precedents. But he went further and added to his rule the indispensable ingredient of moral rationale" (ibid, 403).
-  
-While this type of administration became typical of the larger daimyo during the Tokugawa period (ibid, 410), they were concepts that originated with the Tokugawa bakufu, who drew "upon the concepts of Confucianism and seeking ideological justification for its regime in the claims of benevolent government" (ibid, 403). Therefore, Mitsumasa's fame was due to how adapted these ideas to daimyo rule and "persistently sought to regulate his own conduct by them".
 
 The precarious position of both the bakufu and the daimyo led to their using the Confucsian value of benevolent ruler in order to validate their position, and their focusing on their economic power in lieu of military power. 
 
