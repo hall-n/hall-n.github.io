@@ -353,7 +353,6 @@ Kanzaki, Noritake. 1995. “A Comparative Analysis of the Tourist Industry.” _
 
 Kouamé, Nathalie. 1997. “Shikoku’s Local Authorities and Henro during the Golden Age of the Pilgrimage.” _Japanese Journal of Religious Studies_ 24 (November): 413–25. [https://doi.org/10.18874/jjrs.24.3-4.1997.413-425](https://doi.org/10.18874/jjrs.24.3-4.1997.413-425).
 
-
 Nenzi, Laura. 2004a. “Cultured Travelers and Consumer Tourists in Edo-Period Sagami.” _Monumenta Nipponica_ 59 (3): 285–319.
 
 Nosco, Peter. 1996. Review of _Review of Breaking Barriers: Travel and the State in Early Modern Japan_, by Constantine Nomikos Vaporis. _The American Historical Review_ 101 (4): 1259–60. [https://doi.org/10.2307/2169766](https://doi.org/10.2307/2169766).
@@ -363,7 +362,6 @@ Paramore, Kiri. 2012. “The Nationalization of Confucianism: Academism, Examina
 Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa_. Cambridge: Cambridge University Press. [https://doi.org/10.1017/CBO9780511572760](https://doi.org/10.1017/CBO9780511572760).
 
 Seaton, Philip A., 山村高淑, 須川亜紀子, and Kyungjae Jang. 2017. _Contents Tourism in Japan : Pilgrimages to “Sacred Sites” of Popular Culture_. Cambria Press. [https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411](https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411).
-
 
 Thal, Sarah. 2005. _Rearranging the Landscape of the Gods: The Politics of a Pilgrimage Site in Japan, 1573-1912_. Studies of the Weatherhead East Asian Institute, Columbia University. Chicago: University of Chicago Press. [http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html](http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html).
 
