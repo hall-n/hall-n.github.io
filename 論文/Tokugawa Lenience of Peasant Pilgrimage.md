@@ -64,9 +64,7 @@ Evidence:
 
 
 The bakufu envisioned the peasant's being tied to the land ( #Vaporis), as the rice crops were the  
-Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF). 
-
-
+Reasons for such a position have been argued to be due to the negative economic effects on the income they received due to the peasant's efforts at their fields (REF).
 %%
 
 ### Motivation
@@ -296,18 +294,19 @@ Sum up the reasons for tourism and how they outweigh against tourism. If the aut
 
 Following this, an examination of **how pilgrimage turned into a consumerist tourism industry.** Using studies that look closely at the development of pilgrimage reveals that the economic potential of these travelers was realized by the shrine and temples Oshi, who promoted and organized pilgrim's travel and organize travel for pilgrims (Kanzaki 1995). Their efforts resulted in the direct increase of pilgrims (Ambros 2008) and over time other local entities began to vie for the service of those travelers, creating a competitive market. This research emphasizes just how vital the tourism industry that emerged from pilgrimage came to be for many regions of Japan.
  
-Next, an analysis of **how authorities respond to this industry** reveals that in many cases where communities take steps to allow and support pilgrimage travel they are met with positive responses from authorities (Ambros 2008, Kouamé 1997,  Thal 2005). In cases where the authorities attempt to restrict pilgrimage (Vaporis ?), the main factor in the authorities' actions appears to be for the purpose of limiting the negative economic effect of pilgrimage that it had towards the surrounding region. I argue that in both of these cases reflect the authorities' concern with the economy; therefore they limit pilgrimage when it has negative affect on region and allowing it when the effect is positive or neutral. 
+Looking at how authorities responded to this industry reveals that in many cases where communities take steps to allow and support pilgrimage travel they are met with positive responses from authorities (Ambros 2008, Kouamé 1997,  Thal 2005). In cases where the authorities attempt to restrict pilgrimage (Vaporis ?), the main factor in the authorities' actions appears to be for the purpose of limiting the negative economic effect of pilgrimage that it had towards the surrounding region. I argue that both of these cases reflect the authorities' concern with the economy; therefore they limit pilgrimage when it has negative affect on region and allowing it when the effect is positive or neutral. 
 
+Finally, the reason why the **Tokugawa authorities were primarily concerned with the economy was due to their style of governance** which used Confucian ideals of benevolent rule and economic prosperity of the people in order to legitimize and strengthen the ruler's position. 
 
-Finally, I argue that the reason the **Tokugawa authorities were primarily concerned with the economy was due to their style of governance** that realized the overall benefit in ensuring prosperity of the lower class. This can be traced back to the beginning of Edo period when they restructured the rice tax and prioritized agricultural development, even at the sake of improving the quality of life for the commoners. 
+This can be traced back to the beginning of Edo period when they restructured the rice tax and prioritized agricultural development, which meant improving the quality of life for the commoners. 
 research of Tokugawa bakufu and daimyo governance reveals a trend of 
-using Confucian ideals of benevolent rule and economic prosperity of the people in order to legitimize their position.
+
 
 moving away from authoritarian methods and prioritizing the welfare of the people. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity.
 
-To support this argument I present research that reveals the bottom-up style of governance that looks more democratic than authoritarian (Paramore 2012), and research that shows benevolent ruling was becoming more common and linked to a region's prosperity (Hall 1966). While this research might argue that the basis for this style of governance was largely based in Confucianism, another possibility is that it simply was more economically rewarding for the rulers. As my previous research on the rice tax revealed, the bakufu saw it in their own wellbeing to benevolently leave the peasants with a surplus, because it led to an overall increase in rice tax and an increase in other commodities. %%I believe this to represent their overall priority and interest in the economy.%%
+This argument is support by research that reveals the bottom-up style of governance that looks more democratic than authoritarian (Paramore 2012), and research that shows benevolent ruling was becoming more common and linked to a region's prosperity (Hall 1966). While Hall's research might argue that the basis for this style of governance was largely based in Confucianism, another possibility is that it simply was more economically rewarding for the rulers. As my previous research on the rice tax revealed, the bakufu saw it in their own wellbeing to benevolently leave the peasants with a surplus, because it led to an overall increase in rice tax and an increase in other commodities. %%I believe this to represent their overall priority and interest in the economy.%%
 
-From the findings of this research, I argue that the economic potential of pilgrimage, which was exploited by the religiously affiliated oshi, popularized by media and enhanced by the competition of regional businesses, was also understood by the bakufu a became a determining factor in how they, and subsequently the regional authorities, responded to pilgrimage. The tourism industry intertwined in/of pilgrimage was greatly important to the regions and therefore would also be important to the rulers, as it was in their best interest to ensure the region's economic prosperity.
+From the findings of this research, I argue that the economic potential of pilgrimage, which was exploited by the religiously affiliated oshi, popularized by media and enhanced by the competition of regional businesses, was also understood by the bakufu a became a determining factor in how they, and subsequently the regional authorities, responded to pilgrimage. The tourism industry that was intertwined with pilgrimage was greatly important to the regions and therefore would also be important to the rulers, as it was in their best interest to ensure the region's economic prosperity.
 
 "The early modern system was not unremittingly oppressive but gave many institutions opportunities to operate on their own terms by harnessing local and regional resources" (Ambros 2008, 239).
 
@@ -323,8 +322,7 @@ To make an argument that the bakufu were fine with religious pilgrimage and not 
 
 
 ### Why this research is meaningful	
-
-It reveals not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower classes. 
+This research reveals not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, but also the shows the underlying motivations behind the bakufu and ruling authorities' actions and how they dealt with the lower classes. 
 This research is important not just in understanding the motivations of the authorities, but emphasizes the economic value of pilgrimage as essential to understanding why travel became so prevalent among the Edo populace. 
 
 %%These points are both vital to understanding what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. %%
