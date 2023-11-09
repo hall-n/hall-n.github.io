@@ -269,7 +269,7 @@ This is the reason behind the bakuf's focus on the economy, and why they closely
 The precarious position of both the bakufu and the daimyo led to their using the Confucsian value of benevolent ruler in order to validate their position, and their focusing on their economic power in lieu of military power. 
 
 ##### Bakufu governance changes (Paramore)
-As time went on, the changes in governance shifted even more toward a socially responsive governmental stance, as seen in Paramore's research (2012) on the state academy and its examination system in the later half of the Tokugawa period.
+As time went on, Paramore argues that during the Tokugawa period, governance shifted towards a socially responsive governmental stance, as seen in Paramore's research (2012) on the state academy and its examination system in the later half of the Tokugawa period.
 %%More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period.%% Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, Paramore argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). This argument against the idea that the Tokugawa government was top-down and authoritarian.
 While Paramore's research looks at the later half of the Tokugawa period, there are examples of bottom-up governance from the seventeenth century, observed by Roberts (1998) research on mercantilism in the Edo period. 
 
