@@ -270,8 +270,8 @@ The precarious position of both the bakufu and the daimyo led to their using the
 
 ##### Bakufu governance changes (Paramore)
 As time went on, the changes in governance shifted even more toward a socially responsive governmental stance, as seen in Paramore's research (2012) on the state academy and its examination system in the later half of the Tokugawa period.
-%%More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period.%% Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, Paramore argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). This argument against the idea that the Tokugawa government was top-down and authoritarian
-An example of this bottom-up governance can be seen in Roberts (1998) research on mercantilism in the Edo period. 
+%%More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period.%% Refuting the arguments that Neo-Confucian political concepts encouraged authoritarianism, Paramore argues that governmental changes were usually designed to open up the decision making process to more people, and can be seen as "an attempt to generate more socially engaged, inclusive, and responsive governance" (ibid, 27). This argument against the idea that the Tokugawa government was top-down and authoritarian.
+While Paramore's research looks at the later half of the Tokugawa period, there are examples of bottom-up governance from the seventeenth century, observed by Roberts (1998) research on mercantilism in the Edo period. 
 
 Nakai's research
 
@@ -281,6 +281,9 @@ Nakai's research
 
 Roberts argues that the concept behind merchants and others engaged in commerce was the rhetoric of *kokueki*, which means "prosperity of the country".  
 In his research on the roots of economic nationalism in Japan, he argued that in the 1700's, a the mercantilist thought developed that was centered on the *kokueki*, influenced the daimyo as they sought to reduce the the dominance of the economy of the Tokugawa shogunate. Observing how merchant thought found its way into domainal governance, Roberts describes how 
+
+"Petitioning, through regular channels to middle-level officials and through the more special petition box that sent opinions directly to the lord, was a device to integrate opinions of those outside of the government hierarchy into the decision-making process of the rulers"
+These were used by many of the domains, including Edo bakufu.
 
 %%"Commoners led the response "with a mercantilist strategy of protection and development of the commercial economy. They resisted the economy of service by creating a new economic rhetoric that decentered the lord, imagined the domain as an economic country, and gave merchants a public worth and identity unknown in Confucian economic thought. This thought and activity changed domainal government, and played an important role in the decline of shogunal authority, producing proto-nationalist practices and rhetoric that influenced Meiji era national development" %%
 
