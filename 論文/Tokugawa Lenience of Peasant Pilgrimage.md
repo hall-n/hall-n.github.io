@@ -277,7 +277,7 @@ Kouamé "the case of Shikoku could provide an example of the degree of tolerance
 
 ### Dichotomy of Pleasure & Religion a modern idea 
 Finally, in addition to the bakufu's focus on economy and not micromanaging commoner's lives, another reason why pilgrimage was allowed to the extent it was is because pilgrimage for religious reasons and pleasure was intertwined in the Edo period. 
-Our idea that pilgrims used pilgrimage as a pretense (or *tatemae*) under which they hid their real intent of pleasure travel (*honne*) is not an excuse to get around the bakufu's rules, as X has argued. Rather, it represents the fact that the pilgrimage consisted of both enjoyable sightseeing and religious worship, the separation of which is a modern phenomenon, as argued by Oshino. "The accounts seem to me to illustrate the inextricable conjoining of faith and pleasure that constituted the essence of the phenomenon of pilgrimage" (Oshino 2002, 469). 
+Our idea that pilgrims used pilgrimage as a pretense (or *tatemae*) under which they hid their real intent of pleasure travel (*honne*) is not an excuse to get around the bakufu's rules, as X has argued. Rather, it represents the fact that the pilgrimage consisted of both enjoyable sightseeing and religious worship, the separation of which is a modern phenomenon, as argued by Shinno. "The accounts seem to me to illustrate the inextricable conjoining of faith and pleasure that constituted the essence of the phenomenon of pilgrimage" (Shinno 2002, 469). 
 "The modern dualistic ethic, with its positing of an opposition between the sacred and the profane, did not exist in that context. This was true also of travel" (ibid). 
 To make an argument that the bakufu were fine with religious pilgrimage and not l
 
