@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~単語.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~単語.md",
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~単語.md"
+                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
               }
             }
           },
@@ -238,10 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce63507e0cfded9",
+  "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "~単語.md",
+    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "論文/Bibliography.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
