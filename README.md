@@ -1,7 +1,7 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis, what started as a curiosity of the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another, led me to question whether or not the bakufu authorities were really against peasant travel. 
 
 [Thesis in Progress](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Thesis/Thesis.md)
-[Bibliography](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Thesis/Bibliography)
+[Bibliography](Thesis/Bibliography)
 
 
 ----
