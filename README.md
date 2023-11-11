@@ -22,7 +22,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 
 In the "*The Fifty-three Stations of Tokaido* (東海道五十三次)" is a visual representation of travel during the Tokugawa period as portrayed.
 
-![travel](main/travel.jpg "travel" ) 
+![travel](travel.jpg "travel" ) 
 <sub>__*Reference*__ :
 Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三次. </sub>
 
