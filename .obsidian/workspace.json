@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merchants.md",
+                "file": "論文/Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merchants.md",
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merchants.md",
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merchants.md"
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md"
               }
             }
           },
@@ -236,10 +236,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fd1275da03df3e9",
+  "active": "c6962fbd468da123",
   "lastOpenFiles": [
+    "論文/Thesis.md",
+    "Merchants.md",
     "travel.jpg",
-    "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
     "_config.yml",
     "README.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",

@@ -1,4 +1,4 @@
-
+# Tokugawa Lenience of Peasant Pilgrimage
 ## Abstract (100-300 words)
 
 %%Increase in tourism. Many historians present the situation as the authorities being clearly set against peasant pilgrimage and travel, implementing a system of barriers to impede their movement, barriers which the peasants found ways to circumvent. Other research into travel and the permit system, however, reveals that both the daimyo and bakufu were clearly tolerant towards allowing peasants to travel, showing hesitance to enforce the laws that controlled peasants mobility. 
