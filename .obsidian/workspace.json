@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Merchants.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+                "file": "Merchants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "論文/Tokugawa Lenience of Peasant Pilgrimage.md"
+                "file": "Merchants.md"
               }
             }
           },
@@ -239,8 +238,11 @@
   },
   "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "travel.jpg",
     "論文/Tokugawa Lenience of Peasant Pilgrimage.md",
+    "_config.yml",
+    "README.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "~単語.md",
     "論文/Bibliography.md",
@@ -265,9 +267,6 @@
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "~Outline.md",
-    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
-    "~Grading.md",
-    "~travel.jpg",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
@@ -284,7 +283,6 @@
     "images/Reason for travel (from academics)",
     "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
     "Literature",
-    "New folder",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
