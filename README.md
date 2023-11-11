@@ -24,8 +24,8 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三
 
 ### Key Groups
 - [Merchants](Merchants.md)
-- [Meibutsu](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Meibutsu.md)
-- [Bakufu's position to daimyo and peasants](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Bakufu's position to daimyo and peasants.md)
+- [Meibutsu](Meibutsu.md)
+- [Maps](Maps.md)
 
 ----
 ### Articles of note: 
