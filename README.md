@@ -2,7 +2,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 
 [Thesis in Progress](Thesis/Thesis.md)
 
-[Bibliography](Thesis/Bibliography)
+[Bibliography](Thesis/Bibliography.md)
 
 
 ----
@@ -23,7 +23,7 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三
 ----
 
 ### Key Groups
-- [Merchants](main/Merchants)
+- [Merchants](main/Merchants.md)
 - [Daimyo makeup](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Daimyo makeup.md)
 - [Bakufu's position to daimyo and peasants](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Bakufu's position to daimyo and peasants.md)
 
