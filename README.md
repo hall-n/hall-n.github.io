@@ -1,8 +1,8 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis, what started as a curiosity of the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another, led me to question whether or not the bakufu authorities were really against peasant travel. 
 
-[Thesis in Progress](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Thesis/Thesis.md)
+[Thesis in Progress](Thesis/Thesis.md)
 
-[Bibliography](Thesis/Bibliography.html)
+[Bibliography](Thesis/Bibliography)
 
 
 ----
@@ -23,7 +23,7 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三
 ----
 
 ### Key Groups
-- [Merchants](main/Merchants.md)
+- [Merchants](main/Merchants)
 - [Daimyo makeup](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Daimyo makeup.md)
 - [Bakufu's position to daimyo and peasants](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Bakufu's position to daimyo and peasants.md)
 
