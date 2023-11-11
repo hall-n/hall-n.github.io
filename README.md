@@ -2,7 +2,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 
 [Thesis in Progress](https://raw.githubusercontent.com/hall-naiya/hall-naiya.github.io/main/Thesis/Thesis.md)
 
-[Bibliography](Thesis/Bibliography)
+[Bibliography](Thesis/Bibliography.html)
 
 
 ----
