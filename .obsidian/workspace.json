@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文/Bibliography.md",
+                "file": "Thesis/Bibliography.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "論文/Thesis.md",
+                "file": "Thesis/Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -236,17 +236,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "3fd1275da03df3e9",
   "lastOpenFiles": [
-    "論文/Thesis.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "Thesis/Thesis.md",
     "Merchants.md",
     "travel.jpg",
     "_config.yml",
     "README.md",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "~単語.md",
-    "論文/Bibliography.md",
+    "Thesis/Bibliography.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "~Mind Map.canvas",
@@ -256,7 +256,7 @@
     "Overall Travel Situation.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "論文/Title & Thesis.md",
+    "Thesis/Title & Thesis.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
@@ -271,7 +271,7 @@
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
-    "論文",
+    "Thesis",
     "~arrow.png",
     "arrow.png",
     "~arrow.jpg",
