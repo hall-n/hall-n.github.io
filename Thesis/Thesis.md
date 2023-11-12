@@ -255,7 +255,7 @@ Roberts argues that the concept behind merchants and others engaged in commerce 
 In his research on the roots of economic nationalism in Japan, he argued that in the 1700's, a the mercantilist thought developed that was centered on the *kokueki*, influenced the daimyo as they sought to reduce the the dominance of the economy of the Tokugawa shogunate. Observing how merchant thought found its way into domainal governance, Roberts describes how 
 
 
-## Conclusion (450-800 words)
+## Conclusion
 Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 
 
