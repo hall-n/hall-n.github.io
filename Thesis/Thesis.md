@@ -8,8 +8,6 @@
 - [Authorities Response to Pilgrimage](#Authorities-Response-to-Pilgrimage)
 - [Tokugawa's governance](#Tokugawa's-governance)
 - [Conclusion](#Conclusion)
-test
-![travel](travel.jpg "travel" )
 ## Abstract
 (100-300 words)
 
