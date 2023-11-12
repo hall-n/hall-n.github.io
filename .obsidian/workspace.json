@@ -9,18 +9,6 @@
         "dimension": 40.256410256410255,
         "children": [
           {
-            "id": "c6962fbd468da123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
@@ -64,7 +52,7 @@
         "dimension": 59.743589743589745,
         "children": [
           {
-            "id": "3fd1275da03df3e9",
+            "id": "c6962fbd468da123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -236,11 +225,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fd1275da03df3e9",
+  "active": "c6962fbd468da123",
   "lastOpenFiles": [
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "_sass",
+    "Thesis/travel.jpg",
     "Thesis/Thesis.md",
+    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
+    "travel.jpg",
+    "README.md",
+    "_sass",
     "Untitled.md",
     "assets/css/test",
     "assets/css/style.css",
@@ -248,10 +240,8 @@
     "assets/css",
     "assets",
     "Thesis/Bibliography.md",
-    "travel.jpg",
     "Merchants.md",
     "_config.yml",
-    "README.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "~単語.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",

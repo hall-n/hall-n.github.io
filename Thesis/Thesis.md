@@ -1,14 +1,15 @@
 # Tokugawa Lenience of Peasant Pilgrimage
 ## Table of Contents
-[Abstract](#Abstract)
-[Main Thesis](#Thesis)
-[Introduction](#Introduction)
+[Abstract](#Abstract)  
+[Main Thesis](#Thesis)  
+[Introduction](#Introduction)  
+[Argument by Historians](#Argument-by-Historians)  
+[Commercialization of Pilgrimage](#Commercialization-of-Pilgrimage)  
+[Authorities Response to Pilgrimage](#Authorities-Response-to-Pilgrimage)  
+[Tokugawa's governance](#Tokugawa's-governance)  
+[Conclusion](#Conclusion)  
 
-[Main Chapters](#main-chapters)
-
-[Argument by Historians](#key-phrases)
-
-[Conclusion](#Conclusion-(450-800-words))
+![travel](travel.jpg "travel" )
 ## Abstract
 (100-300 words)
 
@@ -73,7 +74,7 @@ A positive travel image with connotations of religious image of a sacred wandere
 
 ## Main Chapters
 
-### Argument by Historians (Watkins, Blacker, Traganou)
+### Argument by Historians
 In much of the literature on travel during the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement of the peasants ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008). While many of the historians that present this perspective do not elucidate on why the authorities would be adverse to this travel, a few have stated that the bakufu and daimyo perceived pilgrimage to be a threat due to its negative social aspects. Traganou (2004) claims that pilgrimage meant abandoning one's occupation and was used as an escape from the restrictions Edo period society.  
 %%She points out that this abandonment was reflected in the attire that the pilgrims wore; a white or sleeveless garment and sedge hat %%
 
@@ -106,7 +107,7 @@ Vaporis describes some of the social factors, alluding that because pilgrimage w
 While the religious aspects of pilgrimage may played a part in softening the perspective of some authorities towards it, I argue that it does not fully explain. 
 %%
 
-### Commercialization of Pilgrimage 
+### Commercialization of Pilgrimage
 In recent years, historians have begun to approach the topic of Edo period travel from many different angles, asking new questions about why pilgrimage became so widely practiced, how travelers interacted with their destinations, and how their travels turned into what we recognize today as contents tourism ( #SeatonEtal_2017) . While some elements of this tourism dates back to the before the Nara period, such as the buying of amulets and travel souvenirs, the commercialization of travel grew to new heights during the Edo period to "become the dominant medium through which places were experienced" (Wigen 2010, 298), out of which arose consumer pilgrims (Nenzi 2004).
 %%The key element to these changes were the efforts of the religious institutions. %%
 #### Promotion of Pilgrimage for Financial Gain (Kanzaki, Umesao, Thal)
@@ -197,7 +198,7 @@ The above research, while demonstrating an acceptance of pilgrimage and the prio
 I argue that their reaction is a reflection of the changing style of governance of the Tokugawa bakufu and daimyo as a result of the changing political landscape. 
 
 
-### Tokugawa's governance (Hall, Paramore, Roberts)
+### Tokugawa's governance
 %%The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. %%
 The shift to prioritizing the economic prosperity of the common people is a result of the change of governance and social structure of the bakufu and daimyo that followed Tokugawa's rise to shogunate and adoption of Confucianist ideas, what is described as "benevolence" (REF).
 %%This focus on ensuring the prosperity of the common people reflects the changing governance structure of the bakufu and reflected in common styles of daimyo structure, what has been described by some historians as "benevolence" (REF).%% 
@@ -294,7 +295,7 @@ This research is important not just in understanding the motivations of the auth
 
 %%These points are both vital to understanding what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan. %%
 
-## Bibliography (800 words)
+## Bibliography
 
 Ambros, Barbara. 2008. _Emplacing a Pilgrimage: The Ōyama Cult and Regional Religion in Early Modern Japan_. 1st ed. Vol. 297. Harvard University Asia Center. [https://doi.org/10.2307/j.ctt1tm7fn2](https://doi.org/10.2307/j.ctt1tm7fn2).
 
