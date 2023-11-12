@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md"
               }
             }
           },
@@ -236,11 +236,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fd1275da03df3e9",
+  "active": "3e8765fc840e6242",
   "lastOpenFiles": [
+    "_sass",
+    "Thesis/Thesis.md",
+    "Untitled.md",
+    "assets/css/test",
+    "assets/css/style.css",
+    "assets/css/jekyll-theme-cayman.scss",
+    "assets/css",
+    "assets",
     "Thesis/Bibliography.md",
     "travel.jpg",
-    "Thesis/Thesis.md",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "Merchants.md",
     "_config.yml",
@@ -266,7 +273,6 @@
     "~Literature.canvas",
     "Academic Discussions.md",
     "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
-    "Historian's arguments/Seaton et al 2017, pilgrimage led to contents tourism.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
@@ -277,12 +283,7 @@
     "arrow.jpg",
     "Excalidraw",
     "config.yml",
-    "Bakufu and Daimyo",
-    "Religious Institutions",
     "Peasants/travel.jpg",
-    "images/Reason for travel (from academics)",
-    "Literature/Wildman Nakai 1988, Shogunal Politics_ Arai Hakuseki and the Premises of Tokugawa Rule-Harvard University Press.pdf",
-    "Literature",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
