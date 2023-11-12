@@ -1,5 +1,5 @@
-# Tokugawa Lenience of Peasant Pilgrimage
-## Table of Contents
+## Tokugawa Lenience of Peasant Pilgrimage
+### Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Argument by Historians](#argument-by-historians)
