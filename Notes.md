@@ -54,3 +54,10 @@ Nenzi observes new attractions in pilgrimage that came consumption of non-religi
 
 **Auhorities response**
 the rice tax, the fact that the authorities left the peasants with a surplus reflects their priority of managing the economy and promoting regional prosperity. 
+
+), however recent historians have presented a different perspective. 
+
+
+This focus on ensuring the prosperity of the common people reflects the changing governance structure of the bakufu and reflected in common styles of daimyo structure, what has been described by some historians as "benevolence" (REF).
+
+My argument goes beyond that to argue that there was a trend in the governance of both the bakufu and the daimyo toward this benevolence rule, or liberalistic rule (REF).
