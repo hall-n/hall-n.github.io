@@ -61,3 +61,11 @@ the rice tax, the fact that the authorities left the peasants with a surplus ref
 This focus on ensuring the prosperity of the common people reflects the changing governance structure of the bakufu and reflected in common styles of daimyo structure, what has been described by some historians as "benevolence" (REF).
 
 My argument goes beyond that to argue that there was a trend in the governance of both the bakufu and the daimyo toward this benevolence rule, or liberalistic rule (REF).
+
+
+More specific example of that government's political stance can be seen in Paramore's research ( #Paramore_2012 2012) on changes in governance that occurred during the later half of Tokugawa period.
+
+
+"Commoners led the response "with a mercantilist strategy of protection and development of the commercial economy. They resisted the economy of service by creating a new economic rhetoric that decentered the lord, imagined the domain as an economic country, and gave merchants a public worth and identity unknown in Confucian economic thought. This thought and activity changed domainal government, and played an important role in the decline of shogunal authority, producing proto-nationalist practices and rhetoric that influenced Meiji era national development" 
+
+"Petitioning, through regular channels to middle-level officials and through the more special petition box that sent opinions directly to the lord, was a device to integrate opinions of those outside of the government hierarchy into the decision-making process of the rulers"
