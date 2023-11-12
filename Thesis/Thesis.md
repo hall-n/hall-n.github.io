@@ -1,4 +1,4 @@
-## Tokugawa Lenience of Peasant Pilgrimage
+**Title**: Tokugawa Lenience of Peasant Pilgrimage
 ### Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
