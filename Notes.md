@@ -1,0 +1,1 @@
+As Thal argues, "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan" (2005, 102). 

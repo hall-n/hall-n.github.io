@@ -9,12 +9,24 @@
         "dimension": 40.256410256410255,
         "children": [
           {
+            "id": "3a4459311f5760d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~単語.md",
+                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
@@ -58,18 +71,6 @@
               "type": "markdown",
               "state": {
                 "file": "Thesis/Thesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b31a1684b427457c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nosco_1996",
+                "query": "gratifi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,12 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md"
               }
             }
           },
@@ -237,17 +238,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "1ce63507e0cfded9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
+    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "Thesis/Thesis.md",
+    "Notes.md",
     "~単語.md",
+    "conflict-files-obsidian-git.md",
     "Thesis/travel.jpg",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "travel.jpg",
     "README.md",
     "_sass",
-    "Untitled.md",
     "assets/css/test",
     "assets/css/style.css",
     "assets/css/jekyll-theme-cayman.scss",
@@ -260,7 +263,6 @@
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "~Mind Map.canvas",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Bakufu and Daimyo/Permit System.md",
     "Overall Travel Situation.md",
@@ -275,7 +277,6 @@
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "~Literature.canvas",
     "Academic Discussions.md",
-    "Historian's arguments/Kanzaki 1995, Oshi's importance in pilgrimage.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
