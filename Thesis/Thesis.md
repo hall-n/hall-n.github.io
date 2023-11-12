@@ -163,10 +163,7 @@ As an example of this thought, among petitions where the term *kokueki* appears 
 
    "It is not inevitable that a scabbard maker should be so concerned with, as he says, 'thinking of ways in which to have foreign money drop into Tosa' [...] What was common to these and many other petitions was a vision of Tosa as a single economic unit, the welfare of which was dependent mainly upon commercial concerns - most often export industries - and cash flow within the domain" (ibid, 142).
    
-Roberts observes that not all petitions were enacted, and often there was disagreement among townspeople on what should be suggested, therefore the interest of the samurai "in the economic potential of commerce and commercially inspired industry was mixed" (ibid ,149). Nevertheless, I would argue that these changes reflect how widespread mercantile thought was becoming in Edo period Japan, and how the interests of the lower classes could reach the ears of the rulers. 
-
-Roberts argues that the concept behind merchants and others engaged in commerce was the rhetoric of *kokueki*, which means "prosperity of the country".  
-In his research on the roots of economic nationalism in Japan, he argued that in the 1700's, a the mercantilist thought developed that was centered on the *kokueki*, influenced the daimyo as they sought to reduce the the dominance of the economy of the Tokugawa shogunate. Observing how merchant thought found its way into domainal governance, Roberts describes how 
+Roberts observes that not all petitions were enacted, and often there was disagreement among townspeople on what should be suggested, therefore the interest of the samurai "in the economic potential of commerce and commercially inspired industry was mixed" (ibid ,149). Nevertheless, I would argue that these changes reflect how widespread mercantile thought was becoming in Edo period Japan, and how the interests of the lower classes could reach the ears of the rulers. Hall argues, therefore, that in the 1700's this  mercantilist thought of *kokueki* influenced the daimyo as they sought to reduce the the dominance of the economy of the Tokugawa shogunate. Thus the rhetoric of the the merchants found its way into domainal governance. 
 
 
 ## Conclusion

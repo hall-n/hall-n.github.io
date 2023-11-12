@@ -69,3 +69,6 @@ More specific example of that government's political stance can be seen in Param
 "Commoners led the response "with a mercantilist strategy of protection and development of the commercial economy. They resisted the economy of service by creating a new economic rhetoric that decentered the lord, imagined the domain as an economic country, and gave merchants a public worth and identity unknown in Confucian economic thought. This thought and activity changed domainal government, and played an important role in the decline of shogunal authority, producing proto-nationalist practices and rhetoric that influenced Meiji era national development" 
 
 "Petitioning, through regular channels to middle-level officials and through the more special petition box that sent opinions directly to the lord, was a device to integrate opinions of those outside of the government hierarchy into the decision-making process of the rulers"
+ Hall's research on the roots of economic nationalism in Japan, 
+
+Roberts argues that the concept behind merchants and other parties who were engaged in commerce was the rhetoric of *kokueki*, which means "prosperity of the country".  
