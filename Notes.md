@@ -1,4 +1,13 @@
+
+
+
+In the media that helped to popularize that tourism (Fabricand-Person 2011), the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 
+Yonemoto
+
+
 As Thal argues, "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan" (2005, 102). 
+
+
 
 argues that the religious institutions of Ōyama had to offer pilgrims not just things of spiritual value, but also "immediate gratifications", such as souvenirs shops, teahouses, restaurants, and travel related services (Nenzi).
 
