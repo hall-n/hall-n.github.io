@@ -1,13 +1,13 @@
 # Tokugawa Lenience of Peasant Pilgrimage
 ## Table of Contents
-[Abstract](#Abstract)  
-[Main Thesis](#Thesis)  
-[Introduction](#Introduction)  
-[Argument by Historians](#Argument-by-Historians)  
-[Commercialization of Pilgrimage](#Commercialization-of-Pilgrimage)  
-[Authorities Response to Pilgrimage](#Authorities-Response-to-Pilgrimage)  
-[Tokugawa's governance](#Tokugawa's-governance)  
-[Conclusion](#Conclusion)  
+- [Abstract](#Abstract)
+- [Main Thesis](#Thesis)
+- [Introduction](#Introduction)
+- [Argument by Historians](#Argument-by-Historians)
+- [Commercialization of Pilgrimage](#Commercialization-of-Pilgrimage)
+- [Authorities Response to Pilgrimage](#Authorities-Response-to-Pilgrimage)
+- [Tokugawa's governance](#Tokugawa's-governance)
+- [Conclusion](#Conclusion)
 
 ![travel](travel.jpg "travel" )
 ## Abstract

@@ -23,14 +23,6 @@
       "key": "PageUp"
     }
   ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "highlightr-plugin:Green": [
     {
       "modifiers": [
@@ -137,5 +129,13 @@
       "key": "I"
     }
   ],
-  "obsidian-excalidraw-plugin:toggle-lock": []
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
 }

@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "~単語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "~単語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "~単語.md"
               }
             }
           },
@@ -225,10 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "1ce63507e0cfded9",
   "lastOpenFiles": [
-    "Thesis/travel.jpg",
     "Thesis/Thesis.md",
+    "Thesis/travel.jpg",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "travel.jpg",
     "README.md",
