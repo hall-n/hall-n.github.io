@@ -30,8 +30,6 @@ combined with the bakufu's position of being a "benevolent'" ruler gave them les
 
 I argue that the bakufu and daimyo position towards peasant travel was not to confine farmers to their lands, but to ensure that their movement did not have a negative economic effect. This explains why they responded to the surge in travel by making proper travel permits easier to obtain.%%
 
-
-
 # Thesis
 ## Introduction
 As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu took steps to ensure that daimyo would not have the means of uprising by implementing the alternate attendance system which required daimyo to make regular trips to Edo. In order to facilitate this compulsory travel, the bakufu developed extensive infrastructure, building a centralized road network throughout Japan. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover. Along the main routes, the bakufu also established post stations that offered lodging, food, and travel services. While these services had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes. In order to monitor movement throughout the regions, barrier stations, or *sekisho*, were positioned along the road, the passage through which required a permit. While permits of a leisurely nature for pleasure were not issued, a journey for the purpose of pilgrimage or visiting an onsen for health reasons were viewed by the authorities as valid reasons for travel (Goree 2020). 
