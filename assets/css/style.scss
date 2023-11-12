@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 
-  background-image: travel(travel.jpg "travel");
+  background-image: url("travel.jpg");
   background-size: 100% auto;
