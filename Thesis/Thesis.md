@@ -1,5 +1,16 @@
 # Tokugawa Lenience of Peasant Pilgrimage
-## Abstract (100-300 words)
+## Table of Contents
+[Abstract](#Abstract)
+[Main Thesis](#Thesis)
+[Introduction](#Introduction)
+
+[Main Chapters](#main-chapters)
+
+[Argument by Historians](#key-phrases)
+
+[Conclusion](#Conclusion-(450-800-words))
+## Abstract
+(100-300 words)
 
 %%Increase in tourism. Many historians present the situation as the authorities being clearly set against peasant pilgrimage and travel, implementing a system of barriers to impede their movement, barriers which the peasants found ways to circumvent. Other research into travel and the permit system, however, reveals that both the daimyo and bakufu were clearly tolerant towards allowing peasants to travel, showing hesitance to enforce the laws that controlled peasants mobility. 
 
@@ -27,7 +38,7 @@ I argue that the bakufu and daimyo position towards peasant travel was not to co
 %%
 
 # Thesis
-## Introduction (850-1000 words)
+## Introduction
 As Japan entered an era of peace in the beginning of the Tokugawa period, the bakufu took steps to ensure that daimyo would not have the means of uprising by implementing the alternate attendance system which required daimyo to make regular trips to Edo. In order to facilitate this compulsory travel, the bakufu developed extensive infrastructure, building a centralized road network throughout Japan. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover. Along the main routes, the bakufu also established post stations that offered lodging, food, and travel services. While these services had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes. In order to monitor movement throughout the regions, barrier stations, or *sekisho*, were positioned along the road, the passage through which required a permit. While permits of a leisurely nature for pleasure were not issued, a journey for the purpose of pilgrimage or visiting an onsen for health reasons were viewed by the authorities as valid reasons for travel (Goree 2020). 
 At the same time that the conditions for travel were greatly improved, the lower classes of peasants and merchants began to find themselves with increasing financial freedom, which made travel more viable (Ishimori 2009). As advances in media captured the appeal of travel, describing famous sights and attractions with many traveler guidebooks being published, pilgrimage became increasingly popular ( #Fabricand-Person_2011). Over time, sightseeing and enjoying local specialties became common elements of the journey, sometimes even turning into the primary focus of the pilgrimage itself (<mark style="background: #FFF3A3A6;">REF</mark>). Thus the commoner was able to take advantage of the travel infrastructure laid out by the Tokugawa bakufu, enjoying new sights and locations, and out of pilgrimage soon arose a booming tourism industry.
 
@@ -60,20 +71,13 @@ A positive travel image with connotations of religious image of a sacred wandere
 - Literary works spread travel popularity 
 	- #Fabricand-Person_2011 %%
 
-## Main Chapters (6300-7000 words)
+## Main Chapters
 
 ### Argument by Historians (Watkins, Blacker, Traganou)
-In much of the literature on travel during the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement of the peasants ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008). While many of the historians that present this perspective do not elucidate on why the authorities would be adverse to this travel, a few have claimed that the bakufu and daimyo perceived pilgrimage to be a threat due to its negative social aspects. Traganou (2004) claims that pilgrimage meant abandoning one's occupation and was used as an escape from the restrictions Edo period society.  
+In much of the literature on travel during the Edo period there is an overall perception that the bakufu and daimyo held a position against pilgrimage, wishing to restrict unnecessary movement of the peasants ( #Kanzaki_1995, #Vaporis_2012, #Watkins_2008). While many of the historians that present this perspective do not elucidate on why the authorities would be adverse to this travel, a few have stated that the bakufu and daimyo perceived pilgrimage to be a threat due to its negative social aspects. Traganou (2004) claims that pilgrimage meant abandoning one's occupation and was used as an escape from the restrictions Edo period society.  
 %%She points out that this abandonment was reflected in the attire that the pilgrims wore; a white or sleeveless garment and sedge hat %%
 
-Similarly, Blacker (1984) #Blacker_1984  argues that undertaking such travel meant that farmers were neglecting their proper duty, thus the daimyo viewed pilgrimage as "frivolous, useless, extravagant and immoral" (ibid, 604). Though Blacker does admit that some daimyo did not object to pilgrimages which were undertaken during the idle part of the year, she nevertheless claims that the authorities saw this traveler as playing no useful part in human society and a threat to order and stability. In examining how Blacker views the pilgrim, however, reveals an image of a wandering mendicant who wishes to escape from the rules of society, an image that places considerable weight on only a single pilgrim architype, despite there being many reasons and situations surrounding pilgrimage. This antisocial element that both Traganou and Blacker claim to be the root of the authorities' concern is therefore not necessarily an element of all pilgrimages, as revealed in other research on pilgrims of the Kanto region (Ambros 2008) and <mark style="background: #FFF3A3A6;">from other regions (REF)</mark>. 
-
-%%
-However, while it may be argued that pilgrimage has anti-structural elements, it has also been argued that not all pilgrimages are of the same nature (Ambros 2008) 
-
-the "harassing restrictions" imposed by daimyo were (blacker)
-%%
-
+Similarly, Blacker (1984) #Blacker_1984  argues that undertaking such travel meant that farmers were neglecting their proper duty, thus the daimyo viewed pilgrimage as "frivolous, useless, extravagant and immoral" (ibid, 604). Though Blacker does admit that some daimyo did not object to pilgrimages which were undertaken during the idle part of the year, she nevertheless claims that the authorities saw this traveler as playing no useful part in human society and a threat to order and stability. In examining how Blacker views the pilgrim reveals an image of a wandering mendicant who wishes to escape from the rules of society, an image that places considerable weight on only a single pilgrim architype, despite there being many reasons and situations surrounding pilgrimage. This antisocial element that both Traganou and Blacker claim to be the root of the authorities' concern is therefore not necessarily an element of all pilgrimages (Ambros 2008). 
 
 **Economic**
 Other arguments that explain the authorities position against pilgrimage point to the negative economical factors that such travel brought. Traganou (2004) argues that pilgrimage could interfere with the farmer's agricultural production, to which both the bakufu and daimyo's finances were directly tied. In addition, some pilgrimages upset the local economies, "causing inflation of the prices of rice, straw, lodgings and other necessities" (ibid, 72). In contrast to this, however, is the argument that popular pilgrimage destinations often develop the infrastructures needed to deal with the influx of pilgrims as commercialism becomes a part of pilgrimage (Ambros 2008). 
