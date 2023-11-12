@@ -1,7 +1,6 @@
 # Tokugawa Lenience of Peasant Pilgrimage
 ## Table of Contents
 - [Abstract](#abstract)
-- [Main Thesis](#thesis)
 - [Introduction](#introduction)
 - [Argument by Historians](#argument-by-historians)
 - [Commercialization of Pilgrimage](#commercialization-of-pilgrimage)
