@@ -51,3 +51,6 @@ As visitors demanded to access and possess sites by way of tangible amenities, t
 The gastronomic element of travel became so important, that by the 1800's the pilgrims to Ōyama who might have been drawn by the mountain's sacred aura, "were not fully satisfied unless the complex catered to their less spiritual appetites as well" (ibid, 304).
 
 Nenzi observes new attractions in pilgrimage that came consumption of non-religious elements
+
+**Auhorities response**
+the rice tax, the fact that the authorities left the peasants with a surplus reflects their priority of managing the economy and promoting regional prosperity. 

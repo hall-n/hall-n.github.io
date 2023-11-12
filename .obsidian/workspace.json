@@ -24,11 +24,14 @@
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-                "mode": "source",
-                "source": false
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": -356.4485703932087,
+                  "y": 356.868482180692,
+                  "zoom": -1.8536291887311964
+                }
               }
             }
           },
@@ -140,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -240,9 +244,11 @@
   "lastOpenFiles": [
     "Notes.md",
     "Thesis/Thesis.md",
+    "~Literature.canvas",
+    "~Mind Map.canvas",
+    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Thesis/Bibliography.md",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~単語.md",
     "conflict-files-obsidian-git.md",
@@ -261,7 +267,6 @@
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "~Mind Map.canvas",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Bakufu and Daimyo/Permit System.md",
     "Overall Travel Situation.md",
@@ -273,8 +278,6 @@
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
     "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
-    "~Literature.canvas",
-    "Academic Discussions.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
