@@ -1,12 +1,12 @@
 # Tokugawa Lenience of Peasant Pilgrimage
 ## Table of Contents
-- [Abstract](#Abstract)
-- [Main Thesis](#Thesis)
-- [Introduction](#Introduction)
-- [Argument by Historians](#Argument-by-Historians)
-- [Commercialization of Pilgrimage](#Commercialization-of-Pilgrimage)
-- [Authorities Response to Pilgrimage](#Authorities-Response-to-Pilgrimage)
-- [Tokugawa's governance](#Tokugawa's-governance)
+- [Abstract](#abstract)
+- [Main Thesis](#thesis)
+- [Introduction](#introduction)
+- [Argument by Historians](#argument-by-historians)
+- [Commercialization of Pilgrimage](#commercialization-of-pilgrimage)
+- [Authorities Response to Pilgrimage](#authorities-response-to-pilgrimage)
+- [Tokugawa governance](#tokugawa-governance)
 - [Conclusion](#Conclusion)
 
 ![travel](travel.jpg "travel" )
@@ -198,7 +198,7 @@ The above research, while demonstrating an acceptance of pilgrimage and the prio
 I argue that their reaction is a reflection of the changing style of governance of the Tokugawa bakufu and daimyo as a result of the changing political landscape. 
 
 
-### Tokugawa's governance
+### Tokugawa governance
 %%The image of Tokugawa bakufu is often portrayed as authoritarian, with "squeezing of the peasants" and limiting all their freedom (REF), however recent historians have presented a different perspective. %%
 The shift to prioritizing the economic prosperity of the common people is a result of the change of governance and social structure of the bakufu and daimyo that followed Tokugawa's rise to shogunate and adoption of Confucianist ideas, what is described as "benevolence" (REF).
 %%This focus on ensuring the prosperity of the common people reflects the changing governance structure of the bakufu and reflected in common styles of daimyo structure, what has been described by some historians as "benevolence" (REF).%% 
