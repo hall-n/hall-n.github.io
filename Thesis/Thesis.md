@@ -167,7 +167,8 @@ Roberts observes that not all petitions were enacted, and often there was disagr
 
 
 ## Conclusion
-Sum up the reasons for tourism and how they outweigh against tourism. If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
+
+If the authorities were more concerned about economy and managing the country, it is understandable why they would not hinder pilgrimage and only lightly voice "unnecessary travel".
 
 
 Following this, an examination of **how pilgrimage turned into a consumerist tourism industry.** Using studies that look closely at the development of pilgrimage reveals that the economic potential of these travelers was realized by the shrine and temples *oshi*, who promoted and organized pilgrim's travel and organize travel for pilgrims (Kanzaki 1995). Their efforts resulted in the direct increase of pilgrims (Ambros 2008) and over time other local entities began to vie for the service of those travelers, creating a competitive market. This research emphasizes just how vital the tourism industry that emerged from pilgrimage came to be for many regions of Japan.
