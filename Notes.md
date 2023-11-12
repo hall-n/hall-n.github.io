@@ -1,9 +1,14 @@
 
 
-
+**Maps and media**
 In the media that helped to popularize that tourism (Fabricand-Person 2011), the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 
 Yonemoto
 
+
+**tango**
+The idea that authorities were for or against pilgrimage starts with the issue of translation. In Japan there is not just one word for "pilgrimage" but over ? that denote the purpose or way in which the travel was undertaken. 
+<mark style="background: #FFF3A3A6;">REFERENCE</mark>
+It is therefore critical to look at which type of pilgrimage the bakufu tolerated and for what reason. This point is underscored in Ambros research (2008).
 
 As Thal argues, "[p]ilgrimage, and the service industry that supported it, was integral to the growing market economy of Tokugawa Japan" (2005, 102). 
 
