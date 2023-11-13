@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meibutsu.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meibutsu.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meibutsu.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -251,8 +251,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fdc79414a27c1dc",
+  "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
+    "Meibutsu.md",
     "Merchants.md",
     "~Literature.canvas",
     "Thesis/Thesis.md",
