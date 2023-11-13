@@ -1,3 +1,5 @@
+prostitutes meibutsu Nenzi 2004
+
 
 **Abstract** 
 
@@ -19,6 +21,21 @@ the economic motivations that lie behind both the travel agent like _oshi_ who e
 combined with the bakufu’s position of being a “benevolent’” ruler gave them less incentive to stop the peasants from traveling than it did to simply manage the system to keep up with the sudden surge of pilgrimage travel.
 
 I argue that the bakufu and daimyo position towards peasant travel was not to confine farmers to their lands, but to ensure that their movement did not have a negative economic effect. This explains why they responded to the surge in travel by making proper travel permits easier to obtain.
+
+
+**Vaporis argument**
+This paper seeks to answer the questions that Vaporis' research reveals but which are left largely unasked; why the bakufu and daimyo authorities were so permissive of pilgrimage if it was argued to be so disruptive to society and threatened the ruler's authority and damaging to the economy? If were are to assume that the authorities were positioned against travel, why do we observe such lenience towards it? 
+
+Countless persons from all social ranks defied governmental authority by traveling without official permission despite the volumes of legislation intended to regulate or restrict movement. (Vaporis 1994, 12)
+
+Vaporis does observe how bakufu officials did make reactionary changes to the permit system, though he describes them as trying to accommodate the large numbers of people who wanted to travel, instead of strongly coming out against pilgrimage itself. 
+
+Rather than come out against pilgrimage with strong measures and enforced punishments, government authorities were content to issue and re-issue prohibitiens which were hortatory in nature and thereby functioned more as sumptuary legislation" (Vaporis 1994, 215)
+
+
+Vaporis describes some of the social factors, alluding that because pilgrimage was seen as a rite of passage and worshiping at shrines such as Ise were connected to the Emperor's authority, restricting pilgrimage could have negative repercussions for them. However, Vaporis does not clearly state these as being the reason behind bakufu's laxity. 
+While the religious aspects of pilgrimage may played a part in softening the perspective of some authorities towards it, I argue that it does not fully explain. 
+
 
 **Maps and media**
 In the media that helped to popularize that tourism (Fabricand-Person 2011), the authorities show no negative reaction, allowing maps to be used freely (REF) and <mark style="background: #FFF3A3A6;">RESEARCH</mark> 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Title & Thesis.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+                "file": "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
@@ -150,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,16 +251,17 @@
   },
   "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
+    "Notes.md",
+    "Thesis/Thesis.md",
+    "~Mind Map.canvas",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Meibutsu.md",
+    "Thesis/Title & Thesis.md",
     "Merchants.md",
     "~Literature.canvas",
-    "Thesis/Thesis.md",
     "conflict-files-obsidian-git.md",
-    "Thesis/Title & Thesis.md",
-    "Notes.md",
-    "~Mind Map.canvas",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Thesis/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~単語.md",
@@ -280,7 +279,6 @@
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Bakufu and Daimyo/Permit System.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
@@ -289,7 +287,6 @@
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments/Nosco 1996, Vaporis doesn't answer questions about laxity.md",
-    "Historian's arguments/Watkins 2008, Pilgrimage is the result of bakufu restricting pleasure travel.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
