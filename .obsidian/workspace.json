@@ -79,6 +79,18 @@
             }
           },
           {
+            "id": "f32dc57be3a5a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis/Thesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc1d195a8f3bac18",
             "type": "leaf",
             "state": {
@@ -93,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +252,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
-    "Thesis/Title & Thesis.md",
+    "conflict-files-obsidian-git.md",
     "Thesis/Thesis.md",
+    "Thesis/Title & Thesis.md",
     "Notes.md",
     "~Literature.canvas",
     "~Mind Map.canvas",
@@ -251,7 +265,6 @@
     "Thesis/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~単語.md",
-    "conflict-files-obsidian-git.md",
     "Thesis/travel.jpg",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "travel.jpg",
