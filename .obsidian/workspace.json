@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Thesis/Title & Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -242,6 +241,7 @@
   },
   "active": "c6962fbd468da123",
   "lastOpenFiles": [
+    "Thesis/Title & Thesis.md",
     "Notes.md",
     "Thesis/Thesis.md",
     "~Literature.canvas",
@@ -271,7 +271,6 @@
     "Bakufu and Daimyo/Permit System.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "Thesis/Title & Thesis.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
