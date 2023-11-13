@@ -5,6 +5,7 @@
 - Tokugawa Lenience of Peasant Pilgrimage
 - Lenience of the Tokugawa Bakufu Towards Tourism from Peasant Pilgrimage 
 
+
 ### Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
