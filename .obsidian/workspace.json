@@ -24,14 +24,11 @@
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Literature.canvas",
-                "viewState": {
-                  "x": -356.4485703932087,
-                  "y": 356.868482180692,
-                  "zoom": -1.8536291887311964
-                }
+                "file": "Meibutsu.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
@@ -135,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gratifi",
+                "query": "meibutsu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -173,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Meibutsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Meibutsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Meibutsu.md"
               }
             }
           },
@@ -253,13 +251,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f32dc57be3a5a1ef",
+  "active": "6fdc79414a27c1dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Merchants.md",
+    "~Literature.canvas",
     "Thesis/Thesis.md",
+    "conflict-files-obsidian-git.md",
     "Thesis/Title & Thesis.md",
     "Notes.md",
-    "~Literature.canvas",
     "~Mind Map.canvas",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
@@ -276,7 +275,6 @@
     "assets/css/jekyll-theme-cayman.scss",
     "assets/css",
     "assets",
-    "Merchants.md",
     "_config.yml",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
