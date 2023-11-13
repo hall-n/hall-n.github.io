@@ -1,4 +1,4 @@
-**Title**:  Tokugawa Travel: the Bakufu's Lenience towards Peasant Pilgrimage
+**Title**:  Tokugawa Travel: Authorities' Lenience towards Peasant Pilgrimage
 **Other title ideas**: 
 - Understanding the rise of peasant pilgrimage: The bakufu and daimyo's laxity against an emerging tourism industry
 - Understanding Edo Period Tourism: Tokugawa's laxity of peasant pilgrimage
@@ -18,9 +18,9 @@
 
 ![travel](travel.jpg "travel" )
 ## Abstract
-(100-300 words)
+(200-250 words, 日本語250‐300)
 
-While studies of travel during the Tokugawa period reveal a flourishing tourism industry from pilgrims, many historians present the situation as the authorities being clearly set against peasant pilgrimage, implementing a system of barriers and strict rules to impede their movement. Other research reveals a clear laxity in allowing travel, as they make permits easier to obtain and provide support for pilgrims in need during their travels. I argue that the reason behind these apparent conflicting actions of the bakufu lies in the variety of pilgrimage and the effect that they had on the communities. By understanding the economic motivations behind the travel promotion that led to the increase of mass pilgrimage and the commercialization of travel, and observing the effect which those pilgrims had on the region, the social and economic benefits of tourism from pilgrimage become clear. In addition, research on the governance of the bakufu and the daimyo reveal a shift from authoritarian position towards a benevolent ruler that sought the economic well-being of the common people. I argue, therefore, against the idea that the authorities wished to restrict the movement of the peasants, and that the regulations they made pertaining to travel were to ensure that pilgrimage did not have a negative impact while allowing it to grow the region's economy.  
+While studies of travel during the Tokugawa period reveal a flourishing tourism industry from pilgrims, many historians present the situation as the bakufu and han authorities being clearly set against peasant pilgrimage, implementing a system of barriers and strict rules to impede their movement. Other research reveals a clear laxity in allowing travel, as the they make permits easier to obtain and provide support for pilgrims in need during their travels. I argue that the reason behind these apparent conflicting actions lies in the variety of pilgrimage and the effect that they had on the communities. By understanding the economic motivations behind the travel promotion that led to the increase of mass pilgrimage and the commercialization of travel, and observing the effect which those pilgrims had on the region, the social and economic benefits of tourism from pilgrimage become clear. In addition, research on the governance of the bakufu and the daimyo reveals a shift from an authoritarian position towards a benevolent ruler that sought the economic well-being of the common people. I argue, therefore, against the idea that the bakufu and daimyo authorities wished to restrict the movement of the peasants, and that the regulations they made pertaining to travel were to ensure that pilgrimage did not have a negative impact while allowing it to grow the region's economy.  
 
 
 # Thesis
