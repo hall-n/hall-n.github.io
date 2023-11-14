@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -263,11 +263,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce63507e0cfded9",
+  "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
+    "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Thesis/Thesis.md",
     "Untitled.md",
-    "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Meibutsu.md",
     "Notes.md",
     "~Mind Map.canvas",
