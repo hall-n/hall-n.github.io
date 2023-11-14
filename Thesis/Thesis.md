@@ -167,6 +167,7 @@ These points are both vital to understanding what can be argued to be the first 
 %%
 
 ## Bibliography
+Ando Yuichiro. 2021. *Edo no ryokō no urajijyō: daimyō shōgun shyomin sorezore no otanoshimi*. Tokyo: Asahi Shimbun Publications.[https://cir.nii.ac.jp/crid/1130852779127530287](https://cir.nii.ac.jp/crid/1130852779127530287).
 
 Ambros, Barbara. 2008. _Emplacing a Pilgrimage: The Ōyama Cult and Regional Religion in Early Modern Japan_. 1st ed. Vol. 297. Harvard University Asia Center. [https://doi.org/10.2307/j.ctt1tm7fn2](https://doi.org/10.2307/j.ctt1tm7fn2).
 
@@ -194,11 +195,11 @@ Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins 
 
 Seaton, Philip A., 山村高淑, 須川亜紀子, and Kyungjae Jang. 2017. _Contents Tourism in Japan : Pilgrimages to “Sacred Sites” of Popular Culture_. Cambria Press. [https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411](https://opac.lib.hokudai.ac.jp/opac/opac_link/bibid/2001711411).
 
-Umesao, Tadao. 1995. “Tourism as a Phenomenon of Civilization.” _Senri Ethnological Studies_ 38 (February): 1–9. https://minpaku.repo.nii.ac.jp/api/records/3025.
+Tyler, Royall. 1981. “A Glimpse of Mt. Fuji in Legend and Cult.” _The Journal of the Association of Teachers of Japanese_ 16 (2): 140–65. [https://doi.org/10.2307/489324](https://doi.org/10.2307/489324).
 
 Thal, Sarah. 2005. _Rearranging the Landscape of the Gods: The Politics of a Pilgrimage Site in Japan, 1573-1912_. Studies of the Weatherhead East Asian Institute, Columbia University. Chicago: University of Chicago Press. [http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html](http://catdir.loc.gov/catdir/toc/uchi051/2004009967.html).
 
-Tyler
+Umesao, Tadao. 1995. “Tourism as a Phenomenon of Civilization.” _Senri Ethnological Studies_ 38 (February): 1–9. https://minpaku.repo.nii.ac.jp/api/records/3025.
 
 Vaporis, C. 2012. _Voices of Early Modern Japan: Contemporary Accounts of Daily Life During the Age of the Shoguns_. Voices of an Era. ABC-CLIO. [https://books.google.co.jp/books?id=W_TCEAAAQBAJ](https://books.google.co.jp/books?id=W_TCEAAAQBAJ).
 
