@@ -84,6 +84,16 @@ Therefore, while some historians may use the Shikoku circuit pilgrimage or the *
 Sakura viewing tourism
 
 
+latter part of Tokugawa period, a compilation of Edo guidebooks, was compiled and published by the Saito family, the feudal lords of Kandajicho. (96)
+
+Cherry blossom sights - the 'arrow-carrying woman' at Asukayama
+As a newly emerging city, Edo lacked places of historical interest, but in the mid-Edo period (1716-31), the shogunate began to create places of interest that made use of the natural landscape. The eighth shogun, Tokugawa Yoshimune, played a major role in this. (96)
+
+When such scenic spots became popular and were featured in guidebooks, they became tourist attractions. During the reign of Yoshimune, new places were created that were crowded with Edo residents. The Sumida River bank (?), where Yoshimune ordered cherry trees to be planted, and the Tobishima Island (also known as Tobishima) were the first places where cherry trees were planted. The Sumida River bank (?) and Tobishima Mountain, where Yoshimune ordered the planting of cherry trees, are examples of artificially created tourist attractions.
+
+"The shogun himself gave an example and recommended flower viewing at Asukayama. There could not have been a more effective publicity stunt. This was top salesmanship at its best"
+
+**Conclusion**
 The above research demonstrates the authorities' acceptance of pilgrimage and tourism, and reveals their priority of economic prosperity; however, the question of why still remains. I argue that the reason behind the bakufu's reaction is a result of the style of governance of the Tokugawa bakufu and daimyo, which arose as a response to the changing political landscape of the early Edo period.  
 
 ## Changes in governance
