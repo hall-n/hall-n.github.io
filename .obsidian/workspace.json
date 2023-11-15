@@ -6,29 +6,44 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 41.965811965811966,
+        "dimension": 83.22147651006712,
         "children": [
-          {
-            "id": "3a4459311f5760d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps.md",
+                "file": "Bakufu and Daimyo/Confucian element.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3a4459311f5760d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1d195a8f3bac18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -1173.3296782911323,
+                  "y": 2168.4304968825345,
+                  "zoom": -0.4333750676020181
+                }
               }
             }
           },
@@ -36,11 +51,14 @@
             "id": "2b6bb8110269d11a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
-                "mode": "source",
-                "source": false
+                "file": "~Literature.canvas",
+                "viewState": {
+                  "x": -835.7562348219802,
+                  "y": -338.82527739707774,
+                  "zoom": -0.34814320419005923
+                }
               }
             }
           },
@@ -61,7 +79,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 58.034188034188034,
+        "dimension": 16.778523489932887,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -84,21 +102,6 @@
                 "file": "Thesis/Thesis.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1d195a8f3bac18",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -1173.3296782911323,
-                  "y": 2168.4304968825345,
-                  "zoom": -0.4333750676020181
-                }
               }
             }
           }
@@ -132,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leisu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,12 +152,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -170,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Bakufu and Daimyo/Confucian element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Bakufu and Daimyo/Confucian element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Bakufu and Daimyo/Confucian element.md"
               }
             }
           },
@@ -237,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,15 +254,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f32dc57be3a5a1ef",
+  "active": "1ce63507e0cfded9",
   "lastOpenFiles": [
-    "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
+    "Bakufu and Daimyo/Road Conditions.md",
     "Notes.md",
+    "~Literature.canvas",
+    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
+    "Overall Travel Situation.md",
+    "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Maps.md",
     "Thesis/Thesis.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Untitled.md",
-    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
@@ -266,7 +273,6 @@
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Thesis/Title & Thesis.md",
     "Merchants.md",
-    "~Literature.canvas",
     "conflict-files-obsidian-git.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis/Bibliography.md",
@@ -286,9 +292,6 @@
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Bakufu and Daimyo/Permit System.md",
-    "Overall Travel Situation.md",
-    "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
-    "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
