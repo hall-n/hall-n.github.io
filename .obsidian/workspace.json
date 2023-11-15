@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Confucian element.md",
+                "file": "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
@@ -136,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leisu",
+                "query": "1988",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,11 +236,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,9 +256,10 @@
   },
   "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
-    "Notes.md",
+    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Thesis/Thesis.md",
     "Bakufu and Daimyo/Confucian element.md",
+    "Notes.md",
     "Bakufu and Daimyo/Road Conditions.md",
     "~Literature.canvas",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
@@ -293,7 +293,6 @@
     "_config.yml",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
     "Historian's arguments/Goree's Argument, Culture of Travel.md",
-    "Bakufu and Daimyo/Permit System.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
