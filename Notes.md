@@ -1,3 +1,4 @@
+Tokugawa authorities' support of pilgrimahe and tourism
 the precarious position the bakufu put the daimyo in also gave the han rulers reason to focus more and prioritize the reaction of their peoplw. 
 makes her case by 
 
