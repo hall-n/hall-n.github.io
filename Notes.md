@@ -1,11 +1,13 @@
 
+makes her case by 
+
+The observations from this research, perhaps our image of the bakufu's intent and method of dealing with the peasants needs reassessing, as from their legislation they do not appear to be purely adverse to the pilgrimage of commoners. 
+
 
 **leisure**
 Traganou argues that Tokugawa discouraged non-official travel
 
-"sightseeing in the towns was not encouraged" (Traganou 2004, 15) makes her case by pointing out how in Confusianism leisure was not good.
 
-they sought to "discourage recreation, inessential travel, and other 'unproductive' uses of time" (Totman 2005, 265)
 
 Government did not recognize the concept of tourism, and therefore discouraged all recreational or touristic travel", pointing the Kaga domain that stated that sightseeing was of no worth (Vaporis 1995, 32). 
 

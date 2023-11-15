@@ -6,7 +6,7 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 83.22147651006712,
+        "dimension": 28.9544235924933,
         "children": [
           {
             "id": "1ce63507e0cfded9",
@@ -74,12 +74,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 16.778523489932887,
+        "dimension": 71.0455764075067,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -157,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -173,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bakufu and Daimyo/Confucian element.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bakufu and Daimyo/Confucian element.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bakufu and Daimyo/Confucian element.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -240,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,16 +255,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce63507e0cfded9",
+  "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
-    "Bakufu and Daimyo/Road Conditions.md",
     "Notes.md",
+    "Thesis/Thesis.md",
+    "Bakufu and Daimyo/Confucian element.md",
+    "Bakufu and Daimyo/Road Conditions.md",
     "~Literature.canvas",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Maps.md",
-    "Thesis/Thesis.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Untitled.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
