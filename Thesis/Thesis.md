@@ -83,37 +83,14 @@ However, Kouamé argues that even in such cases where those antisocial elements 
 Therefore, while some historians may use the Shikoku circuit pilgrimage or the *nukemairi* pilgrims as an example of the bakufu's opposition of pilgrimage, upon closer examination it provides evidence of bakufu's support of the pilgrims during their journey. As the cases above reveal, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted and how it affected the local region appears to be a deciding factor on whether the authorities supported or prohibited it. Furthermore, from their reaction it is evident that they prioritized keeping the economic effects of the pilgrimage industry positive. 
 ### Non-religious tourism
 The cases of above reflect the bakufu and daimyo's reaction towards pilgrimage specifically, but if we consider the argument of the historians once more, they often mention the negative toward leisure, using that as a large reason for the authorities' position against pilgrimage, since it often had tourist elements. This argument, however, is not convincing because there are cases where the bakufu directly promoted tourism.
-An <mark style="background: #FFF3A3A6;">example </mark>of this can be seen in how they dealt with the media industry that promoted travel, which included guidebooks, maps, and travel dairies. If the bakufu had sought to curb commoner travel, letting information relating to it flourish seems highly counter productive, yet they did not monopolize or control spatial information and allowed free use of map images (Yonemoto 2003). In <mark style="background: #FFF3A3A6;">addition</mark>, during the mid-Edo period, the daimyo lords of   
+An <mark style="background: #FFF3A3A6;">example </mark>of this can be seen in how they dealt with the media industry that promoted travel, which included guidebooks, maps, and travel dairies. If the bakufu had sought to curb commoner travel, letting information relating to it flourish seems highly counter productive, yet they did not monopolize or control spatial information and allowed free use of map images (Yonemoto 2003). In <mark style="background: #FFF3A3A6;">addition</mark>, there are occasions where the authorities have direct involvement in the dissemination tourism information. In the latter part of the Edo period, the senior town administrator of the Kanda ward in Edo compiled and published a compilation of Edo guidebooks, with illustrations and descriptions covering over 1043 places of interest, a book which became highly popular (Ando 2021, 96). 
+Perhaps the most convincing evidence of the bakufu's advocacy of tourism and travel is the fact that they themselves created a purely tourist location. In the early eighteenth century, Edo was still a newly emerging city and lacked historical attraction sites, but the bakufu began to utilize the natural landscape to create famous places of interest (ibid 97). An example is the sakura flower-viewing parks of Edo, Asukayama and the Sumida Riverbank, where the bakufu took great efforts to plant sakura trees and draw tourists with entertainment facilities. 
 
-Guidebooks and maps
-latter part of Tokugawa period, a compilation of Edo guidebooks, was compiled and published by the Saito family, the feudal lords of Kandajicho. (96)
+![Asakuyama flower-viewing](https://www.asukayama.jp/asukayama/images/as04-img-01.jpg "Asakuyama" )
 
-In the Tempo period (1831-44), Edo Meisho Zue (Edo Famous Places), a compilation of Edo guidebooks, was compiled and published by the Saito family, the feudal lords of Kandajicho. While previous guidebooks were mainly descriptive, with only illustrations, this book was more illustrative and therefore more popular.
-covering a total of 1043 places of interest.
+The shogun Yoshimune himself even endorsed visiting Asukayama to view the sakura, a publicity stunt that Ando describes as salesmanship at its best. Indeed without Yoshimune, Ando claims, this famous sightseeing spot would not have been possible. He argues that Yoshimune was responsible not only for these artificially made tourist attractions, but was also the creator of the *meibutsu* chomeiji sakura mochi, which uses sakura leaves to sandwich a sweet-bean filled rice cake and is still popular today. 
 
-Perhaps the most convincing evidence of the bakufu's advocacy of tourism and travel is the fact that they created a purely tourist location. 
-
-Sakura viewing 
-yoshi nune
-shogun
-sakura spot create, hanami, kankou spot
-
-Problem, alcohol food problem
-place, grave was close to
-bakufu 大騒ぎがよくない
-制限して、場所を移動
-
-
-Cherry blossom sights - the 'arrow-carrying woman' at Asukayama
-As a newly emerging city, Edo lacked places of historical interest, but in the mid-Edo period (1716-31), the shogunate began to create places of interest that made use of the natural landscape. The eighth shogun, Tokugawa Yoshimune, played a major role in this. (96)
-
-When such scenic spots became popular and were featured in guidebooks, they became tourist attractions. During the reign of Yoshimune, new places were created that were crowded with Edo residents. The Sumida River bank (?), where Yoshimune ordered cherry trees to be planted, and the Tobishima Island (also known as Tobishima) were the first places where cherry trees were planted. The Sumida River bank (?) and Tobishima Mountain, where Yoshimune ordered the planting of cherry trees, are examples of artificially created tourist attractions.
-
-"The shogun himself gave an example and recommended flower viewing at Asukayama. There could not have been a more effective publicity stunt. This was top salesmanship at its best"
-
-**Conclusion**
-The above research demonstrates the authorities' acceptance of pilgrimage and tourism, and reveals their priority of economic prosperity; however, the question of why still remains. I argue that the reason behind the bakufu's reaction is a result of the style of governance of the Tokugawa bakufu and daimyo, which arose as a response to the changing political landscape of the early Edo period.  
-
+This direct creation and endorsement leaves no doubt about the position of the bakufu toward leisure, as the above research clearly demonstrates the authorities' acceptance of pilgrimage and tourism. The question of why, however, still remains. I argue that their underlying priority is economic prosperity, a focus which is the result of the a shifting political landscape of the early Edo period to which the bakufu and daimyo adjusted their style of governance in order to retain their position and power.   
 ## Changes in governance
 ### Tokugawa bakufu
 The image of Tokugawa bakufu is often portrayed as authoritarian, restricting both physical and financial freedom (<mark style="background: #FFF3A3A6;">REF</mark>). Contradiction of this image, there are also arguments that reveal a shift to prioritizing the economic prosperity of the common people as a result of the change of governance and social structure that followed Tokugawa's rise to shogunate. Among these changes is the adoption of Confucianist ideas, described by some historians as "benevolence" (Hall 1966). While Gordon 2003 and Tanimoto 2019 argue that the Confucian concept of benevolence was not popular in the seventeenth century, pointing out the authoritarian "squeezing of the peasants" for their own benefit, Tanimoto does at admit that there are some instances, such as civil engineering infrastructure, the economic interests of the authorities and the common people likely overlapped. However, looking deeper into the social and economical changes as Japan entered an era of peace reveals a complex society that no longer fits the term feudalism (Hall 1966). 
