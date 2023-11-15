@@ -1,3 +1,7 @@
+**leisure**
+referencing that in Confusianism leisure was not good.
+"leisurely sightseeing in the towns was not encouraged."
+
 The boom in travel led to the publication of a number of guidebooks that introduced famous and historic sites, shrines and temples throughout the country in text and pictures, which encouraged people to travel and helped to increase the number of tourists (Ando 2021)
 
 
