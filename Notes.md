@@ -1,4 +1,4 @@
-
+the precarious position the bakufu put the daimyo in also gave the han rulers reason to focus more and prioritize the reaction of their peoplw. 
 makes her case by 
 
 The observations from this research, perhaps our image of the bakufu's intent and method of dealing with the peasants needs reassessing, as from their legislation they do not appear to be purely adverse to the pilgrimage of commoners. 
