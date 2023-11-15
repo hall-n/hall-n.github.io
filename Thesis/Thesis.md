@@ -83,11 +83,15 @@ However, Kouamé argues that even in such cases where those antisocial elements 
 Therefore, while some historians may use the Shikoku circuit pilgrimage or the *nukemairi* pilgrims as an example of the bakufu's opposition of pilgrimage, upon closer examination it provides evidence of bakufu's support of the pilgrims during their journey. As the cases above reveal, the bakufu was clearly not against all pilgrimage; how the pilgrimage was conducted and how it affected the local region appears to be a deciding factor on whether the authorities supported or prohibited it. Furthermore, from their reaction it is evident that they prioritized keeping the economic effects of the pilgrimage industry positive. 
 ### Non-religious tourism
 The cases of above reflect the bakufu and daimyo's reaction towards pilgrimage specifically, but if we consider the argument of the historians once more, they often mention the negative toward leisure, using that as a large reason for the authorities' position against pilgrimage, since it often had tourist elements. This argument, however, is not convincing because there are cases where the bakufu directly promoted tourism.
-An <mark style="background: #FFF3A3A6;">example </mark>of this can be seen in how they dealt with the media industry that promoted travel, which included guidebooks, maps, and travel dairies. In 
-created a purely tourist location. 
+An <mark style="background: #FFF3A3A6;">example </mark>of this can be seen in how they dealt with the media industry that promoted travel, which included guidebooks, maps, and travel dairies. If the bakufu had sought to curb commoner travel, letting information relating to it flourish seems highly counter productive, yet they did not monopolize or control spatial information and allowed free use of map images (Yonemoto 2003). In <mark style="background: #FFF3A3A6;">addition</mark>, during the mid-Edo period, the daimyo lords of   
 
 Guidebooks and maps
 latter part of Tokugawa period, a compilation of Edo guidebooks, was compiled and published by the Saito family, the feudal lords of Kandajicho. (96)
+
+In the Tempo period (1831-44), Edo Meisho Zue (Edo Famous Places), a compilation of Edo guidebooks, was compiled and published by the Saito family, the feudal lords of Kandajicho. While previous guidebooks were mainly descriptive, with only illustrations, this book was more illustrative and therefore more popular.
+covering a total of 1043 places of interest.
+
+Perhaps the most convincing evidence of the bakufu's advocacy of tourism and travel is the fact that they created a purely tourist location. 
 
 Sakura viewing 
 yoshi nune

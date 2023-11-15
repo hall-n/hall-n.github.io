@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
+                "file": "Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -253,14 +253,15 @@
   },
   "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
+    "Notes.md",
+    "Thesis/Thesis.md",
+    "Maps.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Untitled.md",
-    "Thesis/Thesis.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
-    "Notes.md",
     "~Mind Map.canvas",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Thesis/Title & Thesis.md",
@@ -289,7 +290,6 @@
     "Historian's arguments/Kouamé 1997, Tolerance and flexibility in administration seen in Shikoku Pilgrimage.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Historian's arguments/Traganou 2004, Travel as escape, pilgrimage threat to bakufu.md",
-    "Historian's arguments/Nenzi 2008, views government at odds with religion.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",
