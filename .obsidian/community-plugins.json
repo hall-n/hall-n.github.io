@@ -10,5 +10,6 @@
   "better-word-count",
   "obsidian-dictionary-plugin",
   "obsidian-citation-plugin",
-  "colored-tags"
+  "colored-tags",
+  "obsidian-plugin-toc"
 ]

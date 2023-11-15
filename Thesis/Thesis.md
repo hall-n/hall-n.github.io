@@ -5,16 +5,31 @@
 - Tokugawa Lenience of Peasant Pilgrimage
 - Lenience of the Tokugawa Bakufu Towards Tourism from Peasant Pilgrimage 
 
-
 ### Table of Contents
 - [Abstract](#abstract)
-- [Introduction](#introduction)
-- [Argument by historians](#argument-by-historians)
-- [The commercialization of pilgrimage](#the-commercialization-of-pilgrimage)
-- [The response of the authorities](#response-of-the-authorities)
-- [Changes in governance](#changes-in-governance)
-- [Conclusion](#conclusion)
+- [Thesis](#thesis)
+- [1. Introduction](#1-introduction)
+- [2. Argument by historians](#2-argument-by-historians)
+- [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)
+- [3.1 Promotion of pilgrimage for financial gain](#31-promotion-of-pilgrimage-for-financial-gain)
+- [3.2 The commodities of pilgrimage](#32-the-commodities-of-pilgrimage)
+- [3.3 The economic significance of pilgrimage](#33-the-economic-significance-of-pilgrimage)
+- [4. Response of the authorities](#4-response-of-the-authorities)
+- [4.1 The Ōyama pilgrimage](#41-the-%C5%8Cyama-pilgrimage)
+- [4.2 The *nukemairi* pilgrims](#42-the-nukemairi-pilgrims)
+- [4.3 The Shikoku pilgrimage](#43-the-shikoku-pilgrimage)
+- [4.4 Non-religious tourism](#44-non-religious-tourism)
+- [5. Changes in governance](#5-changes-in-governance)
+- [5.1 Tokugawa bakufu](#51-tokugawa-bakufu)
+- [5.2 The daimyo](#52-the-daimyo)
+- [5.3 The influence of merchant thought](#53-the-influence-of-merchant-thought)
+- [6. Conclusion](#6-conclusion)
+- [agricultural surplus](#agricultural-surplus)
+- [Dichotomy of pleasure and religion a modern idea](#dichotomy-of-pleasure-and-religion-a-modern-idea)
+- [Why this research is meaningful](#why-this-research-is-meaningful)
 - [Bibliography](#bibliography)
+
+
 
 ![travel](travel.jpg "travel" )
 ## Abstract
