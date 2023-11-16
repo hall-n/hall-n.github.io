@@ -6,23 +6,8 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 50.598290598290596,
+        "dimension": 28.29059829059829,
         "children": [
-          {
-            "id": "1ce63507e0cfded9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -849.1296311963818,
-                  "y": -274.35087139860525,
-                  "zoom": -2.1582691578335083
-                }
-              }
-            }
-          },
           {
             "id": "3a4459311f5760d6",
             "type": "leaf",
@@ -32,21 +17,6 @@
                 "file": "Notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1d195a8f3bac18",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "~Mind Map.canvas",
-                "viewState": {
-                  "x": -1173.3296782911323,
-                  "y": 2168.4304968825345,
-                  "zoom": -0.4333750676020181
-                }
               }
             }
           },
@@ -82,7 +52,7 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 49.401709401709404,
+        "dimension": 71.7094017094017,
         "children": [
           {
             "id": "c6962fbd468da123",
