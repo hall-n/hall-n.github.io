@@ -1,3 +1,10 @@
+
+there is clear evidence that the bakufu and daimyo were lenient in allowing travel of the lower classes (Ambros 2008; Thal 2005),
+
+the question of why is not touched upon
+
+
+
 Tokugawa authorities' support of pilgrimahe and tourism
 the precarious position the bakufu put the daimyo in also gave the han rulers reason to focus more and prioritize the reaction of their peoplw. 
 makes her case by 
