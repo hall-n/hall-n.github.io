@@ -100,14 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +253,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f32dc57be3a5a1ef",
+  "active": "c6962fbd468da123",
   "lastOpenFiles": [
     "Notes.md",
     "Thesis/Thesis.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Bakufu and Daimyo/Confucian element.md",
@@ -292,7 +292,6 @@
     "assets",
     "_config.yml",
     "Historian's arguments/押田 Oshida et al 2011, sightseeing developed over time from pilgrimage.md",
-    "Historian's arguments/Goree's Argument, Culture of Travel.md",
     "Historian's arguments",
     "~Outline.canvas",
     "~bline.png",

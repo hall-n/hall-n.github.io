@@ -1,5 +1,16 @@
 !!! peasant -> commoners
 
+### Why this research is meaningful	
+This research reveals not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, 
+These points are both vital to understanding what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan.
+
+
+
+"Tokugawa hegemony Japan was governed under the broad unifying capacity of the shogun, but actual administration was partially decentralized under the regional authorities of the various daimyo", therefore describing as feudalistic is misleading as the structure was more bureaucrat (Hall 1966, 345).
+
+as the authorities flexible pragmatism as they react to the changing economy (Nakai 1988). 
+
+"The early modern system was not unremittingly oppressive but gave many institutions opportunities to operate on their own terms by harnessing local and regional resources" (Ambros 2008, 239).
 
 
 The bakufu were focused on keeping a balanced market and growing yields, and to that end they intentionally left a surplus of rice with the peasants;
