@@ -1,9 +1,24 @@
+!!! peasant -> commoners
+
+
+
+The bakufu were focused on keeping a balanced market and growing yields, and to that end they intentionally left a surplus of rice with the peasants;
+
+This focus of managing the economy and promoting regional prosperity is also reflected in how the authorities restructured and managed the rice tax, as argued in Hall (2022). 
+
+This trend can be traced back to the **beginning** of Edo period when **they** restructured the rice tax and prioritized agricultural development, which meant improving the quality of life for the commoners. 
+research of Tokugawa bakufu and daimyo governance reveals a trend of moving away from authoritarian methods of control and prioritizing the welfare of the people. As the entire tax system was based on the efforts of the farmer, this would result in their own prosperity. 
+
 
 there is clear evidence that the bakufu and daimyo were lenient in allowing travel of the lower classes (Ambros 2008; Thal 2005),
 
 the question of why is not touched upon
 
+In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order.
 
+**Vaporis**
+Contrary to the idea of dealing with the commoners harshly, "[o]fficials frequently bent the rules for travelers with defective permits, and sometimes downgraded travel offenses to avoid having to prosecute commoners" (ibid, 216). 
+As both of these groups' income came directly from the peasant's efforts in their fields, it is understandable how travel away from one's region could have negative repercussions in the eyes of those authorities. 
 
 Tokugawa authorities' support of pilgrimahe and tourism
 the precarious position the bakufu put the daimyo in also gave the han rulers reason to focus more and prioritize the reaction of their peoplw. 
