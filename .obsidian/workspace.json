@@ -6,17 +6,20 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 35.120643431635386,
+        "dimension": 77.26495726495727,
         "children": [
           {
             "id": "1ce63507e0cfded9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
-                "mode": "source",
-                "source": false
+                "file": "~Mind Map.canvas",
+                "viewState": {
+                  "x": -907.5477873858586,
+                  "y": -330.5026225492349,
+                  "zoom": -2.8751470350702526
+                }
               }
             }
           },
@@ -74,13 +77,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 64.87935656836461,
+        "dimension": 22.735042735042736,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -173,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "~Mind Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "~Mind Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "~Mind Map.canvas"
               }
             }
           },
@@ -253,12 +255,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "1ce63507e0cfded9",
   "lastOpenFiles": [
-    "Notes.md",
-    "Thesis/Thesis.md",
-    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
+    "Thesis/Thesis.md",
+    "Notes.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Bakufu and Daimyo/Confucian element.md",
     "Bakufu and Daimyo/Road Conditions.md",
