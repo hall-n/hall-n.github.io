@@ -10,7 +10,7 @@
 - [Thesis](#thesis)
 - [1. Introduction](#1-introduction)
 - [2. Argument by historians](#2-argument-by-historians)
-- [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage
+- [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)
 - [3.1 Promotion of pilgrimage for financial gain](#31-promotion-of-pilgrimage-for-financial-gain)
 - [3.2 The commodities of pilgrimage](#32-the-commodities-of-pilgrimage)
 - [3.3 The economic significance of pilgrimage](#33-the-economic-significance-of-pilgrimage)
