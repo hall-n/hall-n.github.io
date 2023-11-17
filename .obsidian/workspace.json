@@ -55,11 +55,19 @@
             "id": "c6962fbd468da123",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Thesis/Thesis.md",
-                "mode": "source",
-                "source": false
+                "file": "travel.jpg"
+              }
+            }
+          },
+          {
+            "id": "c8a3742c555f83ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Asukayama Hanami.jpg"
               }
             }
           },
@@ -69,13 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+                "file": "Thesis/Thesis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,13 +130,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -223,10 +230,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "f32dc57be3a5a1ef",
   "lastOpenFiles": [
     "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Thesis/Thesis.md",
+    "Asukayama Hanami 1.jpg",
+    "Fishing at Iwaya on Enoshima.jpg",
+    "Roadside Tea House at Fuchu Station.jpg",
+    "travel.jpg",
+    "Asukayama Hanami.jpg",
+    "Asukayama.jp.md",
     "Notes.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "~Literature.canvas",
@@ -241,7 +254,6 @@
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Maps.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
-    "Untitled.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
@@ -254,8 +266,6 @@
     "~単語.md",
     "Thesis/travel.jpg",
     "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
-    "travel.jpg",
-    "README.md",
     "_sass",
     "assets/css/test",
     "assets/css/style.css",
@@ -270,8 +280,6 @@
     "~arrow.png",
     "arrow.png",
     "~arrow.jpg",
-    "arrow.jpg",
-    "Peasants/travel.jpg",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
