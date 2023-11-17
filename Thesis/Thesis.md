@@ -40,7 +40,7 @@ Countering these claims, I argue that by understanding the economic motivations 
 
 # Thesis
 ## 1. Introduction
-As Japan entered an era of peace in the beginning of the Edo period, the Tokugawa bakufu took steps to ensure that the daimyo would not have the means of uprising by implementing the alternate attendance system, which required the daimyo to make regular trips to Edo every other year (Goree 2020). In order to facilitate this compulsory travel, the bakufu developed extensive infrastructure, building a centralized road network throughout Japan. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover (Vaporis 1994). Along the main routes, the bakufu also established post stations where businesses offered lodging, food, and travel services, and while they had to prioritize servicing Tokugawa officials and daimyo, these services were allowed to cater to the lower classes. In order to monitor this movement throughout the regions, the bakufu positioned barrier stations along the road, the passage through which required a permit. While permits of a leisurely nature for pleasure were not issued, a journey for the purpose of pilgrimage or visiting an onsen for health reasons were viewed by the authorities as valid reasons for travel (Goree 2020). 
+As Japan entered an era of peace in the beginning of the Edo period, the Tokugawa bakufu took steps to ensure that the daimyo would not have the means of uprising by implementing the alternate attendance system, which required the daimyo to make regular trips to Edo every other year (Park and Tanaka 2014). In order to facilitate this compulsory travel, the bakufu developed extensive infrastructure, building a centralized road network throughout Japan. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the road surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover (Vaporis 1994). Along the main routes, the bakufu also established post stations where businesses offered lodging, food, and travel services, and while they had to prioritize servicing Tokugawa officials and daimyo, these services were allowed to cater to the lower classes. In order to monitor this movement throughout the regions, the bakufu positioned barrier stations along the road, the passage through which required a permit. While permits of a leisurely nature for pleasure were not issued, a journey for the purpose of pilgrimage or visiting an onsen for health reasons were viewed by the authorities as valid reasons for travel (Goree 2020). 
 
 At the same time that the conditions for travel were greatly improved, the lower classes of peasants and merchants began to find themselves with increasing financial freedom, which made travel more viable (Ishimori 1989). As advances in media captured the appeal of travel, with many guidebooks on famous sights and attractions being published, pilgrimage became increasingly popular (Fabricand-Person 2011). Over time, sightseeing and enjoying local specialties became common elements of the journey, sometimes even turning into the primary focus of the pilgrimage itself (Nenzi 2004). Thus, the commoner was able to take advantage of the travel infrastructure laid out by the Tokugawa bakufu and out of their pilgrimage soon arose a booming tourist industry.
 
@@ -189,6 +189,8 @@ Oshida Keiko, Yokouchi Norihisa, Okada Tomohide, and Sebata Takahiro. 2011. “K
 
 Paramore, Kiri. 2012. “The Nationalization of Confucianism: Academism, Examinations, and Bureaucratic Governance in the Late Tokugawa State.” _The Journal of Japanese Studies_ 38 (1): 25–53.
 
+Park Jin-Han, and Tanaka Toshimitsu. 2014. “Edo jidai no jyosonomin no yoka to ryoko (The Study on leisure and travelling of the upper classes of peasant in Early Mordern Japan)”. *Koku bungaku kenkyu shiryokan kiyo*, no. 10 (March): 155–74.
+
 Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa_. Cambridge: Cambridge University Press.
 
 Seaton, Philip A., Takayoshi Yamamura, Akiko Sugawa-Shimada, and Kyungjae Jang. 2017. _Contents Tourism in Japan: Pilgrimages to “Sacred Sites” of Popular Culture_. New York: Cambria Press.
@@ -223,5 +225,3 @@ Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture i
 
 
 
-
-朴晋熯, パクジンハン, 田中俊光, タナカトシミツ, Park Jin-Han, and Tanaka Toshimitsu. 2014. “江戸時代の上層農民の余暇と旅行.” 国文学研究資料館紀要, no. 10 (March): 155–74.

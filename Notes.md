@@ -2,7 +2,8 @@
 
 Tried to 
 
-(朴 et al. 2014)
+
+(Park and Tanaka 2014)
 "how the common people tried to obtain the rightness of leisure activities under the control and surveillance of the Edo Shogunate, which tried to strictly limit leisure activities and entertainment, and how religious activities were conducted."
 
 
