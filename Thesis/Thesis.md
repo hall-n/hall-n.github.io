@@ -8,6 +8,7 @@
 
 ### Table of Contents
  [Abstract](#abstract)
+ 
  [Thesis](#thesis)
 - [1. Introduction](#1-introduction)
 - [2. Argument by historians](#2-argument-by-historians)
