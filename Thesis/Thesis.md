@@ -155,21 +155,23 @@ To make an argument that the bakufu were fine with religious pilgrimage and not 
 "There remains little debate about whether the sacred and profane blended in the act of pilgrimage" (Goree 2020, 19).
 
 ## Bibliography
-Ando Yuichiro. 2021. *Edo no ryokō no urajijyō: daimyō shōgun shyomin sorezore no otanoshimi*. Tokyo: Asahi Shimbun Publications.[https://cir.nii.ac.jp/crid/1130852779127530287]([https://cir.nii.ac.jp/crid/1130852779127530287](https://cir.nii.ac.jp/crid/1130852779127530287)).
+Ando Yuichiro. 2021. _Edo no ryokō no urajijyō: daimyō shōgun shyomin sorezore no otanoshimi_ (The inside facts of travel in Edo: the enjoyment of the feudal lords, shoguns and commoners). Tokyo: Asahi shimbun shuppan.
 
-Ambros, Barbara. 2008. _Emplacing a Pilgrimage: The Ōyama Cult and Regional Religion in Early Modern Japan_. 1st ed. Vol. 297. Harvard University Asia Center.
+Ambros, Barbara. 2008. _Emplacing a Pilgrimage: The Ōyama Cult and Regional Religion in Early Modern Japan_. 1st ed. Vol. 297. Cambridge: Harvard University Asia Center.
 
 Blacker, Carmen. 1984. “The Religious Traveller in the Edo Period.” _Modern Asian Studies_ 18 (4): 593–608.
 
 Fabricand-Person, Nicole. 2011. “The Tōkaidō Road: Journeys through Japanese Books and Prints in the Collections of Princeton University.” _The Princeton University Library Chronicle_ 73 (1): 68–99.
 
-Gordon, Andrew. 2003. _A Modern History of Japan: From Tokugawa Times to the Present_. Oxford University Press.
+Gordon, Andrew. 2003. _A Modern History of Japan: From Tokugawa Times to the Present_. Oxford: Oxford University Press.
 
 Goree, Robert. 2020. “The Culture of Travel in Edo-Period Japan.” In _Oxford Research Encyclopedia of Asian History_.
 
-Hall, John Whitney. 1966. _Government and Local Power in Japan, 500 to 1700: A Study Based on Bizen Province_. Princeton University Press.
+Hall, John Whitney. 1966. _Government and Local Power in Japan, 500 to 1700: A Study Based on Bizen Province_. Princeton: Princeton University Press.
 
 Hall, Naiya. 2022. “Why the Tokugawa Shogunate Did Not Optimize the Land Tax.” Essay, Hokkaido University.
+
+Ishimori Shuzo. 1989. “Popularization and Commercialization of Tourism in Early Modern Japan.” _Senri Ethnological Studies_ 26 (December): 179–94.
 
 Kanzaki, Noritake. 1995. “A Comparative Analysis of the Tourist Industry.” _Senri Ethnological Studies_ 38: 39–49.
 
@@ -177,23 +179,27 @@ Kouamé, Nathalie. 1997. “Shikoku’s Local Authorities and Henro during the G
 
 Langrill, Ryan. 2012. “The Evolution of Merchant Moral Thought in Tokugawa Japan.” _Journal of Philosophical Economics_ Volume V Issue 2 (Articles).
 
-Nakai, Kate Wildman. 1988. _Shogunal Politics: Arai Hakuseki and the Premises of Tokugawa Rule_. 1st ed. Vol. 134. Harvard University Asia Center.
+Nakai, Kate Wildman. 1988. _Shogunal Politics: Arai Hakuseki and the Premises of Tokugawa Rule_. 1st ed. Vol. 134. Cambridge: Harvard University Asia Center.
 
 Nenzi, Laura. 2004. “Cultured Travelers and Consumer Tourists in Edo-Period Sagami.” _Monumenta Nipponica_ 59 (3): 285–319.
 
-———. 2008. _Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan_. University of Hawai’i Press.
+———. 2008. _Excursions in Identity: Travel and the Intersection of Place, Gender, and Status in Edo Japan_. Honolulu: University of Hawai’i Press.
 
 Nosco, Peter. 1996. Review of _Review of Breaking Barriers: Travel and the State in Early Modern Japan_, by Constantine Nomikos Vaporis. _The American Historical Review_ 101 (4): 1259–60.
+
+Oshida Keiko, Yokouchi Norihisa, Okada Tomohide, and Sebata Takahiro. 2011. “Kikōbun yori toraeta kindai kamakura ni okeru kankō keiro oyobi taizai kyoten no seiritsu katei ni kansuru kenkyū” （A Study on the Formation Process of Sightseeing Routes and Staying Points in Early Modern Kamakura, Based on Travelogues）. _Randosukepu kenkyu_ (Landscape Research). 74 (5): 431–36.
 
 Paramore, Kiri. 2012. “The Nationalization of Confucianism: Academism, Examinations, and Bureaucratic Governance in the Late Tokugawa State.” _The Journal of Japanese Studies_ 38 (1): 25–53.
 
 Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa_. Cambridge: Cambridge University Press.
 
-Seaton, Philip A., 山村高淑, 須川亜紀子, and Kyungjae Jang. 2017. _Contents Tourism in Japan : Pilgrimages to “Sacred Sites” of Popular Culture_. Cambria Press.
+Seaton, Philip A., Takayoshi Yamamura, Akiko Sugawa-Shimada, and Kyungjae Jang. 2017. _Contents Tourism in Japan: Pilgrimages to “Sacred Sites” of Popular Culture_. New York: Cambria Press.
 
 Sheldon, Charles D. 1971. “‘Pre-Modern’ Merchants and Modernization in Japan.” _Modern Asian Studies_ 5 (3): 193–206.
 
-Tanimoto, Masayuki. 2019. “From ‘Feudal’ Lords to Local Notables: The Role of Regional Society in Public Goods Provision from Early Modern to Modern Japan.” In _Public Goods Provision in the Early Modern Economy_, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 17–37. Comparative Perspectives from Japan, China, and Europe. University of California Press.
+Shinno, Toshikazu. 2002. “Tabi, jyunrei, yusan: kinsei sankei jijyo (eiyaku ban)” (Travel, Pilgrimage, and Pleasure Ride: Pilgrimage Circumstances in Early Modern Japan, (English translation)). Translated by Laura Nenzi. _Monumenta Nipponica : Studies on Japanese Culture Past and Present_ 57 (4): 447–71.
+
+Tanimoto, Masayuki. 2019. “From ‘Feudal’ Lords to Local Notables: The Role of Regional Society in Public Goods Provision from Early Modern to Modern Japan.” In _Public Goods Provision in the Early Modern Economy_, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 17–37. Comparative Perspectives from Japan, China, and Europe. Oakland: University of California Press.
 
 Thal, Sarah. 2005. _Rearranging the Landscape of the Gods: The Politics of a Pilgrimage Site in Japan, 1573-1912_. Studies of the Weatherhead East Asian Institute, Columbia University. Chicago: University of Chicago Press.
 
@@ -203,22 +209,14 @@ Traganou, Jilly. 2004. _The Tôkaidô Road: Travelling and Representation in Edo
 
 Tyler, Royall. 1981. “A Glimpse of Mt. Fuji in Legend and Cult.” _The Journal of the Association of Teachers of Japanese_ 16 (2): 140–65.
 
-Vaporis, Constantine N. 1994. _Breaking Barriers: Travel and the State in Early Modern Japan_. 1st ed. Vol. 163. Harvard University Asia Center.
+Vaporis, Constantine N. 1994. _Breaking Barriers: Travel and the State in Early Modern Japan_. 1st ed. Vol. 163. Cambridge: Harvard University Asia Center.
 
 ———. 1995. “The Early Modern Origins of Japanese Tourism.” _Senri Ethnological Studies_ 38: 25–38.
 
-———. 2012. _Voices of Early Modern Japan: Contemporary Accounts of Daily Life During the Age of the Shoguns_. Voices of an Era. ABC-CLIO.
+———. 2012. “Linking the Realm: The Gokaidô Highway Network in Early Modern Japan (1603–1868).” In _Highways, Byways, and Road Systems in the Pre-Modern World_, 90–105. Chichester: John Wiley & Sons, Ltd.
 
 Watkins, Leah. 2008. “Japanese Travel Culture: An Investigation of the Links between Early Japanese Pilgrimage and Modern Japanese Travel Behaviour.” _New Zealand Journal of Asian Studies_ 10 (2): 93–110.
 
 Wigen, Kären. 2010. “Excursions in Identity Travel and the Intersection of Place, Gender, and Status in Edo Japan.” _Harvard Journal of Asiatic Studies_ 70 (1): 295–303.
 
-Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_.
-
-押田佳子, 憲久横内, 智秀岡田, and 尚紘瀬畑. 2011. “紀行文より捉えた近世鎌倉における観光経路および滞在拠点の成立過程に関する研究.” ランドスケープ研究 74 (5): 431–36. [https://doi.org/10.5632/jila.74.431](https://doi.org/10.5632/jila.74.431)
-
-梅棹忠夫, and Umesao Tadao. 1995. “Keynote Address : Tourism as a Phenomenon of Civilization.” _Senri Ethnological Studies_ 38 (February): 1–9.
-
-真野俊和 and ローラ・ネンジ(訳). 2002. “旅･巡礼･遊山―近世参詣事情（英訳版）.” _Monumenta Nipponica : Studies on Japanese Culture Past and Present_ 57 (4): 447–71.
-
-Ishimori Shuzo. 1989. “Popularization and Commercialization of Tourism in Early Modern Japan.” _Senri Ethnological Studies_ 26 (December): 179–94.
+Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_. 1st ed. Berkeley: University of California Press.
