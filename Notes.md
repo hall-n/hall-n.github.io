@@ -5,6 +5,10 @@ Tried to
 
 (Park and Tanaka 2014)
 "how the common people tried to obtain the rightness of leisure activities under the control and surveillance of the Edo Shogunate, which tried to strictly limit leisure activities and entertainment, and how religious activities were conducted."
+Rite of passage, strengthened solidarity among the family and community, experience gained from travel was highly valued. 
+ The experience gained from travel became highly valued and was seen as a rite of passage.
+ 
+Regional authorities financially backed local festivals as a part of fulfilling their public duty to the people.  
 
 
 
