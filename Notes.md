@@ -1,5 +1,6 @@
 !!! peasant -> commoners
 
+The strictness of the Shikoku authorities can be arguably their response to a particular pilgrimage that was sometimes problematic. 
 ### Why this research is meaningful	
 This research reveals not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, 
 These points are both vital to understanding what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan.
