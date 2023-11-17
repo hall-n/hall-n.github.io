@@ -10,6 +10,11 @@ Rite of passage, strengthened solidarity among the family and community, experie
  
 Regional authorities financially backed local festivals as a part of fulfilling their public duty to the people.  
 
+**Dichotomy**
+Our idea that pilgrims used pilgrimage as a pretense (or *tatemae*) under which they hid their real intent of pleasure travel (*honne*) is not an excuse to get around the bakufu's rules. Rather, it represents the fact that the pilgrimage consisted of both enjoyable sightseeing and religious worship, the separation of which is a modern phenomenon, as argued by Shinno. "The accounts seem to me to illustrate the inextricable conjoining of faith and pleasure that constituted the essence of the phenomenon of pilgrimage" (Shinno 2002, 469). 
+"The modern dualistic ethic, with its positing of an opposition between the sacred and the profane, did not exist in that context. This was true also of travel" (ibid). 
+
+"There remains little debate about whether the sacred and profane blended in the act of pilgrimage" (Goree 2020, 19).
 
 
 

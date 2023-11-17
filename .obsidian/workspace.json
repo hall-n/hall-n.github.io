@@ -24,14 +24,11 @@
             "id": "2b6bb8110269d11a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "~Literature.canvas",
-                "viewState": {
-                  "x": -835.7562348219802,
-                  "y": -338.82527739707774,
-                  "zoom": -0.34814320419005923
-                }
+                "file": "Peasants/Peasants Travel as Rite of Passage.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -107,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rite",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,6 +227,8 @@
   "lastOpenFiles": [
     "Notes.md",
     "Thesis/Thesis.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "~Literature.canvas",
     "LICENSE",
     "~Mind Map.canvas",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
@@ -236,7 +236,6 @@
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Bakufu and Daimyo/Confucian element.md",
     "Bakufu and Daimyo/Road Conditions.md",
-    "~Literature.canvas",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "Overall Travel Situation.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
