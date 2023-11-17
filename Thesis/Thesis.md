@@ -147,9 +147,8 @@ This research is important in order to reveal the underlying motivations behind 
 
 ### Dichotomy of pleasure and religion a modern idea 
 Finally, in addition to the bakufu's focus on economy and not micromanaging commoner's lives, another reason why pilgrimage was allowed to the extent it was is because pilgrimage for religious reasons and pleasure was intertwined in the Edo period. 
-Our idea that pilgrims used pilgrimage as a pretense (or *tatemae*) under which they hid their real intent of pleasure travel (*honne*) is not an excuse to get around the bakufu's rules, as X has argued. Rather, it represents the fact that the pilgrimage consisted of both enjoyable sightseeing and religious worship, the separation of which is a modern phenomenon, as argued by Shinno. "The accounts seem to me to illustrate the inextricable conjoining of faith and pleasure that constituted the essence of the phenomenon of pilgrimage" (Shinno 2002, 469). 
+Our idea that pilgrims used pilgrimage as a pretense (or *tatemae*) under which they hid their real intent of pleasure travel (*honne*) is not an excuse to get around the bakufu's rules. Rather, it represents the fact that the pilgrimage consisted of both enjoyable sightseeing and religious worship, the separation of which is a modern phenomenon, as argued by Shinno. "The accounts seem to me to illustrate the inextricable conjoining of faith and pleasure that constituted the essence of the phenomenon of pilgrimage" (Shinno 2002, 469). 
 "The modern dualistic ethic, with its positing of an opposition between the sacred and the profane, did not exist in that context. This was true also of travel" (ibid). 
-To make an argument that the bakufu were fine with religious pilgrimage and not l
 
 "There remains little debate about whether the sacred and profane blended in the act of pilgrimage" (Goree 2020, 19).
 
@@ -218,4 +217,11 @@ Watkins, Leah. 2008. “Japanese Travel Culture: An Investigation of the Links b
 
 Wigen, Kären. 2010. “Excursions in Identity Travel and the Intersection of Place, Gender, and Status in Edo Japan.” _Harvard Journal of Asiatic Studies_ 70 (1): 295–303.
 
+Umesao Tadao. 1995. “Keynote Address : Tourism as a Phenomenon of Civilization.” _Senri Ethnological Studies_ 38 (February): 1–9.
+
 Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_. 1st ed. Berkeley: University of California Press.
+
+
+
+
+朴晋熯, パクジンハン, 田中俊光, タナカトシミツ, Park Jin-Han, and Tanaka Toshimitsu. 2014. “江戸時代の上層農民の余暇と旅行.” 国文学研究資料館紀要, no. 10 (March): 155–74.

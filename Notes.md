@@ -1,5 +1,13 @@
 !!! peasant -> commoners
 
+Tried to 
+
+(朴 et al. 2014)
+"how the common people tried to obtain the rightness of leisure activities under the control and surveillance of the Edo Shogunate, which tried to strictly limit leisure activities and entertainment, and how religious activities were conducted."
+
+
+
+
 The strictness of the Shikoku authorities can be arguably their response to a particular pilgrimage that was sometimes problematic. 
 ### Why this research is meaningful	
 This research reveals not only the situation that faced peasants as they began to enjoy the freedom of pilgrimage and sightseeing, 
