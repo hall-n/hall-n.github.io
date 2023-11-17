@@ -7,8 +7,8 @@
 - Lenience of the Tokugawa Bakufu Towards Tourism and Pilgrimage 
 
 ### Table of Contents
-- [Abstract](#abstract)
-- [Thesis](#thesis)
+[Abstract](#abstract)
+[Thesis](#thesis)
 - [1. Introduction](#1-introduction)
 - [2. Argument by historians](#2-argument-by-historians)
 - [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)
