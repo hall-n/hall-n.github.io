@@ -80,7 +80,7 @@ Souvenirs to bring back to the pilgrim's hometown had become an important aspect
 Furthermore, it was not physical products alone that took advantage of pilgrims, as teahouses and brothels sprung up alone the pilgrimage routes.  These services quickly became popular stops along one's journey (Oshida et al.), with some prostitutes becoming famous *meibutsu* themselves (Nenzi 2004). The popularity of these non-religious elements was in turn taken advantage of by the religious groups, "making recreational goods and services available within or just beyond their gates" (Goree 2020, 8).  
 
 ![Roadside Tea House at Fuchu Station](Teahouse.jpg "Roadside Tea House at Fuchu Station" )
-Figure 2: Roadside tea house along the Tokaido highway, selling a famous meibutsu, the Abekawa rice cake, by Andō Hiroshige.
+Figure 2: Roadside tea house at Fuchu station on the Tokaido highway, selling a famous meibutsu, the Abekawa rice cake, by Andō Hiroshige.
 *Source*: Wriston Art Center Galleries.
 
 The effects of pilgrimage, therefore, were felt far beyond the industry of travel, and created a situation of competition between regional businesses and religious sites. From that competition cases of conflict did arise, something which the aforementioned historians point to when they discuss the dangers of pilgrimage; I would argue, however, that even the negative effects that pilgrimage had on a community serves to outline just how important of an industry it was becoming to the region. 
