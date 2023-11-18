@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -229,8 +229,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8765fc840e6242",
+  "active": "c6962fbd468da123",
   "lastOpenFiles": [
+    "Notes.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",
     "Thesis/Asukayama.jpg",
@@ -239,7 +240,6 @@
     "Asukayama Hanami 1.jpg",
     "Thesis/Enoshima.jpg",
     "Asukayama.jp.md",
-    "Notes.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "~Literature.canvas",
     "LICENSE",

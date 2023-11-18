@@ -77,10 +77,10 @@ An example of this is *meibutsu*, which became an important element for traveler
 
 Souvenirs to bring back to the pilgrim's hometown had become an important aspect of the trip itself, as it gave validation of one's travels and offered the experience with those of the village who could not visit themselves. Similar to tourism in modern day Japan, a wide variety of industries took advantage of the link their to the region or religious site and marketed themselves as *meibutsu*. For example, the port town of Marugame in north Shikoku sold many souvenirs for the nearby Konpira Shrine, a famous pilgrimage destination. Among those advertised were not only locally made fans that had a direct association with the shrine, but they found ways to link locally produces oil, miso, and medicines to the shrine's deity (Thal 2005, 102). 
 
-Furthermore, it was not physical products alone that took advantage of pilgrims, as teahouses and brothels sprung up alone the pilgrimage routes.  These services quickly became popular stops along one's journey (Oshida et al.), with some prostitutes becoming famous *meibutsu* themselves (Nenzi 2004).  The popularity of these non-religious elements was in turn taken advantage of by the religious groups, "making recreational goods and services available within or just beyond their gates" (Goree 2020, 8).  
+Furthermore, it was not physical products alone that took advantage of pilgrims, as teahouses and brothels sprung up alone the pilgrimage routes.  These services quickly became popular stops along one's journey (Oshida et al.), with some prostitutes becoming famous *meibutsu* themselves (Nenzi 2004). The popularity of these non-religious elements was in turn taken advantage of by the religious groups, "making recreational goods and services available within or just beyond their gates" (Goree 2020, 8).  
 
 ![Roadside Tea House at Fuchu Station](Teahouse.jpg "Roadside Tea House at Fuchu Station" )
-Figure 2: *Roadside Tea House at Fuchu Station*, Andō Hiroshige.
+Figure 2: Roadside tea house along the Tokaido highway, selling a famous meibutsu, the Abekawa rice cake, by Andō Hiroshige.
 *Source*: Wriston Art Center Galleries.
 
 The effects of pilgrimage, therefore, were felt far beyond the industry of travel, and created a situation of competition between regional businesses and religious sites. From that competition cases of conflict did arise, something which the aforementioned historians point to when they discuss the dangers of pilgrimage; I would argue, however, that even the negative effects that pilgrimage had on a community serves to outline just how important of an industry it was becoming to the region. 
@@ -90,7 +90,7 @@ The size and importance of the pilgrimage and tourism industry for some regions 
 In one example from 1650, the head of a temple of the goddess Benzaiten in Enoshima complained that local fisherman were selling the deity's amulets and leading travelers to their own establishments, instead of telling them how to reach the temple's lodgings. This resulted in a loss of income for the temple, thus they petitioned the shrine and temple magistrate in Edo to put a stop to what they felt were illegitimate inns. The response from the magistrate was a compromise, allowing the private non-temple affiliated inns to be run when there was an overflow of travelers which the temple could not accommodate. As for the amulet distribution, it could continue as long as "those who benefited from it also provide services to the temple" (ibid, 306). Despite this ruling, the fishermen and other local entrepreneurs continued to target pilgrims, and over the decades tensions between them and the temple persisted. Nenzi observes the temple's efforts of commercialism in response to this, as they offered various accommodations packages and special amenities and provided elaborate meals and entertainment to guests. The attractions that drew pilgrims to this area thus developed into a commodification of local history and regional specialties, revealing a new common type of pilgrim that Nenzi calls the "consumer tourist" (ibid 286). As reflected in the woodblock print of the late eighteenth century (figure 2), pilgrims that combined religious sentiment with touristic intent  became a common sight in Enoshima. "As commercialism burgeoned and the historical icons of the past became the trinkets and menu items of the present, the modalities of the interaction between visitors and sites also expanded dramatically, taking on new nuances that did not replace but complemented the old ones" (Nenzi 2008, 154). By the nineteenth century the number of pilgrims grew to the point that the temple infrastructure could not handle their accommodation, which lessened the tensions between competition. Pilgrimage was clearly a key point in the economic growth of this region. 
 
 ![Fishing at Iwaya on Enoshima](Enoshima.jpg "Fishing at Iwaya on Enoshima")
-Figure 2: *Fishing at Iwaya on Enoshima*, Kitagawa Utamaro.
+Figure 2: Tourists enjoying fishing at Enoshima, by Kitagawa Utamaro.
 *Source*: The Cleveland Museum of Art 
 
 A similar trend of competing for the profits from pilgrims can also be observed in the region around the Ōyama shrine and temple complex, where in the latter part of the eighteenth-century quarrels arose over packhorse fares and lodgings of pilgrims (Nenzi 2004, 308). By 1840 local inn and village leaders made an agreement to resolve the issues of lost profit from pilgrims by lowering ferry fares and elimination of regional tolls, which had been causing travelers to choose alternate routes. "These official ordinances and self-imposed codes of conduct intended to regulate the proliferation of traffic indicate the growing complexity of the space of travel and the increasing weight of consumer logic" (ibid, 309). The importance of this consumer logic surrounding pilgrimage is also noticed by other historians, as Ambros (2008) as she observes how providers of services and goods catered to the growing desires of pilgrims, which fueled the regional economy and over time they came to rely on Ōyama pilgrimage.
@@ -125,7 +125,7 @@ An example of this can be seen in how they dealt with the media industry that pr
 Perhaps the most convincing evidence of the bakufu's advocacy of tourism and travel is the fact that they themselves created a purely tourist location. In the early eighteenth century, Edo was still a newly emerging city and lacked historical attraction sites, but the bakufu began to utilize the natural landscape to create famous places of interest (ibid 97). An example is the sakura flower-viewing parks of Edo, Asukayama and the Sumida Riverbank, where the bakufu took great efforts to plant sakura trees and draw tourists with entertainment facilities. 
 
 ![Asukayama hanami](Asukayama.jpg "Asukayama hanami")
-Figure 3: *Young ladies viewing cherry blossoms at Asukayama*, Torii Kiyonaga. 
+Figure 3: *Young ladies viewing cherry blossoms at Asukayama*, by Torii Kiyonaga. 
 *Source*: The Metropolitan Museum of Art. 
 
 The shogun Yoshimune himself even endorsed visiting Asukayama to view the sakura, a publicity stunt that Ando describes as salesmanship at its best. Indeed without Yoshimune, Ando claims, this famous sightseeing spot would not have been possible. He argues that Yoshimune was responsible not only for these artificially made tourist attractions, but was also the creator of the *meibutsu* chomeiji sakura mochi, which uses sakura leaves to sandwich a sweet-bean filled rice cake and is still popular today. 
@@ -159,7 +159,7 @@ From the findings of this research, I argue that the economic potential of pilgr
 This research is important in order to reveal the underlying motivations behind the actions of the bakufu and daimyo authorities in how they dealt with the lower classes, and emphasizes the economic value of pilgrimage as essential to understanding why travel became so prevalent among the populace in Edo period Japan. 
 
 ## Bibliography
-Andō Hiroshige (Japanese painter and printmaker, 1797-1858). _Roadside Tea House at Fuchu Station_. c. 1852. Color woodcut. Wriston Art Center Galleries, Lawrence University. https://www.jstor.org/stable/community.15083484 
+Andō Hiroshige (Japanese painter and printmaker, 1797-1858). _Roadside Tea House at Fuchu Station_. c. 1852. Color woodcut. Wriston Art Center Galleries, Lawrence University. [https://www.jstor.org/stable/community.15083484](https://www.jstor.org/stable/community.15083484)
 
 Ando Yuichiro. 2021. _Edo no ryokō no urajijyō: daimyō shōgun shyomin sorezore no otanoshimi_ (The inside facts of travel in Edo: the enjoyment of the feudal lords, shoguns and commoners). Tokyo: Asahi shimbun shuppan.
 
@@ -181,7 +181,7 @@ Ishimori Shuzo. 1989. “Popularization and Commercialization of Tourism in Earl
 
 Kanzaki, Noritake. 1995. “A Comparative Analysis of the Tourist Industry.” _Senri Ethnological Studies_ 38: 39–49.
 
-Kitagawa Utamaro (Japanese, c. 1754–1806). *Enoshima iwaya no tsuri asobi* (Fishing at Iwaya on Enoshima). c. 1790. Triptych of color woodblock prints. The Cleveland Museum of Art. https://www.jstor.org/stable/community.24570699 
+Kitagawa Utamaro (Japanese, c. 1754–1806). *Enoshima iwaya no tsuri asobi* (Fishing at Iwaya on Enoshima). c. 1790. Triptych of color woodblock prints. The Cleveland Museum of Art. [https://www.jstor.org/stable/community.24570699](https://www.jstor.org/stable/community.24570699)
 
 Kouamé, Nathalie. 1997. “Shikoku’s Local Authorities and Henro during the Golden Age of the Pilgrimage.” _Japanese Journal of Religious Studies_ 24 (November): 413–25.
 
@@ -195,7 +195,7 @@ Nenzi, Laura. 2004. “Cultured Travelers and Consumer Tourists in Edo-Period Sa
 
 Nosco, Peter. 1996. Review of _Review of Breaking Barriers: Travel and the State in Early Modern Japan_, by Constantine Nomikos Vaporis. _The American Historical Review_ 101 (4): 1259–60.
 
-Oshida Keiko, Yokouchi Norihisa, Okada Tomohide, and Sebata Takahiro. 2011. “Kikōbun yori toraeta kindai kamakura ni okeru kankō keiro oyobi taizai kyoten no seiritsu katei ni kansuru kenkyū” （A Study on the Formation Process of Sightseeing Routes and Staying Points in Early Modern Kamakura, Based on Travelogues）. _Randosukepu kenkyu_ (Landscape Research). 74 (5): 431–36.
+Oshida Keiko, Yokouchi Norihisa, Okada Tomohide, and Sebata Takahiro. 2011. “Kikōbun yori toraeta kindai kamakura ni okeru kankō keiro oyobi taizai kyoten no seiritsu katei ni kansuru kenkyū” (A Study on the Formation Process of Sightseeing Routes and Staying Points in Early Modern Kamakura, Based on Travelogues). _Randosukepu kenkyu_ (Landscape Research). 74 (5): 431–36.
 
 Paramore, Kiri. 2012. “The Nationalization of Confucianism: Academism, Examinations, and Bureaucratic Governance in the Late Tokugawa State.” _The Journal of Japanese Studies_ 38 (1): 25–53.
 
@@ -213,7 +213,7 @@ Tanimoto, Masayuki. 2019. “From ‘Feudal’ Lords to Local Notables: The Role
 
 Thal, Sarah. 2005. _Rearranging the Landscape of the Gods: The Politics of a Pilgrimage Site in Japan, 1573-1912_. Studies of the Weatherhead East Asian Institute, Columbia University. Chicago: University of Chicago Press.
 
-Torii Kiyonaga (Japanese, 1752–1815). _Young Ladies Viewing Cherry–Blossoms at Asukayama_. n.d. Triptych of woodblock prints; ink and color on paper. The Metropolitan Museum of Art. https://www.jstor.org/stable/community.18690117
+Torii Kiyonaga (Japanese, 1752–1815). _Young Ladies Viewing Cherry–Blossoms at Asukayama_. n.d. Triptych of woodblock prints; ink and color on paper. The Metropolitan Museum of Art. [https://www.jstor.org/stable/community.18690117](https://www.jstor.org/stable/community.18690117)
 
 Totman, Conrad. 2005. _A History of Japan_. 2nd ed. The Blackwell History of the World. Malden, Mass: Blackwell Pub.
 
