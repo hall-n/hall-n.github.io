@@ -1,4 +1,4 @@
-# Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
+## Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
 ![travel](travel.jpg "travel" )
 ### Table of Contents
 - [1. Introduction](#1-introduction)
