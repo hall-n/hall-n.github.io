@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/卒論.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -221,7 +221,7 @@
   "lastOpenFiles": [
     "README.md",
     "Thesis/Title & Thesis.md",
-    "Thesis/卒論.md",
+    "Thesis/Thesis.md",
     "Notes.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
