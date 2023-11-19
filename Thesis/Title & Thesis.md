@@ -1,12 +1,12 @@
 
 ## Title
-Understanding the rise of peasant pilgrimage: The bakufu and daimyo's laxity against an emerging tourism industry
+- Tokugawa Travel: Authorities' Lenience Pilgrimage and Tourism
+- Understanding the rise of peasant pilgrimage: The bakufu and daimyo's lenience against an emerging tourism industry
+- Understanding Edo Period Tourism: Tokugawa's lenience of peasant pilgrimage
+- Tokugawa Lenience of Pilgrimage
+- Lenience of the Tokugawa Bakufu Towards Tourism and Pilgrimage 
 
-Understanding Edo Period Tourism: Tokugawa's laxity of peasant pilgrimage
 
-Tokugawa Lenience of Peasant Pilgrimage
-
-Lenience of the Tokugawa Bakufu Towards Tourism from Peasant Pilgrimage 
 
 
 ## Thesis

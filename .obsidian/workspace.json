@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Title & Thesis.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/卒論.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/卒論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/卒論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Thesis/卒論.md"
               }
             }
           },
@@ -220,8 +219,9 @@
   },
   "active": "c6962fbd468da123",
   "lastOpenFiles": [
+    "README.md",
     "Thesis/Title & Thesis.md",
-    "Thesis/Thesis.md",
+    "Thesis/卒論.md",
     "Notes.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
