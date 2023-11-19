@@ -6,7 +6,7 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 28.29059829059829,
+        "dimension": 27.359781121751027,
         "children": [
           {
             "id": "3a4459311f5760d6",
@@ -26,30 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peasants/Peasants Travel as Rite of Passage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "278b2b519067a24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 71.7094017094017,
+        "dimension": 72.64021887824897,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -217,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +222,10 @@
   },
   "active": "c6962fbd468da123",
   "lastOpenFiles": [
-    "Notes.md",
+    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Thesis/Thesis.md",
+    "Peasants/Peasants Travel as Rite of Passage.md",
+    "Notes.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",
     "Thesis/Asukayama.jpg",
@@ -241,7 +233,6 @@
     "Asukayama Hanami 1.jpg",
     "Thesis/Enoshima.jpg",
     "Asukayama.jp.md",
-    "Peasants/Peasants Travel as Rite of Passage.md",
     "~Literature.canvas",
     "LICENSE",
     "~Mind Map.canvas",
@@ -254,7 +245,6 @@
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Maps.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
-    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
     "Thesis/Title & Thesis.md",
