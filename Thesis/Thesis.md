@@ -1,4 +1,7 @@
-## Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
+
+Graduation thesis by Naiya Hall.
+
+# Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
 ![travel](travel.jpg "travel" )
 ### Table of Contents
 - [1. Introduction](#1-introduction)
