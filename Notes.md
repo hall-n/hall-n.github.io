@@ -5,6 +5,8 @@ Questions:
 - title on separate page?
 - abstract in Japanese? word count?
 
+
+
 Tried to 
 
 by Vaporis (1994, 2012) on travel infrastructure and the permit system of the Edo period. In his research, which made significant contributions to the study of Tokugawa travel in English, he overturns previous assumptions of the bakufu's nature of being authoritarian, intrusive, and closely regulating all aspects of society. 
