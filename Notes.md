@@ -2,6 +2,9 @@
 
 Tried to 
 
+by Vaporis (1994, 2012) on travel infrastructure and the permit system of the Edo period. In his research, which made significant contributions to the study of Tokugawa travel in English, he overturns previous assumptions of the bakufu's nature of being authoritarian, intrusive, and closely regulating all aspects of society. 
+
+
 
 (Park and Tanaka 2014)
 "how the common people tried to obtain the rightness of leisure activities under the control and surveillance of the Edo Shogunate, which tried to strictly limit leisure activities and entertainment, and how religious activities were conducted."
