@@ -6,27 +6,15 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 27.359781121751027,
+        "dimension": 41.939890710382514,
         "children": [
-          {
-            "id": "3a4459311f5760d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "2b6bb8110269d11a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
+                "file": "Thesis/卒論.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,10 +25,22 @@
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 72.64021887824897,
+        "dimension": 58.060109289617486,
         "children": [
           {
             "id": "c6962fbd468da123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis/Thesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53d47efea5a2bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,12 +117,25 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3a4459311f5760d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis/卒論.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/卒論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/卒論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Thesis/卒論.md"
               }
             }
           },
@@ -204,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +232,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6962fbd468da123",
+  "active": "2b6bb8110269d11a",
   "lastOpenFiles": [
-    "README.md",
     "Thesis/Thesis.md",
+    "Thesis/卒論.md",
+    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
+    "README.md",
     "Thesis/Title & Thesis.md",
     "Notes.md",
-    "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",
@@ -253,7 +269,6 @@
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
     "~単語.md",
     "Thesis/travel.jpg",
-    "Historian's arguments/真野 2002, dichotomy of pleasure and religion a modern idea.md",
     "_sass",
     "assets/css/test",
     "assets/css/style.css",
