@@ -6,39 +6,22 @@
       {
         "id": "e8de689a267ccf33",
         "type": "tabs",
-        "dimension": 41.939890710382514,
+        "dimension": 77.01149425287356,
         "children": [
-          {
-            "id": "2b6bb8110269d11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Japanese Thesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "78c9c70035fb751c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Japanese Thesis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 58.060109289617486,
+        "dimension": 22.988505747126435,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -130,18 +113,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "3a4459311f5760d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Japanese Thesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -163,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Japanese Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Japanese Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Thesis/Japanese Thesis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +213,10 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "README.md",
     "Thesis/Japanese Thesis.md",
+    "Thesis/卒論.md",
+    "Thesis/Japanese-Thesis.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Thesis/Thesis.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
@@ -277,8 +247,6 @@
     "Merchants.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis/Bibliography.md",
-    "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
-    "~単語.md",
     "Thesis/travel.jpg",
     "_sass",
     "assets/css/test",
