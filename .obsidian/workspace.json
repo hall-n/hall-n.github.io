@@ -6,7 +6,7 @@
       {
         "id": "11735e25df3a1bfe",
         "type": "tabs",
-        "dimension": 20.721476510067113,
+        "dimension": 38.47184986595174,
         "children": [
           {
             "id": "1ecc7bbf02c3a654",
@@ -19,14 +19,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "cb706483ff618c02",
-        "type": "tabs",
-        "dimension": 79.27852348993288,
-        "children": [
+          },
           {
             "id": "c6962fbd468da123",
             "type": "leaf",
@@ -38,7 +31,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cb706483ff618c02",
+        "type": "tabs",
+        "dimension": 61.52815013404825,
+        "children": [
           {
             "id": "78c9c70035fb751c",
             "type": "leaf",
@@ -83,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -233,9 +234,9 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "Notes.md",
-    "Thesis/卒論.md",
     "Thesis/Thesis.md",
+    "Thesis/卒論.md",
+    "Notes.md",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
