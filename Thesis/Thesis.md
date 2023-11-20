@@ -5,23 +5,23 @@ Graduation thesis by Naiya Hall, Hokkaido University.<br>
 # Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
 ![travel](travel.jpg "travel" )
 ### Table of Contents
- [1. Introduction](#1-introduction)
- [2. Argument by historians](#2-argument-by-historians)
- [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)
-	&emsp; [3.1 Promotion of pilgrimage for financial gain](#31-promotion-of-pilgrimage-for-financial-gain)
-	&emsp; [3.2 The commodities of pilgrimage](#32-the-commodities-of-pilgrimage)
-	&emsp; [3.3 The economic significance of pilgrimage](#33-the-economic-significance-of-pilgrimage)
- [4. Response of the authorities](#4-response-of-the-authorities)
-	&emsp; [4.1 The Ōyama pilgrimage](#41-the-%C5%8Cyama-pilgrimage)
-	&emsp; [4.2 The *nukemairi* pilgrims](#42-the-nukemairi-pilgrims)
-	&emsp; [4.3 The Shikoku pilgrimage](#43-the-shikoku-pilgrimage)
-	&emsp; [4.4 Non-religious tourism](#44-non-religious-tourism)
- [5. Changes in governance](#5-changes-in-governance)
-	&emsp; [5.1 Tokugawa bakufu](#51-tokugawa-bakufu)
-	&emsp; [5.2 The daimyo](#52-the-daimyo)
-	&emsp; [5.3 The influence of merchant thought](#53-the-influence-of-merchant-thought)
- [6. Conclusion](#6-conclusion)
- [Bibliography](#bibliography)
+ [1. Introduction](#1-introduction)<br>
+ [2. Argument by historians](#2-argument-by-historians)<br>
+ [3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)<br>
+	&emsp; [3.1 Promotion of pilgrimage for financial gain](#31-promotion-of-pilgrimage-for-financial-gain)<br>
+	&emsp; [3.2 The commodities of pilgrimage](#32-the-commodities-of-pilgrimage)<br>
+	&emsp; [3.3 The economic significance of pilgrimage](#33-the-economic-significance-of-pilgrimage)<br>
+ [4. Response of the authorities](#4-response-of-the-authorities)<br>
+	&emsp; [4.1 The Ōyama pilgrimage](#41-the-%C5%8Cyama-pilgrimage)<br>
+	&emsp; [4.2 The *nukemairi* pilgrims](#42-the-nukemairi-pilgrims)<br>
+	&emsp; [4.3 The Shikoku pilgrimage](#43-the-shikoku-pilgrimage)<br>
+	&emsp; [4.4 Non-religious tourism](#44-non-religious-tourism)<br>
+ [5. Changes in governance](#5-changes-in-governance)<br>
+	&emsp; [5.1 Tokugawa bakufu](#51-tokugawa-bakufu)<br>
+	&emsp; [5.2 The daimyo](#52-the-daimyo)<br>
+	&emsp; [5.3 The influence of merchant thought](#53-the-influence-of-merchant-thought)<br>
+ [6. Conclusion](#6-conclusion)<br>
+ [Bibliography](#bibliography)<br>
 ## Abstract
 While studies of travel during the Tokugawa period reveal a flourishing tourism industry from pilgrims, many historians present the situation as the bakufu and daimyo authorities being clearly set against peasant pilgrimage and sightseeing, particularly when it had leisurely motivations. Countering these claims, I argue that by understanding the economic motivations of the religiously affiliated groups who first promoted travel and how it led to the commercialization of pilgrimage, and observing the effect which those pilgrims had on the region, the social and economic benefits that the authorities could gain from tourism and pilgrimage become clear. Furthermore, research demonstrating the bakufu and daimyo's positive response and support for even problematic pilgrimage, and evidence of their direct creation and promotion of non-religious tourist destinations, reveals that the authorities had a clear interest in the flourishing of the tourism industry which came from pilgrimage. In addition, research on governance during the Edo period reveals a shift from an authoritarian position towards a benevolent ruler that sought the economic well-being of the common people. I argue, therefore, against the idea that the bakufu and daimyo authorities wished to restrict the movement of the commoners, and that the regulations they made pertaining to travel were to ensure that pilgrimage did not have a negative impact while allowing it to grow the economy.
 
