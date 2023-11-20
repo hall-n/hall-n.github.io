@@ -219,9 +219,12 @@ Wigen, Kären. 2010. 「Excursions in Identity Travel and the Intersection of Pl
 
 Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_. 1st 版. Berkeley: University of California Press. [https://www.jstor.org/stable/10.1525/j.ctt1pphzc](https://www.jstor.org/stable/10.1525/j.ctt1pphzc).
 
+
 安藤優一郎. 2021. 江戸の旅行の裏事情 : 大名・将軍・庶民それぞれのお楽しみ. 朝日新聞出版. [https://cir.nii.ac.jp/crid/1130852779127530287](https://cir.nii.ac.jp/crid/1130852779127530287).
 
 押田佳子, 憲久横内, 智秀岡田と尚紘瀬畑. 2011. 「紀行文より捉えた近世鎌倉における観光経路および滞在拠点の成立過程に関する研究」. ランドスケープ研究 74 (5): 431–36. [https://doi.org/10.5632/jila.74.431](https://doi.org/10.5632/jila.74.431).
+
+真野俊和. 2002. 「旅･巡礼･遊山―近世参詣事情（英訳版）」. 翻訳者： Laura Nenzi. _Monumenta Nipponica : studies on Japanese culture past and present_ 57 (4): 447–71.
 
 石森秀三. 1989. 「Popularization and Commercialization of Tourism in Early Modern Japan」. _Senri Ethnological Studies_ 26 (12月): 179–94.
 
