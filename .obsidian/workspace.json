@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78c9c70035fb751c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb706483ff618c02",
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Japanese Thesis.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Japanese Thesis.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Japanese Thesis.md"
+                "file": "README.md"
               }
             }
           },
@@ -230,10 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b6bb8110269d11a",
+  "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "README.md",
     "Thesis/Japanese Thesis.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Thesis/Thesis.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Thesis/Title & Thesis.md",
@@ -261,7 +275,6 @@
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
     "Merchants.md",
-    "conflict-files-obsidian-git.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis/Bibliography.md",
     "Historian's arguments/Nenzi 2004, Consumerism of pilgrimage.md",
