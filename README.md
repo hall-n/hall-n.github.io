@@ -2,7 +2,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 
 [Graduation Thesis, English](Thesis.md)
 
-[卒論、日本語訳版](Sotsuron.md)
+[卒論、日本語訳版](Japanese%20Thesis.md)
 
 ----
 
