@@ -1,9 +1,8 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis, what started as a curiosity of the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another, led me to question whether or not the bakufu authorities were really against peasant travel. 
 
-[Thesis in Progress](Thesis.md)
+[Graduation Thesis, English](Thesis.md)
 
-[Bibliography](Thesis/Bibliography.md)
-
+[卒論、日本語訳版](Sotsuron.md)
 
 ----
 
@@ -16,9 +15,6 @@ Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三
 
  The diversity of travel can be noticed by the many classes that appear to be stopping at this roadside establishment for refreshment. We see a katana holding man who likely is of the samurai class, a women, and two other men who appear to be of the farmer class. These type of portrayals, along with numerous travel diaries, reveal that travel was not limited to class and power, but something that was undertaken by individuals from all levels of society.
 
-&nbsp;
-&nbsp;
-&nbsp;
 
 ----
 
