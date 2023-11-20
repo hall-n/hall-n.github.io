@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb706483ff618c02",
@@ -233,9 +232,9 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "Thesis/Thesis.md",
-    "Thesis/卒論.md",
     "Notes.md",
+    "Thesis/卒論.md",
+    "Thesis/Thesis.md",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
