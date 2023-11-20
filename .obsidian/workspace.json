@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "11735e25df3a1bfe",
+        "type": "tabs",
+        "dimension": 20.721476510067113,
+        "children": [
+          {
+            "id": "1ecc7bbf02c3a654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cb706483ff618c02",
         "type": "tabs",
+        "dimension": 79.27852348993288,
         "children": [
           {
             "id": "c6962fbd468da123",
@@ -213,15 +233,15 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "Thesis/Thesis.md",
+    "Notes.md",
     "Thesis/卒論.md",
+    "Thesis/Thesis.md",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Thesis/Title & Thesis.md",
-    "Notes.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",

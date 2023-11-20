@@ -6,6 +6,9 @@ Questions:
 - abstract in Japanese? word count?
 
 
+巡礼　→　寺社参詣　さんけい
+
+
 
 Tried to 
 
