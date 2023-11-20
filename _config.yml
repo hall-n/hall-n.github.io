@@ -3,7 +3,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Tokugawa Travel
-description: A gathering of research about travel and tourism in Tokugawa Japan
+description: A gathering of research about travel and tourism in Tokugawa Japan　<br>　<div align="center"> 春　奈衣耶　|　北海道大学 　| 　現代日本学プログラム４年生 <div>
 url: "https://hall-naiya.github.io/"
 markdown: kramdown
 image: travel.jpg
