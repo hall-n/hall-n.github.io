@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "681eba82f8d14e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d53d47efea5a2bff",
             "type": "leaf",
             "state": {
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -180,18 +191,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d53d47efea5a2bff",
+  "active": "681eba82f8d14e20",
   "lastOpenFiles": [
-    "Thesis/Asukayama.jpg",
-    "Thesis/Thesis.md",
+    "~Grading.md",
     "Thesis/卒論.md",
+    "~Outline.md",
+    "Thesis/Title & Thesis.md",
+    "Thesis/Thesis.md",
+    "Thesis/Asukayama.jpg",
     "Notes.md",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
-    "Thesis/Title & Thesis.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",
@@ -214,7 +227,6 @@
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Meibutsu.md",
     "Merchants.md",
-    "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis/travel.jpg",
     "_sass",
     "assets/css/test",

@@ -6,7 +6,8 @@
 inclusive of all notes and including the bibliography
 
 **Abstract:**
-200-250 words
+200-250 words english
+250-300 characters in Japanese
 
 The abstract won’t be included in the overall word count for the project study
 
