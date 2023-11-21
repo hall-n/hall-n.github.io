@@ -23,8 +23,7 @@ Graduation thesis by Naiya Hall, Hokkaido University.<br>
  [6. Conclusion](#6-conclusion)<br>
  [Bibliography](#bibliography)<br>
 ## Abstract
-While studies of travel during the Tokugawa period reveal a flourishing tourism industry from pilgrims, many historians present the situation as the bakufu and daimyo authorities being clearly set against peasant pilgrimage and sightseeing, particularly when it had leisurely motivations. Countering these claims, I argue that by understanding the economic motivations of the religiously affiliated groups who first promoted travel and how it led to the commercialization of pilgrimage, and observing the effect which those pilgrims had on the region, the social and economic benefits that the authorities could gain from tourism and pilgrimage become clear. Furthermore, research demonstrating the bakufu and daimyo's positive response and support for even problematic pilgrimage, and evidence of their direct creation and promotion of non-religious tourist destinations, reveals that the authorities had a clear interest in the flourishing of the tourism industry which came from pilgrimage. In addition, research on governance during the Edo period reveals a shift from an authoritarian position towards a benevolent ruler that sought the economic well-being of the common people. I argue, therefore, against the idea that the bakufu and daimyo authorities wished to restrict the movement of the commoners, and that the regulations they made pertaining to travel were to ensure that pilgrimage did not have a negative impact while allowing it to grow the economy.
-
+江戸時代の研究では、寺社参詣から生まれた観光産業が盛んであったとされているが、幕府や大名は奢侈や遊興を厳しく制限し、庶民の旅行に明確に反対していたと歴史家は主張している。本稿は、当局の立場を明らかにする。参詣がどのように商業化され、その産業が地域にどのような影響をされたかを見ることで、旅行からの経済的利益が明確になる。そして、これに対する同局の対応と政策を見ると、参詣者への支援や観光地の造成があり、庶民の経済的な幸福を追求する立場へ移行した事が分かる。従って、当局が参詣による観光産業の繁栄に明確な関心を持っており、その旅行が地域に悪影響を及ぼさない為だけに、旅行に制限を設けたと私は主張する。
 
 # Thesis
 

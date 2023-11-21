@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/卒論.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -191,14 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "d53d47efea5a2bff",
   "lastOpenFiles": [
-    "Notes.md",
     "Thesis/卒論.md",
+    "Notes.md",
+    "Thesis/Thesis.md",
     "~Grading.md",
     "~Outline.md",
     "Thesis/Title & Thesis.md",
-    "Thesis/Thesis.md",
     "Thesis/Asukayama.jpg",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
