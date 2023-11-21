@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "11735e25df3a1bfe",
-        "type": "tabs",
-        "dimension": 27.100271002710024,
-        "children": [
-          {
-            "id": "1ecc7bbf02c3a654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6962fbd468da123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Thesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "cb706483ff618c02",
         "type": "tabs",
-        "dimension": 72.89972899728997,
         "children": [
           {
             "id": "78c9c70035fb751c",
@@ -62,28 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c8a3742c555f83ec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Thesis/Asukayama.jpg"
-              }
-            }
-          },
-          {
-            "id": "f32dc57be3a5a1ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Thesis/Teahouse.jpg"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/卒論.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -231,11 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "d53d47efea5a2bff",
   "lastOpenFiles": [
-    "Notes.md",
-    "Thesis/卒論.md",
+    "Thesis/Asukayama.jpg",
     "Thesis/Thesis.md",
+    "Thesis/卒論.md",
+    "Notes.md",
     "Thesis/Japanese Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
@@ -245,7 +195,6 @@
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
     "Thesis/Teahouse.jpg",
-    "Thesis/Asukayama.jpg",
     "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Asukayama Hanami 1.jpg",
     "Thesis/Enoshima.jpg",
@@ -266,7 +215,6 @@
     "Meibutsu.md",
     "Merchants.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
-    "Thesis/Bibliography.md",
     "Thesis/travel.jpg",
     "_sass",
     "assets/css/test",
