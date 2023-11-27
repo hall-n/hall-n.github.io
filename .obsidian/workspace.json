@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -190,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "681eba82f8d14e20",
   "lastOpenFiles": [
-    "Notes.md",
     "Thesis/Thesis.md",
+    "Notes.md",
     "~単語.md",
     "argument points.md",
     "Thesis/卒論.md",

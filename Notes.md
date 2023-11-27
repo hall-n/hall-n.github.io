@@ -124,6 +124,12 @@ I argue that the bakufu and daimyo position towards peasant travel was not to co
 
 
 **Vaporis argument**
+
+While it is true that the bakufu implemented a system of travel regulations and barriers to monitor the movement of people, at the same time they also show a reluctance to enforce its travel laws for commoners.
+
+Vaporis concludes that while the bakufu made certain restrictions of travel, the peasants found ways to circumvent these barriers and thus were not immobile. Although his argument challenges the idea that the authorities fully controlled people’s movements, he does not directly ask the question of why they showed such lenience to the travel of commoners. Among the few comments that Vaporis makes regarding the intent of the authorities, there is only his claim that the daimyo and bakufu idealized the population being tied to the land, though that may not be the same as being against their travel if it did not negatively affect their responsibility of that land. While Vaporis’ position may be difficult to pin down,
+
+
 This paper seeks to answer the questions that Vaporis' research reveals but which are left largely unasked; why the bakufu and daimyo authorities were so permissive of pilgrimage if it was argued to be so disruptive to society and threatened the ruler's authority and damaging to the economy? If were are to assume that the authorities were positioned against travel, why do we observe such lenience towards it? 
 
 Countless persons from all social ranks defied governmental authority by traveling without official permission despite the volumes of legislation intended to regulate or restrict movement. (Vaporis 1994, 12)
