@@ -33,7 +33,7 @@ Clearly the relationship of tax rice to actual income was not as simple as just 
 As conducting new surveys of the land would affect the amount of tax rice required from the peasants, examining the patterns of levied tax throughout the Tokugawa period can enlighten why resurveying was not conducted. 
 Figure 1 shows the tribute rate from the early seventeenth century until the mid-nineteenth century. The two gray lines represent the average tribute rates recorded from villages in the shogunate and Kumamoto domains, and the black line represents a village in Yamashiro province in western Honshu. While the higher rate of the seventeenth century shows significant fluctuations, from the latter half of the eighteenth century the tribute rates begin to stagnate. At this point in time, the assessed agricultural yield was no longer equivalent to actual yields, therefore “these figures should be taken as a ‘nominal’ index for measuring the distribution of the economic value between rulers and peasants” (Tanimoto 2019, 19). Nevertheless, the lack of tax rate increases is apparent in the latter half of the Tokugawa period. 
 
-![Figure1](fig1.jpg "figure" )
+![Figure1](fig1.png "figure" )
 Figure 1: The Changing Patterns of “Tribute Rate”: Shogunate, Domain, Village
 _Source_: Tanimoto 2019, p. 18. 
 
