@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "d53d47efea5a2bff",
+            "id": "9eaecb3432d80060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~単語.md",
+                "file": "argument points.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -177,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "681eba82f8d14e20",
   "lastOpenFiles": [
-    "Thesis/卒論.md",
     "~単語.md",
-    "Thesis/Thesis.md",
     "Notes.md",
+    "Thesis/Thesis.md",
+    "argument points.md",
+    "Thesis/卒論.md",
     "~Grading.md",
     "~Outline.md",
     "Thesis/Title & Thesis.md",
@@ -226,7 +227,6 @@
     "Maps.md",
     "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
-    "Meibutsu.md",
     "Thesis/travel.jpg",
     "_sass",
     "assets/css/test",
