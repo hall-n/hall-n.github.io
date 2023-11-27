@@ -183,7 +183,8 @@ Goree, Robert. 2020. “The Culture of Travel in Edo-Period Japan.” In _Oxford
 
 Hall, John Whitney. 1966. _Government and Local Power in Japan, 500 to 1700: A Study Based on Bizen Province_. Princeton: Princeton University Press.
 
-Hall, Naiya. 2022. “Why the Tokugawa Shogunate Did Not Optimize the Land Tax.” Essay, Hokkaido University.
+Hall, Naiya. 2022. “Why the Tokugawa Shogunate Did Not Optimize the Land Tax.” Essay, Hokkaido University. [Link](Thesis/PS2.md)
+
 
 Ishimori Shuzo. 1989. “Popularization and Commercialization of Tourism in Early Modern Japan.” _Senri Ethnological Studies_ 26 (December): 179–94.
 

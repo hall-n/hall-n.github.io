@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "Thesis/Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/卒論.md"
+                "file": "Thesis/Thesis.md"
               }
             }
           },
@@ -191,16 +191,16 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
+    "Thesis/卒論.md",
+    "Thesis/Thesis.md",
     "Thesis/Japanese-Thesis.md",
     "README.md",
     "Thesis/figure.png",
     "Thesis/PS2.md",
-    "Thesis/Thesis.md",
     "Thesis/fig1.png",
     "Notes.md",
     "~単語.md",
     "argument points.md",
-    "Thesis/卒論.md",
     "~Grading.md",
     "~Outline.md",
     "Thesis/Title & Thesis.md",
