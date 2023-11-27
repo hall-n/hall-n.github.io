@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/PS2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/PS2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/PS2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/PS2.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
+    "Thesis/PS2.md",
     "Thesis/Thesis.md",
     "Thesis/fig1.png",
-    "Thesis/PS2.md",
     "Notes.md",
     "~単語.md",
     "argument points.md",
