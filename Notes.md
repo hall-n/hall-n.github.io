@@ -50,7 +50,7 @@ This research reveals not only the situation that faced peasants as they began t
 These points are both vital to understanding what can be argued to be the first tourism industry for commoners, the mass pilgrimage of Edo Japan.
 
 
-
+## non-authoritarian
 "Tokugawa hegemony Japan was governed under the broad unifying capacity of the shogun, but actual administration was partially decentralized under the regional authorities of the various daimyo", therefore describing as feudalistic is misleading as the structure was more bureaucrat (Hall 1966, 345).
 
 as the authorities flexible pragmatism as they react to the changing economy (Nakai 1988). 
@@ -72,7 +72,9 @@ the question of why is not touched upon
 
 In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order.
 
-**Vaporis**
+## Vaporis
+
+
 Contrary to the idea of dealing with the commoners harshly, "[o]fficials frequently bent the rules for travelers with defective permits, and sometimes downgraded travel offenses to avoid having to prosecute commoners" (ibid, 216). 
 As both of these groups' income came directly from the peasant's efforts in their fields, it is understandable how travel away from one's region could have negative repercussions in the eyes of those authorities. 
 
