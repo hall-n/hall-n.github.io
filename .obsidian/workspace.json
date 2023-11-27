@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Thesis/卒論.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Thesis/卒論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Thesis/卒論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Thesis/卒論.md"
               }
             }
           },
@@ -191,6 +191,9 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
+    "Thesis/Japanese-Thesis.md",
+    "README.md",
+    "Thesis/figure.png",
     "Thesis/PS2.md",
     "Thesis/Thesis.md",
     "Thesis/fig1.png",
@@ -203,8 +206,6 @@
     "Thesis/Title & Thesis.md",
     "Thesis/Asukayama.jpg",
     "Thesis/Japanese Thesis.md",
-    "Thesis/Japanese-Thesis.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
@@ -238,7 +239,6 @@
     "~bline.png",
     "Thesis",
     "~arrow.png",
-    "arrow.png",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
