@@ -9,7 +9,7 @@ From this perspective, I argue that the cadastral surveys were not meant to be a
 
 ## The Origins of the Surplus
 There are two factors from which the agricultural surplus arose; one is the gradual but significant increase in crop yields that followed the advancement of agricultural methods introduced in the late sixteenth and early seventeenth centuries, and the second is the inaccuracy of the cadastral surveys on which the new land tax system was determined. 
-The first factor for the agricultural surplus was that the crop yield gradually increased with the proliferation of more advanced agricultural tools, the use of fertilizer, and irrigation projects (Rath 2007, Verschuer and Cobcroft 2017). “The estimation of average land productivity of whole domains from the seventeenth to the nineteenth century suggests that rice yield per acre increased from 0.98 koku [176 liters] in 1650 to 1.30 koku [234 liters] in 1850” (Tanimoto 2019, 19). While periodic surveys might have captured this change, from the early eighteenth century onward, only new crops appear to be surveyed (Aratake 2019, Smith 1958). Thus, there arose a growing disparity between the actual yield of crops and their assessed yield, and the tribute rates do not appear to be raised to reflect this change, effectively allowing the villagers to keep the surplus (Hayami 2015, Rath 2007, Yasuba 1986). This increase in agricultural production and subsequent surplus raised the standard of living in Tokugawa Japan (Bornmann and Bornmann 2002) and explains the spread of tenant farming and the increase in rural trade and industry (Rath 2007). Conditions, however, varied significantly between regions and even neighboring farmlands, as the burden of the land tax "ranged widely from 7% to 87%" (Kinoshita 2019, 80). The benefit of the surplus was clearly not equally divided among the peasants and thus led to stratification within the peasant class (Smith 1958, Vlastos 1986). 
+The first factor for the agricultural surplus was that the crop yield gradually increased with the proliferation of more advanced agricultural tools, the use of fertilizer, and irrigation projects (Rath 2007, Verschuer and Cobcroft 2017). “The estimation of average land productivity of whole domains from the seventeenth to the nineteenth century suggests that rice yield per acre increased from 0.98 *koku* [176 liters] in 1650 to 1.30 *koku* [234 liters] in 1850” (Tanimoto 2019, 19). While periodic surveys might have captured this change, from the early eighteenth century onward, only new crops appear to be surveyed (Aratake 2019, Smith 1958). Thus, there arose a growing disparity between the actual yield of crops and their assessed yield, and the tribute rates do not appear to be raised to reflect this change, effectively allowing the villagers to keep the surplus (Hayami 2015, Rath 2007, Yasuba 1986). This increase in agricultural production and subsequent surplus raised the standard of living in Tokugawa Japan (Bornmann and Bornmann 2002) and explains the spread of tenant farming and the increase in rural trade and industry (Rath 2007). Conditions, however, varied significantly between regions and even neighboring farmlands, as the burden of the land tax "ranged widely from 7% to 87%" (Kinoshita 2019, 80). The benefit of the surplus was clearly not equally divided among the peasants and thus led to stratification within the peasant class (Smith 1958, Vlastos 1986). 
 The second factor for the surplus lies in the cadastral surveys, which were started by Toyotomi Hideyoshi in 1582 and were part of a reorganization of the land tax for the purpose of consolidating the daimyo’s power by clearly separating the classes while preventing rebellion of the samurai and peasants (Totman 2005). The samurai were removed from the farmlands and moved to the castle towns, and the villages became in charge of distributing and collecting the tax burden from the local peasants. This new tax system helped to solidify the sovereignty of the shogunate and daimyo as they became the exclusive receiver of the tax from the peasants of their domain, which increased their finances and allowed for investment in land reclamation to further expand their income. The reason for the assessment inaccuracies stems specifically from the land survey process. Because the surveying was conducted by the domain’s samurai with the help of local peasants, the exact methods varied by locality (Koseki 2015). In addition to this inconsistency, consistently rounding figures down, using imprecise measuring tools (such as hemp rope that would stretch and contract), and a heavy reliance on the surveyor’s estimation introduced significant errors in linear and area measurements (Brown 1989). 
 While clearly being of great benefit to specific peasants and the overall growth of the economy, the great variance of the survey discrepancies and the increasing agricultural yields meant that the land tax could have been optimized to help ease the growing financial difficulties of the shogunate and daimyo. To uncover why the shogunate did not conduct new cadastral surveys to take advantage of it, it is necessary to look more deeply at the situation surrounding the surveys themselves.
 
@@ -47,27 +47,49 @@ While Brown (1989) has made a strong point in that the environment surrounding s
 In addition, the leeway given in the original land surveys was meant to be a margin of safety for the peasants against the risk that came with the new tax system, thus, the surveys did not need to be completely accurate. While this margin of safety was successful in increasing productivity, by the time agricultural yields had increased to a level where tax optimization might have been easily viable, the direct control of the peasant class was weakened and exploiting the Dojima rice market and other agricultural and land investments held more viable and lucrative benefits. With an increasingly complex economy, the accuracy of the survey came to have little effect, especially in a time when the rulers seemed to have trouble increasing the tax rate itself. I would argue, therefore, that the reason for the shogunate’s disregard for more accurate surveys lies in their interest in increasing peasant productivity and maintaining a balanced rice market. 
 
 ## Bibliography
-Aratake, Kenichiro. 2019. ‘Samurai and Peasants in the Civil Administration of Early Modern Japan’. In Public Goods Provision in the Early Modern Economy, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 38–56. Comparative Perspectives from Japan, China, and Europe. University of California Press. 
-Bornmann, Gregory M, and Carl M Bornmann. 2002. ‘Tokugawa Law: How It Contributed to the Economic Success of Japan’. Journal of Kibi International University: School of International and Industrial Studies 12: 187–202.
-Brown, Philip C. 1989. ‘Never the Twain Shall Meet: European Land Survey Techniques in Tokugawa Japan’. Chinese Science 9: 53–79.
-Furushima, Toshio. 1981. ‘Economic Conditions for Broadening the Geographical Horizon of Peasant Awareness in the Edo Era’. In Peasantry and National Integration, edited by Celma Agüero, 1st ed., 271–76. Colegio de Mexico. 
-Gordon, Andrew. 2003. A Modern History of Japan: From Tokugawa Times to the Present. Oxford University Press. 
-Hanley, Susan B., and Kozo Yamamura. 1977. Economic and Demographic Change in Preindustrial Japan, 1600-1868. Princeton: Princeton University Press. 
-Hayami, Akira. 2015. Japan’s Industrious Revolution: Economic and Social Transformations in the Early Modern Period. Studies in Economic History. Tokyo: Springer Japan. 
-Kinoshita, Mitsuo. 2019. ‘Sanctions, Targetism, and Village Autonomy: Poor Relief in Early Modern Rural Japan’. In Public Goods Provision in the Early Modern Economy, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 78–99. Comparative Perspectives from Japan, China, and Europe. University of California Press. 
-Koseki, Daiju. 2015. ‘Japanese Cadastral Mapping in an East Asian Perspective, 1872-1915’. Japanese Journal of Human Geography 67 (6): 524–40. 
-Mandai, Yu, and Masaki Nakabayashi. 2018. ‘Stabilize the Peasant Economy: Governance of Foreclosure by the Shogunate’. Journal of Policy Modeling 40 (2): 305–27. 
-Nakabayashi, Masaki, Kyoji Fukao, Masanori Takashima, and Naofumi Nakamura. 2020. ‘Property Systems and Economic Growth in Japan, 730–1874’. Social Science Japan Journal 23 (2): 147–84. 
-Nicholls, William H. 1963. ‘An “Agricultural Surplus” as a Factor in Economic Development’. Journal of Political Economy 71 (1): 1–29.
-Rath, Eric C. 2007. ‘Rural Japan and Agriculture’. In A Companion to Japanese History, 477–92. John Wiley & Sons, Ltd. 
-Roberts, Luke S. 1998. Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa. Cambridge: Cambridge University Press. 
-Sato, Tsuneo. 1990. ‘Tokugawa Villages and Agriculture’. In Tokugawa Japan: The Social and Economic Antecedents of Modern Japan, translated by Mikiso Hane, 37–80. Tokyo: University of Tokyo Press.
-Smith, Thomas C. 1958. ‘The Land Tax in the Tokugawa Period’. The Journal of Asian Studies 18 (1): 3–19. 
-Takatsuki, Yasuo. 2022. The Dojima Rice Exchange: From Rice Trading to Index Futures Trading in Edo-period Japan. Translated by Rubinfien Louisa. Tokyo: Japan Publishing Industry Foundation for Culture.
-Tanimoto, Masayuki. 2019. ‘From “Feudal” Lords to Local Notables: The Role of Regional Society in Public Goods Provision from Early Modern to Modern Japan’. In Public Goods Provision in the Early Modern Economy, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 17–37. Comparative Perspectives from Japan, China, and Europe. University of California Press. 
-Totman, Conrad. 2005. A History of Japan. 2nd ed. The Blackwell History of the World. Malden, Mass: Blackwell Pub.
-Verschuer, Charlotte, and Wendy Cobcroft. 2017. Rice, Agriculture, and the Food Supply in Premodern Japan. New York: Routledge. 
-Vlastos, Stephen. 1986. Peasant Protests and Uprisings in Tokugawa Japan. Berkeley: University of California Press. 
-Yasuba, Yasukichi. 1986. ‘Standard of Living in Japan Before Industrialization: From What Level Did Japan Begin? A Comment’. The Journal of Economic History 46 (1): 217–24.
 
+
+Aratake, Kenichiro. 2019. ‘Samurai and Peasants in the Civil Administration of Early Modern Japan’. In _Public Goods Provision in the Early Modern Economy_, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 38–56. Comparative Perspectives from Japan, China, and Europe. University of California Press.
+
+Bornmann, Gregory M, and Carl M Bornmann. 2002. ‘Tokugawa Law: How It Contributed to the Economic Success of Japan’. _Journal of Kibi International University: School of International and Industrial Studies_ 12: 187–202.
+
+Brown, Philip C. 1989. ‘Never the Twain Shall Meet: European Land Survey Techniques in Tokugawa Japan’. _Chinese Science_ 9: 53–79.
+
+Furushima, Toshio. 1981. ‘Economic Conditions for Broadening the Geographical Horizon of Peasant Awareness in the Edo Era’. In _Peasantry and National Integration_, edited by Celma Agüero, 1st ed., 271–76. Colegio de Mexico.
+
+Gordon, Andrew. 2003. _A Modern History of Japan: From Tokugawa Times to the Present_. Oxford University Press.
+
+Hanley, Susan B., and Kozo Yamamura. 1977. _Economic and Demographic Change in Preindustrial Japan, 1600-1868_. Princeton: Princeton University Press.
+
+Hayami, Akira. 2015. _Japan’s Industrious Revolution: Economic and Social Transformations in the Early Modern Period_. Studies in Economic History. Tokyo: Springer Japan.
+
+Kinoshita, Mitsuo. 2019. ‘Sanctions, Targetism, and Village Autonomy: Poor Relief in Early Modern Rural Japan’. In _Public Goods Provision in the Early Modern Economy_, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 78–99. Comparative Perspectives from Japan, China, and Europe. University of California Press.
+
+Koseki, Daiju. 2015. ‘Japanese Cadastral Mapping in an East Asian Perspective, 1872-1915’. _Japanese Journal of Human Geography_ 67 (6): 524–40.
+
+Mandai, Yu, and Masaki Nakabayashi. 2018. ‘Stabilize the Peasant Economy: Governance of Foreclosure by the Shogunate’. _Journal of Policy Modeling_ 40 (2): 305–27.
+
+Nakabayashi, Masaki, Kyoji Fukao, Masanori Takashima, and Naofumi Nakamura. 2020. ‘Property Systems and Economic Growth in Japan, 730–1874’. _Social Science Japan Journal_ 23 (2): 147–84.
+
+Nicholls, William H. 1963. ‘An “Agricultural Surplus” as a Factor in Economic Development’. _Journal of Political Economy_ 71 (1): 1–29.
+
+Rath, Eric C. 2007. ‘Rural Japan and Agriculture’. In _A Companion to Japanese History_, 477–92. John Wiley & Sons, Ltd.
+
+Roberts, Luke S. 1998. _Mercantilism in a Japanese Domain: The Merchant Origins of Economic Nationalism in 18th-Century Tosa_. Cambridge: Cambridge University Press.
+
+Sato, Tsuneo. 1990. ‘Tokugawa Villages and Agriculture’. In _Tokugawa Japan: The Social and Economic Antecedents of Modern Japan_, translated by Mikiso Hane, 37–80. Tokyo: University of Tokyo Press.
+
+Smith, Thomas C. 1958. ‘The Land Tax in the Tokugawa Period’. _The Journal of Asian Studies_ 18 (1): 3–19.
+
+Takatsuki, Yasuo. 2022. _The Dojima Rice Exchange: From Rice Trading to Index Futures Trading in Edo-period Japan_. Translated by Rubinfien Louisa. Tokyo: Japan Publishing Industry Foundation for Culture.
+
+Tanimoto, Masayuki. 2019. ‘From “Feudal” Lords to Local Notables: The Role of Regional Society in Public Goods Provision from Early Modern to Modern Japan’. In _Public Goods Provision in the Early Modern Economy_, edited by Masayuki Tanimoto and R. Bin Wong, 1st ed., 17–37. Comparative Perspectives from Japan, China, and Europe. University of California Press.
+
+Totman, Conrad. 2005. _A History of Japan_. 2nd ed. The Blackwell History of the World. Malden, Mass: Blackwell Pub.
+
+Verschuer, Charlotte, and Wendy Cobcroft. 2017. _Rice, Agriculture, and the Food Supply in Premodern Japan_. New York: Routledge.
+
+Vlastos, Stephen. 1986. _Peasant Protests and Uprisings in Tokugawa Japan_. Berkeley: University of California Press.
+
+Yasuba, Yasukichi. 1986. ‘Standard of Living in Japan Before Industrialization: From What Level Did Japan Begin? A Comment’. _The Journal of Economic History_ 46 (1): 217–24.
 

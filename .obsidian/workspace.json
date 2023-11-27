@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/PS2.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/PS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/Thesis.md",
+                "file": "Thesis/PS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/Thesis.md"
+                "file": "Thesis/PS2.md"
               }
             }
           },
@@ -191,8 +191,10 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "Notes.md",
     "Thesis/Thesis.md",
+    "Thesis/fig1.png",
+    "Thesis/PS2.md",
+    "Notes.md",
     "~単語.md",
     "argument points.md",
     "Thesis/卒論.md",
@@ -223,8 +225,6 @@
     "Overall Travel Situation.md",
     "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
     "Maps.md",
-    "Historian's arguments/Nakai 1988, Shogunate Political Complexity.md",
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Thesis/travel.jpg",
     "_sass",
     "assets/css/test",
@@ -239,7 +239,6 @@
     "Thesis",
     "~arrow.png",
     "arrow.png",
-    "~arrow.jpg",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
