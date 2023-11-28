@@ -244,6 +244,8 @@ Wigen, Kären. 2010. “Excursions in Identity Travel and the Intersection of Pl
 
 Umesao Tadao. 1995. “Keynote Address : Tourism as a Phenomenon of Civilization.” _Senri Ethnological Studies_ 38 (February): 1–9.
 
+Yamamoto Mitsumasa. 1985. “Tabi nikki ni miru kinsei no tabi ni tsuite (Early modern travel as seen in travel diaries” _Kōtsū-shi kenkyū_ 13: 69–84.
+
 Yonemoto, Marcia. 2003. _Mapping Early Modern Japan: Space, Place, and Culture in the Tokugawa Period, 1603-1868_. 1st ed. Berkeley: University of California Press.
 
 
