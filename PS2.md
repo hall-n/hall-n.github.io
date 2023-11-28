@@ -1,6 +1,6 @@
 2022 Project Study by Naiya Hall, Hokkaido University
 <br>
-Back to [homepage](readme.md)
+Back to [homepage](https://hall-n.github.io/)
 
 # Why the Tokugawa Shogunate Did Not Optimize the Land Tax
 ## Abstract

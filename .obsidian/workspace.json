@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Thesis.md"
               }
             }
           },
@@ -192,15 +192,15 @@
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
     "PS2.md",
-    "Thesis.md",
     "卒論.md",
+    "README.md",
+    "Thesis.md",
     "Thesis/Title & Thesis.md",
     "~Questions.md",
     "~Train of thought.md",
     "Notes/Checkpoint reality.md",
     "Notes/argument points.md",
     "Historian's arguments/Academic Discussions.md",
-    "README.md",
     "Thesis/Japanese-Thesis.md",
     "figure.png",
     "Thesis/fig1.png",
