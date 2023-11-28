@@ -1,15 +1,15 @@
 How did people travel in the Tokugawa period? Was it purely for business or was there elements of sightseeing and tourism in their travel? In my graduation thesis, what started as a curiosity of the motives surrounding travel in past Japan, examining the different actors in play and how they affected and reacted to one another, led me to question whether or not the bakufu authorities were really against peasant travel. 
 
-[Graduation Thesis, English](Thesis/Thesis.md)
+[Graduation Thesis, English](Thesis.md)
 
-[卒論、日本語訳版](Thesis/卒論.md)
+[卒論、日本語訳版](卒論.md)
 
 ----
 
 ### Related Research
 My 2022 project study paper looks into why and how the peasants of the Edo period were left with a surplus after paying their rice tax, a key factor in the  economic growth of Japan. 
 
-[Why the Tokugawa Shogunate Did Not Optimize the Land Tax](Thesis/PS2.md)
+[Why the Tokugawa Shogunate Did Not Optimize the Land Tax](PS2.md)
 
 ----
 

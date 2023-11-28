@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "argument points.md",
+                "file": "Notes/argument points.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/卒論.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis/卒論.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,29 +191,33 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "Thesis/Thesis.md",
-    "Thesis/PS2.md",
-    "Thesis/卒論.md",
+    "PS2.md",
+    "Thesis.md",
+    "卒論.md",
+    "Thesis/Title & Thesis.md",
+    "~Questions.md",
+    "~Train of thought.md",
+    "Notes/Checkpoint reality.md",
+    "Notes/argument points.md",
+    "Historian's arguments/Academic Discussions.md",
     "README.md",
     "Thesis/Japanese-Thesis.md",
-    "Thesis/figure.png",
+    "figure.png",
     "Thesis/fig1.png",
     "Notes.md",
     "~単語.md",
-    "argument points.md",
     "~Grading.md",
     "~Outline.md",
-    "Thesis/Title & Thesis.md",
-    "Thesis/Asukayama.jpg",
+    "Asukayama.jpg",
     "Thesis/Japanese Thesis.md",
     "conflict-files-obsidian-git.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
-    "Thesis/Teahouse.jpg",
+    "Teahouse.jpg",
     "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Asukayama Hanami 1.jpg",
-    "Thesis/Enoshima.jpg",
+    "Enoshima.jpg",
     "Asukayama.jp.md",
     "~Literature.canvas",
     "LICENSE",
@@ -223,11 +227,8 @@
     "Bakufu and Daimyo/Confucian element.md",
     "Bakufu and Daimyo/Road Conditions.md",
     "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
-    "Overall Travel Situation.md",
-    "Historian's arguments/Blacker 1984, Freedom found in travel, Bakufu's negative view of pilgrims.md",
-    "Maps.md",
-    "Thesis/travel.jpg",
-    "_sass",
+    "travel 1.jpg",
+    "Notes",
     "assets/css/test",
     "assets/css/style.css",
     "assets/css/jekyll-theme-cayman.scss",

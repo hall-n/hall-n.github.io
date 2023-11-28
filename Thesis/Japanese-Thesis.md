@@ -3,7 +3,7 @@ Graduation thesis by Naiya Hall <br>
 北海道大学の春の卒論
 
 この卒論は日本語で自動的に翻訳されたため、読みずらいだろう。お許して下さい。<br>
-英語はこちら：[Graduation Thesis, English](Thesis/Thesis.md)
+英語はこちら：[Graduation Thesis, English](Thesis.md)
 
 ----
 ### 江戸時代の観光を知る： 巡礼に対する当局の立場
