@@ -5,7 +5,9 @@ Graduation thesis by Naiya Hall, Hokkaido University.<br>
 Back to [homepage](https://hall-n.github.io/)
 
 
+(_updated November 29, 2023_) 
 # Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
+
 ![travel](travel.jpg "travel" )
 
 ## Abstract
@@ -15,23 +17,23 @@ Back to [homepage](https://hall-n.github.io/)
 
 ## Table of Contents
 
-[1. Introduction](#1-introduction)
-[2. Argument by historians](#2-argument-by-historians)
-[3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)
-	&emsp; [3.1 Promotion by the _oshi_](#31-promotion-by-the-oshi)
-	&emsp; [3.2 The growing commodities of pilgrimage](#32-the-growing-commodities-of-pilgrimage)
-	&emsp; [3.3 The importance of tourism](#33-the-importance-of-tourism)
-[4. Response of the authorities](#4-response-of-the-authorities)
-	&emsp; [4.1 The permit system](#41-the-permit-system)
-	&emsp; [4.2 The Ōyama pilgrimage](#42-the-%C5%8Cyama-pilgrimage)
-	&emsp; [4.3 The _nukemairi_ pilgrims](#43-the-nukemairi-pilgrims)
-	&emsp; [4.4 The Shikoku pilgrimage](#44-the-shikoku-pilgrimage)
-	&emsp; [4.5 Non-religious tourism](#45-non-religious-tourism)
-[5. Changes in governance](#5-changes-in-governance)
-	&emsp; [5.1 Tokugawa bakufu](#51-tokugawa-bakufu)
-	&emsp; [5.2 The daimyo](#52-the-daimyo)
-	&emsp; [5.3 The influence of merchant thought](#53-the-influence-of-merchant-thought)
-[6. Conclusion](#6-conclusion)
+[1. Introduction](#1-introduction)<br>
+[2. Argument by historians](#2-argument-by-historians)<br>
+[3. The commercialization of pilgrimage](#3-the-commercialization-of-pilgrimage)<br>
+	&emsp; [3.1 Promotion by the _oshi_](#31-promotion-by-the-oshi)<br>
+	&emsp; [3.2 The growing commodities of pilgrimage](#32-the-growing-commodities-of-pilgrimage)<br>
+	&emsp; [3.3 The importance of tourism](#33-the-importance-of-tourism)<br>
+[4. Response of the authorities](#4-response-of-the-authorities)<br>
+	&emsp; [4.1 The permit system](#41-the-permit-system)<br>
+	&emsp; [4.2 The Ōyama pilgrimage](#42-the-%C5%8Cyama-pilgrimage)<br>
+	&emsp; [4.3 The _nukemairi_ pilgrims](#43-the-nukemairi-pilgrims)<br>
+	&emsp; [4.4 The Shikoku pilgrimage](#44-the-shikoku-pilgrimage)<br>
+	&emsp; [4.5 Non-religious tourism](#45-non-religious-tourism)<br>
+[5. Changes in governance](#5-changes-in-governance)<br>
+	&emsp; [5.1 Tokugawa bakufu](#51-tokugawa-bakufu)<br>
+	&emsp; [5.2 The daimyo](#52-the-daimyo)<br>
+	&emsp; [5.3 The influence of merchant thought](#53-the-influence-of-merchant-thought)<br>
+[6. Conclusion](#6-conclusion)<br>
 [Bibliography](#bibliography)<br>
 
 
