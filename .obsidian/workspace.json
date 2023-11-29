@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Checkpoint reality.md",
+                "file": "Thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "daimyo",
+                "query": "backed",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+                "file": "Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
+                "file": "Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bakufu and Daimyo/Daimyo's weakness to peasants.md"
+                "file": "Thesis.md"
               }
             }
           },
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,15 +201,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cd102d786b8792f",
+  "active": "9c56992afcd7796a",
   "lastOpenFiles": [
+    "Thesis,v1.md",
+    "Thesis.md",
+    "Notes/Checkpoint reality.md",
+    "Notes.md",
+    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
-    "Notes.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Notes/Checkpoint reality.md",
-    "Thesis.md",
     "Notes/argument points.md",
     "卒論.md",
     "ProjectStudy.md",
@@ -232,7 +232,6 @@
     "Peasants/Peasants Travel as Rite of Passage.md",
     "travel.jpg",
     "Teahouse.jpg",
-    "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
     "Asukayama Hanami 1.jpg",
     "Enoshima.jpg",
     "Asukayama.jp.md",
@@ -240,7 +239,6 @@
     "LICENSE",
     "~Mind Map.canvas",
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
-    "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "travel 1.jpg",
     "Notes",
     "assets/css/test",
