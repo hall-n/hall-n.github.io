@@ -5,7 +5,9 @@ Graduation thesis by Naiya Hall, Hokkaido University.<br>
 Back to [homepage](https://hall-n.github.io/)
 
 
+(_updated November 29, 2023_) 
 # Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
+
 ![travel](travel.jpg "travel" )
 
 ## Abstract
