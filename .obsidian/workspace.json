@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis.md",
+                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backed",
+                "query": "commercialism",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis.md",
+                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis.md",
+                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis.md"
+                "file": "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md"
               }
             }
           },
@@ -201,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c56992afcd7796a",
+  "active": "6fdc79414a27c1dc",
   "lastOpenFiles": [
-    "Thesis,v1.md",
     "Thesis.md",
+    "Thesis,v1.md",
     "Notes/Checkpoint reality.md",
     "Notes.md",
     "Bakufu and Daimyo/Daimyo's weakness to peasants.md",
