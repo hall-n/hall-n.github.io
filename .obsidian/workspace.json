@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis.md",
+                "file": "Notes/Checkpoint reality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccc874cb6f8778db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cd102d786b8792f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,20 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9eaecb3432d80060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/argument points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -189,17 +202,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "1cd102d786b8792f",
   "lastOpenFiles": [
-    "卒論.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Notes/Checkpoint reality.md",
     "Thesis.md",
+    "Notes/argument points.md",
+    "卒論.md",
     "ProjectStudy.md",
     "README.md",
     "Thesis/Title & Thesis.md",
     "~Questions.md",
     "~Train of thought.md",
-    "Notes/Checkpoint reality.md",
-    "Notes/argument points.md",
     "Historian's arguments/Academic Discussions.md",
     "Thesis/Japanese-Thesis.md",
     "figure.png",
@@ -225,8 +240,6 @@
     "Historian's arguments/Thal 2005, Lack of bakufu's funding prompts support from shrine visitors.md",
     "Historian's arguments/Ishimori 2009 1995, Shogunate tighten control over religion, leads to more public visiting religions places and donate..md",
     "Bakufu and Daimyo/Confucian element.md",
-    "Bakufu and Daimyo/Road Conditions.md",
-    "Historian's arguments/Roberts 1998, Petition system of Tosa to draw pilgrims.md",
     "travel 1.jpg",
     "Notes",
     "assets/css/test",
