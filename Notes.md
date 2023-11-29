@@ -72,6 +72,8 @@ the question of why is not touched upon
 
 In all the historical materials of the dysfunctional aspects of the Shikoku pilgrimage, Kouamé advices caution. "To infer from them that pilgrims of this sort were numerous and dangerous to the social order could well be erroneous" (ibid, 420), because while a bureaucracy's does not note the cases where everything is in order.
 
+## nukemairi
+As Vaporis observed in the changes made to the travel permit system, the authorities appear to be trying to counter _nukemairi_ specifically_._ An an example, the changes by the Kaga domain appeared to be reactionary as they attempted to make the permit application process simpler and easier to obtain. Vaporis reasons that "[t]his was done to encourage commoners to apply for travel permits, rather than to leave home without them" (Vaporis 1994, 173). This is the same domain that Vaporis gave as an example of pilgrimage’s negative economic affects, the outflowing of financial recourse (as discussed on page 6).
 ## Vaporis
 
 
