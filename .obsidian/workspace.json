@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amamoto",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thesis.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -204,14 +204,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "ccc874cb6f8778db",
   "lastOpenFiles": [
-    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
+    "travel 1.jpg",
+    "travel.jpg",
+    "Untitled.md",
+    "Untitled 1.md",
     "Thesis.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "ProjectStudy.md",
     "Notes.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis,v1.md",
     "Notes/Checkpoint reality.md",
@@ -234,15 +236,12 @@
     "Asukayama.jpg",
     "Thesis/Japanese Thesis.md",
     "conflict-files-obsidian-git.md",
-    "Peasants/Peasants Travel as Rite of Passage.md",
-    "travel.jpg",
     "Teahouse.jpg",
     "Asukayama Hanami 1.jpg",
     "Enoshima.jpg",
     "~Literature.canvas",
     "LICENSE",
     "~Mind Map.canvas",
-    "travel 1.jpg",
     "Notes",
     "assets/css/test",
     "assets/css/style.css",
