@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commercialism",
+                "query": "amamoto",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +206,9 @@
   },
   "active": "78c9c70035fb751c",
   "lastOpenFiles": [
-    "ProjectStudy.md",
+    "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "Thesis.md",
+    "ProjectStudy.md",
     "Notes.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -237,7 +239,6 @@
     "Teahouse.jpg",
     "Asukayama Hanami 1.jpg",
     "Enoshima.jpg",
-    "Asukayama.jp.md",
     "~Literature.canvas",
     "LICENSE",
     "~Mind Map.canvas",
