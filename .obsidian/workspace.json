@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "卒論.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Thesis.md"
               }
             }
           },
@@ -190,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,16 +201,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccc874cb6f8778db",
+  "active": "78c9c70035fb751c",
   "lastOpenFiles": [
+    "卒論.md",
+    "Thesis.md",
+    "Notes.md",
     "travel 1.jpg",
     "travel.jpg",
     "Untitled.md",
     "Untitled 1.md",
-    "Thesis.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "ProjectStudy.md",
-    "Notes.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
     "Thesis,v1.md",
     "Notes/Checkpoint reality.md",
@@ -221,7 +219,6 @@
     "Bakufu and Daimyo/Bakufu's position to daimyo and peasants.md",
     "Historian's arguments/Hall 1966, Bizen example of benevolent ruler.md",
     "Notes/argument points.md",
-    "卒論.md",
     "README.md",
     "Thesis/Title & Thesis.md",
     "Thesis/~Questions.md",
