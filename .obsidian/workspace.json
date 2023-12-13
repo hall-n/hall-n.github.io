@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卒論.md",
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c906378fbb52b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poster.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卒論.md",
+                "file": "Poster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卒論.md",
+                "file": "Poster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卒論.md"
+                "file": "Poster.md"
               }
             }
           },
@@ -176,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +204,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c9c70035fb751c",
+  "active": "8c906378fbb52b9b",
   "lastOpenFiles": [
-    "Thesis.md",
-    "卒論.md",
     "Notes.md",
+    "Poster.md",
+    "~Outline.md",
+    "~Mind Map.canvas",
+    "卒論.md",
+    "Thesis.md",
     "travel 1.jpg",
     "travel.jpg",
     "Untitled.md",
@@ -217,7 +235,6 @@
     "Thesis/fig1.png",
     "~単語.md",
     "Thesis/~Grading.md",
-    "~Outline.md",
     "Asukayama.jpg",
     "Thesis/Japanese Thesis.md",
     "conflict-files-obsidian-git.md",
@@ -226,7 +243,6 @@
     "Enoshima.jpg",
     "~Literature.canvas",
     "LICENSE",
-    "~Mind Map.canvas",
     "Notes",
     "assets/css/test",
     "assets/css/style.css",
