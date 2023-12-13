@@ -15,6 +15,6 @@ Authorities response
 
 
 Changes in governance
-- primarily concerned with the economy was due to the shifts in government that left the rulers dependent on their economic power in order to legitimize and strengthen their position of authority.
+-  shifts in government -> rulers dependent on their economic power in order to legitimize and strengthen their position of authority: primarily concerned with the economy
 - economic well-being of the lower classes would also be in their own best interest
 - Merchant thought
