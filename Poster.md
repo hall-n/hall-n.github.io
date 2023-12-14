@@ -11,9 +11,9 @@ Authorities response
 	- regulation of pilgrimage depended on the economic impact it had on the community
 	- medical, return home, and burial support for pilgrims in trouble
 - nukemairi pilgrimage
-	- sudden departure without community approval or applying for permit a gai for community.
+	- sudden departure without community approval or applying for permit a gai for community.　責任を無視し、突然出発は地域社会に迷惑
 	- cases of ignoring one's responsibilities and sudden departure. 
-	- constraints on nukemairi not meant to limit commoner's movements, but to encourage people to gain community permission before undertaking a journey
+	- constraints on nukemairi not meant to limit commoner's movements, but to encourage people to gain community permission before undertaking a journey　旅の出発の前、地域の許可を得る事を奨励する為
 - tourism location
 : concern with the economy and desire to grow the tourism industry
 
