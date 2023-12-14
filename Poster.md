@@ -6,10 +6,14 @@ Commercialization of pilgrimage
 
 Authorities response
 - permit system
-	- The changes made to the permit system delegated the issuance of travel permits to the local level, making them both more flexible and easily obtainable by the commoner wishing to travel.
+	- issuance of travel permits delegated to the local level, making them both more flexible and easily obtainable by the commoner wishing to travel.
 -  Oyama . shikoku pilgrmage
 	- regulation of pilgrimage depended on the economic impact it had on the community
+	- medical, return home, and burial support for pilgrims in trouble
 - nukemairi pilgrimage
+	- sudden departure without community approval or applying for permit a gai for community.
+	- cases of ignoring one's responsibilities and sudden departure. 
+	- constraints on nukemairi not meant to limit commoner's movements, but to encourage people to gain community permission before undertaking a journey
 - tourism location
 : concern with the economy and desire to grow the tourism industry
 
