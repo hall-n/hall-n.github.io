@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poster.md",
+                "file": "卒論.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poster.md",
+                "file": "卒論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poster.md",
+                "file": "卒論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poster.md"
+                "file": "卒論.md"
               }
             }
           },
@@ -227,10 +227,9 @@
   },
   "active": "879fc192ab81b44b",
   "lastOpenFiles": [
+    "Poster.md",
     "Poster.jpg",
-    "Poster.md",
     "Poster Notes.md",
-    "Poster.md",
     "travel 1.jpg",
     "travel.jpg",
     "Untitled 1.md",
