@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poster.md",
+                "file": "卒論.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "234c3a7f72d50d02",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Poster.jpg"
               }
             }
           },
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "2784cf4dfd78104e",
@@ -123,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poster.md",
+                "file": "Poster.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poster.md",
+                "file": "Poster.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poster.md"
+                "file": "Poster.jpg"
               }
             }
           },
@@ -204,18 +213,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c906378fbb52b9b",
+  "active": "234c3a7f72d50d02",
   "lastOpenFiles": [
-    "Notes.md",
+    "Poster Notes.md",
+    "Poster.jpg",
     "Poster.md",
+    "travel 1.jpg",
+    "travel.jpg",
+    "Untitled 1.md",
+    "Untitled.md",
     "卒論.md",
+    "Notes.md",
     "~Outline.md",
     "~Mind Map.canvas",
     "Thesis.md",
-    "travel 1.jpg",
-    "travel.jpg",
-    "Untitled.md",
-    "Untitled 1.md",
     "Historian's arguments/Vaporis 1994, 1995, 2012, Growing laxity against pilgrims.md",
     "ProjectStudy.md",
     "Historian's arguments/Ambros 2008, Shogunate support for Oyama pilgrimage.md",
@@ -236,8 +247,6 @@
     "~単語.md",
     "Thesis/~Grading.md",
     "Asukayama.jpg",
-    "Thesis/Japanese Thesis.md",
-    "conflict-files-obsidian-git.md",
     "Teahouse.jpg",
     "Asukayama Hanami 1.jpg",
     "Enoshima.jpg",
@@ -254,7 +263,6 @@
     "~Outline.canvas",
     "~bline.png",
     "Thesis",
-    "~arrow.png",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
   ]
