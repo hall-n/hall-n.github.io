@@ -4,7 +4,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 
 [卒論、日本語訳版](卒論.md)
 
-[Thesis Poster](Poster.md)
+[Graduation Thesis Poster](Poster.md)
 
 ----
 
