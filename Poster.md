@@ -1,1 +1,1 @@
-![[Poster.jpg]]
+![Poster](poster.jpg "Poster" ) 
