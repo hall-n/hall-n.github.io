@@ -9,7 +9,7 @@ How did people travel in the Tokugawa period? Was it purely for business or was 
 ----
 
 ### Related Research
-My 2022 project study paper looks into why and how the peasants of the Edo period were left with a surplus after paying their rice tax, a key factor in the  economic growth of Japan. 
+My 2022 project study paper looks into why and how the peasants of the Tokugawa period were left with a surplus after paying their rice tax, a key factor in the  economic growth of Japan. 
 
 [Why the Tokugawa Shogunate Did Not Optimize the Land Tax](ProjectStudy.md)
 
