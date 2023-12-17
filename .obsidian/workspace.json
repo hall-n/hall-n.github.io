@@ -35,9 +35,11 @@
             "id": "234c3a7f72d50d02",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Poster.jpg"
+                "file": "Poster Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -78,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,15 +227,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "879fc192ab81b44b",
+  "active": "8c906378fbb52b9b",
   "lastOpenFiles": [
+    "Poster Notes.md",
+    "卒論.md",
+    "poster.jpg",
     "Poster.md",
     "Poster.jpg",
-    "Poster Notes.md",
     "travel 1.jpg",
     "travel.jpg",
     "Untitled 1.md",
-    "卒論.md",
     "Notes.md",
     "~Outline.md",
     "~Mind Map.canvas",
@@ -272,7 +275,6 @@
     "_config.yml",
     "Historian's arguments",
     "~Outline.canvas",
-    "~bline.png",
     "Thesis",
     "Mind Map 1.canvas",
     "Untitled 1.canvas"
