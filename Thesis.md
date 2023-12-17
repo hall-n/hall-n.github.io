@@ -36,7 +36,7 @@ While research has revealed that there was a thriving tourism industry born out 
 [6. Conclusion](#6-conclusion)<br>
 [Bibliography](#bibliography)<br>
 
-##  Introduction
+##  1. Introduction
 
 As Japan entered an era of peace in the beginning of the Edo period, the Tokugawa bakufu took steps to ensure that the daimyo would not have the means of uprising by implementing the alternate attendance system, which required the daimyo to make regular trips to Edo every other year (Park and Tanaka 2014). In order to facilitate this compulsory travel, the bakufu developed extensive infrastructure, building a centralized road network throughout Japan. To ensure that traffic flowed smoothly, the roads were regularly cleaned, wheels that would damage the surface were banned, and trees and shrubs were planted along the side of the road to provide shade and wind cover (Vaporis 1994). Along the main routes, post stations were established where businesses offered travel services, lodging, and food, and while they had to prioritize servicing Tokugawa officials and daimyo, they were allowed to cater to the lower classes. To monitor this movement throughout the regions, the bakufu positioned barrier stations along the road, through which passage required a permit. While travel of a purely leisurely nature was not officially recognized, permits were granted for pilgrimage or visiting an onsen for health reasons (Ando 2021; Goree 2020).
 
