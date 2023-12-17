@@ -6,6 +6,7 @@ Back to [homepage](https://hall-n.github.io/)
 
 
 # Understanding Edo Period Tourism: The Authorities’ Position Towards Pilgrimage
+For an overview of this paper, see the [Graduation Thesis Poster](Poster.md).
 
 ![travel](travel.jpg "travel" )
 
