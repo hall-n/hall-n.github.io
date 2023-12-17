@@ -16,13 +16,13 @@ My 2022 project study paper looks into why and how the peasants of the Edo perio
 ----
 
 
-In the "*The Fifty-three Stations of Tokaido* (東海道五十三次)" is a visual representation of travel during the Tokugawa period as portrayed.
+This image from the ukiyo-e woodcut print series "*The Fifty-three Stations of Tokaido* (東海道五十三次)" is a visual representation of travel during the Edo period, and was the impetus for my research. 
 
 ![travel](travel.jpg "travel" ) 
 <sub>__*Reference*__ :
 Andō Hiroshige (Japanese painter and printmaker, 1797-1858). 東海道五十三次. </sub>
 
- The diversity of travel can be noticed by the many classes that appear to be stopping at this roadside establishment for refreshment. We see a katana holding man who likely is of the samurai class, a women, and two other men who appear to be of the farmer class. These type of portrayals, along with numerous travel diaries, reveal that travel was not limited to class and power, but something that was undertaken by individuals from all levels of society.
+The diversity of travel can be noticed by the many classes that appear to be stopping at this roadside establishment for refreshment. We see a katana holding man who likely is of the samurai class, a traveling woman and two men who appear to be of the farmer or lower class. These type of portrayals, along with numerous travel diaries, reveal that travel was not limited to class and power, but something that appears to have been undertaken by individuals from all levels of society.
 
 
 
