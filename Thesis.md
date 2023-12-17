@@ -25,7 +25,7 @@ While research has revealed that there was a thriving tourism industry born out 
 	&emsp; [3.3 The importance of tourism](#33-the-importance-of-tourism)<br>
 [4. Response of the authorities](#4-response-of-the-authorities)<br>
 	&emsp; [4.1 The permit system](#41-the-permit-system)<br>
-	&emsp; [4.2 The Ōyama pilgrimage](#42-the-oyama-pilgrimage)<br>
+	&emsp; [4.2 The Ōyama pilgrimage](#42-the-Ōyama-pilgrimage)<br>
 	&emsp; [4.3 The _nukemairi_ pilgrims](#43-the-nukemairi-pilgrims)<br>
 	&emsp; [4.4 The Shikoku pilgrimage](#44-the-shikoku-pilgrimage)<br>
 	&emsp; [4.5 Non-religious tourism](#45-non-religious-tourism)<br>
