@@ -1,2 +1,3 @@
 Graduation Thesis Poster
-![Poster](poster.jpg "Poster" ) 
+![poster](poster.jpg "poster" ) 
+![travel](travel.jpg "travel" )
