@@ -52,6 +52,16 @@
             }
           },
           {
+            "id": "79429e844517156a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "234c3a7f72d50d02",
             "type": "leaf",
             "state": {
@@ -100,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ccb488a1dea412",
+  "active": "79429e844517156a",
   "lastOpenFiles": [
     "poster.png",
     "README.md",
